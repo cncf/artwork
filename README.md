@@ -3,3 +3,4 @@
 * Cloud Native Computing Foundation
 * Kubernetes
 * Prometheus
+* Opentracing
