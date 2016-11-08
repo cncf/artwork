@@ -4,3 +4,4 @@
 * Kubernetes
 * Prometheus
 * Opentracing
+* Fluentd
