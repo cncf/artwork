@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="173px" height="67px" viewBox="0 0 173 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>primary</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4AD8AC" offset="0%"></stop>
+            <stop stop-color="#4076C4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="primary">
+            <text id="linkerd" font-family="DINNextLTPro-Medium, DIN Next LT Pro" font-size="30" font-weight="400">
+                <tspan x="82.48" y="41" fill="#424242">linker</tspan>
+                <tspan x="158.65" y="41" fill="#9A9A9A">d</tspan>
+            </text>
+            <g id="Logo-Symbol-72px">
+                <g id="reverse-2" transform="translate(0.000000, 12.500000)">
+                    <polygon id="Fill-1" fill="#40A0B4" points="66.9987 27.3407 71.9987 30.2272 71.9987 3.1147 66.9987 0.2272"></polygon>
+                    <polygon id="Fill-2" fill="#40A0B4" points="0 3.11495 0 30.22895 5 27.34095 5 0.22795"></polygon>
+                    <polygon id="Fill-3" fill="#40A0B4" points="22.00275 51.61325 27.00275 54.49975 38.90775 47.62625 33.90775 44.73975"></polygon>
+                    <polygon id="shadow" fill="#338090" points="29.0018 47.5723 34.0018 50.4593 38.9078 47.6263 33.9078 44.7398"></polygon>
+                </g>
+                <g id="reverse-1" transform="translate(24.500000, 37.500000)" fill="#45C1A8">
+                    <polygon id="Fill-5" points="22.99865 18.2405 22.99865 12.467 1.47015 0.037 0.00015 0.8855 0.00265 0.887 0.00265 4.9635"></polygon>
+                    <polygon id="Fill-6" points="0.0025 17.66545 20.5 29.49995 25.501 26.61345 0.0025 11.89145"></polygon>
+                </g>
+                <g id="top-2" fill="#7CE1C0">
+                    <polygon id="Fill-7" points="54.76275 19.79275 59.76225 22.67925 71.99875 15.61475 66.99775 12.72875"></polygon>
+                    <polygon id="Fill-8" points="38.5284 34.9394 33.5284 32.0529 22.0004 38.7089 27.0004 41.5954"></polygon>
+                    <polygon id="Fill-9" points="61.0011 9.2651 56.0001 6.3786 43.7651 13.4431 48.7651 16.3301"></polygon>
+                    <polygon id="Fill-10" points="27.5309 28.5898 22.5309 25.7033 11.0029 32.3593 16.0029 35.2458"></polygon>
+                    <polygon id="Fill-11" points="32.76765 7.09375 37.76765 9.98025 50.00365 2.91575 45.00265 0.02925"></polygon>
+                    <polygon id="Fill-12" points="0.0054 26.0095 5.0054 28.896 16.5334 22.2405 11.5334 19.3535"></polygon>
+                </g>
+                <g id="gradient" transform="translate(0.000000, 26.000000)" fill="url(#linearGradient-1)">
+                    <polygon id="Fill-13" points="66.9987 2.894 66.9987 28.2985 71.9987 25.4115 71.9987 0.0075"></polygon>
+                    <polygon id="Fill-14" points="60.9985 31.7623 60.9985 6.3583 55.9985 9.2448 55.9985 34.6493"></polygon>
+                    <polygon id="Fill-15" points="44.9982 15.5957 44.9982 41.0002 49.9987 38.1132 49.9987 12.7087"></polygon>
+                    <polygon id="Fill-16" points="22.00275 38.11325 27.00275 40.99975 27.00275 15.59625 22.00275 12.70875"></polygon>
+                    <polygon id="Fill-17" points="16.00275 9.2451 16.00275 34.6491 11.00275 31.7626 11.00275 6.3581"></polygon>
+                    <polygon id="Fill-18" points="0.0027 25.41155 5.0027 28.29805 5.0027 2.89405 0.0027 0.00705"></polygon>
+                </g>
+                <g id="shadow" transform="translate(7.000000, 19.000000)" fill="#45C1A8">
+                    <polygon id="Fill-19" points="21.9991 15.6678 26.9991 18.5543 31.5286 15.9393 26.5286 13.0528"></polygon>
+                    <polygon id="Fill-20" points="0.0042 2.9686 5.0042 5.8551 9.5332 3.2401 4.5337 0.3536"></polygon>
+                    <polygon id="Fill-21" points="11.0017 9.3182 16.0017 12.2047 20.5307 9.5897 15.5312 6.7032"></polygon>
+                </g>
+                <g id="top-1" fill="#A2EACF">
+                    <polygon id="Fill-22" points="27.00045 0.0265 21.99995 2.913 66.99795 28.8935 71.99845 26.007"></polygon>
+                    <polygon id="Fill-23" points="16.00015 6.37755 11.00015 9.26405 55.99765 35.24455 60.99865 32.35805"></polygon>
+                    <polygon id="Fill-24" points="0 15.61495 44.9975 41.59545 49.9985 38.70895 5 12.72845"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
