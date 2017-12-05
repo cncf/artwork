@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 607.5 537" style="enable-background:new 0 0 607.5 537;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#0979B9;}
-	.st1{fill:#2592C0;}
-</style>
-<polygon class="st0" points="503.4,276.6 405.1,444.3 305.9,444.3 207.2,444.3 108.4,274.6 174,152.6 75.2,152.6 9.2,275.4 
-	157.7,531.8 305.9,531.8 454.7,531.8 602.6,276.6 "/>
-<polygon class="st1" points="454.7,6.8 153.4,6.8 106.9,94.3 258.5,94.3 258.5,385.9 346,385.9 346,94.3 405.1,94.3 471.9,218.2 
-	570.6,218.2 "/>
+	 viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
+<polygon fill="#0979B9" points="830.207,512.407 666.529,791.769 501.255,791.769 336.899,791.769 172.302,509.097 281.616,305.923 
+	117.005,305.923 7,510.427 254.357,937.523 501.255,937.523 749.071,937.523 995.509,512.407 "/>
+<polygon fill="#2592C0" points="749.071,63 247.268,63 169.751,208.754 422.305,208.754 422.305,694.6 568.058,694.6 
+	568.058,208.754 666.529,208.754 777.83,415.238 942.226,415.238 "/>
 </svg>

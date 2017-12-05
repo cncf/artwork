@@ -2,8 +2,8 @@
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
 	 id="svg5239" inkscape:version="0.91 r13725" sodipodi:docname="fluentd_logo_icon_white.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 994.7 819.1"
-	 style="enable-background:new 0 0 994.7 819.1;" xml:space="preserve">
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 432 432"
+	 style="enable-background:new 0 0 432 432;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
 	.st1{fill:url(#path4507_1_);}
@@ -35,261 +35,259 @@
 	.st27{fill:url(#path4729_1_);}
 	.st28{fill:url(#path4736_1_);}
 </style>
-<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" id="base" inkscape:current-layer="layer1" inkscape:cx="435.10029" inkscape:cy="-16.641023" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1522" inkscape:window-maximized="1" inkscape:window-width="2560" inkscape:window-x="0" inkscape:window-y="41" inkscape:zoom="0.31975175" pagecolor="#ffffff" showgrid="false">
-	</sodipodi:namedview>
 <g id="layer1" transform="translate(675.3236,177.15946)" inkscape:groupmode="layer" inkscape:label="Layer 1">
 	<g id="g4490" transform="translate(-1332.4236,-204.65576)">
-		<circle id="circle4492" class="st0" cx="1510.7" cy="317.7" r="20.8"/>
+		<circle id="circle4492" class="st0" cx="1024" cy="192.2" r="8.8"/>
 		<g id="g4494">
 			<g id="g4496">
 				
-					<linearGradient id="path4507_1_" gradientUnits="userSpaceOnUse" x1="1326.8628" y1="-866.2321" x2="2642.0107" y2="-866.2321" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4507_1_" gradientUnits="userSpaceOnUse" x1="1431.4696" y1="-937.4728" x2="1990.2439" y2="-937.4728" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.75"/>
 					<stop  offset="0.32" style="stop-color:#FFFFFF;stop-opacity:0.57"/>
 					<stop  offset="0.68" style="stop-color:#FFFFFF;stop-opacity:0.55"/>
 					<stop  offset="0.9" style="stop-color:#FFFFFF;stop-opacity:0.45"/>
 				</linearGradient>
-				<path id="path4507" inkscape:connector-curvature="0" class="st1" d="M1016.4,191.2c-33.1-25.4-67.1-51.7-100.2-75.6l0,0
-					c-7.7-5.4-15.4-10.8-22.4-16.2l0,0C804.4,37.7,721.1-0.7,674.9,53.2c-35.4,41.6-16.2,138,56.3,254.5l2.3,3.8
-					c37.8,59.4,148.1,199,409.4,192.8c17-18.5,43.2-53.2,77.1-91C1165.3,323.8,1082.7,246,1016.4,191.2L1016.4,191.2z"/>
+				<path id="path4507" inkscape:connector-curvature="0" class="st1" d="M814,138.5c-14.1-10.8-28.5-22-42.6-32.1l0,0
+					c-3.3-2.3-6.6-4.6-9.5-6.9l0,0c-38-26.2-73.4-42.6-93-19.6c-15.1,17.7-6.9,58.6,23.9,108.1l1,1.6c16,25.2,62.9,84.5,174,81.9
+					c7.2-7.9,18.4-22.6,32.8-38.6C877.3,194.9,842.2,161.8,814,138.5L814,138.5z"/>
 				
-					<linearGradient id="path4514_1_" gradientUnits="userSpaceOnUse" x1="1377.1752" y1="-625.3036" x2="2629.6738" y2="-625.3036" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4514_1_" gradientUnits="userSpaceOnUse" x1="1452.8461" y1="-835.1082" x2="1985.0023" y2="-835.1082" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.4"/>
 					<stop  offset="0.67" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 				</linearGradient>
-				<path id="path4514" inkscape:connector-curvature="0" class="st2" d="M1220,413.3c-33.9,37.8-60.2,72.5-77.1,91
-					c39.4-0.8,78.6-3.8,117.2-10c-3.8-11.6-8.5-22.4-13.8-33.1C1238.5,444.9,1229.3,428.7,1220,413.3L1220,413.3z"/>
+				<path id="path4514" inkscape:connector-curvature="0" class="st2" d="M900.5,232.9c-14.4,16-25.6,30.8-32.8,38.6
+					c16.7-0.3,33.4-1.6,49.8-4.2c-1.6-4.9-3.6-9.5-5.9-14.1C908.4,246.3,904.5,239.4,900.5,232.9L900.5,232.9z"/>
 				
-					<linearGradient id="path4521_1_" gradientUnits="userSpaceOnUse" x1="1826.1276" y1="-820.4537" x2="2636.8062" y2="-820.4537" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4521_1_" gradientUnits="userSpaceOnUse" x1="1643.5951" y1="-918.0226" x2="1988.0326" y2="-918.0226" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.38"/>
 					<stop  offset="0.97" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 				</linearGradient>
-				<path id="path4521" inkscape:connector-curvature="0" class="st3" d="M1415.8,269.9c-71,21.6-141.1,57.8-231.3,29.3
-					c-45.5-13.8-104.9-58.6-168.9-107.2c67.1,54,149.6,131.8,204.3,221.3C1270.1,357,1337.2,295.3,1415.8,269.9L1415.8,269.9z"/>
+				<path id="path4521" inkscape:connector-curvature="0" class="st3" d="M983.7,172c-30.1,9.2-60,24.6-98.3,12.4
+					c-19.3-5.9-44.6-24.9-71.8-45.5c28.5,22.9,63.6,56,86.8,94C921.8,209,950.3,182.8,983.7,172L983.7,172z"/>
 				
-					<linearGradient id="path4532_1_" gradientUnits="userSpaceOnUse" x1="2290.95" y1="-1018.1399" x2="2290.95" y2="-127.6561" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4532_1_" gradientUnits="userSpaceOnUse" x1="1841.0868" y1="-1002.0147" x2="1841.0868" y2="-623.6699" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#4FAAC4"/>
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.35"/>
 					<stop  offset="0.9644" style="stop-color:#FFFFFF;stop-opacity:0.38"/>
 					<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.26"/>
 				</linearGradient>
-				<path id="path4532" inkscape:connector-curvature="0" class="st4" d="M1260.1,494.2c3.1,8.5,6.2,17,8.5,25.4
-					c5.4,20.8,9.3,41.6,10.8,63.2c0.8,9.3,0.8,18.5,0.8,27.8c-1.5,59.4-28.6,93.3-35.4,99.4c96.3-90.2,139.5-198.9,233.6-281.4
-					c16.2-13.8,33.9-25.4,53.2-33.9l0,0C1469.8,421,1402.7,472.6,1260.1,494.2z"/>
+				<path id="path4532" inkscape:connector-curvature="0" class="st4" d="M917.5,267.3c1.3,3.6,2.6,7.2,3.6,10.8
+					c2.3,8.8,3.9,17.7,4.6,26.9c0.3,3.9,0.3,7.9,0.3,11.8c-0.6,25.2-12.1,39.6-15.1,42.2c40.9-38.3,59.3-84.5,99.3-119.5
+					c6.9-5.9,14.4-10.8,22.6-14.4l0,0C1006.7,236.2,978.1,258.1,917.5,267.3z"/>
 				
-					<linearGradient id="path4539_1_" gradientUnits="userSpaceOnUse" x1="1242.0138" y1="-763.4537" x2="2164.1519" y2="-763.4537" gradientTransform="matrix(0.8 0 0 -0.8 -444.66 -47.1037)">
+					<linearGradient id="path4539_1_" gradientUnits="userSpaceOnUse" x1="1395.4193" y1="-865.2848" x2="1787.2134" y2="-865.2848" gradientTransform="matrix(0.8 0 0 -0.8 -500.9315 -395.4605)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.6"/>
 					<stop  offset="0.93" style="stop-color:#FFFFFF;stop-opacity:0.47"/>
 				</linearGradient>
-				<path id="path4539" inkscape:connector-curvature="0" class="st5" d="M733.4,312.3c71.8,112.6,183.5,202,161.9,326.9
-					C867.6,800.3,657.1,815,657.1,815s0.8,0,2.3,0c0.8,0,1.5,0,2.3,0c20.8,0,114.1-7,255.2-102.6c121-82.5,194.3-174.2,225.9-208.2
-					c-29.3,0.8-56.3-0.8-81.8-3.1C858.4,480.4,767.3,364.7,733.4,312.3z"/>
+				<path id="path4539" inkscape:connector-curvature="0" class="st5" d="M693.8,190c30.5,47.8,78,85.8,68.8,138.9
+					c-11.8,68.5-101.2,74.7-101.2,74.7s0.3,0,1,0c0.3,0,0.6,0,1,0c8.8,0,48.5-3,108.4-43.6c51.4-35,82.6-74,96-88.4
+					c-12.4,0.3-23.9-0.3-34.7-1.3C746.9,261.4,708.2,212.2,693.8,190z"/>
 				
-					<linearGradient id="path4546_1_" gradientUnits="userSpaceOnUse" x1="1377.2" y1="-360.691" x2="2629.6987" y2="-360.691" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4546_1_" gradientUnits="userSpaceOnUse" x1="1452.8567" y1="-722.6807" x2="1985.0128" y2="-722.6807" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.38"/>
 					<stop  offset="0.98" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 				</linearGradient>
-				<path id="path4546" inkscape:connector-curvature="0" class="st6" d="M1279.3,610.7c0.8-39.4-6.2-79.4-20.1-116.4
-					c-6.2,0.8-11.6,1.5-17.8,2.3c-33.1,3.8-66.3,7-99.4,7c-32.4,33.9-104.9,125.7-225.9,208.2c-160.4,110.2-259,103.4-259,103.4
-					s235.9,73.3,427.2-3.8c59.4-23.1,114.1-57.8,160.4-101C1251.6,703.2,1278.5,670.1,1279.3,610.7z"/>
+				<path id="path4546" inkscape:connector-curvature="0" class="st6" d="M925.7,316.8c0.3-16.7-2.6-33.8-8.5-49.5
+					c-2.6,0.3-4.9,0.6-7.5,1c-14.1,1.6-28.2,3-42.2,3c-13.8,14.4-44.6,53.4-96,88.4c-68.2,46.8-110.1,43.9-110.1,43.9
+					s100.2,31.1,181.5-1.6c25.2-9.8,48.5-24.6,68.2-42.9C913.9,356,925.4,342,925.7,316.8z"/>
 				
-					<linearGradient id="path4553_1_" gradientUnits="userSpaceOnUse" x1="2350.6965" y1="-818.1277" x2="2350.6965" y2="-370.2044" gradientTransform="matrix(0.8 0 0 -0.8 -444.66 -47.1037)">
+					<linearGradient id="path4553_1_" gradientUnits="userSpaceOnUse" x1="1866.4717" y1="-888.5145" x2="1866.4717" y2="-698.2028" gradientTransform="matrix(0.8 0 0 -0.8 -500.9315 -395.4605)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.3"/>
 					<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.35"/>
 				</linearGradient>
-				<path id="path4553" inkscape:connector-curvature="0" class="st7" d="M1633.3,353.9c-10.8-5.4-20.8-12.3-29.3-20.1
-					c-8.5-8.5-17.8-30.9-21.6-37c-11.6-19.3-28.6-34.7-64-39.4c-35.4-4.6-68.6,2.3-101.8,12.3c-79.4,25.4-146.5,87.1-196.6,143.4
-					c10,15.4,18.5,31.6,26.2,47.8c5.4,10.8,10,22.4,13.8,33.1c142.6-21.6,209.8-73.3,271.4-99.4c30.9-13.1,64-19.3,97.1-18.5h17.8
-					C1659.5,377,1646.4,361.7,1633.3,353.9z"/>
+				<path id="path4553" inkscape:connector-curvature="0" class="st7" d="M1076.1,207.6c-4.6-2.3-8.8-5.2-12.4-8.5
+					c-3.6-3.6-7.5-13.1-9.2-15.7c-4.9-8.2-12.1-14.8-27.2-16.7c-15.1-2-29.2,1-43.2,5.2c-33.8,10.8-62.2,37-83.5,60.9
+					c4.2,6.6,7.9,13.4,11.1,20.3c2.3,4.6,4.2,9.5,5.9,14.1c60.6-9.2,89.1-31.1,115.3-42.2c13.1-5.6,27.2-8.2,41.3-7.9h7.5
+					C1087.2,217.5,1081.7,210.9,1076.1,207.6z"/>
 			</g>
 		</g>
 		<g id="g4555">
 			<g id="g4557">
 				
-					<linearGradient id="path4568_1_" gradientUnits="userSpaceOnUse" x1="1326.8628" y1="-866.2321" x2="2642.0107" y2="-866.2321" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4568_1_" gradientUnits="userSpaceOnUse" x1="1431.4696" y1="-937.4728" x2="1990.2439" y2="-937.4728" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.75"/>
 					<stop  offset="0.32" style="stop-color:#FFFFFF;stop-opacity:0.57"/>
 					<stop  offset="0.68" style="stop-color:#FFFFFF;stop-opacity:0.55"/>
 					<stop  offset="0.9" style="stop-color:#FFFFFF;stop-opacity:0.45"/>
 				</linearGradient>
-				<path id="path4568" inkscape:connector-curvature="0" class="st8" d="M1016.4,191.2c-33.1-25.4-67.1-51.7-100.2-75.6l0,0
-					c-7.7-5.4-15.4-10.8-22.4-16.2l0,0C804.4,37.7,721.1-0.7,674.9,53.2c-35.4,41.6-16.2,138,56.3,254.5l2.3,3.8
-					c37.8,59.4,148.1,199,409.4,192.8c17-18.5,43.2-53.2,77.1-91C1165.3,323.8,1082.7,246,1016.4,191.2L1016.4,191.2z"/>
+				<path id="path4568" inkscape:connector-curvature="0" class="st8" d="M814,138.5c-14.1-10.8-28.5-22-42.6-32.1l0,0
+					c-3.3-2.3-6.6-4.6-9.5-6.9l0,0c-38-26.2-73.4-42.6-93-19.6c-15.1,17.7-6.9,58.6,23.9,108.1l1,1.6c16,25.2,62.9,84.5,174,81.9
+					c7.2-7.9,18.4-22.6,32.8-38.6C877.3,194.9,842.2,161.8,814,138.5L814,138.5z"/>
 				
-					<linearGradient id="path4575_1_" gradientUnits="userSpaceOnUse" x1="1377.1752" y1="-625.3036" x2="2629.6738" y2="-625.3036" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4575_1_" gradientUnits="userSpaceOnUse" x1="1452.8461" y1="-835.1082" x2="1985.0023" y2="-835.1082" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.4"/>
 					<stop  offset="0.67" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 				</linearGradient>
-				<path id="path4575" inkscape:connector-curvature="0" class="st9" d="M1220,413.3c-33.9,37.8-60.2,72.5-77.1,91
-					c39.4-0.8,78.6-3.8,117.2-10c-3.8-11.6-8.5-22.4-13.8-33.1C1238.5,444.9,1229.3,428.7,1220,413.3L1220,413.3z"/>
+				<path id="path4575" inkscape:connector-curvature="0" class="st9" d="M900.5,232.9c-14.4,16-25.6,30.8-32.8,38.6
+					c16.7-0.3,33.4-1.6,49.8-4.2c-1.6-4.9-3.6-9.5-5.9-14.1C908.4,246.3,904.5,239.4,900.5,232.9L900.5,232.9z"/>
 				
-					<linearGradient id="path4582_1_" gradientUnits="userSpaceOnUse" x1="1826.1276" y1="-820.4537" x2="2636.8062" y2="-820.4537" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4582_1_" gradientUnits="userSpaceOnUse" x1="1643.5951" y1="-918.0226" x2="1988.0326" y2="-918.0226" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.38"/>
 					<stop  offset="0.97" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 				</linearGradient>
-				<path id="path4582" inkscape:connector-curvature="0" class="st10" d="M1415.8,269.9c-71,21.6-141.1,57.8-231.3,29.3
-					c-45.5-13.8-104.9-58.6-168.9-107.2c67.1,54,149.6,131.8,204.3,221.3C1270.1,357,1337.2,295.3,1415.8,269.9L1415.8,269.9z"/>
+				<path id="path4582" inkscape:connector-curvature="0" class="st10" d="M983.7,172c-30.1,9.2-60,24.6-98.3,12.4
+					c-19.3-5.9-44.6-24.9-71.8-45.5c28.5,22.9,63.6,56,86.8,94C921.8,209,950.3,182.8,983.7,172L983.7,172z"/>
 				
-					<linearGradient id="path4593_1_" gradientUnits="userSpaceOnUse" x1="2290.95" y1="-1018.1399" x2="2290.95" y2="-127.6561" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4593_1_" gradientUnits="userSpaceOnUse" x1="1841.0868" y1="-1002.0147" x2="1841.0868" y2="-623.6699" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#4FAAC4"/>
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.35"/>
 					<stop  offset="0.9644" style="stop-color:#FFFFFF;stop-opacity:0.38"/>
 					<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.26"/>
 				</linearGradient>
-				<path id="path4593" inkscape:connector-curvature="0" class="st11" d="M1260.1,494.2c3.1,8.5,6.2,17,8.5,25.4
-					c5.4,20.8,9.3,41.6,10.8,63.2c0.8,9.3,0.8,18.5,0.8,27.8c-1.5,59.4-28.6,93.3-35.4,99.4c96.3-90.2,139.5-198.9,233.6-281.4
-					c16.2-13.8,33.9-25.4,53.2-33.9l0,0C1469.8,421,1402.7,472.6,1260.1,494.2z"/>
+				<path id="path4593" inkscape:connector-curvature="0" class="st11" d="M917.5,267.3c1.3,3.6,2.6,7.2,3.6,10.8
+					c2.3,8.8,3.9,17.7,4.6,26.9c0.3,3.9,0.3,7.9,0.3,11.8c-0.6,25.2-12.1,39.6-15.1,42.2c40.9-38.3,59.3-84.5,99.3-119.5
+					c6.9-5.9,14.4-10.8,22.6-14.4l0,0C1006.7,236.2,978.1,258.1,917.5,267.3z"/>
 				
-					<linearGradient id="path4600_1_" gradientUnits="userSpaceOnUse" x1="1242.0138" y1="-763.4537" x2="2164.1519" y2="-763.4537" gradientTransform="matrix(0.8 0 0 -0.8 -444.66 -47.1037)">
+					<linearGradient id="path4600_1_" gradientUnits="userSpaceOnUse" x1="1395.4193" y1="-865.2848" x2="1787.2134" y2="-865.2848" gradientTransform="matrix(0.8 0 0 -0.8 -500.9315 -395.4605)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.6"/>
 					<stop  offset="0.93" style="stop-color:#FFFFFF;stop-opacity:0.47"/>
 				</linearGradient>
-				<path id="path4600" inkscape:connector-curvature="0" class="st12" d="M733.4,312.3c71.8,112.6,183.5,202,161.9,326.9
-					C867.6,800.3,657.1,815,657.1,815s0.8,0,2.3,0c0.8,0,1.5,0,2.3,0c20.8,0,114.1-7,255.2-102.6c121-82.5,194.3-174.2,225.9-208.2
-					c-29.3,0.8-56.3-0.8-81.8-3.1C858.4,480.4,767.3,364.7,733.4,312.3z"/>
+				<path id="path4600" inkscape:connector-curvature="0" class="st12" d="M693.8,190c30.5,47.8,78,85.8,68.8,138.9
+					c-11.8,68.5-101.2,74.7-101.2,74.7s0.3,0,1,0c0.3,0,0.6,0,1,0c8.8,0,48.5-3,108.4-43.6c51.4-35,82.6-74,96-88.4
+					c-12.4,0.3-23.9-0.3-34.7-1.3C746.9,261.4,708.2,212.2,693.8,190z"/>
 				
-					<linearGradient id="path4607_1_" gradientUnits="userSpaceOnUse" x1="1377.2" y1="-360.691" x2="2629.6987" y2="-360.691" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4607_1_" gradientUnits="userSpaceOnUse" x1="1452.8567" y1="-722.6807" x2="1985.0128" y2="-722.6807" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.38"/>
 					<stop  offset="0.98" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 				</linearGradient>
-				<path id="path4607" inkscape:connector-curvature="0" class="st13" d="M1279.3,610.7c0.8-39.4-6.2-79.4-20.1-116.4
-					c-6.2,0.8-11.6,1.5-17.8,2.3c-33.1,3.8-66.3,7-99.4,7c-32.4,33.9-104.9,125.7-225.9,208.2c-160.4,110.2-259,103.4-259,103.4
-					s235.9,73.3,427.2-3.8c59.4-23.1,114.1-57.8,160.4-101C1251.6,703.2,1278.5,670.1,1279.3,610.7z"/>
+				<path id="path4607" inkscape:connector-curvature="0" class="st13" d="M925.7,316.8c0.3-16.7-2.6-33.8-8.5-49.5
+					c-2.6,0.3-4.9,0.6-7.5,1c-14.1,1.6-28.2,3-42.2,3c-13.8,14.4-44.6,53.4-96,88.4c-68.2,46.8-110.1,43.9-110.1,43.9
+					s100.2,31.1,181.5-1.6c25.2-9.8,48.5-24.6,68.2-42.9C913.9,356,925.4,342,925.7,316.8z"/>
 				
-					<linearGradient id="path4614_1_" gradientUnits="userSpaceOnUse" x1="2350.6965" y1="-818.1277" x2="2350.6965" y2="-370.2044" gradientTransform="matrix(0.8 0 0 -0.8 -444.66 -47.1037)">
+					<linearGradient id="path4614_1_" gradientUnits="userSpaceOnUse" x1="1866.4717" y1="-888.5145" x2="1866.4717" y2="-698.2028" gradientTransform="matrix(0.8 0 0 -0.8 -500.9315 -395.4605)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.3"/>
 					<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.35"/>
 				</linearGradient>
-				<path id="path4614" inkscape:connector-curvature="0" class="st14" d="M1633.3,353.9c-10.8-5.4-20.8-12.3-29.3-20.1
-					c-8.5-8.5-17.8-30.9-21.6-37c-11.6-19.3-28.6-34.7-64-39.4c-35.4-4.6-68.6,2.3-101.8,12.3c-79.4,25.4-146.5,87.1-196.6,143.4
-					c10,15.4,18.5,31.6,26.2,47.8c5.4,10.8,10,22.4,13.8,33.1c142.6-21.6,209.8-73.3,271.4-99.4c30.9-13.1,64-19.3,97.1-18.5h17.8
-					C1659.5,377,1646.4,361.7,1633.3,353.9z"/>
+				<path id="path4614" inkscape:connector-curvature="0" class="st14" d="M1076.1,207.6c-4.6-2.3-8.8-5.2-12.4-8.5
+					c-3.6-3.6-7.5-13.1-9.2-15.7c-4.9-8.2-12.1-14.8-27.2-16.7c-15.1-2-29.2,1-43.2,5.2c-33.8,10.8-62.2,37-83.5,60.9
+					c4.2,6.6,7.9,13.4,11.1,20.3c2.3,4.6,4.2,9.5,5.9,14.1c60.6-9.2,89.1-31.1,115.3-42.2c13.1-5.6,27.2-8.2,41.3-7.9h7.5
+					C1087.2,217.5,1081.7,210.9,1076.1,207.6z"/>
 			</g>
 		</g>
 		<g id="g4616">
 			<g id="g4618">
 				
-					<linearGradient id="path4629_1_" gradientUnits="userSpaceOnUse" x1="1326.8628" y1="-866.2321" x2="2642.0107" y2="-866.2321" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4629_1_" gradientUnits="userSpaceOnUse" x1="1431.4696" y1="-937.4728" x2="1990.2439" y2="-937.4728" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.75"/>
 					<stop  offset="0.32" style="stop-color:#FFFFFF;stop-opacity:0.57"/>
 					<stop  offset="0.68" style="stop-color:#FFFFFF;stop-opacity:0.55"/>
 					<stop  offset="0.9" style="stop-color:#FFFFFF;stop-opacity:0.45"/>
 				</linearGradient>
-				<path id="path4629" inkscape:connector-curvature="0" class="st15" d="M1016.4,191.2c-33.1-25.4-67.1-51.7-100.2-75.6l0,0
-					c-7.7-5.4-15.4-10.8-22.4-16.2l0,0C804.4,37.7,721.1-0.7,674.9,53.2c-35.4,41.6-16.2,138,56.3,254.5l2.3,3.8
-					c37.8,59.4,148.1,199,409.4,192.8c17-18.5,43.2-53.2,77.1-91C1165.3,323.8,1082.7,246,1016.4,191.2L1016.4,191.2z"/>
+				<path id="path4629" inkscape:connector-curvature="0" class="st15" d="M814,138.5c-14.1-10.8-28.5-22-42.6-32.1l0,0
+					c-3.3-2.3-6.6-4.6-9.5-6.9l0,0c-38-26.2-73.4-42.6-93-19.6c-15.1,17.7-6.9,58.6,23.9,108.1l1,1.6c16,25.2,62.9,84.5,174,81.9
+					c7.2-7.9,18.4-22.6,32.8-38.6C877.3,194.9,842.2,161.8,814,138.5L814,138.5z"/>
 				
-					<linearGradient id="path4636_1_" gradientUnits="userSpaceOnUse" x1="1377.1752" y1="-625.3036" x2="2629.6738" y2="-625.3036" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4636_1_" gradientUnits="userSpaceOnUse" x1="1452.8461" y1="-835.1082" x2="1985.0023" y2="-835.1082" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.4"/>
 					<stop  offset="0.67" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 				</linearGradient>
-				<path id="path4636" inkscape:connector-curvature="0" class="st16" d="M1220,413.3c-33.9,37.8-60.2,72.5-77.1,91
-					c39.4-0.8,78.6-3.8,117.2-10c-3.8-11.6-8.5-22.4-13.8-33.1C1238.5,444.9,1229.3,428.7,1220,413.3L1220,413.3z"/>
+				<path id="path4636" inkscape:connector-curvature="0" class="st16" d="M900.5,232.9c-14.4,16-25.6,30.8-32.8,38.6
+					c16.7-0.3,33.4-1.6,49.8-4.2c-1.6-4.9-3.6-9.5-5.9-14.1C908.4,246.3,904.5,239.4,900.5,232.9L900.5,232.9z"/>
 				
-					<linearGradient id="path4643_1_" gradientUnits="userSpaceOnUse" x1="1826.1276" y1="-820.4537" x2="2636.8062" y2="-820.4537" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4643_1_" gradientUnits="userSpaceOnUse" x1="1643.5951" y1="-918.0226" x2="1988.0326" y2="-918.0226" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.38"/>
 					<stop  offset="0.97" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 				</linearGradient>
-				<path id="path4643" inkscape:connector-curvature="0" class="st17" d="M1415.8,269.9c-71,21.6-141.1,57.8-231.3,29.3
-					c-45.5-13.8-104.9-58.6-168.9-107.2c67.1,54,149.6,131.8,204.3,221.3C1270.1,357,1337.2,295.3,1415.8,269.9L1415.8,269.9z"/>
+				<path id="path4643" inkscape:connector-curvature="0" class="st17" d="M983.7,172c-30.1,9.2-60,24.6-98.3,12.4
+					c-19.3-5.9-44.6-24.9-71.8-45.5c28.5,22.9,63.6,56,86.8,94C921.8,209,950.3,182.8,983.7,172L983.7,172z"/>
 				
-					<linearGradient id="path4654_1_" gradientUnits="userSpaceOnUse" x1="2290.95" y1="-1018.1399" x2="2290.95" y2="-127.6561" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4654_1_" gradientUnits="userSpaceOnUse" x1="1841.0868" y1="-1002.0147" x2="1841.0868" y2="-623.6699" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#4FAAC4"/>
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.35"/>
 					<stop  offset="0.9644" style="stop-color:#FFFFFF;stop-opacity:0.38"/>
 					<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.26"/>
 				</linearGradient>
-				<path id="path4654" inkscape:connector-curvature="0" class="st18" d="M1260.1,494.2c3.1,8.5,6.2,17,8.5,25.4
-					c5.4,20.8,9.3,41.6,10.8,63.2c0.8,9.3,0.8,18.5,0.8,27.8c-1.5,59.4-28.6,93.3-35.4,99.4c96.3-90.2,139.5-198.9,233.6-281.4
-					c16.2-13.8,33.9-25.4,53.2-33.9l0,0C1469.8,421,1402.7,472.6,1260.1,494.2z"/>
+				<path id="path4654" inkscape:connector-curvature="0" class="st18" d="M917.5,267.3c1.3,3.6,2.6,7.2,3.6,10.8
+					c2.3,8.8,3.9,17.7,4.6,26.9c0.3,3.9,0.3,7.9,0.3,11.8c-0.6,25.2-12.1,39.6-15.1,42.2c40.9-38.3,59.3-84.5,99.3-119.5
+					c6.9-5.9,14.4-10.8,22.6-14.4l0,0C1006.7,236.2,978.1,258.1,917.5,267.3z"/>
 				
-					<linearGradient id="path4661_1_" gradientUnits="userSpaceOnUse" x1="1242.0138" y1="-763.4537" x2="2164.1519" y2="-763.4537" gradientTransform="matrix(0.8 0 0 -0.8 -444.66 -47.1037)">
+					<linearGradient id="path4661_1_" gradientUnits="userSpaceOnUse" x1="1395.4193" y1="-865.2848" x2="1787.2134" y2="-865.2848" gradientTransform="matrix(0.8 0 0 -0.8 -500.9315 -395.4605)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.6"/>
 					<stop  offset="0.93" style="stop-color:#FFFFFF;stop-opacity:0.47"/>
 				</linearGradient>
-				<path id="path4661" inkscape:connector-curvature="0" class="st19" d="M733.4,312.3c71.8,112.6,183.5,202,161.9,326.9
-					C867.6,800.3,657.1,815,657.1,815s0.8,0,2.3,0c0.8,0,1.5,0,2.3,0c20.8,0,114.1-7,255.2-102.6c121-82.5,194.3-174.2,225.9-208.2
-					c-29.3,0.8-56.3-0.8-81.8-3.1C858.4,480.4,767.3,364.7,733.4,312.3z"/>
+				<path id="path4661" inkscape:connector-curvature="0" class="st19" d="M693.8,190c30.5,47.8,78,85.8,68.8,138.9
+					c-11.8,68.5-101.2,74.7-101.2,74.7s0.3,0,1,0c0.3,0,0.6,0,1,0c8.8,0,48.5-3,108.4-43.6c51.4-35,82.6-74,96-88.4
+					c-12.4,0.3-23.9-0.3-34.7-1.3C746.9,261.4,708.2,212.2,693.8,190z"/>
 				
-					<linearGradient id="path4668_1_" gradientUnits="userSpaceOnUse" x1="1377.2" y1="-360.691" x2="2629.6987" y2="-360.691" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4668_1_" gradientUnits="userSpaceOnUse" x1="1452.8567" y1="-722.6807" x2="1985.0128" y2="-722.6807" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.38"/>
 					<stop  offset="0.98" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 				</linearGradient>
-				<path id="path4668" inkscape:connector-curvature="0" class="st20" d="M1279.3,610.7c0.8-39.4-6.2-79.4-20.1-116.4
-					c-6.2,0.8-11.6,1.5-17.8,2.3c-33.1,3.8-66.3,7-99.4,7c-32.4,33.9-104.9,125.7-225.9,208.2c-160.4,110.2-259,103.4-259,103.4
-					s235.9,73.3,427.2-3.8c59.4-23.1,114.1-57.8,160.4-101C1251.6,703.2,1278.5,670.1,1279.3,610.7z"/>
+				<path id="path4668" inkscape:connector-curvature="0" class="st20" d="M925.7,316.8c0.3-16.7-2.6-33.8-8.5-49.5
+					c-2.6,0.3-4.9,0.6-7.5,1c-14.1,1.6-28.2,3-42.2,3c-13.8,14.4-44.6,53.4-96,88.4c-68.2,46.8-110.1,43.9-110.1,43.9
+					s100.2,31.1,181.5-1.6c25.2-9.8,48.5-24.6,68.2-42.9C913.9,356,925.4,342,925.7,316.8z"/>
 				
-					<linearGradient id="path4675_1_" gradientUnits="userSpaceOnUse" x1="2350.6965" y1="-818.1277" x2="2350.6965" y2="-370.2044" gradientTransform="matrix(0.8 0 0 -0.8 -444.66 -47.1037)">
+					<linearGradient id="path4675_1_" gradientUnits="userSpaceOnUse" x1="1866.4717" y1="-888.5145" x2="1866.4717" y2="-698.2028" gradientTransform="matrix(0.8 0 0 -0.8 -500.9315 -395.4605)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.3"/>
 					<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.35"/>
 				</linearGradient>
-				<path id="path4675" inkscape:connector-curvature="0" class="st21" d="M1633.3,353.9c-10.8-5.4-20.8-12.3-29.3-20.1
-					c-8.5-8.5-17.8-30.9-21.6-37c-11.6-19.3-28.6-34.7-64-39.4c-35.4-4.6-68.6,2.3-101.8,12.3c-79.4,25.4-146.5,87.1-196.6,143.4
-					c10,15.4,18.5,31.6,26.2,47.8c5.4,10.8,10,22.4,13.8,33.1c142.6-21.6,209.8-73.3,271.4-99.4c30.9-13.1,64-19.3,97.1-18.5h17.8
-					C1659.5,377,1646.4,361.7,1633.3,353.9z"/>
+				<path id="path4675" inkscape:connector-curvature="0" class="st21" d="M1076.1,207.6c-4.6-2.3-8.8-5.2-12.4-8.5
+					c-3.6-3.6-7.5-13.1-9.2-15.7c-4.9-8.2-12.1-14.8-27.2-16.7c-15.1-2-29.2,1-43.2,5.2c-33.8,10.8-62.2,37-83.5,60.9
+					c4.2,6.6,7.9,13.4,11.1,20.3c2.3,4.6,4.2,9.5,5.9,14.1c60.6-9.2,89.1-31.1,115.3-42.2c13.1-5.6,27.2-8.2,41.3-7.9h7.5
+					C1087.2,217.5,1081.7,210.9,1076.1,207.6z"/>
 			</g>
 		</g>
 		<g id="g4677">
 			<g id="g4679">
 				
-					<linearGradient id="path4690_1_" gradientUnits="userSpaceOnUse" x1="1326.8628" y1="-866.2321" x2="2642.0107" y2="-866.2321" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4690_1_" gradientUnits="userSpaceOnUse" x1="1431.4696" y1="-937.4728" x2="1990.2439" y2="-937.4728" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.75"/>
 					<stop  offset="0.32" style="stop-color:#FFFFFF;stop-opacity:0.57"/>
 					<stop  offset="0.68" style="stop-color:#FFFFFF;stop-opacity:0.55"/>
 					<stop  offset="0.9" style="stop-color:#FFFFFF;stop-opacity:0.45"/>
 				</linearGradient>
-				<path id="path4690" inkscape:connector-curvature="0" class="st22" d="M1016.4,191.2c-33.1-25.4-67.1-51.7-100.2-75.6l0,0
-					c-7.7-5.4-15.4-10.8-22.4-16.2l0,0C804.4,37.7,721.1-0.7,674.9,53.2c-35.4,41.6-16.2,138,56.3,254.5l2.3,3.8
-					c37.8,59.4,148.1,199,409.4,192.8c17-18.5,43.2-53.2,77.1-91C1165.3,323.8,1082.7,246,1016.4,191.2L1016.4,191.2z"/>
+				<path id="path4690" inkscape:connector-curvature="0" class="st22" d="M814,138.5c-14.1-10.8-28.5-22-42.6-32.1l0,0
+					c-3.3-2.3-6.6-4.6-9.5-6.9l0,0c-38-26.2-73.4-42.6-93-19.6c-15.1,17.7-6.9,58.6,23.9,108.1l1,1.6c16,25.2,62.9,84.5,174,81.9
+					c7.2-7.9,18.4-22.6,32.8-38.6C877.3,194.9,842.2,161.8,814,138.5L814,138.5z"/>
 				
-					<linearGradient id="path4697_1_" gradientUnits="userSpaceOnUse" x1="1377.1752" y1="-625.3036" x2="2629.6738" y2="-625.3036" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4697_1_" gradientUnits="userSpaceOnUse" x1="1452.8461" y1="-835.1082" x2="1985.0023" y2="-835.1082" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.4"/>
 					<stop  offset="0.67" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 				</linearGradient>
-				<path id="path4697" inkscape:connector-curvature="0" class="st23" d="M1220,413.3c-33.9,37.8-60.2,72.5-77.1,91
-					c39.4-0.8,78.6-3.8,117.2-10c-3.8-11.6-8.5-22.4-13.8-33.1C1238.5,444.9,1229.3,428.7,1220,413.3L1220,413.3z"/>
+				<path id="path4697" inkscape:connector-curvature="0" class="st23" d="M900.5,232.9c-14.4,16-25.6,30.8-32.8,38.6
+					c16.7-0.3,33.4-1.6,49.8-4.2c-1.6-4.9-3.6-9.5-5.9-14.1C908.4,246.3,904.5,239.4,900.5,232.9L900.5,232.9z"/>
 				
-					<linearGradient id="path4704_1_" gradientUnits="userSpaceOnUse" x1="1826.1276" y1="-820.4537" x2="2636.8062" y2="-820.4537" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4704_1_" gradientUnits="userSpaceOnUse" x1="1643.5951" y1="-918.0226" x2="1988.0326" y2="-918.0226" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.38"/>
 					<stop  offset="0.97" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 				</linearGradient>
-				<path id="path4704" inkscape:connector-curvature="0" class="st24" d="M1415.8,269.9c-71,21.6-141.1,57.8-231.3,29.3
-					c-45.5-13.8-104.9-58.6-168.9-107.2c67.1,54,149.6,131.8,204.3,221.3C1270.1,357,1337.2,295.3,1415.8,269.9L1415.8,269.9z"/>
+				<path id="path4704" inkscape:connector-curvature="0" class="st24" d="M983.7,172c-30.1,9.2-60,24.6-98.3,12.4
+					c-19.3-5.9-44.6-24.9-71.8-45.5c28.5,22.9,63.6,56,86.8,94C921.8,209,950.3,182.8,983.7,172L983.7,172z"/>
 				
-					<linearGradient id="path4715_1_" gradientUnits="userSpaceOnUse" x1="2290.95" y1="-1018.1399" x2="2290.95" y2="-127.6561" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4715_1_" gradientUnits="userSpaceOnUse" x1="1841.0868" y1="-1002.0147" x2="1841.0868" y2="-623.6699" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#4FAAC4"/>
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.35"/>
 					<stop  offset="0.9644" style="stop-color:#FFFFFF;stop-opacity:0.38"/>
 					<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.26"/>
 				</linearGradient>
-				<path id="path4715" inkscape:connector-curvature="0" class="st25" d="M1260.1,494.2c3.1,8.5,6.2,17,8.5,25.4
-					c5.4,20.8,9.3,41.6,10.8,63.2c0.8,9.3,0.8,18.5,0.8,27.8c-1.5,59.4-28.6,93.3-35.4,99.4c96.3-90.2,139.5-198.9,233.6-281.4
-					c16.2-13.8,33.9-25.4,53.2-33.9l0,0C1469.8,421,1402.7,472.6,1260.1,494.2z"/>
+				<path id="path4715" inkscape:connector-curvature="0" class="st25" d="M917.5,267.3c1.3,3.6,2.6,7.2,3.6,10.8
+					c2.3,8.8,3.9,17.7,4.6,26.9c0.3,3.9,0.3,7.9,0.3,11.8c-0.6,25.2-12.1,39.6-15.1,42.2c40.9-38.3,59.3-84.5,99.3-119.5
+					c6.9-5.9,14.4-10.8,22.6-14.4l0,0C1006.7,236.2,978.1,258.1,917.5,267.3z"/>
 				
-					<linearGradient id="path4722_1_" gradientUnits="userSpaceOnUse" x1="1242.0138" y1="-763.4537" x2="2164.1519" y2="-763.4537" gradientTransform="matrix(0.8 0 0 -0.8 -444.66 -47.1037)">
+					<linearGradient id="path4722_1_" gradientUnits="userSpaceOnUse" x1="1395.4193" y1="-865.2848" x2="1787.2134" y2="-865.2848" gradientTransform="matrix(0.8 0 0 -0.8 -500.9315 -395.4605)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.6"/>
 					<stop  offset="0.93" style="stop-color:#FFFFFF;stop-opacity:0.47"/>
 				</linearGradient>
-				<path id="path4722" inkscape:connector-curvature="0" class="st26" d="M733.4,312.3c71.8,112.6,183.5,202,161.9,326.9
-					C867.6,800.3,657.1,815,657.1,815s0.8,0,2.3,0c0.8,0,1.5,0,2.3,0c20.8,0,114.1-7,255.2-102.6c121-82.5,194.3-174.2,225.9-208.2
-					c-29.3,0.8-56.3-0.8-81.8-3.1C858.4,480.4,767.3,364.7,733.4,312.3z"/>
+				<path id="path4722" inkscape:connector-curvature="0" class="st26" d="M693.8,190c30.5,47.8,78,85.8,68.8,138.9
+					c-11.8,68.5-101.2,74.7-101.2,74.7s0.3,0,1,0c0.3,0,0.6,0,1,0c8.8,0,48.5-3,108.4-43.6c51.4-35,82.6-74,96-88.4
+					c-12.4,0.3-23.9-0.3-34.7-1.3C746.9,261.4,708.2,212.2,693.8,190z"/>
 				
-					<linearGradient id="path4729_1_" gradientUnits="userSpaceOnUse" x1="1377.2" y1="-360.691" x2="2629.6987" y2="-360.691" gradientTransform="matrix(0.8 0 0 0.8 -444.66 958.9822)">
+					<linearGradient id="path4729_1_" gradientUnits="userSpaceOnUse" x1="1452.8567" y1="-722.6807" x2="1985.0128" y2="-722.6807" gradientTransform="matrix(0.8 0 0 0.8 -500.9315 920.2759)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.38"/>
 					<stop  offset="0.98" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
 				</linearGradient>
-				<path id="path4729" inkscape:connector-curvature="0" class="st27" d="M1279.3,610.7c0.8-39.4-6.2-79.4-20.1-116.4
-					c-6.2,0.8-11.6,1.5-17.8,2.3c-33.1,3.8-66.3,7-99.4,7c-32.4,33.9-104.9,125.7-225.9,208.2c-160.4,110.2-259,103.4-259,103.4
-					s235.9,73.3,427.2-3.8c59.4-23.1,114.1-57.8,160.4-101C1251.6,703.2,1278.5,670.1,1279.3,610.7z"/>
+				<path id="path4729" inkscape:connector-curvature="0" class="st27" d="M925.7,316.8c0.3-16.7-2.6-33.8-8.5-49.5
+					c-2.6,0.3-4.9,0.6-7.5,1c-14.1,1.6-28.2,3-42.2,3c-13.8,14.4-44.6,53.4-96,88.4c-68.2,46.8-110.1,43.9-110.1,43.9
+					s100.2,31.1,181.5-1.6c25.2-9.8,48.5-24.6,68.2-42.9C913.9,356,925.4,342,925.7,316.8z"/>
 				
-					<linearGradient id="path4736_1_" gradientUnits="userSpaceOnUse" x1="2350.6965" y1="-818.1277" x2="2350.6965" y2="-370.2044" gradientTransform="matrix(0.8 0 0 -0.8 -444.66 -47.1037)">
+					<linearGradient id="path4736_1_" gradientUnits="userSpaceOnUse" x1="1866.4717" y1="-888.5145" x2="1866.4717" y2="-698.2028" gradientTransform="matrix(0.8 0 0 -0.8 -500.9315 -395.4605)">
 					<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.3"/>
 					<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.35"/>
 				</linearGradient>
-				<path id="path4736" inkscape:connector-curvature="0" class="st28" d="M1633.3,353.9c-10.8-5.4-20.8-12.3-29.3-20.1
-					c-8.5-8.5-17.8-30.9-21.6-37c-11.6-19.3-28.6-34.7-64-39.4c-35.4-4.6-68.6,2.3-101.8,12.3c-79.4,25.4-146.5,87.1-196.6,143.4
-					c10,15.4,18.5,31.6,26.2,47.8c5.4,10.8,10,22.4,13.8,33.1c142.6-21.6,209.8-73.3,271.4-99.4c30.9-13.1,64-19.3,97.1-18.5h17.8
-					C1659.5,377,1646.4,361.7,1633.3,353.9z"/>
+				<path id="path4736" inkscape:connector-curvature="0" class="st28" d="M1076.1,207.6c-4.6-2.3-8.8-5.2-12.4-8.5
+					c-3.6-3.6-7.5-13.1-9.2-15.7c-4.9-8.2-12.1-14.8-27.2-16.7c-15.1-2-29.2,1-43.2,5.2c-33.8,10.8-62.2,37-83.5,60.9
+					c4.2,6.6,7.9,13.4,11.1,20.3c2.3,4.6,4.2,9.5,5.9,14.1c60.6-9.2,89.1-31.1,115.3-42.2c13.1-5.6,27.2-8.2,41.3-7.9h7.5
+					C1087.2,217.5,1081.7,210.9,1076.1,207.6z"/>
 			</g>
 		</g>
 	</g>

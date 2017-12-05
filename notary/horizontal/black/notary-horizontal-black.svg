@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 95 25" style="enable-background:new 0 0 95 25;" xml:space="preserve">
+	 viewBox="0 0 432 116" enable-background="new 0 0 432 116" xml:space="preserve">
 <g id="Page-1">
 	<g id="Artboard" transform="translate(-367.000000, -109.000000)">
 		<g id="notary-blk" transform="translate(367.000000, 109.000000)">
-			<path id="Combined-Shape" d="M6,20V8h6v12h6v5H0v-5H6z M61,17v-3h-9v3H61z M64,17.5V20H49v-2.5V11h1.5H61V8h3V17.5z M92,22v-2H80
-				v-1.5V5h3v12h9V5h3v20h-2.5H20v-3H92z M40,5V0h3v5h21v3H43v12h-3V8h-3V5H40z M0,0h18v5H0V0z M20,5h3v15h-3V5z M32,5h3v15h-3V5z
-				 M23,17h9v3h-9V17z M23,5h9v3h-9V5z M43,17h3v3h-3V17z M66,5h12v3H66V5z M66,8h3v12h-3V8z M0,5h3v15H0V5z M15,5h3v15h-3V5z"/>
+			<path id="Combined-Shape" d="M28.495,91.421V37.232h27.095v54.189h27.095V114H1.4V91.421H28.495z M276.863,77.874V64.326h-40.642
+				v13.547H276.863z M290.411,80.132v11.289h-67.737V80.132V50.779h6.774h47.416V37.232h13.547V80.132z M416.853,100.453v-9.032
+				h-54.189v-6.774V23.684h13.547v54.189h40.642V23.684H430.4V114h-11.289H91.716v-13.547H416.853z M182.032,23.684V1.105h13.547
+				v22.579h94.832v13.547h-94.832v54.189h-13.547V37.232h-13.547V23.684H182.032z M1.4,1.105h81.284v22.579H1.4V1.105z
+				 M91.716,23.684h13.547v67.737H91.716V23.684z M145.905,23.684h13.547v67.737h-13.547V23.684z M105.263,77.874h40.642v13.547
+				h-40.642V77.874z M105.263,23.684h40.642v13.547h-40.642V23.684z M195.579,77.874h13.547v13.547h-13.547V77.874z M299.442,23.684
+				h54.189v13.547h-54.189V23.684z M299.442,37.232h13.547v54.189h-13.547V37.232z M1.4,23.684h13.547v67.737H1.4V23.684z
+				 M69.137,23.684h13.547v67.737H69.137V23.684z"/>
 		</g>
 	</g>
 </g>

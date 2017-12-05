@@ -1,86 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 80.7 74.7" style="enable-background:new 0 0 80.7 74.7;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#40A0B4;}
-	.st1{fill:#338090;}
-	.st2{fill:#45C1A8;}
-	.st3{fill:#7CE1C0;}
-	.st4{fill:url(#Fill-13_1_);}
-	.st5{fill:url(#Fill-14_1_);}
-	.st6{fill:url(#Fill-15_1_);}
-	.st7{fill:url(#Fill-16_1_);}
-	.st8{fill:url(#Fill-17_1_);}
-	.st9{fill:url(#Fill-18_1_);}
-	.st10{fill:#A2EACF;}
-</style>
+	 viewBox="0 0 432 432" enable-background="new 0 0 432 432" xml:space="preserve">
 <g id="Logo-Symbol-72px" transform="translate(9.000000, 0.000000)">
 	<g id="reverse-2" transform="translate(0.000000, 12.500000)">
-		<polygon id="Fill-1" class="st0" points="62.7,32 67.7,34.9 67.7,7.8 62.7,4.9 		"/>
-		<polygon id="Fill-2" class="st0" points="-4.3,7.8 -4.3,34.9 0.7,32 0.7,4.9 		"/>
-		<polygon id="Fill-3" class="st0" points="17.7,56.3 22.7,59.2 34.6,52.3 29.6,49.4 		"/>
-		<polygon id="shadow" class="st1" points="24.7,52.2 29.7,55.1 34.6,52.3 29.6,49.4 		"/>
+		<polygon id="Fill-1" fill="#40A0B4" points="390.916,240.95 420.5,258.029 420.5,97.611 390.916,80.526 		"/>
+		<polygon id="Fill-2" fill="#40A0B4" points="-5.5,97.612 -5.5,258.039 24.084,240.952 24.084,80.53 		"/>
+		<polygon id="Fill-3" fill="#40A0B4" points="124.685,384.565 154.269,401.644 224.708,360.975 195.124,343.896 		"/>
+		<polygon id="shadow" fill="#338090" points="166.097,360.656 195.681,377.738 224.708,360.975 195.125,343.897 		"/>
 	</g>
 	<g id="reverse-1" transform="translate(24.500000, 37.500000)">
-		<polygon id="Fill-5" class="st2" points="18.7,22.9 18.7,17.1 -2.9,4.7 -4.3,5.6 -4.3,5.6 -4.3,9.6 		"/>
-		<polygon id="Fill-6" class="st2" points="-4.3,22.3 16.2,34.2 21.2,31.3 -4.3,16.6 		"/>
+		<polygon id="Fill-5" fill="#45C1A8" points="251.039,310.026 251.039,275.865 123.659,202.32 114.962,207.34 114.977,207.349 
+			114.977,231.469 		"/>
+		<polygon id="Fill-6" fill="#45C1A8" points="114.976,306.623 236.255,376.645 265.844,359.566 114.976,272.46 		"/>
 	</g>
 	<g id="top-2">
-		<polygon id="Fill-7" class="st3" points="50.4,24.5 55.4,27.3 67.7,20.3 62.7,17.4 		"/>
-		<polygon id="Fill-8" class="st3" points="34.2,39.6 29.2,36.7 17.7,43.4 22.7,46.3 		"/>
-		<polygon id="Fill-9" class="st3" points="56.7,13.9 51.7,11 39.4,18.1 44.4,21 		"/>
-		<polygon id="Fill-10" class="st3" points="23.2,33.3 18.2,30.4 6.7,37 11.7,39.9 		"/>
-		<polygon id="Fill-11" class="st3" points="28.4,11.8 33.4,14.6 45.7,7.6 40.7,4.7 		"/>
-		<polygon id="Fill-12" class="st3" points="-4.3,30.7 0.7,33.6 12.2,26.9 7.2,24 		"/>
+		<polygon id="Fill-7" fill="#7CE1C0" points="318.519,134.831 348.099,151.91 420.5,110.111 390.91,93.035 		"/>
+		<polygon id="Fill-8" fill="#7CE1C0" points="222.464,224.45 192.88,207.372 124.671,246.754 154.255,263.832 		"/>
+		<polygon id="Fill-9" fill="#7CE1C0" points="355.429,72.541 325.84,55.463 253.448,97.262 283.032,114.343 		"/>
+		<polygon id="Fill-10" fill="#7CE1C0" points="157.394,186.881 127.81,169.803 59.602,209.185 89.185,226.263 		"/>
+		<polygon id="Fill-11" fill="#7CE1C0" points="188.379,59.694 217.962,76.773 290.36,34.974 260.77,17.895 		"/>
+		<polygon id="Fill-12" fill="#7CE1C0" points="-5.468,171.614 24.116,188.693 92.324,149.314 62.74,132.232 		"/>
 	</g>
 	<g id="gradient" transform="translate(0.000000, 26.000000)">
 		
-			<linearGradient id="Fill-13_1_" gradientUnits="userSpaceOnUse" x1="-5042.6333" y1="1158.6929" x2="-5042.6333" y2="1159.6929" gradientTransform="matrix(5 0 0 28.291 25278.332 -32775.9062)">
+			<linearGradient id="Fill-13_1_" gradientUnits="userSpaceOnUse" x1="-368.0582" y1="361.8206" x2="-368.0582" y2="355.9038" gradientTransform="matrix(5 0 0 -28.291 2245.9988 10381.8682)">
 			<stop  offset="0" style="stop-color:#4AD8AC"/>
 			<stop  offset="1" style="stop-color:#4076C4"/>
 		</linearGradient>
-		<polygon id="Fill-13" class="st4" points="62.7,7.6 62.7,33 67.7,30.1 67.7,4.7 		"/>
+		<polygon id="Fill-13" fill="url(#Fill-13_1_)" points="390.916,162.681 390.916,312.994 420.5,295.912 420.5,145.602 		"/>
 		
-			<linearGradient id="Fill-14_1_" gradientUnits="userSpaceOnUse" x1="-5042.6333" y1="1158.6929" x2="-5042.6333" y2="1159.6929" gradientTransform="matrix(5 0 0 28.291 25267.332 -32769.5547)">
+			<linearGradient id="Fill-14_1_" gradientUnits="userSpaceOnUse" x1="-378.8753" y1="360.7168" x2="-378.8753" y2="354.8001" gradientTransform="matrix(5 0 0 -28.291 2234.9985 10388.2188)">
 			<stop  offset="0" style="stop-color:#4AD8AC"/>
 			<stop  offset="1" style="stop-color:#4076C4"/>
 		</linearGradient>
-		<polygon id="Fill-14" class="st5" points="56.7,36.4 56.7,11 51.7,13.9 51.7,39.3 		"/>
+		<polygon id="Fill-14" fill="url(#Fill-14_1_)" points="355.414,333.488 355.414,183.179 325.83,200.257 325.83,350.57 		"/>
 		
-			<linearGradient id="Fill-15_1_" gradientUnits="userSpaceOnUse" x1="-5042.7588" y1="1158.692" x2="-5042.7588" y2="1159.692" gradientTransform="matrix(5.0005 0 0 28.2915 25259.4824 -32763.7598)">
+			<linearGradient id="Fill-15_1_" gradientUnits="userSpaceOnUse" x1="-389.7074" y1="359.6133" x2="-389.7074" y2="353.6965" gradientTransform="matrix(5.0005 0 0 -28.2915 2224.2693 10394.751)">
 			<stop  offset="0" style="stop-color:#4AD8AC"/>
 			<stop  offset="1" style="stop-color:#4076C4"/>
 		</linearGradient>
-		<polygon id="Fill-15" class="st6" points="40.7,20.3 40.7,45.7 45.7,42.8 45.7,17.4 		"/>
+		<polygon id="Fill-15" fill="url(#Fill-15_1_)" points="260.744,237.834 260.744,388.147 290.331,371.065 290.331,220.752 		"/>
 		
-			<linearGradient id="Fill-16_1_" gradientUnits="userSpaceOnUse" x1="-5042.6333" y1="1158.6929" x2="-5042.6333" y2="1159.6929" gradientTransform="matrix(5 0 0 28.291 25233.3359 -32763.2051)">
+			<linearGradient id="Fill-16_1_" gradientUnits="userSpaceOnUse" x1="-412.3051" y1="359.6132" x2="-412.3051" y2="353.6964" gradientTransform="matrix(5 0 0 -28.291 2201.0027 10394.5684)">
 			<stop  offset="0" style="stop-color:#4AD8AC"/>
 			<stop  offset="1" style="stop-color:#4076C4"/>
 		</linearGradient>
-		<polygon id="Fill-16" class="st7" points="17.7,42.8 22.7,45.7 22.7,20.3 17.7,17.4 		"/>
+		<polygon id="Fill-16" fill="url(#Fill-16_1_)" points="124.685,371.065 154.269,388.144 154.269,237.837 124.685,220.753 		"/>
 		
-			<linearGradient id="Fill-17_1_" gradientUnits="userSpaceOnUse" x1="-5042.6333" y1="1158.6929" x2="-5042.6333" y2="1159.6929" gradientTransform="matrix(5 0 0 28.291 25222.3359 -32769.5547)">
+			<linearGradient id="Fill-17_1_" gradientUnits="userSpaceOnUse" x1="-423.122" y1="360.7169" x2="-423.122" y2="354.8001" gradientTransform="matrix(5 0 0 -28.291 2190.0027 10388.2188)">
 			<stop  offset="0" style="stop-color:#4AD8AC"/>
 			<stop  offset="1" style="stop-color:#4076C4"/>
 		</linearGradient>
-		<polygon id="Fill-17" class="st8" points="11.7,13.9 11.7,39.3 6.7,36.4 6.7,11 		"/>
+		<polygon id="Fill-17" fill="url(#Fill-17_1_)" points="89.185,200.259 89.185,350.569 59.601,333.49 59.601,183.177 		"/>
 		
-			<linearGradient id="Fill-18_1_" gradientUnits="userSpaceOnUse" x1="-5042.6333" y1="1158.6929" x2="-5042.6333" y2="1159.6929" gradientTransform="matrix(5 0 0 28.291 25211.3359 -32775.9062)">
+			<linearGradient id="Fill-18_1_" gradientUnits="userSpaceOnUse" x1="-433.939" y1="361.8206" x2="-433.939" y2="355.9039" gradientTransform="matrix(5 0 0 -28.291 2179.0027 10381.8682)">
 			<stop  offset="0" style="stop-color:#4AD8AC"/>
 			<stop  offset="1" style="stop-color:#4076C4"/>
 		</linearGradient>
-		<polygon id="Fill-18" class="st9" points="-4.3,30.1 0.7,33 0.7,7.6 -4.3,4.7 		"/>
+		<polygon id="Fill-18" fill="url(#Fill-18_1_)" points="-5.484,295.912 24.1,312.991 24.1,162.681 -5.484,145.6 		"/>
 	</g>
 	<g id="shadow_1_" transform="translate(7.000000, 19.000000)">
-		<polygon id="Fill-19" class="st2" points="17.7,20.3 22.7,23.2 27.2,20.6 22.2,17.7 		"/>
-		<polygon id="Fill-20" class="st2" points="-4.3,7.6 0.7,10.5 5.2,7.9 0.2,5 		"/>
-		<polygon id="Fill-21" class="st2" points="6.7,14 11.7,16.9 16.2,14.3 11.2,11.4 		"/>
+		<polygon id="Fill-19" fill="#45C1A8" points="159.081,203.843 188.665,220.922 215.465,205.45 185.881,188.371 		"/>
+		<polygon id="Fill-20" fill="#45C1A8" points="28.942,128.705 58.526,145.784 85.323,130.312 55.742,113.233 		"/>
+		<polygon id="Fill-21" fill="#45C1A8" points="94.012,166.274 123.596,183.353 150.393,167.881 120.812,150.802 		"/>
 	</g>
 	<g id="top-1">
-		<polygon id="Fill-22" class="st10" points="22.7,4.7 17.7,7.6 62.7,33.6 67.7,30.7 		"/>
-		<polygon id="Fill-23" class="st10" points="11.7,11 6.7,13.9 51.7,39.9 56.7,37 		"/>
-		<polygon id="Fill-24" class="st10" points="-4.3,20.3 40.7,46.3 45.7,43.4 0.7,17.4 		"/>
+		<polygon id="Fill-22" fill="#A2EACF" points="154.255,17.879 124.669,34.958 390.911,188.678 420.498,171.599 		"/>
+		<polygon id="Fill-23" fill="#A2EACF" points="89.169,55.457 59.585,72.535 325.825,226.256 355.415,209.177 		"/>
+		<polygon id="Fill-24" fill="#A2EACF" points="-5.5,110.112 260.74,263.833 290.33,246.754 24.084,93.033 		"/>
 	</g>
 </g>
 </svg>

@@ -1,46 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 82.7 77.3" style="enable-background:new 0 0 82.7 77.3;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-</style>
+	 viewBox="0 0 432 432" enable-background="new 0 0 432 432" xml:space="preserve">
 <g id="Logo-Symbol-72px" transform="translate(9.000000, 0.000000)">
 	<g id="reverse-2" transform="translate(0.000000, 12.500000)">
-		<polygon id="Fill-1" class="st0" points="63.3,32.7 68.3,35.6 68.3,8.4 63.3,5.6 		"/>
-		<polygon id="Fill-2" class="st0" points="-3.7,8.4 -3.7,35.6 1.3,32.7 1.3,5.6 		"/>
-		<polygon id="Fill-3" class="st0" points="18.3,56.9 23.3,59.8 35.2,53 30.2,50.1 		"/>
-		<polygon id="shadow" class="st0" points="25.3,52.9 30.3,55.8 35.2,53 30.2,50.1 		"/>
+		<polygon id="Fill-1" fill="#FFFFFF" points="388.389,240.058 417.665,256.958 417.665,98.21 388.389,81.304 		"/>
+		<polygon id="Fill-2" fill="#FFFFFF" points="-3.899,98.212 -3.899,256.969 25.377,240.059 25.377,81.308 		"/>
+		<polygon id="Fill-3" fill="#FFFFFF" points="124.931,382.177 154.206,399.078 223.912,358.833 194.636,341.932 		"/>
+		<polygon id="shadow" fill="#FFFFFF" points="165.911,358.517 195.187,375.421 223.912,358.833 194.637,341.932 		"/>
 	</g>
 	<g id="reverse-1" transform="translate(24.500000, 37.500000)">
-		<polygon id="Fill-5" class="st0" points="19.3,23.6 19.3,17.8 -2.2,5.4 -3.7,6.2 -3.7,6.2 -3.7,10.3 		"/>
-		<polygon id="Fill-6" class="st0" points="-3.7,23 16.8,34.8 21.8,31.9 -3.7,17.2 		"/>
+		<polygon id="Fill-5" fill="#FFFFFF" points="249.713,308.153 249.713,274.349 123.66,201.569 115.053,206.537 115.068,206.546 
+			115.068,230.414 		"/>
+		<polygon id="Fill-6" fill="#FFFFFF" points="115.067,304.786 235.083,374.079 264.365,357.178 115.067,270.979 		"/>
 	</g>
 	<g id="top-2">
-		<polygon id="Fill-7" class="st0" points="51.1,25.1 56.1,28 68.3,20.9 63.3,18.1 		"/>
-		<polygon id="Fill-8" class="st0" points="34.9,40.3 29.9,37.4 18.3,44 23.3,46.9 		"/>
-		<polygon id="Fill-9" class="st0" points="57.3,14.6 52.3,11.7 40.1,18.8 45.1,21.7 		"/>
-		<polygon id="Fill-10" class="st0" points="23.9,33.9 18.9,31 7.3,37.7 12.3,40.6 		"/>
-		<polygon id="Fill-11" class="st0" points="29.1,12.4 34.1,15.3 46.3,8.2 41.3,5.4 		"/>
-		<polygon id="Fill-12" class="st0" points="-3.7,31.3 1.3,34.2 12.9,27.6 7.9,24.7 		"/>
+		<polygon id="Fill-7" fill="#FFFFFF" points="316.746,135.174 346.018,152.074 417.665,110.711 388.384,93.813 		"/>
+		<polygon id="Fill-8" fill="#FFFFFF" points="221.691,223.86 192.415,206.959 124.917,245.931 154.193,262.832 		"/>
+		<polygon id="Fill-9" fill="#FFFFFF" points="353.272,73.533 323.991,56.632 252.353,97.995 281.628,114.899 		"/>
+		<polygon id="Fill-10" fill="#FFFFFF" points="157.299,186.682 128.023,169.781 60.525,208.753 89.801,225.654 		"/>
+		<polygon id="Fill-11" fill="#FFFFFF" points="187.961,60.819 217.237,77.72 288.88,36.356 259.599,19.455 		"/>
+		<polygon id="Fill-12" fill="#FFFFFF" points="-3.867,171.574 25.408,188.475 92.907,149.506 63.631,132.602 		"/>
 	</g>
 	<g id="gradient" transform="translate(0.000000, 26.000000)">
-		<polygon id="Fill-13" class="st0" points="63.3,8.2 63.3,33.6 68.3,30.7 68.3,5.3 		"/>
-		<polygon id="Fill-14" class="st0" points="57.3,37.1 57.3,11.7 52.3,14.6 52.3,40 		"/>
-		<polygon id="Fill-15" class="st0" points="41.3,20.9 41.3,46.3 46.3,43.4 46.3,18 		"/>
-		<polygon id="Fill-16" class="st0" points="18.3,43.4 23.3,46.3 23.3,20.9 18.3,18 		"/>
-		<polygon id="Fill-17" class="st0" points="12.3,14.6 12.3,40 7.3,37.1 7.3,11.7 		"/>
-		<polygon id="Fill-18" class="st0" points="-3.7,30.7 1.3,33.6 1.3,8.2 -3.7,5.3 		"/>
+		<polygon id="Fill-13" fill="#FFFFFF" points="388.389,162.463 388.389,311.21 417.665,294.306 417.665,145.562 		"/>
+		<polygon id="Fill-14" fill="#FFFFFF" points="353.257,331.491 353.257,182.747 323.981,199.648 323.981,348.395 		"/>
+		<polygon id="Fill-15" fill="#FFFFFF" points="259.573,236.833 259.573,385.581 288.851,368.677 288.851,219.929 		"/>
+		<polygon id="Fill-16" fill="#FFFFFF" points="124.931,368.677 154.206,385.578 154.206,236.837 124.931,219.93 		"/>
+		<polygon id="Fill-17" fill="#FFFFFF" points="89.8,199.65 89.8,348.394 60.524,331.493 60.524,182.746 		"/>
+		<polygon id="Fill-18" fill="#FFFFFF" points="-3.883,294.307 25.393,311.208 25.393,162.463 -3.883,145.559 		"/>
 	</g>
 	<g id="shadow_1_" transform="translate(7.000000, 19.000000)">
-		<polygon id="Fill-19" class="st0" points="18.3,21 23.3,23.9 27.9,21.3 22.9,18.4 		"/>
-		<polygon id="Fill-20" class="st0" points="-3.7,8.3 1.3,11.2 5.9,8.6 0.9,5.7 		"/>
-		<polygon id="Fill-21" class="st0" points="7.3,14.7 12.3,17.5 16.9,14.9 11.9,12 		"/>
+		<polygon id="Fill-19" fill="#FFFFFF" points="158.895,203.269 188.171,220.17 214.692,204.859 185.416,187.958 		"/>
+		<polygon id="Fill-20" fill="#FFFFFF" points="30.112,128.914 59.388,145.814 85.906,130.503 56.633,113.602 		"/>
+		<polygon id="Fill-21" fill="#FFFFFF" points="94.504,166.091 123.78,182.992 150.298,167.681 121.025,150.78 		"/>
 	</g>
 	<g id="top-1">
-		<polygon id="Fill-22" class="st0" points="23.3,5.4 18.3,8.2 63.3,34.2 68.3,31.3 		"/>
-		<polygon id="Fill-23" class="st0" points="12.3,11.7 7.3,14.6 52.3,40.6 57.3,37.7 		"/>
-		<polygon id="Fill-24" class="st0" points="-3.7,20.9 41.3,46.9 46.3,44 1.3,18.1 		"/>
+		<polygon id="Fill-22" fill="#FFFFFF" points="154.193,19.439 124.914,36.34 388.385,188.46 417.663,171.559 		"/>
+		<polygon id="Fill-23" fill="#FFFFFF" points="89.784,56.625 60.509,73.526 323.976,225.646 353.258,208.745 		"/>
+		<polygon id="Fill-24" fill="#FFFFFF" points="-3.899,110.712 259.569,262.832 288.85,245.931 25.377,93.811 		"/>
 	</g>
 </g>
 </svg>
