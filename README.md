@@ -2,9 +2,7 @@
 
 In this repo, you can find artwork in standard formats for the CNCF [projects](https://www.cncf.io/projects/) and programs. We prepare artwork in PNG, SVG and AI formats. Artwork labeled Pantone should only be used in print. Artwork is generally available in horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and are square).
 
-<br>
-
-<b>CNCF Project Logos</b>
+## CNCF Project Logos
 
 <img src="https://github.com/alexcontini/artwork/blob/master/kubernetes/horizontal/color/kubernetes-horizontal-noborder-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="https://github.com/alexcontini/artwork/blob/master/kubernetes/stacked/color/kubernetes-stacked-noborder-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="https://github.com/alexcontini/artwork/blob/master/kubernetes/icon/color/kubernetes-icon-noborder-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
@@ -35,12 +33,9 @@ In this repo, you can find artwork in standard formats for the CNCF [projects](h
 
 <img src="https://github.com/cncf/artwork/blob/master/tuf/horizontal/color/tuf-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="https://github.com/cncf/artwork/blob/master/tuf/stacked/color/tuf-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="https://github.com/cncf/artwork/blob/master/tuf/icon/color/tuf-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-<br>
+## Other CNCF Logos
 
 We also include logos for the [CNCF](https://github.com/cncf/artwork/tree/master/cncf/horizontal/color), Certified Kubernetes Administrators ([CKA](https://github.com/cncf/artwork/tree/master/other/cka/color)), Kubernetes Certified Service Providers ([KCSP](https://github.com/cncf/artwork/tree/master/other/kcsp/color)), CNCF [Ambassadors](https://github.com/cncf/artwork/tree/master/other/ambassador/stacked/color) and KubeCon and CloudNativeCon ([KCCNC](https://github.com/cncf/artwork/tree/master/other/kubecon-cloudnativecon/na-2018/color)).
-
-<br>
-<b>Other CNCF Logos</b>
 
 <img src="https://github.com/cncf/artwork/blob/master/cncf/horizontal/color/cncf-color.png" width="210">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/other/cka/color/kubernetes-cka-color.png" width="160">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/other/kcsp/color/kubernetes-kcsp-color.png" width="160">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/other/ambassador/horizontal/color/cncf-ambassador-colour-horizontal.png" width="235">
 
