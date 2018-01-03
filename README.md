@@ -35,15 +35,15 @@ In this repo, you can find artwork in standard formats for the CNCF [projects](h
 
 We also include logos for the [CNCF](https://github.com/cncf/artwork/tree/master/cncf/horizontal/color), Certified Kubernetes Administrators ([CKA](https://github.com/cncf/artwork/tree/master/other/cka/color)), Kubernetes Certified Service Providers ([KCSP](https://github.com/cncf/artwork/tree/master/other/kcsp/color)), CNCF [Ambassadors](https://github.com/cncf/artwork/tree/master/other/ambassador/stacked/color) and KubeCon and CloudNativeCon ([KCCNC](https://github.com/cncf/artwork/tree/master/other/kubecon-cloudnativecon/na-2018/color)).
 
-<img src="https://github.com/cncf/artwork/blob/master/cncf/horizontal/color/cncf-color.png" width="200">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/other/cka/color/kubernetes-cka-color.png" width="100">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/other/kcsp/color/kubernetes-kcsp-color.png" width="100">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/other/ambassador/horizontal/color/cncf-ambassador-colour-horizontal.png" width="200">
+<img src="https://github.com/cncf/artwork/blob/master/cncf/horizontal/color/cncf-color.png" width="200">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/other/cka/color/kubernetes-cka-color.png" width="150">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/other/kcsp/color/kubernetes-kcsp-color.png" width="150">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/other/ambassador/horizontal/color/cncf-ambassador-colour-horizontal.png" width="225">
 
 
-<img src="https://github.com/cncf/artwork/blob/master/other/kubecon-cloudnativecon/eu-2018/color/kccnc-eu-color.png" width="200">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/other/kubecon-cloudnativecon/china-2018/color/kccnc-china-color.png" width="200">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/other/kubecon-cloudnativecon/china-2018/color/kccnc-china-color.png" width="200">
+<img src="https://github.com/cncf/artwork/blob/master/other/kubecon-cloudnativecon/eu-2018/color/kccnc-eu-color.png" width="250">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/other/kubecon-cloudnativecon/china-2018/color/kccnc-china-color.png" width="250">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/other/kubecon-cloudnativecon/na-2018/color/kccnc-na-color.png" width="250">
 
 <img src="https://github.com/cncf/artwork/blob/master/kubernetes/certified-kubernetes/1.9/color/certified_kubernetes_1.9_color.png" width="200">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/kubernetes/certified-kubernetes/versionless/color/certified_kubernetes_color.png" width="200">
 
 
-<img src="https://github.com/cncf/artwork/blob/master/other/illustrations/ashley-mcnamara/original/cncf-cloud-gophers.png" width="200">
+<img src="https://github.com/cncf/artwork/blob/master/other/illustrations/ashley-mcnamara/original/cncf-cloud-gophers.png" width=“500">
 
 
 
