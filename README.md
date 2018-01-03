@@ -40,7 +40,10 @@ We also include logos for the [CNCF](https://github.com/cncf/artwork/tree/master
 
 <img src="https://github.com/cncf/artwork/blob/master/other/kubecon-cloudnativecon/eu-2018/color/kccnc-eu-color.png" width="250">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/other/kubecon-cloudnativecon/china-2018/color/kccnc-china-color.png" width="250">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/other/kubecon-cloudnativecon/na-2018/color/kccnc-na-color.png" width="250">
 
-<img src="https://github.com/cncf/artwork/blob/master/kubernetes/certified-kubernetes/1.9/color/certified_kubernetes_1.9_color.png" width="100">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/kubernetes/certified-kubernetes/versionless/color/certified_kubernetes_color.png" width="100">
+<img src="https://github.com/cncf/artwork/blob/master/kubernetes/certified-kubernetes/1.9/color/certified_kubernetes_1.9_color.png" width="150">&nbsp;  &nbsp;  <img src="https://github.com/cncf/artwork/blob/master/kubernetes/certified-kubernetes/versionless/color/certified_kubernetes_color.png" width="150">
+
+<img src="https://github.com/cncf/artwork/blob/master/other/devstats/horizontal/color/devstats-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="https://github.com/cncf/artwork/blob/master/other/devstats/stacked/color/devstats-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="https://github.com/cncf/artwork/blob/master/other/devstats/icon/color/devstats-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
 
 <img src="https://github.com/cncf/artwork/blob/master/other/illustrations/ashley-mcnamara/original/cncf-cloud-gophers.png" width="500">
 
