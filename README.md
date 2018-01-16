@@ -35,7 +35,7 @@ In this repo, you can find artwork in standard formats for the CNCF [projects](h
 
 ## Other CNCF Logos
 
-We also include logos for the [CNCF](https://github.com/cncf/artwork/tree/master/cncf/horizontal/color), Certified Kubernetes Administrators ([CKA](https://github.com/cncf/artwork/tree/master/other/cka/color)), Kubernetes Certified Service Providers ([KCSP](https://github.com/cncf/artwork/tree/master/other/kcsp/color)), CNCF [Ambassadors](https://github.com/cncf/artwork/tree/master/other/ambassador/stacked/color) and KubeCon and CloudNativeCon ([KCCNC](https://github.com/cncf/artwork/tree/master/other/kubecon-cloudnativecon/na-2018/color)).
+We also include logos for the [CNCF](/cncf/horizontal/color), Certified Kubernetes Administrators ([CKA](/other/cka/color)), Kubernetes Certified Service Providers ([KCSP](/other/kcsp/color)), CNCF [Ambassadors](/other/ambassador/stacked/color) and KubeCon and CloudNativeCon ([KCCNC](/other/kubecon-cloudnativecon/na-2018/color)).
 
 <img src="/cncf/horizontal/color/cncf-color.png" width="210">&nbsp;  &nbsp;  <img src="/other/cka/color/kubernetes-cka-color.png" width="160">&nbsp;  &nbsp;  <img src="/other/kcsp/color/kubernetes-kcsp-color.png" width="160">&nbsp;  &nbsp;  <img src="/other/ambassador/horizontal/color/cncf-ambassador-colour-horizontal.png" width="235">
 
@@ -53,7 +53,7 @@ We also include logos for the [CNCF](https://github.com/cncf/artwork/tree/master
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
-The [Certified Kubernetes](https://github.com/cncf/artwork/tree/master/kubernetes/certified-kubernetes) marks are only available for use with [conformant](https://www.cncf.io/certification/software-conformance/) platforms and distributions and must comply with the [brand guidelines](https://github.com/cncf/artwork/tree/master/kubernetes/certified-kubernetes/certified-kubernetes-brand-guide.pdf).
+The [Certified Kubernetes](/kubernetes/certified-kubernetes) marks are only available for use with [conformant](https://www.cncf.io/certification/software-conformance/) platforms and distributions and must comply with the [brand guidelines](/kubernetes/certified-kubernetes/certified-kubernetes-brand-guide.pdf).
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
 
