@@ -13,7 +13,7 @@ In this repo, you can find artwork in standard formats for the CNCF [projects](h
 
 <img src="/fluentd/horizontal/color/fluentd-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp; <img src="/fluentd/stacked/color/fluentd-stacked-color.png" width="120">&nbsp;  &nbsp;  &nbsp; <img src="/fluentd/icon/color/fluentd-icon-color.png" width="75">
 
-<img src="/linkerd/horizontal/Color/linkerd-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp; <img src="/linkerd/stacked/color/linkerd-stacked-color.png" width="110">   &nbsp;  &nbsp;  &nbsp; <img src="/linkerd/icon/color/linkerd-icon-color.png" width="80">
+<img src="/linkerd/horizontal/color/linkerd-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp; <img src="/linkerd/stacked/color/linkerd-stacked-color.png" width="110">   &nbsp;  &nbsp;  &nbsp; <img src="/linkerd/icon/color/linkerd-icon-color.png" width="80">
 
 <img src="/grpc/horizontal/color/grpc-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp;  <img src="/grpc/icon/color/grpc-icon-color.png" width="110">&nbsp;  &nbsp;  <img src="/grpc/icon/color/grpc-icon-color.png" width="110">
 
@@ -23,7 +23,7 @@ In this repo, you can find artwork in standard formats for the CNCF [projects](h
 
 <img src="/rkt/horizontal/color/rkt-horizontal-color.png" width="180" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  <img src="/rkt/stacked/color/rkt-stacked-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/rkt/icon/color/rkt-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/cni/horizontal/color/cni-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp;  &nbsp;  <img src="/cni/stacked/color/cni-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/cni/icon/Color/cni-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/cni/horizontal/color/cni-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp;  &nbsp;  <img src="/cni/stacked/color/cni-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/cni/icon/color/cni-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/envoy/horizontal/color/envoy-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/envoy/stacked/color/envoy-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/envoy/icon/color/envoy-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
