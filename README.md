@@ -1,6 +1,6 @@
 # CNCF related logos and artwork
 
-In this repo, you can find artwork in standard formats for the CNCF [projects](https://www.cncf.io/projects/) and programs. We prepare artwork in PNG, SVG and AI formats. Artwork labeled Pantone should only be used in print. Artwork is generally available in horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and are square).
+In this repo, you can find artwork in standard formats for the CNCF [projects](https://www.cncf.io/projects/) and programs. We prepare artwork in PNG, SVG and AI formats. Artwork labeled Pantone should only be used in print. Artwork is generally available in horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square).
 
 ## CNCF Project Logos
 
