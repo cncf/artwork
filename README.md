@@ -45,7 +45,7 @@ We also include logos for the [CNCF](/cncf/horizontal/color), Certified Kubernet
 
 <img src="/other/kubecon-cloudnativecon/eu-2018/color/kccnc-eu-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/china-2018/color/kccnc-china-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/na-2018/color/kccnc-na-color.png" width="260">
 
-<img src="/kubernetes/certified-kubernetes/1.9/color/certified_kubernetes_1.9_color.png" width="130">&nbsp;  &nbsp;  <img src="/kubernetes/certified-kubernetes/versionless/color/certified_kubernetes_color.png" width="130">
+<img src="/kubernetes/certified-kubernetes/1.9/color/certified-kubernetes-1.9-color.png" width="130">&nbsp;  &nbsp;  <img src="/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.png" width="130">
 
 <img src="/other/devstats/horizontal/color/devstats-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/devstats/stacked/color/devstats-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/devstats/icon/color/devstats-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
