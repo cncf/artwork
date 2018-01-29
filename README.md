@@ -17,7 +17,7 @@ In this repo, you can find artwork in standard formats for the CNCF [projects](h
 
 <img src="/grpc/horizontal/color/grpc-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp;  <img src="/grpc/icon/color/grpc-icon-color.png" width="110">&nbsp;  &nbsp;  <img src="/grpc/icon/color/grpc-icon-color.png" width="110">
 
-<img src="/coredns/horizontal/solid color/core-dns_horizontal-solid-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/coredns/stacked/solid color/core-dns-stacked-solid-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/coredns/icon/color/core-dns-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/coredns/horizontal/solid-color/core-dns_horizontal-solid-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/coredns/stacked/solid-color/core-dns-stacked-solid-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/coredns/icon/color/core-dns-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/containerd/horizontal/color/containerd-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/containerd/stacked/color/containerd-stacked-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/containerd/icon/color/containerd-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
@@ -48,6 +48,8 @@ We also include logos for the [CNCF](/cncf/horizontal/color), Certified Kubernet
 <img src="/kubernetes/certified-kubernetes/1.9/color/certified-kubernetes-1.9-color.png" width="130">&nbsp;  &nbsp;  <img src="/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.png" width="130">
 
 <img src="/other/devstats/horizontal/color/devstats-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/devstats/stacked/color/devstats-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/devstats/icon/color/devstats-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
+
+<img src="/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/cncf-landscape/stacked/color/cncf-landscape-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/cncf-landscape/icon/color/cncf-landscape-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
 
 <img src="/other/illustrations/ashley-mcnamara/original/cncf-cloud-gophers.png" width="400">
