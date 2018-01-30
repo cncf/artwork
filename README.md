@@ -51,7 +51,7 @@ We also include logos for the [CNCF](/cncf/horizontal/color), Certified Kubernet
 
 <img src="/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/cncf-landscape/stacked/color/cncf-landscape-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/cncf-landscape/icon/color/cncf-landscape-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/other/cloudevents/horizontal/color/cloudevents-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/cloudevents/stacked/color/cloudevents-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/cloudevents/icon/color/cloudevents-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/other/cloudevents/original/horizontal/color/cloudevents-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/cloudevents/original/stacked/color/cloudevents-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/cloudevents/original/icon/color/cloudevents-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
 
 <img src="/other/illustrations/ashley-mcnamara/original/cncf-cloud-gophers.png" width="400">
