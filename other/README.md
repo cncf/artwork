@@ -35,6 +35,7 @@ In this repo, you can find artwork in standard formats for the CNCF [projects](h
 
 <img src="/rook/horizontal/color/rook-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/rook/stacked/color/rook-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/rook/icon/color/rook-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src=“/vitesse/horizontal/color/vitesse-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/vitesse/stacked/color/vitesse-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/vitesse/icon/color/vitesse-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 ## Other CNCF Logos
 
