@@ -2,7 +2,7 @@
 
 In this repo, you can find artwork in standard formats for the CNCF [projects](https://www.cncf.io/projects/) and programs. We prepare artwork in PNG, SVG and AI formats. Artwork labeled Pantone should only be used in print. Artwork is generally available in horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square).
 
-## CNCF Project Logos
+## CNCF Incubating Logos
 
 <img src="/kubernetes/horizontal/color/kubernetes-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/stacked/color/kubernetes-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/icon/color/kubernetes-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
@@ -13,11 +13,7 @@ In this repo, you can find artwork in standard formats for the CNCF [projects](h
 
 <img src="/fluentd/horizontal/color/fluentd-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp; <img src="/fluentd/stacked/color/fluentd-stacked-color.png" width="120">&nbsp;  &nbsp;  &nbsp; <img src="/fluentd/icon/color/fluentd-icon-color.png" width="75">
 
-<img src="/linkerd/horizontal/color/linkerd-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp; <img src="/linkerd/stacked/color/linkerd-stacked-color.png" width="110">   &nbsp;  &nbsp;  &nbsp; <img src="/linkerd/icon/color/linkerd-icon-color.png" width="80">
-
 <img src="/grpc/horizontal/color/grpc-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp;  <img src="/grpc/icon/color/grpc-icon-color.png" width="110">&nbsp;  &nbsp;  <img src="/grpc/icon/color/grpc-icon-color.png" width="110">
-
-<img src="/coredns/horizontal/solid-color/coredns-horizontal-solid-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/coredns/stacked/solid-color/coredns-stacked-solid-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/coredns/icon/color/coredns-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/containerd/horizontal/color/containerd-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/containerd/stacked/color/containerd-stacked-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/containerd/icon/color/containerd-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
@@ -33,9 +29,19 @@ In this repo, you can find artwork in standard formats for the CNCF [projects](h
 
 <img src="/tuf/horizontal/color/tuf-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/tuf/stacked/color/tuf-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/tuf/icon/color/tuf-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/vitess/horizontal/color/vitess-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/vitess/stacked/color/vitess-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/vitess/icon/color/vitess-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
+
+
+## CNCF Inception Logos
+
+<img src="/linkerd/horizontal/color/linkerd-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp; <img src="/linkerd/stacked/color/linkerd-stacked-color.png" width="110">   &nbsp;  &nbsp;  &nbsp; <img src="/linkerd/icon/color/linkerd-icon-color.png" width="80">
+
+<img src="/coredns/horizontal/solid-color/coredns-horizontal-solid-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/coredns/stacked/solid-color/coredns-stacked-solid-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/coredns/icon/color/coredns-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
 <img src="/rook/horizontal/color/rook-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/rook/stacked/color/rook-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/rook/icon/color/rook-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/vitess/horizontal/color/vitess-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/vitess/stacked/color/vitess-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/vitess/icon/color/vitess-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
 
 ## Other CNCF Logos
 
