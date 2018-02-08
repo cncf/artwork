@@ -44,9 +44,10 @@ In this repo, you can find artwork in standard formats for the CNCF [projects](h
 <br><br>
 ## Other CNCF Logos
 
-We also include logos for the [CNCF](/cncf/horizontal/color), Certified Kubernetes Administrators ([CKA](/other/cka/color)), Kubernetes Certified Service Providers ([KCSP](/other/kcsp/color)), CNCF [Ambassadors](/other/ambassador/stacked/color) and KubeCon and CloudNativeCon ([KCCNC](/other/kubecon-cloudnativecon/na-2018/color)).
+<img src="/cncf/horizontal/color/cncf-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/cncf/icon/color/cncf-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/cncf/horizontal/color/cncf-color.png" width="210">&nbsp;  &nbsp;  <img src="/other/cka/color/kubernetes-cka-color.png" width="160">&nbsp;  &nbsp;  <img src="/other/kcsp/color/kubernetes-kcsp-color.png" width="160">&nbsp;  &nbsp;  <img src="/other/ambassador/horizontal/color/cncf-ambassador-color-horizontal.png" width="235">
+
+<img src="/other/cka/color/kubernetes-cka-color.png" width="160">&nbsp;  &nbsp;  <img src="/other/kcsp/color/kubernetes-kcsp-color.png" width="160">&nbsp;  &nbsp;  <img src="/other/ambassador/horizontal/color/cncf-ambassador-color-horizontal.png" width="235">
 
 
 <img src="/other/kubecon-cloudnativecon/eu-2018/color/kccnc-eu-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/china-2018/color/kccnc-china-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/na-2018/color/kccnc-na-color.png" width="260">
