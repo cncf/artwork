@@ -58,7 +58,12 @@ In this repo, you can find artwork in standard formats for the CNCF [projects](h
 
 <img src="/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/cncf-landscape/stacked/color/cncf-landscape-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/cncf-landscape/icon/color/cncf-landscape-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/other/cncf-sandbox/horizontal/color/cncf-sandbox-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/cncf-sandbox/stacked/color/cncf-sandbox-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/cncf-sandbox/icon/color/cncf-sandbox-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
+
 <img src="/other/cloudevents/horizontal/color/cloudevents-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/cloudevents/stacked/color/cloudevents-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/cloudevents/icon/color/cloudevents-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
+
+<img src="/other/csi/horizontal/color/csi-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/csi/stacked/color/csi-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/csi/icon/color/csi-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
+
 
 
 <img src="/other/illustrations/ashley-mcnamara/original/cncf-cloud-gophers.png" width="400">
