@@ -52,7 +52,7 @@ In this repo, you can find artwork in standard formats for the CNCF [projects](h
 <img src="/other/cka/color/kubernetes-cka-color.png" width="160">&nbsp;  &nbsp;  <img src="/other/kcsp/color/kubernetes-kcsp-color.png" width="160">&nbsp;  &nbsp;  <img src="/other/ambassador/horizontal/color/cncf-ambassador-color-horizontal.png" width="235">
 
 
-<img src="/other/kubecon-cloudnativecon/eu-2018/color/kccnc-eu-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/china-2018/color/kccnc-china-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/na-2018/color/kccnc-na-color.png" width="260">
+<img src="/other/kubecon-cloudnativecon/2018-eu/color/kccnc-eu-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2018-china/color/kccnc-china-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2018-na/color/kccnc-na-color.png" width="260">
 
 <img src="/kubernetes/certified-kubernetes/1.9/color/certified-kubernetes-1.9-color.png" width="130">&nbsp;  &nbsp;  <img src="/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.png" width="130">
 
