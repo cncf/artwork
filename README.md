@@ -30,11 +30,11 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/tuf/horizontal/color/tuf-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/tuf/stacked/color/tuf-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/tuf/icon/color/tuf-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/vitess/horizontal/color/vitess-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/vitess/stacked/color/vitess-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/vitess/icon/color/vitess-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"> 
+<img src="/vitess/horizontal/color/vitess-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/vitess/stacked/color/vitess-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/vitess/icon/color/vitess-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/coredns/horizontal/solid-color/coredns-horizontal-solid-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/coredns/stacked/solid-color/coredns-stacked-solid-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/coredns/icon/color/coredns-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/nats/horizontal/color/nats-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/nats/stacked/color/nats-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/nats/icon/color/nats-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"> 
+<img src="/nats/horizontal/color/nats-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/nats/stacked/color/nats-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/nats/icon/color/nats-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 <br><br>
 
 ## CNCF Sandbox Logos
@@ -55,7 +55,7 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/other/kubecon-cloudnativecon/2018-eu/color/kccnc-eu-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2018-china/color/kccnc-china-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2018-na/color/kccnc-na-color.png" width="260">
 
-<img src="/kubernetes/certified-kubernetes/1.9/color/certified-kubernetes-1.9-color.png" width="130">&nbsp;  &nbsp;  <img src="/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.png" width="130">
+<img src="/kubernetes/certified-kubernetes/1.10/color/certified-kubernetes-1.10-color.png" width="130">&nbsp;  &nbsp;  <img src="/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.png" width="130">
 
 <img src="/other/devstats/horizontal/color/devstats-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/devstats/stacked/color/devstats-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/devstats/icon/color/devstats-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
@@ -78,10 +78,3 @@ Use of any trademark or logo is subject to the trademark policy available at htt
 The [Certified Kubernetes](/kubernetes/certified-kubernetes) marks are only available for use with [conformant](https://www.cncf.io/certification/software-conformance/) platforms and distributions and must comply with the [brand guidelines](/kubernetes/certified-kubernetes/certified-kubernetes-brand-guide.pdf).
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
-
-
-
-
-
-
-
