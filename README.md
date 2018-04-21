@@ -1,12 +1,12 @@
 # CNCF related logos and artwork
 
-In this repo, we have artwork in standard formats for the CNCF [projects](https://www.cncf.io/projects/) and programs. We prepare artwork in 3 formats (PNG/SVG/AI), 3 layouts -- horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square), and 3 versions (color/black/white). So, that's at least 27 versions of most logos.
+In this repo, we have artwork in standard formats for the CNCF [projects](https://www.cncf.io/projects/) and programs. We prepare artwork in 3 formats (PNG/SVG/AI), 3 layouts -- horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square), and 3 versions (color/black/white). So, that's at least 27 versions of most logos. You can find t-shirts, hoodies and stickers for each CNCF graduated and incubating project at the CNCF [store](https://store.cncf.io/). 
 
-## CNCF Graduated Logos
+## CNCF Graduated Project Logos
 
 <img src="/kubernetes/horizontal/color/kubernetes-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/stacked/color/kubernetes-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/icon/color/kubernetes-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-## CNCF Incubating Logos
+## CNCF Incubating Project Logos
 
 <img src="/prometheus/horizontal/color/prometheus-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/prometheus/stacked/color/prometheus-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/prometheus/icon/color/prometheus-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
@@ -40,11 +40,11 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <br><br>
 
-## CNCF Sandbox Logos
-
-<img src="/rook/horizontal/color/rook-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/rook/stacked/color/rook-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/rook/icon/color/rook-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+## CNCF Sandbox Project Logos
 
 <img src="/opa/horizontal/color/opa-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/opa/stacked/color/opa-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/opa/icon/color/opa-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"> 
+
+<img src="/rook/horizontal/color/rook-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/rook/stacked/color/rook-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/rook/icon/color/rook-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/spiffe/horizontal/color/spiffe-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/spiffe/stacked/color/spiffe-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/spiffe/icon/color/spiffe-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"> 
 
