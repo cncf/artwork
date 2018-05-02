@@ -56,7 +56,7 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 <img src="/cncf/horizontal/color/cncf-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/cncf/icon/color/cncf-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
 
-<img src="/other/cka/color/kubernetes-cka-color.png" width="160">&nbsp;  &nbsp;  <img src="/other/ckad/color/kubernetes-ckad-color.png" width="160">&nbsp;  &nbsp;  <img src="/other/kcsp/color/kubernetes-kcsp-color.png" width="160">&nbsp;  &nbsp;  <img src="/other/ambassador/horizontal/color/cncf-ambassador-color-horizontal.png" width="235">
+<img src="/other/cka/color/kubernetes-cka-color.png" width="140">&nbsp;  &nbsp;  <img src="/other/ckad/color/kubernetes-ckad-color.png" width="140">&nbsp;  &nbsp;  <img src="/other/kcsp/color/kubernetes-kcsp-color.png" width="140">&nbsp;  &nbsp;  <img src="/other/ktp/color/kubernetes-ktp-color.png" width="140">&nbsp;  &nbsp;  <img src="/other/ambassador/horizontal/color/cncf-ambassador-color-horizontal.png" width="235">
 
 
 <img src="/other/kubecon-cloudnativecon/2018-eu/color/kccnc-eu-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2018-china/color/kccnc-china-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2018-na/color/kccnc-na-color.png" width="260">
