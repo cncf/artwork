@@ -52,7 +52,7 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/cloudevents/horizontal/color/cloudevents-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/cloudevents/stacked/color/cloudevents-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/cloudevents/icon/color/cloudevents-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src=“/telepresence/horizontal/color/telepresence-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/telepresence/stacked/color/telepresence-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/telepresence/icon/color/telepresence-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/telepresence/horizontal/color/telepresence-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/telepresence/stacked/color/telepresence-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/telepresence/icon/color/telepresence-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
 
 <br><br>
