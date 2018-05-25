@@ -58,7 +58,7 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 <br><br>
 ## Other CNCF Logos
 
-<img src="/cncf/horizontal/color/cncf-color.png" width="400" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/cncf/icon/color/cncf-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/cncf/horizontal/color/cncf-color.png" width="400" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/cncf/stacked/color/cncf-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/cncf/icon/color/cncf-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
 
 <img src="/other/cka/color/kubernetes-cka-color.png" width="140">&nbsp;  &nbsp;  <img src="/other/ckad/color/kubernetes-ckad-color.png" width="140">&nbsp;  &nbsp;  <img src="/other/kcsp/color/kubernetes-kcsp-color.png" width="120">&nbsp;  &nbsp;  <img src="/other/ktp/color/kubernetes-ktp-color.png" width="120">&nbsp;  &nbsp;  <img src="/other/ambassador/horizontal/color/cncf-ambassador-color-horizontal.png" width="235">
