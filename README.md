@@ -58,6 +58,8 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 <br><br>
 ## Other CNCF Logos
 
+Please note that CNCF prefers the horizontal form of our logo to the stacked version when feasible.
+
 <img src="/cncf/horizontal/color/cncf-color.png" width="400" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/cncf/stacked/color/cncf-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/cncf/icon/color/cncf-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
 
