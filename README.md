@@ -64,7 +64,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 
 <img src="/other/cka/color/kubernetes-cka-color.png" width="140">&nbsp;  &nbsp;  <img src="/other/ckad/color/kubernetes-ckad-color.png" width="140">&nbsp;  &nbsp;  <img src="/other/kcsp/color/kubernetes-kcsp-color.png" width="120">&nbsp;  &nbsp;  <img src="/other/ktp/color/kubernetes-ktp-color.png" width="120">
 
-<img src="/other/ambassador/horizontal/color/cncf-ambassador-color-horizontal.png" width="140">&nbsp;  &nbsp;  <img src="/other/ambassador/stacked/color/cncf-ambassador-color-vertical.png" width="100">
+<img src="/other/ambassador/horizontal/color/cncf-ambassador-color-horizontal.png" width="240">&nbsp;  &nbsp;  <img src="/other/ambassador/stacked/color/cncf-ambassador-color-vertical.png" width="140">
 
 <img src="/other/kubecon-cloudnativecon/2018-china/color/kccnc-china-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2018-na/color/kccnc-na-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2019-eu/color/kccnc-eu-2019-color.png" width="260">
 
