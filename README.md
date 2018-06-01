@@ -38,6 +38,8 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/linkerd/horizontal/color/linkerd-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp; <img src="/linkerd/stacked/color/linkerd-stacked-color.png" width="110">   &nbsp;  &nbsp;  &nbsp; <img src="/linkerd/icon/color/linkerd-icon-color.png" width="80">
 
+<img src="/helm/horizontal/color/helm-horizontal-color.png" width="155">      &nbsp;  &nbsp;     &nbsp;  <img src="/helm/stacked/color/helm-stacked-color.png" width="155">   &nbsp;  &nbsp;  <img src="/helm/icon/color/helm-icon-color.png" width="90">
+
 <br><br>
 
 ## CNCF Sandbox Project Logos
