@@ -80,6 +80,9 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 
 <img src="/other/csi/horizontal/color/csi-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/csi/stacked/color/csi-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/csi/icon/color/csi-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/other/apisnoop/horizontal/color/apisnoop-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/apisnoop/stacked/color/apisnoop-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/apisnoop/icon/color/apisnoop-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
+
+
 
 
 <img src="/other/illustrations/ashley-mcnamara/original/cncf-cloud-gophers.png" width="400">
