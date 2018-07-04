@@ -70,7 +70,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 
 <img src="/other/kubecon-cloudnativecon/2018-china/color/kccnc-china-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2018-na/color/kccnc-na-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2019-eu/color/kccnc-eu-2019-color.png" width="260">
 
-<img src="/other/envoycon/color/envoycon-color.png" width="260">
+<img src="/other/envoycon/horizontal/color/envoycon-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/envoycon/stacked/color/envoycon-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/envoycon/icon/color/envoycon-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/kubernetes/certified-kubernetes/1.10/color/certified-kubernetes-1.10-color.png" width="130">&nbsp;  &nbsp;  <img src="/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.png" width="130">
 
