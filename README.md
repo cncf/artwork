@@ -6,9 +6,11 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/kubernetes/horizontal/color/kubernetes-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/stacked/color/kubernetes-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/icon/color/kubernetes-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/prometheus/horizontal/color/prometheus-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/prometheus/stacked/color/prometheus-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/prometheus/icon/color/prometheus-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
+
 ## CNCF Incubating Project Logos
 
-<img src="/prometheus/horizontal/color/prometheus-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/prometheus/stacked/color/prometheus-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/prometheus/icon/color/prometheus-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/opentracing/horizontal/color/opentracing-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;   &nbsp; <img src="/opentracing/stacked/color/opentracing-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/opentracing/icon/color/opentracing-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
