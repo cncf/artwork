@@ -58,7 +58,7 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/harbor/horizontal/color/harbor-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/harbor/stacked/color/harbor-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/harbor/icon/color/harbor-icon-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/openmetrics/horizontal/color/openmetrics-horizontal-color.png" width="220" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/openmetrics/stacked/color/openmetrics-stacked-color.png" width="180" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/openmetrics/icon/color/openmetrics-icon-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/openmetrics/horizontal/color/openmetrics-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/openmetrics/stacked/color/openmetrics-stacked-color.png" width="160" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/openmetrics/icon/color/openmetrics-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
 
 <br><br>
