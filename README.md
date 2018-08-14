@@ -36,7 +36,7 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/coredns/horizontal/solid-color/coredns-horizontal-solid-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/coredns/stacked/solid-color/coredns-stacked-solid-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/coredns/icon/color/coredns-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/nats/horizontal/color/nats-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/nats/stacked/color/nats-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/nats/icon/color/nats-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"> 
+<img src="/nats/horizontal/color/nats-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/nats/icon/color/nats-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"> 
 
 <img src="/linkerd/horizontal/color/linkerd-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp; <img src="/linkerd/stacked/color/linkerd-stacked-color.png" width="110">   &nbsp;  &nbsp;  &nbsp; <img src="/linkerd/icon/color/linkerd-icon-color.png" width="80">
 
