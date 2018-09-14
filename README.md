@@ -62,7 +62,7 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/openmetrics/horizontal/color/openmetrics-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/openmetrics/stacked/color/openmetrics-stacked-color.png" width="140" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/openmetrics/icon/color/openmetrics-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/tikv/horizontal/color/tikv-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/tikv/stacked/color/tikv-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/tikv/icon/color/tikv-icon-color.png" width="80" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/tikv/horizontal/color/tikv-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/tikv/stacked/color/tikv-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/tikv/icon/color/tikv-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
 
 <br><br>
