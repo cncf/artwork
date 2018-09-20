@@ -64,6 +64,9 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/tikv/horizontal/color/tikv-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/tikv/stacked/color/tikv-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/tikv/icon/color/tikv-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/cortex/horizontal/color/cortex-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/cortex/stacked/color/cortex-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/cortex/icon/color/cortex-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
+
+
 
 <br><br>
 ## Other CNCF Logos
