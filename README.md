@@ -42,11 +42,11 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/helm/horizontal/color/helm-horizontal-color.png" width="155">      &nbsp;  &nbsp;     &nbsp;  <img src="/helm/stacked/color/helm-stacked-color.png" width="155">   &nbsp;  &nbsp;  <img src="/helm/icon/color/helm-icon-color.png" width="90">
 
+<img src="/rook/horizontal/color/rook-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/rook/stacked/color/rook-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/rook/icon/color/rook-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
 <br><br>
 
 ## CNCF Sandbox Project Logos
-
-<img src="/rook/horizontal/color/rook-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/rook/stacked/color/rook-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/rook/icon/color/rook-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/opa/horizontal/color/opa-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/opa/stacked/color/opa-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/opa/icon/color/opa-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"> 
 
