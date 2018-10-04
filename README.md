@@ -46,7 +46,7 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <br><br>
 
-## CNCF Sandbox Project Logos
+## Cloud Native Sandbox Project Logos
 
 <img src="/opa/horizontal/color/opa-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/opa/stacked/color/opa-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/opa/icon/color/opa-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"> 
 
