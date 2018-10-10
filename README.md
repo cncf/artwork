@@ -68,6 +68,7 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/buildpacks/horizontal/color/buildpacks-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/buildpacks/stacked/color/buildpacks-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/buildpacks/icon/color/buildpacks-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/falco/horizontal/color/falco-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/falco/stacked/color/falco-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/falco/icon/color/falco-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
 
 <br><br>
