@@ -44,6 +44,8 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/rook/horizontal/color/rook-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/rook/stacked/color/rook-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/rook/icon/color/rook-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/harbor/horizontal/color/harbor-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/harbor/stacked/color/harbor-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/harbor/icon/color/harbor-icon-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">
+
 <br><br>
 
 ## Cloud Native Sandbox Project Logos
@@ -58,8 +60,6 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/telepresence/horizontal/color/telepresence-horizontal-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/telepresence/stacked/color/telepresence-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/telepresence/icon/color/telepresence-icon-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/harbor/horizontal/color/harbor-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/harbor/stacked/color/harbor-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/harbor/icon/color/harbor-icon-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">
-
 <img src="/openmetrics/horizontal/color/openmetrics-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/openmetrics/stacked/color/openmetrics-stacked-color.png" width="140" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/openmetrics/icon/color/openmetrics-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/tikv/horizontal/color/tikv-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/tikv/stacked/color/tikv-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/tikv/icon/color/tikv-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
@@ -70,6 +70,7 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/falco/horizontal/color/falco-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/falco/stacked/color/falco-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/falco/icon/color/falco-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/dragonfly/horizontal/color/dragonfly-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/dragonfly/stacked/color/dragonfly-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/dragonfly/icon/color/dragonfly-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
 <br><br>
 ## Other CNCF Logos
