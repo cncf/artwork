@@ -8,6 +8,8 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/prometheus/horizontal/color/prometheus-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/prometheus/stacked/color/prometheus-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/prometheus/icon/color/prometheus-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/envoy/horizontal/color/envoy-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/envoy/stacked/color/envoy-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/envoy/icon/color/envoy-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
 
 ## CNCF Incubating Project Logos
 
@@ -23,8 +25,6 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 <img src="/rkt/horizontal/color/rkt-horizontal-color.png" width="180" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  <img src="/rkt/stacked/color/rkt-stacked-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/rkt/icon/color/rkt-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/cni/horizontal/color/cni-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp;  &nbsp;  <img src="/cni/stacked/color/cni-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/cni/icon/color/cni-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
-
-<img src="/envoy/horizontal/color/envoy-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/envoy/stacked/color/envoy-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/envoy/icon/color/envoy-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/jaeger/horizontal/color/jaeger-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/jaeger/stacked/color/jaeger-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/jaeger/icon/color/jaeger-icon-color.png" width="90" style="display:inline;vertical-align:middle;padding:2%">
 
