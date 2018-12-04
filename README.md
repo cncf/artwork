@@ -72,6 +72,8 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/dragonfly/horizontal/color/dragonfly-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/dragonfly/stacked/color/dragonfly-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/dragonfly/icon/color/dragonfly-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/virtualkubelet/horizontal/color/virtualkubelet-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/virtualkubelet/stacked/color/virtualkubelet-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/virtualkubelet/icon/color/virtualkubelet-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
+
 <br><br>
 ## Other CNCF Logos
 
