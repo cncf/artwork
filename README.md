@@ -85,7 +85,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 
 <img src="/other/ambassador/horizontal/color/cncf-ambassador-color-horizontal.png" width="280">&nbsp;  &nbsp;  <img src="/other/ambassador/stacked/color/cncf-ambassador-color-vertical.png" width="140">
 
-<img src="/other/kubecon-cloudnativecon/2018-na/color/kccnc-na-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2019-eu/color/kccnc-eu-2019-color.png" width="260">
+<img src="/other/kubecon-cloudnativecon/2018-na/color/kccnc-na-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2019-eu/color/kccnc-eu-2019-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2019-china/color/kccnc-china-2019-color.png" width="260">
 
 <img src="/other/envoycon/horizontal/color/envoycon-horizontal-color.png" width="260" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/envoycon/stacked/color/envoycon-stacked-color.png" width="140" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/envoycon/icon/color/envoycon-icon-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">
 
