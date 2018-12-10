@@ -46,6 +46,9 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/harbor/horizontal/color/harbor-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/harbor/stacked/color/harbor-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/harbor/icon/color/harbor-icon-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/etcd/horizontal/color/etcd-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/etcd/stacked/color/etcd-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/etcd/icon/color/harbor-icon-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">
+
+
 <br><br>
 
 ## Cloud Native Sandbox Project Logos
