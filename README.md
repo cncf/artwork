@@ -102,7 +102,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 <img src="/other/apisnoop/horizontal/color/apisnoop-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/apisnoop/stacked/color/apisnoop-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/apisnoop/icon/color/apisnoop-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
 
-<img src="/other/phippy-and-friends/phippy/color/phippy-color.png" width="150" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/phippy-and-friends/zee/color/zee-color.png" width="170" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/phippy-and-friends/goldie/color/goldie-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/phippy-and-friends/captainkube/color/captainkube-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/other/phippy-and-friends/phippy/color/phippy-color.png" width="150" style="display:inline;vertical-align:middle;padding:2%">  &nbsp;  &nbsp; <img src="/other/phippy-and-friends/zee/color/zee-color.png" width="170" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/phippy-and-friends/goldie/color/goldie-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/phippy-and-friends/captainkube/color/captainkube-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
 
 
