@@ -88,7 +88,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 
 <img src="/other/ambassador/horizontal/color/cncf-ambassador-color-horizontal.png" width="280">&nbsp;  &nbsp;  <img src="/other/ambassador/stacked/color/cncf-ambassador-color-vertical.png" width="140">
 
-<img src="/other/kubecon-cloudnativecon/2018-na/color/kccnc-na-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2019-eu/color/kccnc-eu-2019-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2019-china/color/kccnc-china-2019-color.png" width="260">
+<img src="/other/kubecon-cloudnativecon/2019-eu/color/kccnc-eu-2019-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2019-china/color/kccnc-oss-china-2019-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2019-na/color/kccnc-na-2019-color.png" width="260">
 
 <img src="/other/envoycon/horizontal/color/envoycon-horizontal-color.png" width="260" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/envoycon/stacked/color/envoycon-stacked-color.png" width="140" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/envoycon/icon/color/envoycon-icon-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">
 
@@ -103,10 +103,6 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 <img src="/other/csi/horizontal/color/csi-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/csi/stacked/color/csi-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/csi/icon/color/csi-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/other/apisnoop/horizontal/color/apisnoop-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/apisnoop/stacked/color/apisnoop-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/apisnoop/icon/color/apisnoop-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
-
-
-<img src="/other/phippy-and-friends/group/color/group-color.png" width="320" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp;  &nbsp;<img src="/other/phippy-and-friends/phippy/color/phippy-color.png" width="80" style="display:inline;vertical-align:middle;padding:2%"> &nbsp;  &nbsp; <img src="/other/phippy-and-friends/zee/color/zee-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/phippy-and-friends/goldie/color/goldie-color.png" width="60" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/phippy-and-friends/captainkube/color/captainkube-color.png" width="60" style="display:inline;vertical-align:middle;padding:2%"> 
-
 
 
 
