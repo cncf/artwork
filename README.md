@@ -10,6 +10,8 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/envoy/horizontal/color/envoy-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/envoy/stacked/color/envoy-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/envoy/icon/color/envoy-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/coredns/horizontal/solid-color/coredns-horizontal-solid-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/coredns/stacked/solid-color/coredns-stacked-solid-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/coredns/icon/color/coredns-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
 
 ## CNCF Incubating Project Logos
 
@@ -33,8 +35,6 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 <img src="/tuf/horizontal/color/tuf-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/tuf/stacked/color/tuf-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/tuf/icon/color/tuf-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/vitess/horizontal/color/vitess-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/vitess/stacked/color/vitess-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/vitess/icon/color/vitess-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
-
-<img src="/coredns/horizontal/solid-color/coredns-horizontal-solid-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/coredns/stacked/solid-color/coredns-stacked-solid-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/coredns/icon/color/coredns-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/nats/horizontal/color/nats-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/nats/stacked/color/nats-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/nats/icon/color/nats-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"> 
 
