@@ -12,6 +12,8 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/coredns/horizontal/solid-color/coredns-horizontal-solid-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/coredns/stacked/solid-color/coredns-stacked-solid-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/coredns/icon/color/coredns-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/containerd/horizontal/color/containerd-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/containerd/stacked/color/containerd-stacked-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/containerd/icon/color/containerd-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
 
 ## CNCF Incubating Project Logos
 
@@ -21,8 +23,6 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 <img src="/fluentd/horizontal/color/fluentd-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp; <img src="/fluentd/stacked/color/fluentd-stacked-color.png" width="120">&nbsp;  &nbsp;  &nbsp; <img src="/fluentd/icon/color/fluentd-icon-color.png" width="75">
 
 <img src="/grpc/horizontal/color/grpc-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp;  <img src="/grpc/icon/color/grpc-icon-color.png" width="110">&nbsp;  &nbsp;  <img src="/grpc/icon/color/grpc-icon-color.png" width="110">
-
-<img src="/containerd/horizontal/color/containerd-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/containerd/stacked/color/containerd-stacked-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/containerd/icon/color/containerd-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/rkt/horizontal/color/rkt-horizontal-color.png" width="180" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  <img src="/rkt/stacked/color/rkt-stacked-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/rkt/icon/color/rkt-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
