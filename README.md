@@ -79,6 +79,8 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/brigade/horizontal/color/brigade-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/brigade/stacked/color/brigade-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/brigade/icon/color/brigade-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/kubeedge/horizontal/color/kubeedge-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/kubeedge/stacked/color/kubeedge-stacked-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/kubeedge/icon/color/kubeedge-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
+
 
 <br><br>
 ## Other CNCF Logos
