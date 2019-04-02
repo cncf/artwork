@@ -48,12 +48,12 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/etcd/horizontal/color/etcd-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/etcd/stacked/color/etcd-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/etcd/icon/color/etcd-icon-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/opa/horizontal/color/opa-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/opa/stacked/color/opa-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/opa/icon/color/opa-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"> 
+
 
 <br><br>
 
 ## Cloud Native Sandbox Project Logos
-
-<img src="/opa/horizontal/color/opa-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/opa/stacked/color/opa-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/opa/icon/color/opa-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"> 
 
 <img src="/spiffe/horizontal/color/spiffe-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/spiffe/stacked/color/spiffe-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/spiffe/icon/color/spiffe-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"> 
 
