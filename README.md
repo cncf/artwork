@@ -1,6 +1,6 @@
 # CNCF related logos and artwork
 
-In this repo, we have artwork in standard formats for the CNCF [projects](https://www.cncf.io/projects/) and programs. We prepare artwork in 3 formats (PNG/SVG/AI), 3 layouts -- horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square), and 3 versions (color/black/white). So, that's at least 27 versions of most logos. You can find t-shirts, hoodies and stickers for each CNCF graduated and incubating project at the CNCF [store](https://store.cncf.io/). For questions about using terms in text, please see the CNCF [Style Guide](https://github.com/cncf/foundation/blob/master/style-guide.md).
+In this repo, we have artwork in standard formats for the CNCF [projects](https://www.cncf.io/projects/) and programs. We prepare artwork in 2 formats (PNG & SVG), 3 layouts -- horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square), and 3 versions (color/black/white). So, that's at least 18 versions of most logos. You can find t-shirts, hoodies and stickers for each CNCF graduated and incubating project at the CNCF [store](https://store.cncf.io/). For questions about using terms in text, please see the CNCF [Style Guide](https://github.com/cncf/foundation/blob/master/style-guide.md).
 
 ## CNCF Graduated Project Logos
 
