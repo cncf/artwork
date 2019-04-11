@@ -14,13 +14,13 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/containerd/horizontal/color/containerd-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/containerd/stacked/color/containerd-stacked-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/containerd/icon/color/containerd-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/fluentd/horizontal/color/fluentd-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp; <img src="/fluentd/stacked/color/fluentd-stacked-color.png" width="120">&nbsp;  &nbsp;  &nbsp; <img src="/fluentd/icon/color/fluentd-icon-color.png" width="75">
+
 
 ## CNCF Incubating Project Logos
 
 
 <img src="/opentracing/horizontal/color/opentracing-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;   &nbsp; <img src="/opentracing/stacked/color/opentracing-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/opentracing/icon/color/opentracing-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
-
-<img src="/fluentd/horizontal/color/fluentd-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp; <img src="/fluentd/stacked/color/fluentd-stacked-color.png" width="120">&nbsp;  &nbsp;  &nbsp; <img src="/fluentd/icon/color/fluentd-icon-color.png" width="75">
 
 <img src="/grpc/horizontal/color/grpc-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp;  <img src="/grpc/icon/color/grpc-icon-color.png" width="110">&nbsp;  &nbsp;  <img src="/grpc/icon/color/grpc-icon-color.png" width="110">
 
@@ -36,7 +36,7 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/vitess/horizontal/color/vitess-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/vitess/stacked/color/vitess-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/vitess/icon/color/vitess-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/nats/horizontal/color/nats-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/nats/stacked/color/nats-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/nats/icon/color/nats-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"> 
+<img src="/nats/horizontal/color/nats-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/nats/stacked/color/nats-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/nats/icon/color/nats-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/linkerd/horizontal/color/linkerd-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp; <img src="/linkerd/stacked/color/linkerd-stacked-color.png" width="110">   &nbsp;  &nbsp;  &nbsp; <img src="/linkerd/icon/color/linkerd-icon-color.png" width="80">
 
@@ -48,16 +48,16 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/etcd/horizontal/color/etcd-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/etcd/stacked/color/etcd-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/etcd/icon/color/etcd-icon-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/opa/horizontal/color/opa-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/opa/stacked/color/opa-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/opa/icon/color/opa-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"> 
+<img src="/opa/horizontal/color/opa-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/opa/stacked/color/opa-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/opa/icon/color/opa-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/crio/horizontal/color/crio-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/crio/stacked/color/crio-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/crio/icon/color/crio-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"> 
+<img src="/crio/horizontal/color/crio-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/crio/stacked/color/crio-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/crio/icon/color/crio-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 
 <br><br>
 
 ## Cloud Native Sandbox Project Logos
 
-<img src="/spiffe/horizontal/color/spiffe-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/spiffe/stacked/color/spiffe-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/spiffe/icon/color/spiffe-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"> 
+<img src="/spiffe/horizontal/color/spiffe-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/spiffe/stacked/color/spiffe-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/spiffe/icon/color/spiffe-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/spire/horizontal/color/spire-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/spire/stacked/color/spire-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/spire/icon/color/spire-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
@@ -112,7 +112,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 <img src="/other/apisnoop/horizontal/color/apisnoop-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/apisnoop/stacked/color/apisnoop-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/apisnoop/icon/color/apisnoop-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
 
-<img src="/other/phippy-and-friends/group/color/group-color.png" width="320" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp;  &nbsp;<img src="/other/phippy-and-friends/phippy/color/phippy-color.png" width="80" style="display:inline;vertical-align:middle;padding:2%"> &nbsp;  &nbsp; <img src="/other/phippy-and-friends/zee/color/zee-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/phippy-and-friends/goldie/color/goldie-color.png" width="60" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/phippy-and-friends/captainkube/color/captainkube-color.png" width="60" style="display:inline;vertical-align:middle;padding:2%"> 
+<img src="/other/phippy-and-friends/group/color/group-color.png" width="320" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp;  &nbsp;<img src="/other/phippy-and-friends/phippy/color/phippy-color.png" width="80" style="display:inline;vertical-align:middle;padding:2%"> &nbsp;  &nbsp; <img src="/other/phippy-and-friends/zee/color/zee-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/phippy-and-friends/goldie/color/goldie-color.png" width="60" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/phippy-and-friends/captainkube/color/captainkube-color.png" width="60" style="display:inline;vertical-align:middle;padding:2%">
 
 
 
