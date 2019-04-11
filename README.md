@@ -16,6 +16,7 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 <img src="/fluentd/horizontal/color/fluentd-horizontal-color.png" width="200">      &nbsp;  &nbsp;  &nbsp; <img src="/fluentd/stacked/color/fluentd-stacked-color.png" width="120">&nbsp;  &nbsp;  &nbsp; <img src="/fluentd/icon/color/fluentd-icon-color.png" width="75">
 
+<br><br>
 
 ## CNCF Incubating Project Logos
 
