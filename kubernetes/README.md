@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-<style>
-</style>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="../style_case_studies.css">
+<style type="text/css">
+
+</style>
 
 </head>
 
