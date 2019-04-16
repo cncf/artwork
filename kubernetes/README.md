@@ -2,21 +2,15 @@
 
 ## Kubernetes Logos
 
-<table style="background-color:red" bgcolor="#000000">
-  <tr>
-    <th>Month</th>
-    <th>Savings</th>
-  </tr>
-  <tr>
-    <td>January</td>
-    <td>$100</td>
-  </tr>
-</table>
+<style>
+.markdown-body table td, .markdown-body table th {
 
-<tr>
-  <td>January</td>
-  <td>$100</td>
-</tr>
+  background-color:black;
+}
+
+</style>
+
+
 <table style="background-color:red" bgcolor="#000000 !important">
 <tr style="background-color:red"><td bgcolor="#000000"><img bgcolor="#000000" src="/kubernetes/horizontal/color/kubernetes-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">    &nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/stacked/color/kubernetes-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/icon/color/kubernetes-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"></td></tr>
 </table>
