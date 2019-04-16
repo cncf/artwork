@@ -11,7 +11,7 @@
 
 ## Kubernetes Logos
 
-![bg](red)
+![bg](https://www.solidbackgrounds.com/images/2560x1440/2560x1440-davys-grey-solid-color-background.jpg)
 
 
 <img bgcolor="#000000" src="/kubernetes/horizontal/color/kubernetes-horizontal-color.png" width="200" style="background-image:url('https://www.solidbackgrounds.com/images/2560x1440/2560x1440-davys-grey-solid-color-background.jpg");display:inline;vertical-align:middle;padding:2%">    &nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/stacked/color/kubernetes-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/icon/color/kubernetes-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
