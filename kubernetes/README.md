@@ -7,16 +7,6 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="../style_case_studies.css">
 
-<title>JD.com Case Study</title>
-
-<style>
-.markdown-body table td, .markdown-body table th {
-
-  background-color:black;
-}
-
-</style>
-
 </head>
 
 <body>
