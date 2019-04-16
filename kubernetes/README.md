@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td><img src="/kubernetes/stacked/color/kubernetes-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%"></td>
-    <td style="background-color:grey"><img src="/kubernetes/horizontal/white-text/kubernetes-horizontal-white-text.png" width="200" style="display:inline;vertical-align:middle;padding:2%"></td>
+    <td style="background-color:black !important"><img src="/kubernetes/horizontal/white-text/kubernetes-horizontal-white-text.png" width="200" style="display:inline;vertical-align:middle;padding:2%"></td>
       <td><img src="/kubernetes/stacked/color/kubernetes-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%"></td>
   </tr>
 </table>
