@@ -13,8 +13,7 @@
 
 <table bgcolor="#00FF00">
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+
   </tr>
   <tr>
     <td><img src="/kubernetes/stacked/color/kubernetes-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%"></td>
