@@ -2,7 +2,7 @@
 
 ## Kubernetes Logos
 
-<table bgcolor="#000000">
+<table style="background-color:red" bgcolor="#000000">
   <tr>
     <th>Month</th>
     <th>Savings</th>
