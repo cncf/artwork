@@ -2,16 +2,6 @@
 
 ## Kubernetes Logos
 
-<table bgcolor="blue">
-  <tr>
-
-  </tr>
-  <tr>
-    <td bgcolor="#000000"><img src="/kubernetes/stacked/color/kubernetes-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%"></td>
-    <td style="background-color:black !important"><img src="/kubernetes/horizontal/white-text/kubernetes-horizontal-white-text.png" width="200" style="display:inline;vertical-align:middle;padding:2%"></td>
-      <td><img src="/kubernetes/stacked/color/kubernetes-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%"></td>
-  </tr>
-</table>
 
 
 <img bgcolor="#000000" src="/kubernetes/horizontal/color/kubernetes-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%;">    &nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/stacked/color/kubernetes-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/icon/color/kubernetes-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
@@ -23,9 +13,9 @@
 
   </tr>
   <tr>
-    <td bgcolor="#000000"><img src="/kubernetes/stacked/color/kubernetes-stacked-white-text.png" width="120" style="display:inline;vertical-align:middle;padding:2%"></td>
+    <td bgcolor="#000000"><img src="/kubernetes/stacked/white-text/kubernetes-stacked-white-text.png" width="120" style="display:inline;vertical-align:middle;padding:2%"></td>
     <td style="background-color:black !important"><img src="/kubernetes/horizontal/white-text/kubernetes-horizontal-white-text.png" width="200" style="display:inline;vertical-align:middle;padding:2%"></td>
-      <td><img src="/kubernetes/stacked/color/kubernetes-stacked-white-text.png" width="120" style="display:inline;vertical-align:middle;padding:2%"></td>
+      <td><img src="/kubernetes/stacked/white-text/kubernetes-stacked-white-text.png" width="120" style="display:inline;vertical-align:middle;padding:2%"></td>
   </tr>
 </table>
 
