@@ -14,9 +14,9 @@
 
 
 
-<table style="background-color:red" bgcolor="#000000 !important">
-<tr bgcolor="#000000 style="background-color:red"><td bgcolor="#000000"><img bgcolor="#000000" src="/kubernetes/horizontal/color/kubernetes-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">    &nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/stacked/color/kubernetes-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/icon/color/kubernetes-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"></td></tr>
-</table>
+<td bgcolor="#000000"><img bgcolor="#000000" src="/kubernetes/horizontal/color/kubernetes-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">    &nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/stacked/color/kubernetes-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/icon/color/kubernetes-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%"><
+
+
 <img src="/kubernetes/horizontal/all-blue-color/kubernetes-horizontal-all-blue-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/stacked/all-blue-color/kubernetes-stacked-all-blue-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/kubernetes/horizontal/white-text/kubernetes-horizontal-white-text.png" width="200" style="display:inline;vertical-align:middle;padding:2%">    &nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/stacked/white-text/kubernetes-stacked-white-text.png" width="110" style="display:inline;vertical-align:middle;padding:2%">
