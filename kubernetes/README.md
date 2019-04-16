@@ -11,7 +11,7 @@
 
 ## Kubernetes Logos
 
-<table bgcolor="#00FF00">
+<table bgcolor="blue">
   <tr>
 
   </tr>
