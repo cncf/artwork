@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
-
-</head>
-
-<table style="background-color:red">
 
 ## Kubernetes Logos
 
@@ -27,7 +18,12 @@
 
 <img src="/kubernetes/horizontal/all-blue-color/kubernetes-horizontal-all-blue-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/stacked/all-blue-color/kubernetes-stacked-all-blue-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">
 
+<table bgcolor="blue">
 
+  <tr>
+    <td><img src="/kubernetes/horizontal/white-text/kubernetes-horizontal-white-text.png" width="200" style="display:inline;vertical-align:middle;padding:2%"></td>
+<td><img src="/kubernetes/horizontal/white-text/kubernetes-horizontal-white-text.png" width="200" style="display:inline;vertical-align:middle;padding:2%"></td>
+    </tr>
 <img src="/kubernetes/horizontal/white-text/kubernetes-horizontal-white-text.png" width="200" style="display:inline;vertical-align:middle;padding:2%">    &nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/stacked/white-text/kubernetes-stacked-white-text.png" width="110" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/kubernetes/horizontal/white/kubernetes-horizontal-white.png" width="200" style="background-color:#000000;display:inline;vertical-align:middle;padding:2%">     &nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/stacked/white/kubernetes-stacked-white.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/kubernetes/icon/white/kubernetes-icon-white.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
