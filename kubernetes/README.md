@@ -4,11 +4,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<style"text/css">
-table {
-  background-color:red;
-}
-</style>
 
 </head>
 
