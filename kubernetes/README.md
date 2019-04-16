@@ -7,7 +7,7 @@
 
 </head>
 
-<body style="background-color:red">
+<table style="background-color:red">
 
 ## Kubernetes Logos
 
@@ -26,5 +26,6 @@
 <img src="/kubernetes/horizontal/black/kubernetes-horizontal-black.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/kubernetes/stacked/black/kubernetes-stacked-black.png" width="95" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; &nbsp;  <img src="/kubernetes/icon/black/kubernetes-icon-black.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <br><br>
+</table>
 </body>
 </html>
