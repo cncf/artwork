@@ -7,7 +7,7 @@
 
 </head>
 
-<body>
+<body style="background-color:red">
 
 ## Kubernetes Logos
 
