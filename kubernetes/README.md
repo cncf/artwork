@@ -17,7 +17,8 @@
   </tr>
   <tr>
     <td><img src="/kubernetes/stacked/color/kubernetes-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%"></td>
-    <td>$100</td>
+    <td><img src="/kubernetes/stacked/color/kubernetes-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%"></td>
+      <td><img src="/kubernetes/stacked/color/kubernetes-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%"></td>
   </tr>
 </table>
 
