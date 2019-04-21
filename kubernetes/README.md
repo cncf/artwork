@@ -1,8 +1,8 @@
 ## Kubernetes Logos
 
-This directory contains artwork in standard formats for Kubernetes. We prepare artwork in 2 formats (PNG & SVG), 3 layouts -- horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square), and 5 versions (color/black/white/all blue/and blue with white text). Since the icon versions of all blue and blue with white text are not any different from color, that's 26 versions of the logo, all shown below.
+This directory contains artwork in standard formats for Kubernetes. We prepare artwork in 2 formats (PNG & SVG), 3 layouts -- horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square), and 5 versions (color/black/white/all blue/and blue with white text). That's 26 unique versions of the logo, all shown below (26 not 30 because the icon versions of all blue and blue with white text are not any different from color).
 
-With many browsers, you can right click and copy the logo of your choice below. Please note that although PNG is more common, SVG files sizes are smaller, it is supported in all common web browsers, and it is a high resolution format also suitable for print.
+With many browsers, you can right click and copy the logo of your choice below. Please note that although PNG is more common, SVG files sizes are smaller, supported in all common web browsers, and a high resolution format also suitable for high-resolution screens on web or print.
 
 You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](https://store.cncf.io/collections/kubernetes). For questions about using terms in text, please see the CNCF [Style Guide](https://github.com/cncf/foundation/blob/master/style-guide.md).
 
@@ -57,18 +57,18 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
         <th>all blue</th>
         <td><img src="/kubernetes/horizontal/all-blue-color/kubernetes-horizontal-all-blue-color.png" width="200"></td>
         <td><img src="/kubernetes/stacked/all-blue-color/kubernetes-stacked-all-blue-color.png" width="95"></td>
-        <td></td>
+        <td><img src="/kubernetes/icon/color/kubernetes-icon-color.png" width="75"></td>
         <td><img src="/kubernetes/horizontal/all-blue-color/kubernetes-horizontal-all-blue-color.svg" width="200"></td>
         <td><img src="/kubernetes/stacked/all-blue-color/kubernetes-stacked-all-blue-color.svg" width="95"></td>
-        <td></td>
+        <td><img src="/kubernetes/icon/color/kubernetes-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>white text</th>
         <td><img src="/kubernetes/horizontal/white-text/kubernetes-horizontal-white-text.png" width="200"></td>
         <td><img src="/kubernetes/stacked/white-text/kubernetes-stacked-white-text.png" width="95"></td>
-        <td></td>
+        <td><img src="/kubernetes/icon/color/kubernetes-icon-color.png" width="75"></td>
         <td><img src="/kubernetes/horizontal/white-text/kubernetes-horizontal-white-text.svg" width="200"></td>
         <td><img src="/kubernetes/stacked/white-text/kubernetes-stacked-white-text.svg" width="95"></td>
-        <td></td>
+        <td><img src="/kubernetes/icon/color/kubernetes-icon-color.svg" width="75"></td>
     </tr>
 </table>
