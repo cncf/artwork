@@ -86,40 +86,41 @@ In this repo, we have artwork in standard formats for the CNCF [projects](https:
 
 
 <br><br>
+
 ## Other CNCF Logos
 
 Please note that CNCF prefers the horizontal form of our logo to the stacked version when feasible.
 
-<img src="/projects/cncf/horizontal/color/cncf-color.png" width="400" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/projects/cncf/stacked/color/cncf-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/projects/cncf/icon/color/cncf-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/other/cncf/horizontal/color/cncf-color.png" width="400" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/cncf/stacked/color/cncf-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/cncf/icon/color/cncf-icon-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/projects/other/cka/color/kubernetes-cka-color.png" width="140">&nbsp;  &nbsp;  <img src="/projects/other/ckad/color/kubernetes-ckad-color.png" width="140">&nbsp;  &nbsp;  <img src="/projects/other/kcsp/color/kubernetes-kcsp-color.png" width="120">&nbsp;  &nbsp;  <img src="/projects/other/ktp/color/kubernetes-ktp-color.png" width="120">
+<img src="/other/cka/color/kubernetes-cka-color.png" width="140">&nbsp;  &nbsp;  <img src="/other/ckad/color/kubernetes-ckad-color.png" width="140">&nbsp;  &nbsp;  <img src="/other/kcsp/color/kubernetes-kcsp-color.png" width="120">&nbsp;  &nbsp;  <img src="/other/ktp/color/kubernetes-ktp-color.png" width="120">
 
-<img src="/projects/other/ambassador/horizontal/color/cncf-ambassador-color-horizontal.png" width="280">&nbsp;  &nbsp;  <img src="/projects/other/ambassador/stacked/color/cncf-ambassador-color-vertical.png" width="140">
+<img src="/other/ambassador/horizontal/color/cncf-ambassador-color-horizontal.png" width="280">&nbsp;  &nbsp;  <img src="/other/ambassador/stacked/color/cncf-ambassador-color-vertical.png" width="140">
 
-<img src="/projects/other/kubecon-cloudnativecon/2019-eu/color/kccnc-eu-2019-color.png" width="260">&nbsp;  &nbsp;  <img src="/projects/other/kubecon-cloudnativecon/2019-china/color/kccnc-oss-china-2019-color.png" width="260">&nbsp;  &nbsp;  <img src="/projects/other/kubecon-cloudnativecon/2019-na/color/kccnc-na-2019-color.png" width="260">
+<img src="/other/kubecon-cloudnativecon/2019-eu/color/kccnc-eu-2019-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2019-china/color/kccnc-oss-china-2019-color.png" width="260">&nbsp;  &nbsp;  <img src="/other/kubecon-cloudnativecon/2019-na/color/kccnc-na-2019-color.png" width="260">
 
-<img src="/projects/other/envoycon/horizontal/color/envoycon-horizontal-color.png" width="260" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/projects/other/envoycon/stacked/color/envoycon-stacked-color.png" width="140" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/projects/other/envoycon/icon/color/envoycon-icon-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/other/envoycon/horizontal/color/envoycon-horizontal-color.png" width="260" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/envoycon/stacked/color/envoycon-stacked-color.png" width="140" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/envoycon/icon/color/envoycon-icon-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/projects/kubernetes/certified-kubernetes/1.14/color/certified-kubernetes-1.14-color.png" width="130">&nbsp;  &nbsp;  <img src="/projects/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.png" width="130">
 
-<img src="/projects/other/devstats/horizontal/color/devstats-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/projects/other/devstats/stacked/color/devstats-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/projects/other/devstats/icon/color/devstats-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/other/devstats/horizontal/color/devstats-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/devstats/stacked/color/devstats-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/devstats/icon/color/devstats-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/projects/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/projects/other/cncf-landscape/stacked/color/cncf-landscape-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/projects/other/cncf-landscape/icon/color/cncf-landscape-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/cncf-landscape/stacked/color/cncf-landscape-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/cncf-landscape/icon/color/cncf-landscape-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/projects/other/cncf-sandbox/horizontal/color/cncf-sandbox-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/projects/other/cncf-sandbox/stacked/color/cncf-sandbox-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/projects/other/cncf-sandbox/icon/color/cncf-sandbox-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/other/cncf-sandbox/horizontal/color/cncf-sandbox-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/cncf-sandbox/stacked/color/cncf-sandbox-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/cncf-sandbox/icon/color/cncf-sandbox-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/projects/other/csi/horizontal/color/csi-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/projects/other/csi/stacked/color/csi-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/projects/other/csi/icon/color/csi-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/other/csi/horizontal/color/csi-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/csi/stacked/color/csi-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/csi/icon/color/csi-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/projects/other/apisnoop/horizontal/color/apisnoop-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/projects/other/apisnoop/stacked/color/apisnoop-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/projects/other/apisnoop/icon/color/apisnoop-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
-
-
-<img src="/projects/other/phippy-and-friends/group/color/group-color.png" width="320" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp;  &nbsp;<img src="/projects/other/phippy-and-friends/phippy/color/phippy-color.png" width="80" style="display:inline;vertical-align:middle;padding:2%"> &nbsp;  &nbsp; <img src="/projects/other/phippy-and-friends/zee/color/zee-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/projects/other/phippy-and-friends/goldie/color/goldie-color.png" width="60" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/projects/other/phippy-and-friends/captainkube/color/captainkube-color.png" width="60" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/other/apisnoop/horizontal/color/apisnoop-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/other/apisnoop/stacked/color/apisnoop-stacked-color.png" width="110" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/apisnoop/icon/color/apisnoop-icon-color.png" width="95" style="display:inline;vertical-align:middle;padding:2%">
 
 
+<img src="/other/phippy-and-friends/group/color/group-color.png" width="320" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp;  &nbsp;<img src="/other/phippy-and-friends/phippy/color/phippy-color.png" width="80" style="display:inline;vertical-align:middle;padding:2%"> &nbsp;  &nbsp; <img src="/other/phippy-and-friends/zee/color/zee-color.png" width="100" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/phippy-and-friends/goldie/color/goldie-color.png" width="60" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/other/phippy-and-friends/captainkube/color/captainkube-color.png" width="60" style="display:inline;vertical-align:middle;padding:2%">
 
 
 
-<img src="/projects/other/illustrations/ashley-mcnamara/original/cncf-cloud-gophers.png" width="400">
+
+
+<img src="/other/illustrations/ashley-mcnamara/original/cncf-cloud-gophers.png" width="400">
 
 
 
