@@ -1292,6 +1292,15 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
         <td><img src="/projects/cloudevents/stacked/white/cloudevents-stacked-white.svg" width="95"></td>
         <td><img src="/projects/cloudevents/icon/white/cloudevents-icon-white.svg" width="75"></td>
     </tr>
+    <tr>
+        <th>reversed color</th>
+        <td><img src="/projects/cloudevents/horizontal/color/cloudevents-horizontal-color-reversed.png" width="200"></td>
+        <td><img src="/projects/cloudevents/stacked/color/cloudevents-stacked-color-reversed.png" width="95"></td>
+        <td><img src="/projects/cloudevents/icon/color/cloudevents-icon-color-reversed.png" width="75"></td>
+        <td><img src="/projects/cloudevents/horizontal/color/cloudevents-horizontal-color-reversed.svg" width="200"></td>
+        <td><img src="/projects/cloudevents/stacked/color/cloudevents-stacked-color-reversed.svg" width="95"></td>
+        <td><img src="/projects/cloudevents/icon/color/cloudevents-icon-color-reversed.svg" width="75"></td>
+    </tr>
 </table>
 
 #### Telepresence Logos
