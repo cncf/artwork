@@ -2010,6 +2010,31 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
 </table>
 
+#### KubeCon + CloudNativeCon Cropped Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/kubecon-cloudnativecon/cropped/color/kccnc-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/cropped/color/kccnc-color.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/kubecon-cloudnativecon/cropped/black/kccnc-black.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/cropped/black/kccnc-black.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/kubecon-cloudnativecon/cropped/white/kccnc-white.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/cropped/white/kccnc-white.svg" width="260"></td>
+    </tr>
+</table>
+
 #### Envoycon Logos
 
 <table>
