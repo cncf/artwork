@@ -1840,6 +1840,16 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
         <td><img src="/projects/networkservicemesh/stacked/white/networkservicemesh-stacked-white.svg" width="95"></td>
         <td><img src="/projects/networkservicemesh/icon/white/networkservicemesh-icon-white.svg" width="75"></td>
     </tr>
+    <tr>
+        <th>reversed color</th>
+        <td><img src="/projects/networkservicemesh/horizontal/color/networkservicemesh-horizontal-color-reversed.png" width="200"></td>
+        <td><img src="/projects/networkservicemesh/stacked/color/networkservicemesh-stacked-color-reversed.png" width="95"></td>
+        <td><img src="/projects/networkservicemesh/icon/color/networkservicemesh-icon-color-reversed.png" width="75"></td>
+        <td><img src="/projects/networkservicemesh/horizontal/color/networkservicemesh-horizontal-color-reversed.svg" width="200"></td>
+        <td><img src="/projects/networkservicemesh/stacked/color/networkservicemesh-stacked-color-reversed.svg" width="95"></td>
+        <td><img src="/projects/networkservicemesh/icon/color/networkservicemesh-icon-color-reversed.svg" width="75"></td>
+    </tr>
+
 </table>
 
 
