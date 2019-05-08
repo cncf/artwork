@@ -1793,6 +1793,66 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     </tr>
 </table>
 
+#### Network Service Mesh Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/networkservicemesh/horizontal/color/networkservicemesh-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/networkservicemesh/stacked/color/networkservicemesh-stacked-color.png" width="95"></td>
+        <td><img src="/projects/networkservicemesh/icon/color/networkservicemesh-icon-color.png" width="75"></td>
+        <td><img src="/projects/networkservicemesh/horizontal/color/networkservicemesh-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/networkservicemesh/stacked/color/networkservicemesh-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/networkservicemesh/icon/color/networkservicemesh-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/networkservicemesh/horizontal/black/networkservicemesh-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/networkservicemesh/stacked/black/networkservicemesh-stacked-black.png" width="95"></td>
+        <td><img src="/projects/networkservicemesh/icon/black/networkservicemesh-icon-black.png" width="75"></td>
+        <td><img src="/projects/networkservicemesh/horizontal/black/networkservicemesh-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/networkservicemesh/stacked/black/networkservicemesh-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/networkservicemesh/icon/black/networkservicemesh-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/networkservicemesh/horizontal/white/networkservicemesh-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/networkservicemesh/stacked/white/networkservicemesh-stacked-white.png" width="95"></td>
+        <td><img src="/projects/networkservicemesh/icon/white/networkservicemesh-icon-white.png" width="75"></td>
+        <td><img src="/projects/networkservicemesh/horizontal/white/networkservicemesh-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/networkservicemesh/stacked/white/networkservicemesh-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/networkservicemesh/icon/white/networkservicemesh-icon-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>reversed color</th>
+        <td><img src="/projects/networkservicemesh/horizontal/color/networkservicemesh-horizontal-color-reversed.png" width="200"></td>
+        <td><img src="/projects/networkservicemesh/stacked/color/networkservicemesh-stacked-color-reversed.png" width="95"></td>
+        <td><img src="/projects/networkservicemesh/icon/color/networkservicemesh-icon-color-reversed.png" width="75"></td>
+        <td><img src="/projects/networkservicemesh/horizontal/color/networkservicemesh-horizontal-color-reversed.svg" width="200"></td>
+        <td><img src="/projects/networkservicemesh/stacked/color/networkservicemesh-stacked-color-reversed.svg" width="95"></td>
+        <td><img src="/projects/networkservicemesh/icon/color/networkservicemesh-icon-color-reversed.svg" width="75"></td>
+    </tr>
+
+</table>
+
+
 ## Other CNCF Logos
 
 Please note that CNCF prefers the horizontal form of our logo to the stacked version when feasible.
