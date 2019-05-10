@@ -118,7 +118,7 @@
     </tr>
 </table>
 
-#### Prometheus Logos
+#### Envoy Logos
 
 <table>
     <tr>
