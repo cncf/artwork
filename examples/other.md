@@ -177,7 +177,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     <tr>
         <th>color</th>
         <td><img src="/other/kubecon-cloudnativecon/2020-eu/color/kccnc-eu-2020-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2019-eu/color/kccnc-eu-2020-color.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-eu/color/kccnc-eu-2020-color.svg" width="260"></td>
     </tr>
     <tr>
         <th>black</th>
