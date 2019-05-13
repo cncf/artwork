@@ -160,19 +160,36 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>SVG</th>
     </tr>
     <tr>
-        <th>color</th>
+        <th>color 2019</th>
         <td><img src="/other/kubecon-cloudnativecon/2019-eu/color/kccnc-eu-2019-color.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2019-eu/color/kccnc-eu-2019-color.svg" width="260"></td>
     </tr>
     <tr>
-        <th>black</th>
+        <th>black 2019</th>
         <td><img src="/other/kubecon-cloudnativecon/2019-eu/black/kccnc-eu-2019-black.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2019-eu/black/kccnc-eu-2019-black.svg" width="260"></td>
     </tr>
     <tr>
-        <th>white</th>
+        <th>white 2019</th>
         <td><img src="/other/kubecon-cloudnativecon/2019-eu/white/kccnc-eu-2019-white.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2019-eu/white/kccnc-eu-2019-white.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>color 2020</th>
+        <td><img src="/other/kubecon-cloudnativecon/2020-eu/color/kccnc-eu-2020-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-eu/color/kccnc-eu-2020-color.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>black 2020</th>
+        <td><img src="/other/kubecon-cloudnativecon/2020-eu/black/kccnc-eu-2020-black.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-eu/black/kccnc-eu-2020-black.svg" width="260"></td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+        <th>white 2020</th>
+        <td><img src="/other/kubecon-cloudnativecon/2020-eu/white/kccnc-eu-2020-white.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-eu/white/kccnc-eu-2020-white.svg" width="260"></td>
     </tr>
 </table>
 
@@ -185,19 +202,36 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>SVG</th>
     </tr>
     <tr>
-        <th>color</th>
+        <th>color 2019</th>
         <td><img src="/other/kubecon-cloudnativecon/2019-china/color/kccnc-oss-china-2019-color.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2019-china/color/kccnc-oss-china-2019-color.svg" width="260"></td>
     </tr>
     <tr>
-        <th>black</th>
+        <th>black 2019</th>
         <td><img src="/other/kubecon-cloudnativecon/2019-china/black/kccnc-oss-china-2019-black.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2019-china/black/kccnc-oss-china-2019-black.svg" width="260"></td>
     </tr>
     <tr>
-        <th>white</th>
+        <th>white 2019</th>
         <td><img src="/other/kubecon-cloudnativecon/2019-china/white/kccnc-oss-china-2019-white.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2019-china/white/kccnc-oss-china-2019-white.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>color 2020</th>
+        <td><img src="/other/kubecon-cloudnativecon/2020-china/color/kccnc-oss-china-2020-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-china/color/kccnc-oss-china-2020-color.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>black 2020</th>
+        <td><img src="/other/kubecon-cloudnativecon/2020-china/black/kccnc-oss-china-2020-black.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-china/black/kccnc-oss-china-2020-black.svg" width="260"></td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+        <th>white 2020</th>
+        <td><img src="/other/kubecon-cloudnativecon/2020-china/white/kccnc-oss-china-2020-white.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-china/white/kccnc-oss-china-2020-white.svg" width="260"></td>
     </tr>
 </table>
 
@@ -210,19 +244,36 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>SVG</th>
     </tr>
     <tr>
-        <th>color</th>
+        <th>color 2019</th>
         <td><img src="/other/kubecon-cloudnativecon/2019-na/color/kccnc-na-2019-color.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2019-na/color/kccnc-na-2019-color.svg" width="260"></td>
     </tr>
     <tr>
-        <th>black</th>
+        <th>black 2019</th>
         <td><img src="/other/kubecon-cloudnativecon/2019-na/black/kccnc-na-2019-black.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2019-na/black/kccnc-na-2019-black.svg" width="260"></td>
     </tr>
     <tr>
-        <th>white</th>
+        <th>white 2019</th>
         <td><img src="/other/kubecon-cloudnativecon/2019-na/white/kccnc-na-2019-white.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2019-na/white/kccnc-na-2019-white.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>color 2020</th>
+        <td><img src="/other/kubecon-cloudnativecon/2020-na/color/kccnc-na-2020-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-na/color/kccnc-na-2020-color.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>black 2020</th>
+        <td><img src="/other/kubecon-cloudnativecon/2020-na/black/kccnc-na-2020-black.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-na/black/kccnc-na-2020-black.svg" width="260"></td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+        <th>white 2020</th>
+        <td><img src="/other/kubecon-cloudnativecon/2020-na/white/kccnc-na-2020-white.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-na/white/kccnc-na-2020-white.svg" width="260"></td>
     </tr>
 </table>
 
