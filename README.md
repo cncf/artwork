@@ -44,6 +44,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Brigade](examples/sandbox.md#brigrade-logos)
   * [KubeEdge](examples/sandbox.md#kubeedge-logos)
   * [Network Service Mesh](examples/sandbox.md#network-service-mesh-logos)
+  * [OpenEBS](examples/sandbox.md#openebs-logos)
 * [Other CNCF Logos](examples/other.md)
   * [CNCF](examples/other.md#cncf-logos)
   * [Certification](examples/other.md#certification-logos)
