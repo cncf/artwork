@@ -755,7 +755,7 @@
     </tr>
 </table>
 
-#### OpenTelemetry
+#### OpenTelemetry Logos
 
 <table>
     <tr>
