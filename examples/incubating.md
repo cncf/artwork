@@ -110,19 +110,19 @@
     <tr>
         <th>Pancake black</th>
         <td></td>
-        <td><img src="/projects/grpc/pancake/color/grpc-pancake-black.png" width="95"></td>
+        <td><img src="/projects/grpc/pancake/black/grpc-pancake-black.png" width="95"></td>
         <td></td>
         <td></td>
-        <td><img src="/projects/grpc/pancake/color/grpc-pancake-black.svg" width="95"></td>
+        <td><img src="/projects/grpc/pancake/black/grpc-pancake-black.svg" width="95"></td>
         <td></td>
     </tr>
     <tr>
         <th>Pancake white</th>
         <td></td>
-        <td><img src="/projects/grpc/pancake/color/grpc-pancake-white.png" width="95"></td>
+        <td><img src="/projects/grpc/pancake/white/grpc-pancake-white.png" width="95"></td>
         <td></td>
         <td></td>
-        <td><img src="/projects/grpc/pancake/color/grpc-pancake-white.svg" width="95"></td>
+        <td><img src="/projects/grpc/pancake/white/grpc-pancake-white.svg" width="95"></td>
         <td></td>
     </tr>
 </table>
