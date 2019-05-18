@@ -98,6 +98,7 @@
         <td><img src="/projects/grpc/stacked/white/grpc-stacked-white.svg" width="95"></td>
         <td><img src="/projects/grpc/icon/white/grpc-icon-white.svg" width="75"></td>
     </tr>
+    <tr></tr>
     <tr>
         <th>Pancake color</th>
         <td></td>
