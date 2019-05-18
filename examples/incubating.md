@@ -98,6 +98,33 @@
         <td><img src="/projects/grpc/stacked/white/grpc-stacked-white.svg" width="95"></td>
         <td><img src="/projects/grpc/icon/white/grpc-icon-white.svg" width="75"></td>
     </tr>
+    <tr>
+        <th>Pancake color</th>
+        <td></td>
+        <td><img src="/projects/grpc/stacked/color/grpc-pancake-color.png" width="95"></td>
+        <td></td>
+        <td></td>
+        <td><img src="/projects/grpc/stacked/color/grpc-pancake-color.svg" width="95"></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>Pancake black</th>
+        <td></td>
+        <td><img src="/projects/grpc/stacked/color/grpc-pancake-black.png" width="95"></td>
+        <td></td>
+        <td></td>
+        <td><img src="/projects/grpc/stacked/color/grpc-pancake-black.svg" width="95"></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>Pancake white</th>
+        <td></td>
+        <td><img src="/projects/grpc/stacked/color/grpc-pancake-white.png" width="95"></td>
+        <td></td>
+        <td></td>
+        <td><img src="/projects/grpc/stacked/color/grpc-pancake-white.svg" width="95"></td>
+        <td></td>
+    </tr>
 </table>
 
 #### rkt Logos
