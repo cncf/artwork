@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="420px" height="420px" viewBox="0 0 420 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="304px" height="351px" viewBox="0 0 304 351" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
     <title>Artboard</title>
     <desc>Created with Sketch.</desc>
@@ -8,7 +8,7 @@
         <rect id="path-3" x="0" y="0" width="313.303155" height="159.864865"></rect>
     </defs>
     <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Logo" transform="translate(43.000000, -15.000000)">
+        <g id="Logo" transform="translate(-11.000000, -51.000000)">
             <g id="Betchna-Helm">
                 <path d="M11.6785714,189 L31.4644071,189 L31.4644071,215.789 L55.3681071,215.789 L55.3681071,189 L75.1539429,189 L75.1539429,264.25 L55.3681071,264.25 L55.3681071,235.554667 L31.4644071,235.554667 L31.4644071,264.25 L11.6785714,264.25 L11.6785714,189 Z M97.8524143,264.25 L97.8524143,189 L144.655457,189 L144.655457,205.354333 L117.63825,205.354333 L117.63825,217.595 L141.54195,217.595 L141.54195,234.250333 L117.63825,234.250333 L117.63825,248.096333 L144.655457,248.096333 L144.655457,264.25 L97.8524143,264.25 Z M166.349571,264.25 L166.349571,189 L186.135407,189 L186.135407,244.384 L213.25305,244.384 L213.25305,264.25 L166.349571,264.25 Z M243.885943,189 L274.619271,216.892667 L305.252164,189 L314.190943,189 L314.190943,264.25 L294.304671,264.25 L294.304671,225.621667 L274.619271,243.581333 L254.833436,225.722 L254.833436,264.25 L234.947164,264.25 L234.947164,189 L243.885943,189 Z" id="HELM" fill="#FFFFFF"></path>
                 <g id="top-arc" transform="translate(168.958136, 375.000000) scale(1, -1) translate(-168.958136, -375.000000) translate(11.958136, 295.000000)">
