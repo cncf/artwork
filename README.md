@@ -6,7 +6,6 @@ With many browsers, you can right click and copy the logo of your choice below. 
 
 You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](https://store.cncf.io/collections/kubernetes). For questions about using terms in text, please see the CNCF [Style Guide](https://github.com/cncf/foundation/blob/master/style-guide.md).
 
-
 * [Graduated Projects](examples/graduated.md)
   * [Kubernetes](examples/graduated.md#kubernetes-logos)
   * [Prometheus](examples/graduated.md#prometheus-logos)
@@ -66,7 +65,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Phippy & Friends Individual](examples/other.md#phippy--friends-individual-logos)
   * [CNCF & Go Gophers by [Ashley McNamara]](examples/other.md#cncf--go-gophers)
 
-Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
+Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage.
 
 The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are only available for use with [conformant](https://www.cncf.io/certification/software-conformance/) implementations and must comply with the [brand guidelines](/projects/kubernetes/certified-kubernetes/certified-kubernetes-brand-guide.pdf).
 
