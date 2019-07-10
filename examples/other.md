@@ -734,13 +734,19 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     <tr>
         <th>transparent</th>
         <td><img src="/other/illustrations/ashley-mcnamara/transparent/cncf-cloud-gophers-transparent.png" width="400"></td>
-        <td><img src="/other/illustrations/ashley-mcnamara/transparent/cncf-cloud-gophers-transparent.png" width="400"></td>
+        <td><img src="/other/illustrations/ashley-mcnamara/transparent/cncf-cloud-gophers-transparent.svg" width="400"></td>
     </tr>
     <tr></tr>
     <tr>
         <th>original</th>
         <td><img src="/other/illustrations/ashley-mcnamara/original/cncf-cloud-gophers.png" width="400"></td>
-        <td><img src="/other/illustrations/ashley-mcnamara/original/cncf-cloud-gophers.png" width="400"></td>
+        <td><img src="/other/illustrations/ashley-mcnamara/original/cncf-cloud-gophers.svg" width="400"></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <th>kubectl</th>
+        <td><img src="/other/illustrations/ashley-mcnamara/kubectl/kubectl.png" width="400"></td>
+        <td><img src="/other/illustrations/ashley-mcnamara/kubectl/kubectl.svg" width="400"></td>
     </tr>
 </table>
 
