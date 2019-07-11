@@ -745,8 +745,8 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     <tr></tr>
     <tr>
         <th>kubectl</th>
-        <td><img src="/other/illustrations/ashley-mcnamara/kubectl/kubectl.png" width="400"></td>
-        <td><img src="/other/illustrations/ashley-mcnamara/kubectl/kubectl.svg" width="400"></td>
+        <td><img src="/other/illustrations/ashley-mcnamara/kubectl/kubectl.png" width="300"></td>
+        <td><img src="/other/illustrations/ashley-mcnamara/kubectl/kubectl.svg" width="300"></td>
     </tr>
 </table>
 
