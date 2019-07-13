@@ -789,9 +789,9 @@
         <td><img src="/projects/thanos/horizontal/black/thanos-horizontal-black.png" width="200"></td>
         <td><img src="/projects/thanos/stacked/black/thanos-stacked-black.png" width="95"></td>
         <td><img src="/projects/thanos/icon/black/thanos-icon-black.png" width="75"></td>
-        <td><img src="/projects/thanos/thanos/black/thanos-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/thanos/thanos/black/thanos-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/thanos/thanos/black/thanos-icon-black.svg" width="75"></td>
+        <td><img src="/projects/thanos/horizontal/black/thanos-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/thanos/stacked/black/thanos-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/thanos/icon/black/thanos-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
