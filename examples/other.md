@@ -244,6 +244,11 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>SVG</th>
     </tr>
     <tr>
+        <th>branded 2019</th>
+        <td><img src="/other/kubecon-cloudnativecon/2019-na/color/kccnc-na-2019-branded.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2019-na/color/kccnc-na-2019-branded.svg" width="260"></td>
+    </tr>
+    <tr>
         <th>color 2019</th>
         <td><img src="/other/kubecon-cloudnativecon/2019-na/color/kccnc-na-2019-color.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2019-na/color/kccnc-na-2019-color.svg" width="260"></td>
