@@ -66,7 +66,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [CNCF & Go Gophers by [Ashley McNamara]](examples/other.md#cncf--go-gophers)
   * [SIG Security](examples/other.md#sig-security)
 
-Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage.
+Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage with the key excepts available at https://github.com/cncf/artwork/blob/master/LICENSE.md.
 
 The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are only available for use with [conformant](https://www.cncf.io/certification/software-conformance/) implementations and must comply with the [brand guidelines](/projects/kubernetes/certified-kubernetes/certified-kubernetes-brand-guide.pdf).
 
