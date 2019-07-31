@@ -335,7 +335,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>black</th>
         <td><img src="/other/kubernetes-summit/general/black/kubernetes-summit-general-black.png" width="200"></td>
         <td><img src="/other/kubernetes-summit/seoul/black/kubernetes-summit-seoul-black.png" width="200"></td>
-        <td><img src="/other/kubernetes-summit/sydney/black/kubernetes-summit-seoul-black.png" width="200"></td>
+        <td><img src="/other/kubernetes-summit/sydney/black/kubernetes-summit-sydney-black.png" width="200"></td>
         <td><img src="/other/kubernetes-summit/general/black/kubernetes-summit-general-black.svg" width="200"></td>
         <td><img src="/other/kubernetes-summit/seoul/black/kubernetes-summit-seoul-black.svg" width="200"></td>
         <td><img src="/other/kubernetes-summit/sydney/black/kubernetes-summit-sydney-black.svg" width="200"></td>
