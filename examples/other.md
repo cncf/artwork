@@ -315,15 +315,15 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
     <tr>
         <th></th>
-        <th>color</th>
-        <th>black</th>
-        <th>white</th>
-        <th>color</th>
-        <th>black</th>
-        <th>white</th>
+        <th>general</th>
+        <th>seoul</th>
+        <th>sydney</th>
+        <th>general</th>
+        <th>seoul</th>
+        <th>sydney</th>
     </tr>
     <tr>
-        <th>general</th>
+        <th>color</th>
         <td><img src="/other/kubernetes-summit/general/color/kubernetes-summit-general-color.png" width="200"></td>
         <td><img src="/other/kubernetes-summit/general/color/kubernetes-summit-general-color.svg" width="200"></td>
         <td><img src="/other/kubernetes-summit/general/black/kubernetes-summit-general-black.png" width="200"></td>
@@ -332,7 +332,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/kubernetes-summit/general/white/kubernetes-summit-general-white.svg" width="200"></td>
     </tr>
     <tr>
-        <th>seoul</th>
+        <th>black</th>
         <td><img src="/other/kubernetes-summit/seoul/color/kubernetes-summit-seoul-color.png" width="200"></td>
         <td><img src="/other/kubernetes-summit/seoul/color/kubernetes-summit-seoul-color.svg" width="200"></td>
         <td><img src="/other/kubernetes-summit/seoul/black/kubernetes-summit-seoul-black.png" width="200"></td>
@@ -341,7 +341,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/kubernetes-summit/seoul/white/kubernetes-summit-seoul-white.png" width="200"></td>
     </tr>
     <tr>
-    <th>sydney</th>
+    <th>white</th>
         <td><img src="/other/kubernetes-summit/sydney/color/kubernetes-summit-sydney-color.png" width="200"></td>
         <td><img src="/other/kubernetes-summit/sydney/color/kubernetes-summit-sydney-color.svg" width="200"></td>
         <td><img src="/other/kubernetes-summit/sydney/black/kubernetes-summit-sydney-black.png" width="200"></td>
