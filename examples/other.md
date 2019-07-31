@@ -334,20 +334,20 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     <tr>
         <th>black</th>
         <td><img src="/other/kubernetes-summit/general/black/kubernetes-summit-general-black.png" width="200"></td>
-        <td><img src="/other/kubernetes-summit/seoul/color/kubernetes-summit-seoul-color.svg" width="200"></td>
         <td><img src="/other/kubernetes-summit/seoul/black/kubernetes-summit-seoul-black.png" width="200"></td>
+        <td><img src="/other/kubernetes-summit/sydney/black/kubernetes-summit-seoul-black.png" width="200"></td>
+        <td><img src="/other/kubernetes-summit/general/black/kubernetes-summit-general-black.svg" width="200"></td>
         <td><img src="/other/kubernetes-summit/seoul/black/kubernetes-summit-seoul-black.svg" width="200"></td>
-        <td><img src="/other/kubernetes-summit/seoul/white/kubernetes-summit-seoul-white.png" width="200"></td>
-        <td><img src="/other/kubernetes-summit/seoul/white/kubernetes-summit-seoul-white.png" width="200"></td>
+        <td><img src="/other/kubernetes-summit/sydney/black/kubernetes-summit-sydney-black.svg" width="200"></td>
     </tr>
     <tr>
     <th>white</th>
         <td><img src="/other/kubernetes-summit/general/white/kubernetes-summit-general-white.png" width="200"></td>
-        <td><img src="/other/kubernetes-summit/sydney/color/kubernetes-summit-sydney-color.svg" width="200"></td>
-        <td><img src="/other/kubernetes-summit/sydney/black/kubernetes-summit-sydney-black.png" width="200"></td>
-        <td><img src="/other/kubernetes-summit/sydney/black/kubernetes-summit-sydney-black.svg" width="200"></td>
+        <td><img src="/other/kubernetes-summit/seoul/white/kubernetes-summit-seoul-white.png" width="200"></td>
         <td><img src="/other/kubernetes-summit/sydney/white/kubernetes-summit-sydney-white.png" width="200"></td>
-        <td><img src="/other/kubernetes-summit/sydney/white/kubernetes-summit-sydney-white.png" width="200"></td>
+        <td><img src="/other/kubernetes-summit/general/white/kubernetes-summit-general-white.svg" width="200"></td>
+        <td><img src="/other/kubernetes-summit/seoul/white/kubernetes-summit-seoul-white.svg" width="200"></td>
+        <td><img src="/other/kubernetes-summit/sydney/white/kubernetes-summit-sydney-white.svg" width="200"></td>
 </tr>
 </table>
 
