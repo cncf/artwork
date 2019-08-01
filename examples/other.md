@@ -160,21 +160,6 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>SVG</th>
     </tr>
     <tr>
-        <th>color 2019</th>
-        <td><img src="/other/kubecon-cloudnativecon/2019-eu/color/kccnc-eu-2019-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2019-eu/color/kccnc-eu-2019-color.svg" width="260"></td>
-    </tr>
-    <tr>
-        <th>black 2019</th>
-        <td><img src="/other/kubecon-cloudnativecon/2019-eu/black/kccnc-eu-2019-black.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2019-eu/black/kccnc-eu-2019-black.svg" width="260"></td>
-    </tr>
-    <tr>
-        <th>white 2019</th>
-        <td><img src="/other/kubecon-cloudnativecon/2019-eu/white/kccnc-eu-2019-white.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2019-eu/white/kccnc-eu-2019-white.svg" width="260"></td>
-    </tr>
-    <tr>
         <th>color 2020</th>
         <td><img src="/other/kubecon-cloudnativecon/2020-eu/color/kccnc-eu-2020-color.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2020-eu/color/kccnc-eu-2020-color.svg" width="260"></td>
@@ -200,21 +185,6 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th></th>
         <th>PNG</th>
         <th>SVG</th>
-    </tr>
-    <tr>
-        <th>color 2019</th>
-        <td><img src="/other/kubecon-cloudnativecon/2019-china/color/kccnc-oss-china-2019-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2019-china/color/kccnc-oss-china-2019-color.svg" width="260"></td>
-    </tr>
-    <tr>
-        <th>black 2019</th>
-        <td><img src="/other/kubecon-cloudnativecon/2019-china/black/kccnc-oss-china-2019-black.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2019-china/black/kccnc-oss-china-2019-black.svg" width="260"></td>
-    </tr>
-    <tr>
-        <th>white 2019</th>
-        <td><img src="/other/kubecon-cloudnativecon/2019-china/white/kccnc-oss-china-2019-white.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2019-china/white/kccnc-oss-china-2019-white.svg" width="260"></td>
     </tr>
     <tr>
         <th>color 2020</th>
