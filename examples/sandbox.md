@@ -804,6 +804,55 @@
     </tr>
 </table>
 
+#### Flux Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/flux/horizontal/color/flux-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/flux/stacked/color/flux-stacked-color.png" width="95"></td>
+        <td><img src="/projects/flux/icon/color/flux-icon-color.png" width="75"></td>
+        <td><img src="/projects/flux/horizontal/color/flux-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/flux/stacked/color/flux-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/flux/icon/color/flux-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/flux/horizontal/black/flux-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/flux/stacked/black/flux-stacked-black.png" width="95"></td>
+        <td><img src="/projects/flux/icon/black/flux-icon-black.png" width="75"></td>
+        <td><img src="/projects/flux/horizontal/black/flux-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/flux/stacked/black/flux-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/flux/icon/black/flux-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/flux/horizontal/white/flux-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/flux/stacked/white/flux-stacked-white.png" width="95"></td>
+        <td><img src="/projects/flux/icon/white/flux-icon-white.png" width="75"></td>
+        <td><img src="/projects/flux/horizontal/white/flux-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/flux/stacked/white/flux-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/flux/icon/white/flux-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
