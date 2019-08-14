@@ -27,6 +27,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Helm](examples/incubating.md#helm-logos)
   * [Rook](examples/incubating.md#rook-logos)
   * [Harbor](examples/incubating.md#harbor-logos)
+  * [etcd](examples/incubating.md#etcd-logos)
   * [OPA](examples/incubating.md#opa-logos)
   * [CRI-O](examples/incubating.md#cri-o-logos)
   * [TiKV](examples/incubating.md#tikv-logos)
