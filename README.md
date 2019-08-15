@@ -49,7 +49,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Thanos](examples/sandbox.md#thanos-logos)
   * [Flux](examples/sandbox.md#flux-logos)
 * [Archived Projects](examples/archived.md)
-  * [rkt](examples/incubating.md#rkt-logos)
+  * [rkt](examples/archived.md#rkt-logos)
 * [Other CNCF Logos](examples/other.md)
   * [CNCF](examples/other.md#cncf-logos)
   * [Certification](examples/other.md#certification-logos) (CKA, CKAD, KCSP, KTP)
