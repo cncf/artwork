@@ -48,8 +48,6 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [OpenTelemetry](examples/sandbox.md#opentelemetry-logos)
   * [Thanos](examples/sandbox.md#thanos-logos)
   * [Flux](examples/sandbox.md#flux-logos)
-* [Archived Projects](examples/archived.md)
-  * [rkt](examples/archived.md#rkt-logos)
 * [Other CNCF Logos](examples/other.md)
   * [CNCF](examples/other.md#cncf-logos)
   * [Certification](examples/other.md#certification-logos) (CKA, CKAD, KCSP, KTP)
@@ -70,6 +68,8 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Phippy & Friends Individual](examples/other.md#phippy--friends-individual-logos)
   * [CNCF & Go Gophers by [Ashley McNamara]](examples/other.md#cncf--go-gophers)
   * [SIG Security](examples/other.md#sig-security)
+* [Archived Projects](examples/archived.md)
+  * [rkt](examples/archived.md#rkt-logos)
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage with the key excepts available at https://github.com/cncf/artwork/blob/master/LICENSE.md.
 
