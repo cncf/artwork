@@ -902,7 +902,7 @@
     </tr>
     </table>
 
-#### in-toto Logos
+    #### Strimzi Logos
 
     <table>
         <tr>
@@ -924,30 +924,30 @@
         </tr>
         <tr>
             <th>color</th>
-            <td><img src="/projects/in-toto/horizontal/color/in-toto-horizontal-color.png" width="200"></td>
-            <td><img src="/projects/in-toto/stacked/color/in-toto-stacked-color.png" width="95"></td>
-            <td><img src="/projects/in-toto/icon/color/in-toto-icon-color.png" width="75"></td>
-            <td><img src="/projects/in-toto/horizontal/color/in-toto-horizontal-color.svg" width="200"></td>
-            <td><img src="/projects/in-toto/stacked/color/in-toto-stacked-color.svg" width="95"></td>
-            <td><img src="/projects/in-toto/icon/color/in-toto-icon-color.svg" width="75"></td>
+            <td><img src="/projects/strimzi/horizontal/color/strimzi-horizontal-color.png" width="200"></td>
+            <td><img src="/projects/strimzi/stacked/color/strimzi-stacked-color.png" width="95"></td>
+            <td><img src="/projects/strimzi/icon/color/strimzi-icon-color.png" width="75"></td>
+            <td><img src="/projects/strimzi/horizontal/color/strimzi-horizontal-color.svg" width="200"></td>
+            <td><img src="/projects/strimzi/stacked/color/strimzi-stacked-color.svg" width="95"></td>
+            <td><img src="/projects/strimzi/icon/color/strimzi-icon-color.svg" width="75"></td>
         </tr>
         <tr>
             <th>black</th>
-            <td><img src="/projects/in-toto/horizontal/black/in-toto-horizontal-black.png" width="200"></td>
-            <td><img src="/projects/in-toto/stacked/black/in-toto-stacked-black.png" width="95"></td>
-            <td><img src="/projects/in-toto/icon/black/in-toto-icon-black.png" width="75"></td>
-            <td><img src="/projects/in-toto/horizontal/black/in-toto-horizontal-black.svg" width="200"></td>
-            <td><img src="/projects/in-toto/stacked/black/in-toto-stacked-black.svg" width="95"></td>
-            <td><img src="/projects/in-toto/icon/black/in-toto-icon-black.svg" width="75"></td>
+            <td><img src="/projects/strimzi/horizontal/black/strimzi-horizontal-black.png" width="200"></td>
+            <td><img src="/projects/strimzi/stacked/black/strimzi-stacked-black.png" width="95"></td>
+            <td><img src="/projects/strimzi/icon/black/strimzi-icon-black.png" width="75"></td>
+            <td><img src="/projects/strimzi/horizontal/black/strimzi-horizontal-black.svg" width="200"></td>
+            <td><img src="/projects/strimzi/stacked/black/strimzi-stacked-black.svg" width="95"></td>
+            <td><img src="/projects/strimzi/icon/black/strimzi-icon-black.svg" width="75"></td>
         </tr>
         <tr>
             <th>white</th>
-            <td><img src="/projects/in-toto/horizontal/white/in-toto-horizontal-white.png" width="200"></td>
-            <td><img src="/projects/in-toto/stacked/white/in-toto-stacked-white.png" width="95"></td>
-            <td><img src="/projects/in-toto/icon/white/in-toto-icon-white.png" width="75"></td>
-            <td><img src="/projects/in-toto/horizontal/white/in-toto-horizontal-white.svg" width="200"></td>
-            <td><img src="/projects/in-toto/stacked/white/in-toto-stacked-white.svg" width="95"></td>
-            <td><img src="/projects/in-toto/icon/white/in-toto-icon-white.svg" width="75"></td>
+            <td><img src="/projects/strimzi/horizontal/white/strimzi-horizontal-white.png" width="200"></td>
+            <td><img src="/projects/strimzi/stacked/white/strimzi-stacked-white.png" width="95"></td>
+            <td><img src="/projects/strimzi/icon/white/strimzi-icon-white.png" width="75"></td>
+            <td><img src="/projects/strimzi/horizontal/white/strimzi-horizontal-white.svg" width="200"></td>
+            <td><img src="/projects/strimzi/stacked/white/strimzi-stacked-white.svg" width="95"></td>
+            <td><img src="/projects/strimzi/icon/white/strimzi-icon-white.svg" width="75"></td>
         </tr>
         </table>
 
