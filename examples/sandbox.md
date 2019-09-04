@@ -902,53 +902,53 @@
     </tr>
     </table>
 
-#### in-toto Logos
+#### Strimzi Logos
 
-    <table>
-        <tr>
-            <th colspan="7"></th>
-        </tr>
-        <tr>
-            <th></th>
-            <th colspan="3">PNG</th>
-            <th colspan="3">SVG</th>
-        </tr>
-        <tr>
-            <th></th>
-            <th>horizontal</th>
-            <th>stacked</th>
-            <th>icon</th>
-            <th>horizontal</th>
-            <th>stacked</th>
-            <th>icon</th>
-        </tr>
-        <tr>
-            <th>color</th>
-            <td><img src="/projects/flux/horizontal/color/flux-horizontal-color.png" width="200"></td>
-            <td><img src="/projects/flux/stacked/color/flux-stacked-color.png" width="95"></td>
-            <td><img src="/projects/flux/icon/color/flux-icon-color.png" width="75"></td>
-            <td><img src="/projects/flux/horizontal/color/flux-horizontal-color.svg" width="200"></td>
-            <td><img src="/projects/flux/stacked/color/flux-stacked-color.svg" width="95"></td>
-            <td><img src="/projects/flux/icon/color/flux-icon-color.svg" width="75"></td>
-        </tr>
-        <tr>
-            <th>black</th>
-            <td><img src="/projects/flux/horizontal/black/flux-horizontal-black.png" width="200"></td>
-            <td><img src="/projects/flux/stacked/black/flux-stacked-black.png" width="95"></td>
-            <td><img src="/projects/flux/icon/black/flux-icon-black.png" width="75"></td>
-            <td><img src="/projects/flux/horizontal/black/flux-horizontal-black.svg" width="200"></td>
-            <td><img src="/projects/flux/stacked/black/flux-stacked-black.svg" width="95"></td>
-            <td><img src="/projects/flux/icon/black/flux-icon-black.svg" width="75"></td>
-        </tr>
-        <tr>
-            <th>white</th>
-            <td><img src="/projects/flux/horizontal/white/flux-horizontal-white.png" width="200"></td>
-            <td><img src="/projects/flux/stacked/white/flux-stacked-white.png" width="95"></td>
-            <td><img src="/projects/flux/icon/white/flux-icon-white.png" width="75"></td>
-            <td><img src="/projects/flux/horizontal/white/flux-horizontal-white.svg" width="200"></td>
-            <td><img src="/projects/flux/stacked/white/flux-stacked-white.svg" width="95"></td>
-            <td><img src="/projects/flux/icon/white/flux-icon-white.svg" width="75"></td>
-        </tr>
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/strimzi/horizontal/color/strimzi-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/strimzi/stacked/color/strimzi-stacked-color.png" width="95"></td>
+        <td><img src="/projects/strimzi/icon/color/strimzi-icon-color.png" width="75"></td>
+        <td><img src="/projects/strimzi/horizontal/color/strimzi-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/strimzi/stacked/color/strimzi-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/strimzi/icon/color/strimzi-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/strimzi/horizontal/black/strimzi-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/strimzi/stacked/black/strimzi-stacked-black.png" width="95"></td>
+        <td><img src="/projects/strimzi/icon/black/strimzi-icon-black.png" width="75"></td>
+        <td><img src="/projects/strimzi/horizontal/black/strimzi-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/strimzi/stacked/black/strimzi-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/strimzi/icon/black/strimzi-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/strimzi/horizontal/white/strimzi-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/strimzi/stacked/white/strimzi-stacked-white.png" width="95"></td>
+        <td><img src="/projects/strimzi/icon/white/strimzi-icon-white.png" width="75"></td>
+        <td><img src="/projects/strimzi/horizontal/white/strimzi-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/strimzi/stacked/white/strimzi-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/strimzi/icon/white/strimzi-icon-white.svg" width="75"></td>
+    </tr>
     </table>
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
