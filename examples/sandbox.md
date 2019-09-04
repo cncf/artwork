@@ -902,7 +902,7 @@
     </tr>
     </table>
 
-    #### in-toto Logos
+    #### In-toto Logos
 
     <table>
         <tr>
