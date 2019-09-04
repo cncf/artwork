@@ -902,7 +902,7 @@
     </tr>
     </table>
 
-#### Strimzi Logos
+#### in-toto Logos
 
 <table>
     <tr>
@@ -924,12 +924,12 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/strimzi/horizontal/color/strimzi-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/strimzi/stacked/color/strimzi-stacked-color.png" width="95"></td>
-        <td><img src="/projects/strimzi/icon/color/strimzi-icon-color.png" width="75"></td>
-        <td><img src="/projects/strimzi/horizontal/color/strimzi-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/strimzi/stacked/color/strimzi-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/strimzi/icon/color/strimzi-icon-color.svg" width="75"></td>
+        <td><img src="/projects/in-toto/horizontal/color/in-toto-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/in-toto/stacked/color/in-toto-stacked-color.png" width="95"></td>
+        <td><img src="/projects/in-toto/icon/color/in-toto-icon-color.png" width="75"></td>
+        <td><img src="/projects/in-toto/horizontal/color/in-toto-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/in-toto/stacked/color/in-toto-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/in-toto/icon/color/in-toto-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
