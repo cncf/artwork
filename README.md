@@ -48,6 +48,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [OpenTelemetry](examples/sandbox.md#opentelemetry-logos)
   * [Thanos](examples/sandbox.md#thanos-logos)
   * [Flux](examples/sandbox.md#flux-logos)
+  * [Strimzi](examples/sandbox.md#strimzi-logos)
 * [Other CNCF Logos](examples/other.md)
   * [CNCF](examples/other.md#cncf-logos)
   * [Certification](examples/other.md#certification-logos) (CKA, CKAD, KCSP, KTP)
