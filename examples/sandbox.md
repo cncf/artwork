@@ -951,7 +951,7 @@
     </tr>
     </table>
 
-#### Kubevirt Logos
+#### KubeVirt Logos
 
 <table>
     <tr>
