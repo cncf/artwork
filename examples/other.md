@@ -329,6 +329,31 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 </table>
 
 
+#### Kubernetes Community Days
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/kubernetes-community-days/color/kubernetes-community-days-color.png" width="320"></td>
+        <td><img src="/other/kubernetes-community-days/color/kubernetes-community-days-color.svg" width="320"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/kubernetes-community-days/black/kubernetes-community-days-black.png" width="320"></td>
+        <td><img src="/other/kubernetes-community-days/black/kubernetes-community-days-black.svg" width="320"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/kubernetes-community-days/white/kubernetes-community-days-white.png" width="320"></td>
+        <td><img src="/other/kubernetes-community-days/white/kubernetes-community-days-white.svg" width="320"></td>
+    </tr>
+</table>
+
 
 #### Envoycon Logos
 
@@ -824,31 +849,6 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
         <td><img src="/other/sig-security/horizontal/white/sig-security-horizontal-white.svg" width="200"></td>
         <td><img src="/other/sig-security/stacked/white/sig-security-stacked-white.svg" width="95"></td>
         <td><img src="/other/sig-security/icon/white/sig-security-icon-white.svg" width="95"></td>
-    </tr>
-</table>
-
-#### Kubernetes Community Days
-
-<table>
-    <tr>
-        <th></th>
-        <th>PNG</th>
-        <th>SVG</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/other/kubernetes-community-days/color/kubernetes-community-days-color.png" width="320"></td>
-        <td><img src="/other/kubernetes-community-days/color/kubernetes-community-days-color.svg" width="320"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/kubernetes-community-days/black/kubernetes-community-days-black.png" width="320"></td>
-        <td><img src="/other/kubernetes-community-days/black/kubernetes-community-days-black.svg" width="320"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/other/kubernetes-community-days/white/kubernetes-community-days-white.png" width="320"></td>
-        <td><img src="/other/kubernetes-community-days/white/kubernetes-community-days-white.svg" width="320"></td>
     </tr>
 </table>
 
