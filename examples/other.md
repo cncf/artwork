@@ -827,6 +827,31 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
 </table>
 
+#### Kubernetes Community Days
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/kubernetes-community-days/color/kubernetes-community-days-color.png" width="320"></td>
+        <td><img src="/other/kubernetes-community-days/color/kubernetes-community-days-color.svg" width="320"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/kubernetes-community-days/black/kubernetes-community-days-black.png" width="320"></td>
+        <td><img src="/other/kubernetes-community-days/black/kubernetes-community-days-black.svg" width="320"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/kubernetes-community-days/white/kubernetes-community-days-white.png" width="320"></td>
+        <td><img src="/other/kubernetes-community-days/white/kubernetes-community-days-white.svg" width="320"></td>
+    </tr>
+</table>
+
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
