@@ -354,8 +354,8 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
 <tr>
         <th>white-text</th>
-        <td><img src="/other/kubernetes-community-days/white/kubernetes-community-days-white-text.png" width="320"></td>
-        <td><img src="/other/kubernetes-community-days/white/kubernetes-community-days-white-text.svg" width="320"></td>
+        <td><img src="/other/kubernetes-community-days/white-text/kubernetes-community-days-white-text.png" width="320"></td>
+        <td><img src="/other/kubernetes-community-days/white-text/kubernetes-community-days-white-text.svg" width="320"></td>
     </tr>
 </table>
 
@@ -880,30 +880,30 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/cnftestbed/horizontal/color/cnftestbed-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/cnftestbed/stacked/color/cnftestbed-stacked-color.png" width="95"></td>
-        <td><img src="/projects/cnftestbed/icon/color/cnftestbed-icon-color.png" width="75"></td>
-        <td><img src="/projects/cnftestbed/horizontal/color/cnftestbed-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/cnftestbed/stacked/color/cnftestbed-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/cnftestbed/icon/color/cnftestbed-icon-color.svg" width="75"></td>
+        <td><img src="/other/cnftestbed/horizontal/color/cnftestbed-horizontal-color.png" width="200"></td>
+        <td><img src="/other/cnftestbed/stacked/color/cnftestbed-stacked-color.png" width="95"></td>
+        <td><img src="/other/cnftestbed/icon/color/cnftestbed-icon-color.png" width="75"></td>
+        <td><img src="/other/cnftestbed/horizontal/color/cnftestbed-horizontal-color.svg" width="200"></td>
+        <td><img src="/other/cnftestbed/stacked/color/cnftestbed-stacked-color.svg" width="95"></td>
+        <td><img src="/other/cnftestbed/icon/color/cnftestbed-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/cnftestbed/horizontal/black/cnftestbed-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/cnftestbed/stacked/black/cnftestbed-stacked-black.png" width="95"></td>
-        <td><img src="/projects/cnftestbed/icon/black/cnftestbed-icon-black.png" width="75"></td>
-        <td><img src="/projects/cnftestbed/horizontal/black/cnftestbed-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/cnftestbed/stacked/black/cnftestbed-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/cnftestbed/icon/black/cnftestbed-icon-black.svg" width="75"></td>
+        <td><img src="/other/cnftestbed/horizontal/black/cnftestbed-horizontal-black.png" width="200"></td>
+        <td><img src="/other/cnftestbed/stacked/black/cnftestbed-stacked-black.png" width="95"></td>
+        <td><img src="/other/cnftestbed/icon/black/cnftestbed-icon-black.png" width="75"></td>
+        <td><img src="/other/cnftestbed/horizontal/black/cnftestbed-horizontal-black.svg" width="200"></td>
+        <td><img src="/other/cnftestbed/stacked/black/cnftestbed-stacked-black.svg" width="95"></td>
+        <td><img src="/other/cnftestbed/icon/black/cnftestbed-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/cnftestbed/horizontal/white/cnftestbed-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/cnftestbed/stacked/white/cnftestbed-stacked-white.png" width="95"></td>
-        <td><img src="/projects/cnftestbed/icon/white/cnftestbed-icon-white.png" width="75"></td>
-        <td><img src="/projects/cnftestbed/horizontal/white/cnftestbed-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/cnftestbed/stacked/white/cnftestbed-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/cnftestbed/icon/white/cnftestbed-icon-white.svg" width="75"></td>
+        <td><img src="/other/cnftestbed/horizontal/white/cnftestbed-horizontal-white.png" width="200"></td>
+        <td><img src="/other/cnftestbed/stacked/white/cnftestbed-stacked-white.png" width="95"></td>
+        <td><img src="/other/cnftestbed/icon/white/cnftestbed-icon-white.png" width="75"></td>
+        <td><img src="/other/cnftestbed/horizontal/white/cnftestbed-horizontal-white.svg" width="200"></td>
+        <td><img src="/other/cnftestbed/stacked/white/cnftestbed-stacked-white.svg" width="95"></td>
+        <td><img src="/other/cnftestbed/icon/white/cnftestbed-icon-white.svg" width="75"></td>
     </tr>
     </table>
 
