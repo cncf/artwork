@@ -352,6 +352,12 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/kubernetes-community-days/white/kubernetes-community-days-white.png" width="320"></td>
         <td><img src="/other/kubernetes-community-days/white/kubernetes-community-days-white.svg" width="320"></td>
     </tr>
+	<tr></tr>
+	<tr>
+        <th>white-text</th>
+        <td><img src="/other/kubernetes-community-days/white-text/kubernetes-community-days-white-text.png" width="320"></td>
+        <td><img src="/other/kubernetes-community-days/white-text/kubernetes-community-days-white-text.svg" width="320"></td>
+    </tr>
 </table>
 
 
@@ -851,6 +857,56 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
         <td><img src="/other/sig-security/icon/white/sig-security-icon-white.svg" width="95"></td>
     </tr>
 </table>
+
+
+#### CNF Testbed Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/cnftestbed/horizontal/color/cnftestbed-horizontal-color.png" width="200"></td>
+        <td><img src="/other/cnftestbed/stacked/color/cnftestbed-stacked-color.png" width="95"></td>
+        <td><img src="/other/cnftestbed/icon/color/cnftestbed-icon-color.png" width="75"></td>
+        <td><img src="/other/cnftestbed/horizontal/color/cnftestbed-horizontal-color.svg" width="200"></td>
+        <td><img src="/other/cnftestbed/stacked/color/cnftestbed-stacked-color.svg" width="95"></td>
+        <td><img src="/other/cnftestbed/icon/color/cnftestbed-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/cnftestbed/horizontal/black/cnftestbed-horizontal-black.png" width="200"></td>
+        <td><img src="/other/cnftestbed/stacked/black/cnftestbed-stacked-black.png" width="95"></td>
+        <td><img src="/other/cnftestbed/icon/black/cnftestbed-icon-black.png" width="75"></td>
+        <td><img src="/other/cnftestbed/horizontal/black/cnftestbed-horizontal-black.svg" width="200"></td>
+        <td><img src="/other/cnftestbed/stacked/black/cnftestbed-stacked-black.svg" width="95"></td>
+        <td><img src="/other/cnftestbed/icon/black/cnftestbed-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/cnftestbed/horizontal/white/cnftestbed-horizontal-white.png" width="200"></td>
+        <td><img src="/other/cnftestbed/stacked/white/cnftestbed-stacked-white.png" width="95"></td>
+        <td><img src="/other/cnftestbed/icon/white/cnftestbed-icon-white.png" width="75"></td>
+        <td><img src="/other/cnftestbed/horizontal/white/cnftestbed-horizontal-white.svg" width="200"></td>
+        <td><img src="/other/cnftestbed/stacked/white/cnftestbed-stacked-white.svg" width="95"></td>
+        <td><img src="/other/cnftestbed/icon/white/cnftestbed-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
 
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage

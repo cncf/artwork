@@ -61,6 +61,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [KubeCon + CloudNativeCon Cropped](examples/other.md#kubecon--cloudnativecon-cropped-logos)
   * [Kubernetes Forum](examples/other.md#kubernetes-forum-logos)
   * [Envoycon](examples/other.md#envoycon-logos)
+  * [Kubernetes Community Days](examples/other.md#kubernetes-community-days)
   * [Certified Kubernetes](examples/other.md#certified-kubernetes-logos)
   * [DevStats](examples/other.md#devstats-logos)
   * [CNCF Landscape](examples/other.md#cncf-landscape-logos)
@@ -71,7 +72,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Phippy & Friends Individual](examples/other.md#phippy--friends-individual-logos)
   * [CNCF & Go Gophers by [Ashley McNamara]](examples/other.md#cncf--go-gophers)
   * [SIG Security](examples/other.md#sig-security)
-  * [Kubernetes Community Days](examples/other.md#kubernetes-community-days)
+  * [CNF Testbed](examples/other.md#cnf-testbed-logos)
 * [Archived Projects](examples/archived.md)
   * [rkt](examples/archived.md#rkt-logos)
 
