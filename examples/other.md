@@ -352,7 +352,8 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/kubernetes-community-days/white/kubernetes-community-days-white.png" width="320"></td>
         <td><img src="/other/kubernetes-community-days/white/kubernetes-community-days-white.svg" width="320"></td>
     </tr>
-<tr>
+	<tr></tr>
+	<tr>
         <th>white-text</th>
         <td><img src="/other/kubernetes-community-days/white-text/kubernetes-community-days-white-text.png" width="320"></td>
         <td><img src="/other/kubernetes-community-days/white-text/kubernetes-community-days-white-text.svg" width="320"></td>
