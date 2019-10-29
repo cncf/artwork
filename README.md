@@ -30,7 +30,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [OPA](examples/incubating.md#opa-logos)
   * [CRI-O](examples/incubating.md#cri-o-logos)
   * [TiKV](examples/incubating.md#tikv-logos)
-  * [CloudEvents](examples/sandbox.md#cloudevents-logos)
+  * [CloudEvents](examples/incubating.md#cloudevents-logos)
 * [Sandbox Projects](examples/sandbox.md)
   * [SPIFFE](examples/sandbox.md#spiffe-logos)
   * [SPIRE](examples/sandbox.md#spire-logos)
