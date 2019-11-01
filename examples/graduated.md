@@ -332,6 +332,67 @@
     </tr>
 </table>
 
+#### Jaeger Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/jaeger/horizontal/color/jaeger-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/jaeger/stacked/color/jaeger-stacked-color.png" width="95"></td>
+        <td><img src="/projects/jaeger/icon/color/jaeger-icon-color.png" width="75"></td>
+        <td><img src="/projects/jaeger/horizontal/color/jaeger-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/jaeger/stacked/color/jaeger-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/jaeger/icon/color/jaeger-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/jaeger/horizontal/black/jaeger-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/jaeger/stacked/black/jaeger-stacked-black.png" width="95"></td>
+        <td><img src="/projects/jaeger/icon/black/jaeger-icon-black.png" width="75"></td>
+        <td><img src="/projects/jaeger/horizontal/black/jaeger-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/jaeger/stacked/black/jaeger-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/jaeger/icon/black/jaeger-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/jaeger/horizontal/white/jaeger-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/jaeger/stacked/white/jaeger-stacked-white.png" width="95"></td>
+        <td><img src="/projects/jaeger/icon/white/jaeger-icon-white.png" width="75"></td>
+        <td><img src="/projects/jaeger/horizontal/white/jaeger-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/jaeger/stacked/white/jaeger-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/jaeger/icon/white/jaeger-icon-white.svg" width="75"></td>
+    </tr>
+    <tr colspan="7"></tr>
+    <tr>
+        <th>reverse-color</th>
+        <td><img src="/projects/jaeger/horizontal/reverse-color/jaeger-horizontal-reverse-color.png" width="200"></td>
+        <td><img src="/projects/jaeger/stacked/reverse-color/jaeger-stacked-reverse-color.png" width="95"></td>
+        <td><img src="/projects/jaeger/icon/reverse-color/jaeger-icon-reverse-color.png" width="75"></td>
+        <td><img src="/projects/jaeger/horizontal/reverse-color/jaeger-horizontal-reverse-color.svg" width="200"></td>
+        <td><img src="/projects/jaeger/stacked/reverse-color/jaeger-stacked-reverse-color.svg" width="95"></td>
+        <td><img src="/projects/jaeger/icon/reverse-color/jaeger-icon-reverse-color.svg" width="75"></td>
+    </tr>
+</table>
+
+
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
