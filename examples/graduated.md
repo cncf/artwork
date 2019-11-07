@@ -391,6 +391,63 @@
     </tr>
 </table>
 
+#### Vitess Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/vitess/horizontal/color/vitess-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/vitess/stacked/color/vitess-stacked-color.png" width="95"></td>
+        <td><img src="/projects/vitess/icon/color/vitess-icon-color.png" width="75"></td>
+        <td><img src="/projects/vitess/horizontal/color/vitess-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/vitess/stacked/color/vitess-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/vitess/icon/color/vitess-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/vitess/horizontal/black/vitess-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/vitess/stacked/black/vitess-stacked-black.png" width="95"></td>
+        <td><img src="/projects/vitess/icon/black/vitess-icon-black.png" width="75"></td>
+        <td><img src="/projects/vitess/horizontal/black/vitess-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/vitess/stacked/black/vitess-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/vitess/icon/black/vitess-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/vitess/horizontal/white/vitess-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/vitess/stacked/white/vitess-stacked-white.png" width="95"></td>
+        <td><img src="/projects/vitess/icon/white/vitess-icon-white.png" width="75"></td>
+        <td><img src="/projects/vitess/horizontal/white/vitess-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/vitess/stacked/white/vitess-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/vitess/icon/white/vitess-icon-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>grey</th>
+        <td><img src="/projects/vitess/horizontal/grey/vitess-horizontal-grey.png" width="200"></td>
+        <td><img src="/projects/vitess/stacked/grey/vitess-stacked-grey.png" width="95"></td>
+        <td><img src="/projects/vitess/icon/grey/vitess-icon-grey.png" width="75"></td>
+        <td><img src="/projects/vitess/horizontal/grey/vitess-horizontal-grey.svg" width="200"></td>
+        <td><img src="/projects/vitess/stacked/grey/vitess-stacked-grey.svg" width="95"></td>
+        <td><img src="/projects/vitess/icon/grey/vitess-icon-grey.svg" width="75"></td>
+    </tr>
+</table>
 
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
