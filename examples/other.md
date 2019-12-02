@@ -859,6 +859,55 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
 </table>
 
 
+#### SIG Storage
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/sig-storage/horizontal/color/sig-storage-horizontal-color.png" width="200"></td>
+        <td><img src="/other/sig-storage/stacked/color/sig-storage-stacked-color.png" width="95"></td>
+        <td><img src="/other/sig-storage/icon/color/sig-storage-icon-color.png" width="95"></td>
+        <td><img src="/other/sig-storage/horizontal/color/sig-storage-horizontal-color.svg" width="200"></td>
+        <td><img src="/other/sig-storage/stacked/color/sig-storage-stacked-color.svg" width="95"></td>
+        <td><img src="/other/sig-storage/icon/color/sig-storage-icon-color.svg" width="95"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/sig-storage/horizontal/black/sig-storage-horizontal-black.png" width="200"></td>
+        <td><img src="/other/sig-storage/stacked/black/sig-storage-stacked-black.png" width="95"></td>
+        <td><img src="/other/sig-storage/icon/black/sig-storage-icon-black.png" width="95"></td>
+        <td><img src="/other/sig-storage/horizontal/black/sig-storage-horizontal-black.svg" width="200"></td>
+        <td><img src="/other/sig-storage/stacked/black/sig-storage-stacked-black.svg" width="95"></td>
+        <td><img src="/other/sig-storage/icon/black/sig-storage-icon-black.svg" width="95"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/sig-storage/horizontal/white/sig-storage-horizontal-white.png" width="200"></td>
+        <td><img src="/other/sig-storage/stacked/white/sig-storage-stacked-white.png" width="95"></td>
+        <td><img src="/other/sig-storage/icon/white/sig-storage-icon-white.png" width="95"></td>
+        <td><img src="/other/sig-storage/horizontal/white/sig-storage-horizontal-white.svg" width="200"></td>
+        <td><img src="/other/sig-storage/stacked/white/sig-storage-stacked-white.svg" width="95"></td>
+        <td><img src="/other/sig-storage/icon/white/sig-storage-icon-white.svg" width="95"></td>
+    </tr>
+</table>
+
 #### CNF Testbed Logos
 
 <table>
