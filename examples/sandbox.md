@@ -1032,7 +1032,7 @@
     <tr>
         <th>white</th>
         <td><img src="/projects/chubaofs/horizontal/white/chubaofs-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/chubaofs/stacked/white/chubaofsn-stacked-white.png" width="95"></td>
+        <td><img src="/projects/chubaofs/stacked/white/chubaofs-stacked-white.png" width="95"></td>
         <td><img src="/projects/chubaofs/icon/white/chubaofs-icon-white.png" width="75"></td>
         <td><img src="/projects/chubaofs/horizontal/white/chubaofs-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/chubaofs/stacked/white/chubaofs-stacked-white.svg" width="95"></td>
