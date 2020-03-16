@@ -1099,16 +1099,20 @@
     </tr>
     <tr>
         <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
+        <th colspan="5">PNG</th>
+        <th colspan="5">SVG</th>
     </tr>
     <tr>
         <th></th>
         <th>horizontal</th>
+	<th>horizontal-stackedtext</th>
         <th>stacked</th>
+  	<th>stacked-smi</th>
         <th>icon</th>
         <th>horizontal</th>
+	<th>horizontal-stackedtext</th>
         <th>stacked</th>
+  	<th>stacked-smi</th>
         <th>icon</th>
     </tr>
     <tr>
