@@ -1090,6 +1090,68 @@
     </tr>
     </table>
 
+
+#### Service Mesh Interface Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/servicemeshinterface/horizontal/color/servicemeshinterface-horizontal-color.png" width="200"></td>
+	<td><img src="/projects/servicemeshinterface/horizontal-stackedtext/color/servicemeshinterface-horizontal-stacked-text-color.png" width="200"></td>
+        <td><img src="/projects/servicemeshinterface/stacked/color/servicemeshinterface-stacked-color.png" width="95"></td>
+	<td><img src="/projects/servicemeshinterface/stacked-smi/color/servicemeshinterface-stacked-smi-color.png" width="95"></td>
+        <td><img src="/projects/servicemeshinterface/icon/color/servicemeshinterface-icon-color.png" width="75"></td>
+        <td><img src="/projects/servicemeshinterface/horizontal/color/servicemeshinterface-horizontal-color.svg" width="200"></td>
+	<td><img src="/projects/servicemeshinterface/horizontal-stackedtext/color/servicemeshinterface-horizontal-stackedtext-color.svg" width="200"></td>
+        <td><img src="/projects/servicemeshinterface/stacked/color/servicemeshinterface-stacked-color.svg" width="95"></td>
+ 	<td><img src="/projects/servicemeshinterface/stacked-smi/color/servicemeshinterface-stacked-smi-color.svg" width="95"></td>
+        <td><img src="/projects/servicemeshinterface/icon/color/servicemeshinterface-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/servicemeshinterface/horizontal/black/servicemeshinterface-horizontal-black.png" width="200"></td>
+	<td><img src="/projects/servicemeshinterface/horizontal-stackedtext/black/servicemeshinterface-horizontal-stacked-text-black.png" width="200"></td>
+        <td><img src="/projects/servicemeshinterface/stacked/black/servicemeshinterface-stacked-black.png" width="95"></td>
+	<td><img src="/projects/servicemeshinterface/stacked-smi/black/servicemeshinterface-stacked-smi-black.png" width="95"></td>
+        <td><img src="/projects/servicemeshinterface/icon/black/servicemeshinterface-icon-black.png" width="75"></td>
+        <td><img src="/projects/servicemeshinterface/horizontal/black/servicemeshinterface-horizontal-black.svg" width="200"></td>
+<td><img src="/projects/servicemeshinterface/horizontal-stackedtext/black/servicemeshinterface-horizontal-stackedtext-black.svg" width="200"></td>
+        <td><img src="/projects/servicemeshinterface/stacked/black/servicemeshinterface-stacked-black.svg" width="95"></td>
+	<td><img src="/projects/servicemeshinterface/stacked-smi/black/servicemeshinterface-stacked-smi-black.svg" width="95"></td>
+        <td><img src="/projects/servicemeshinterface/icon/black/servicemeshinterface-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/servicemeshinterface/horizontal/white/servicemeshinterface-horizontal-white.png" width="200"></td>
+	<td><img src="/projects/servicemeshinterface/horizontal-stackedtext/white/servicemeshinterface-horizontal-stacked-text-white.png" width="200"></td>
+        <td><img src="/projects/servicemeshinterface/stacked/white/servicemeshinterface-stacked-white.png" width="95"></td>
+	<td><img src="/projects/servicemeshinterface/stacked-smi/white/servicemeshinterface-stacked-smi-white.png" width="95"></td>
+        <td><img src="/projects/servicemeshinterface/icon/white/servicemeshinterface-icon-white.png" width="75"></td>
+        <td><img src="/projects/servicemeshinterface/horizontal/white/servicemeshinterface-horizontal-white.svg" width="200"></td>
+<td><img src="/projects/servicemeshinterface/horizontal-stackedtext/white/servicemeshinterface-horizontal-stackedtext-white.svg" width="200"></td>
+        <td><img src="/projects/servicemeshinterface/stacked/white/servicemeshinterface-stacked-white.svg" width="95"></td>
+	<td><img src="/projects/servicemeshinterface/stacked-smi/white/servicemeshinterface-stacked-smi-white.svg" width="95"></td>
+        <td><img src="/projects/servicemeshinterface/icon/white/servicemeshinterface-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
