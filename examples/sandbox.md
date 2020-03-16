@@ -1104,12 +1104,12 @@
     </tr>
     <tr>
         <th></th>
-        <th>horizontal</th>
+        <th>horiz</th>
 	<th>stackedtext</th>
         <th>stacked</th>
   	<th>smi</th>
         <th>icon</th>
-        <th>horizontal</th>
+        <th>horiz</th>
 	<th>stackedtext</th>
         <th>stacked</th>
   	<th>smi</th>
