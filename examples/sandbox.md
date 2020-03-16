@@ -1131,7 +1131,7 @@
     <tr>
         <th>black</th>
         <td><img src="/projects/servicemeshinterface/horizontal/black/servicemeshinterface-horizontal-black.png" width="200"></td>
-	<td><img src="/projects/servicemeshinterface/horizontal-stackedtext/black/servicemeshinterface-horizontal-stacked-text-black.png" width="200"></td>
+	<td><img src="/projects/servicemeshinterface/horizontal-stackedtext/black/servicemeshinterface-horizontal-stackedtext-black.png" width="200"></td>
         <td><img src="/projects/servicemeshinterface/stacked/black/servicemeshinterface-stacked-black.png" width="95"></td>
 	<td><img src="/projects/servicemeshinterface/stacked-smi/black/servicemeshinterface-stackedsmi-black.png" width="95"></td>
         <td><img src="/projects/servicemeshinterface/icon/black/servicemeshinterface-icon-black.png" width="75"></td>
@@ -1144,7 +1144,7 @@
     <tr>
         <th>white</th>
         <td><img src="/projects/servicemeshinterface/horizontal/white/servicemeshinterface-horizontal-white.png" width="200"></td>
-	<td><img src="/projects/servicemeshinterface/horizontal-stackedtext/white/servicemeshinterface-horizontal-stacked-text-white.png" width="200"></td>
+	<td><img src="/projects/servicemeshinterface/horizontal-stackedtext/white/servicemeshinterface-horizontal-stackedtext-white.png" width="200"></td>
         <td><img src="/projects/servicemeshinterface/stacked/white/servicemeshinterface-stacked-white.png" width="95"></td>
 	<td><img src="/projects/servicemeshinterface/stacked-smi/white/servicemeshinterface-stackedsmi-white.png" width="95"></td>
         <td><img src="/projects/servicemeshinterface/icon/white/servicemeshinterface-icon-white.png" width="75"></td>
