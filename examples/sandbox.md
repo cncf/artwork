@@ -1095,7 +1095,7 @@
 
 <table>
     <tr>
-        <th colspan="7"></th>
+        <th colspan="10"></th>
     </tr>
     <tr>
         <th></th>
