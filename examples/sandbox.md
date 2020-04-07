@@ -296,55 +296,6 @@
     </tr>
 </table>
 
-#### Falco Logos
-
-<table>
-    <tr>
-    	<th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/falco/horizontal/color/falco-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/falco/stacked/color/falco-stacked-color.png" width="95"></td>
-        <td><img src="/projects/falco/icon/color/falco-icon-color.png" width="75"></td>
-        <td><img src="/projects/falco/horizontal/color/falco-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/falco/stacked/color/falco-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/falco/icon/color/falco-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/falco/horizontal/black/falco-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/falco/stacked/black/falco-stacked-black.png" width="95"></td>
-        <td><img src="/projects/falco/icon/black/falco-icon-black.png" width="75"></td>
-        <td><img src="/projects/falco/horizontal/black/falco-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/falco/stacked/black/falco-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/falco/icon/black/falco-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/falco/horizontal/white/falco-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/falco/stacked/white/falco-stacked-white.png" width="95"></td>
-        <td><img src="/projects/falco/icon/white/falco-icon-white.png" width="75"></td>
-        <td><img src="/projects/falco/horizontal/white/falco-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/falco/stacked/white/falco-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/falco/icon/white/falco-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### Dragonfly Logos
 
 <table>
@@ -1157,54 +1108,6 @@
     </table>
 
 
-#### Argo Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/argo/horizontal/color/argo-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/argo/stacked/color/argo-stacked-color.png" width="95"></td>
-        <td><img src="/projects/argo/icon/color/argo-icon-color.png" width="75"></td>
-        <td><img src="/projects/argo/horizontal/color/argo-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/argo/stacked/color/argo-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/argo/icon/color/argo-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/argo/horizontal/black/argo-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/argo/stacked/black/argo-stacked-black.png" width="95"></td>
-        <td><img src="/projects/argo/icon/black/argo-icon-black.png" width="75"></td>
-        <td><img src="/projects/argo/horizontal/black/argo-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/argo/stacked/black/argo-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/argo/icon/black/argo-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/argo/horizontal/white/argo-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/argo/stacked/white/argo-stacked-white.png" width="95"></td>
-        <td><img src="/projects/argo/icon/white/argo-icon-white.png" width="75"></td>
-        <td><img src="/projects/argo/horizontal/white/argo-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/argo/stacked/white/argo-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/argo/icon/white/argo-icon-white.svg" width="75"></td>
-    </tr>
-    </table>
 
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
