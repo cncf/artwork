@@ -876,6 +876,55 @@
     </tr>
     </table>
 
+#### Dragonfly Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/dragonfly/horizontal/color/dragonfly-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/dragonfly/stacked/color/dragonfly-stacked-color.png" width="95"></td>
+        <td><img src="/projects/dragonfly/icon/color/dragonfly-icon-color.png" width="75"></td>
+        <td><img src="/projects/dragonfly/horizontal/color/dragonfly-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/dragonfly/stacked/color/dragonfly-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/dragonfly/icon/color/dragonfly-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/dragonfly/horizontal/black/dragonfly-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/dragonfly/stacked/black/dragonfly-stacked-black.png" width="95"></td>
+        <td><img src="/projects/dragonfly/icon/black/dragonfly-icon-black.png" width="75"></td>
+        <td><img src="/projects/dragonfly/horizontal/black/dragonfly-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/dragonfly/stacked/black/dragonfly-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/dragonfly/icon/black/dragonfly-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/dragonfly/horizontal/white/dragonfly-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/dragonfly/stacked/white/dragonfly-stacked-white.png" width="95"></td>
+        <td><img src="/projects/dragonfly/icon/white/dragonfly-icon-white.png" width="75"></td>
+        <td><img src="/projects/dragonfly/horizontal/white/dragonfly-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/dragonfly/stacked/white/dragonfly-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/dragonfly/icon/white/dragonfly-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
