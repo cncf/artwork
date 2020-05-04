@@ -110,6 +110,54 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
 </table>
 
+#### CNCF Member Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>platinum</th>
+        <th>gold</th>
+        <th>silver</th>
+        <th>end user supporter</th>
+	<th>non-profit</th>
+	<th>academic</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/cncf-member/platinum/color/cncf-member-platinum-color.png" width="100"></td>
+        <td><img src="/other/cncf-member/gold/color/cncf-member-gold-color.png" width="100"></td>
+        <td><img src="/other/cncf-member/silver/color/cncf-member-silver-color.png" width="100"></td>
+        <td><img src="/other/cncf-member/endusersupporter/color/cncf-member-endusersupporter-color.png" width="100"></td>
+	<td><img src="/other/cncf-member/nonprofit/color/cncf-member-nonprofit-color.png" width="100"></td>
+	<td><img src="/other/cncf-member/academic/color/cncf-member-academic-color.png" width="100"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+          <td><img src="/other/cncf-member/platinum/black/cncf-member-platinum-black.png" width="100"></td>
+        <td><img src="/other/cncf-member/gold/black/cncf-member-gold-black.png" width="100"></td>
+        <td><img src="/other/cncf-member/silver/black/cncf-member-silver-black.png" width="100"></td>
+        <td><img src="/other/cncf-member/endusersupporter/black/cncf-member-endusersupporter-black.png" width="100"></td>
+	<td><img src="/other/cncf-member/nonprofit/black/cncf-member-nonprofit-black.png" width="100"></td>
+	<td><img src="/other/cncf-member/academic/black/cncf-member-academic-black.png" width="100"></td>    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/cncf-member/platinum/white/cncf-member-platinum-white.png" width="100"></td>
+        <td><img src="/other/cncf-member/gold/white/cncf-member-gold-white.png" width="100"></td>
+        <td><img src="/other/cncf-member/silver/white/cncf-member-silver-white.png" width="100"></td>
+        <td><img src="/other/cncf-member/endusersupporter/white/cncf-member-endusersupporter-white.png" width="100"></td>
+	<td><img src="/other/cncf-member/nonprofit/white/cncf-member-nonprofit-white.png" width="100"></td>
+	<td><img src="/other/cncf-member/academic/white/cncf-member-academic-white.png" width="100"></td>
+    </tr>
+</table>
+
 #### CNCF Ambassador Logos
 
 <table>
