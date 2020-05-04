@@ -118,7 +118,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>platinum</th>
         <th>gold</th>
         <th>silver</th>
-        <th>end user supporter</th>
+        <th>end user</th>
 	<th>non-profit</th>
 	<th>academic</th>
     </tr>
