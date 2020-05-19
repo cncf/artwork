@@ -225,7 +225,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th></th>
         <th>PNG</th>
         <th>SVG</th>
-    </tr>
+    </tr><tr></tr>
     <tr>
         <th>color 2020</th>
         <td><img src="/other/kubecon-cloudnativecon/2020-eu-virtual/color/kccnc-eu-virtual-2020-color.png" width="260"></td>
