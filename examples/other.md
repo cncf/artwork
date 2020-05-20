@@ -218,6 +218,33 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
 </table>
 
+#### KubeCon + CloudNativeCon Europe Virtual Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr><tr></tr>
+    <tr>
+        <th>color 2020</th>
+        <td><img src="/other/kubecon-cloudnativecon/2020-eu-virtual/color/kccnc-eu-virtual-2020-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-eu-virtual/color/kccnc-eu-virtual-2020-color.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>black 2020</th>
+        <td><img src="/other/kubecon-cloudnativecon/2020-eu-virtual/black/kccnc-eu-virtual-2020-black.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-eu-virtual/black/kccnc-eu-virtual-2020-black.svg" width="260"></td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+        <th>white 2020</th>
+        <td><img src="/other/kubecon-cloudnativecon/2020-eu-virtual/white/kccnc-eu-virtual-2020-white.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-eu-virtual/white/kccnc-eu-virtual-2020-white.svg" width="260"></td>
+    </tr>
+</table>
+
 #### KubeCon + CloudNativeCon + Open Source Summit China Logos
 
 <table>

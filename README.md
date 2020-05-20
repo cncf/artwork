@@ -63,6 +63,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [CNCF Member](examples/other.md#cncf-member-logos)
   * [CNCF Ambassador](examples/other.md#cncf-ambassador-logos)
   * [KubeCon + CloudNativeCon Europe](examples/other.md#kubecon--cloudnativecon-europe-logos)
+  * [KubeCon + CloudNativeCon Europe Virtual](examples/other.md#kubecon--cloudnativecon-europe-virtual-logos)
   * [KubeCon + CloudNativeCon + Open Source Summit China](examples/other.md#kubecon--cloudnativecon--open-source-summit-china-logos)
   * [KubeCon + CloudNativeCon North America](examples/other.md#kubecon--cloudnativecon-north-america-logos)
   * [KubeCon + CloudNativeCon Cropped](examples/other.md#kubecon--cloudnativecon-cropped-logos)
