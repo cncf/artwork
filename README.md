@@ -16,7 +16,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Jaeger](examples/graduated.md#jaeger-logos)
   * [Vitess](examples/graduated.md#vitess-logos)
   * [Helm](examples/graduated.md#helm-logos)
-  * [Harbor](examples/incubating.md#harbor-logos)
+  * [Harbor](examples/graduated.md#harbor-logos)
 * [Incubating Projects](examples/incubating.md)
   * [OpenTracing](examples/incubating.md#opentracing-logos)
   * [gRPC](examples/incubating.md#grpc-logos)
