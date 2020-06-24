@@ -57,6 +57,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Keda](examples/sandbox.md#keda-logos)
   * [Service Mesh Interface](examples/sandbox.md#service-mesh-interface-logos)
   * [Volcano](examples/sandbox.md#volcano-logos)
+  * [BFE](examples/sandbox.md#bfe-logos)
 * [Other CNCF Logos](examples/other.md)
   * [CNCF](examples/other.md#cncf-logos)
   * [Certification](examples/other.md#certification-logos) (CKA, CKAD, KCSP, KTP)
