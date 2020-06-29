@@ -1010,6 +1010,250 @@
     </tr>
     </table>
 
+#### Artifact Hub Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/artifacthub/horizontal/color/artifacthub-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/artifacthub/stacked/color/artifacthub-stacked-color.png" width="95"></td>
+        <td><img src="/projects/artifacthub/icon/color/artifacthub-icon-color.png" width="75"></td>
+        <td><img src="/projects/artifacthub/horizontal/color/artifacthub-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/artifacthub/stacked/color/artifacthub-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/artifacthub/icon/color/artifacthub-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/artifacthub/horizontal/black/artifacthub-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/artifacthub/stacked/black/artifacthub-stacked-black.png" width="95"></td>
+        <td><img src="/projects/artifacthub/icon/black/artifacthub-icon-black.png" width="75"></td>
+        <td><img src="/projects/artifacthub/horizontal/black/artifacthub-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/artifacthub/stacked/black/artifacthub-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/artifacthub/icon/black/artifacthub-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/artifacthub/horizontal/white/artifacthub-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/artifacthub/stacked/white/artifacthub-stacked-white.png" width="95"></td>
+        <td><img src="/projects/artifacthub/icon/white/artifacthub-icon-white.png" width="75"></td>
+        <td><img src="/projects/artifacthub/horizontal/white/artifacthub-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/artifacthub/stacked/white/artifacthub-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/artifacthub/icon/white/artifacthub-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
+#### Parsec Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/parsec/horizontal/color/parsec-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/parsec/stacked/color/parsec-stacked-color.png" width="95"></td>
+        <td><img src="/projects/parsec/icon/color/parsec-icon-color.png" width="75"></td>
+        <td><img src="/projects/parsec/horizontal/color/parsec-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/parsec/stacked/color/parsec-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/parsec/icon/color/parsec-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/parsec/horizontal/black/parsec-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/parsec/stacked/black/parsec-stacked-black.png" width="95"></td>
+        <td><img src="/projects/parsec/icon/black/parsec-icon-black.png" width="75"></td>
+        <td><img src="/projects/parsec/horizontal/black/parsec-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/parsec/stacked/black/parsec-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/parsec/icon/black/parsec-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/parsec/horizontal/white/parsec-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/parsec/stacked/white/parsec-stacked-white.png" width="95"></td>
+        <td><img src="/projects/parsec/icon/white/parsec-icon-white.png" width="75"></td>
+        <td><img src="/projects/parsec/horizontal/white/parsec-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/parsec/stacked/white/parsec-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/parsec/icon/white/parsec-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
+#### Crossplane Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/crossplane/horizontal/color/crossplane-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/crossplane/stacked/color/crossplane-stacked-color.png" width="95"></td>
+        <td><img src="/projects/crossplane/icon/color/crossplane-icon-color.png" width="75"></td>
+        <td><img src="/projects/crossplane/horizontal/color/crossplane-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/crossplane/stacked/color/crossplane-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/crossplane/icon/color/crossplane-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/crossplane/horizontal/black/crossplane-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/crossplane/stacked/black/crossplane-stacked-black.png" width="95"></td>
+        <td><img src="/projects/crossplane/icon/black/crossplane-icon-black.png" width="75"></td>
+        <td><img src="/projects/crossplane/horizontal/black/crossplane-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/crossplane/stacked/black/crossplane-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/crossplane/icon/black/crossplane-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/crossplane/horizontal/white/crossplane-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/crossplane/stacked/white/crossplane-stacked-white.png" width="95"></td>
+        <td><img src="/projects/crossplane/icon/white/crossplane-icon-white.png" width="75"></td>
+        <td><img src="/projects/crossplane/horizontal/white/crossplane-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/crossplane/stacked/white/crossplane-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/crossplane/icon/white/crossplane-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
+#### BFE Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/bfe/horizontal/color/bfe-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/bfe/stacked/color/bfe-stacked-color.png" width="95"></td>
+        <td><img src="/projects/bfe/icon/color/bfe-icon-color.png" width="75"></td>
+        <td><img src="/projects/bfe/horizontal/color/bfe-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/bfe/stacked/color/bfe-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/bfe/icon/color/bfe-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/bfe/horizontal/black/bfe-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/bfe/stacked/black/bfe-stacked-black.png" width="95"></td>
+        <td><img src="/projects/bfe/icon/black/bfe-icon-black.png" width="75"></td>
+        <td><img src="/projects/bfe/horizontal/black/bfe-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/bfe/stacked/black/bfe-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/bfe/icon/black/bfe-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/bfe/horizontal/white/bfe-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/bfe/stacked/white/bfe-stacked-white.png" width="95"></td>
+        <td><img src="/projects/bfe/icon/white/bfe-icon-white.png" width="75"></td>
+        <td><img src="/projects/bfe/horizontal/white/bfe-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/bfe/stacked/white/bfe-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/bfe/icon/white/bfe-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
+#### Dex Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/dex/horizontal/color/dex-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/dex/stacked/color/dex-stacked-color.png" width="95"></td>
+        <td><img src="/projects/dex/icon/color/dex-icon-color.png" width="75"></td>
+        <td><img src="/projects/dex/horizontal/color/dex-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/dex/stacked/color/dex-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/dex/icon/color/dex-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/dex/horizontal/black/dex-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/dex/stacked/black/dex-stacked-black.png" width="95"></td>
+        <td><img src="/projects/dex/icon/black/dex-icon-black.png" width="75"></td>
+        <td><img src="/projects/dex/horizontal/black/dex-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/dex/stacked/black/dex-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/dex/icon/black/dex-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/dex/horizontal/white/dex-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/dex/stacked/white/dex-stacked-white.png" width="95"></td>
+        <td><img src="/projects/dex/icon/white/dex-icon-white.png" width="75"></td>
+        <td><img src="/projects/dex/horizontal/white/dex-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/dex/stacked/white/dex-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/dex/icon/white/dex-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
