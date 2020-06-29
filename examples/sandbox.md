@@ -1157,6 +1157,56 @@
     </tr>
     </table>
 
+#### Kudo Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kudo/horizontal/color/kudo-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kudo/stacked/color/kudo-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kudo/icon/color/kudo-icon-color.png" width="75"></td>
+        <td><img src="/projects/kudo/horizontal/color/kudo-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kudo/stacked/color/kudo-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kudo/icon/color/kudo-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kudo/horizontal/black/kudo-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kudo/stacked/black/kudo-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kudo/icon/black/kudo-icon-black.png" width="75"></td>
+        <td><img src="/projects/kudo/horizontal/black/kudo-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kudo/stacked/black/kudo-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kudo/icon/black/kudo-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kudo/horizontal/white/kudo-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kudo/stacked/white/kudo-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kudo/icon/white/kudo-icon-white.png" width="75"></td>
+        <td><img src="/projects/kudo/horizontal/white/kudo-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kudo/stacked/white/kudo-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kudo/icon/white/kudo-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
+
 #### BFE Logos
 
 <table>

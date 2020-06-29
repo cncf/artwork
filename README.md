@@ -60,6 +60,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Artifact Hub](examples/sandbox.md#artifact-hub-logos)
   * [Parsec](examples/sandbox.md#parsec-logos)
   * [Crossplane](examples/sandbox.md#crossplane-logos)
+  * [Kudo](examples/sandbox.md#kudo-logos)
   * [BFE](examples/sandbox.md#bfe-logos)
   * [Dex](examples/sandbox.md#dex-logos)
 * [Other CNCF Logos](examples/other.md)
