@@ -1345,8 +1345,7 @@
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/litmus/horizontal/white/litmus-horizontal-white.png" width="200"></td>
-litmus-stacked-white.png" width="95"></td>
+        <td><img src="/projects/litmus/horizontal/white/litmus-horizontal-white.png" width="200"></td><img src="/projects/litmus/stacked/white/litmus-stacked-white.png" width="95"></td>
         <td><img src="/projects/litmus/icon/white/litmus-icon-white.png" width="75"></td>
         <td><img src="/projects/litmus/horizontal/white/litmus-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/litmus/stacked/white/litmus-stacked-white.svg" width="95"></td>
@@ -1394,12 +1393,11 @@ litmus-stacked-white.png" width="95"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/contour/horizontal/white/contour-horizontal-white.png" width="200"></td>
-litmus-stacked-white.png" width="95"></td>
+        <td><img src="/projects/contour/horizontal/white/contour-horizontal-white.png" width="200"></td><img src="/projects/contour/stacked/white/contour-stacked-white.png" width="95"></td>
         <td><img src="/projects/contour/icon/white/contour-icon-white.png" width="75"></td>
         <td><img src="/projects/contour/horizontal/white/contour-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/contour/stacked/white/contour-stacked-white.svg" width="95"></td>
-        <td><omg src="/projects/contour/icon/white/contour-icon-white.svg" width="75"></td>
+        <td><img src="/projects/contour/icon/white/contour-icon-white.svg" width="75"></td>
     </tr>
     </table>
 
