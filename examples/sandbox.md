@@ -1305,6 +1305,55 @@
     </tr>
     </table>
 
+#### Kuma Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kuma/horizontal/color/kuma-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kuma/stacked/color/kuma-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kuma/icon/color/kuma-icon-color.png" width="75"></td>
+        <td><img src="/projects/kuma/horizontal/color/kuma-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kuma/stacked/color/kuma-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kuma/icon/color/kuma-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kuma/horizontal/black/kuma-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kuma/stacked/black/kuma-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kuma/icon/black/kuma-icon-black.png" width="75"></td>
+        <td><img src="/projects/kuma/horizontal/black/kuma-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kuma/stacked/black/kuma-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kuma/icon/black/kuma-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kuma/horizontal/white/kuma-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kuma/stacked/white/kuma-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kuma/icon/white/kuma-icon-white.png" width="75"></td>
+        <td><img src="/projects/kuma/horizontal/white/kuma-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kuma/stacked/white/kuma-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kuma/icon/white/kuma-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
