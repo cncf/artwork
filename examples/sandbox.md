@@ -1385,7 +1385,7 @@
     </tr>
    <tr>
         <th>black</th>
-        <td><img src="/projects/keptn/horizontal/white/keptn-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/keptn/horizontal/black/keptn-horizontal-black.png" width="200"></td>
         <td><img src="/projects/keptn/stacked/white/keptn-stacked-white.png" width="95"></td>
         <td><img src="/projects/keptn/icon/white/keptn-icon-white.png" width="75"></td>
         <td><img src="/projects/keptn/horizontal/white/keptn-horizontal-white.svg" width="200"></td>
