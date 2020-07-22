@@ -1383,14 +1383,14 @@
         <td><img src="/projects/keptn/stacked/color/keptn-stacked-color.svg" width="95"></td>
         <td><img src="/projects/keptn/icon/color/keptn-icon-color.svg" width="75"></td>
     </tr>
-    <tr>
+   <tr>
         <th>black</th>
-        <td><img src="/projects/keptn/horizontal/black/keptn-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/keptn/stacked/black/keptn-stacked-black.png" width="95"></td>
-        <td><img src="/projects/keptn/icon/black/keptn-icon-black.png" width="75"></td>
-        <td><img src="/projects/keptn/horizontal/black/keptn-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/keptn/stacked/black/keptn-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/keptn/icon/black/keptn-icon-black.svg" width="75"></td>
+        <td><img src="/projects/keptn/horizontal/white/keptn-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/keptn/stacked/white/keptn-stacked-white.png" width="95"></td>
+        <td><img src="/projects/keptn/icon/white/keptn-icon-white.png" width="75"></td>
+        <td><img src="/projects/keptn/horizontal/white/keptn-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/keptn/stacked/white/keptn-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/keptn/icon/white/keptn-icon-white.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
