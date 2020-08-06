@@ -160,18 +160,18 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/cncf-member/graduated/color/cncf-graduated-color.svg" width="125"></td>
-        <td><img src="/other/cncf-member/incubating/color/cncf-incubating-color.svg" width="125"></td>
+        <td><img src="/other/cncf-member/graduated/color/cncf-graduated-color.svg" width="205"></td>
+        <td><img src="/other/cncf-member/incubating/color/cncf-incubating-color.svg" width="205"></td>
     </tr>
     <tr>
         <th>black</th>
-          <td><img src="/other/cncf-member/graduated/black/cncf-graduated-black.svg" width="125"></td>
-        <td><img src="/other/cncf-member/gold/black/cncf-incubating-black.svg" width="125"></td>
+          <td><img src="/other/cncf-member/graduated/black/cncf-graduated-black.svg" width=205"></td>
+        <td><img src="/other/cncf-member/incubating/black/cncf-incubating-black.svg" width="205"></td>
       </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/cncf-member/graduated/white/cncf-graduated-white.svg" width="125"></td>
-        <td><img src="/other/cncf-member/incubating/white/cncf-incubating-white.svg" width="125"></td>
+        <td><img src="/other/cncf-member/graduated/white/cncf-graduated-white.svg" width="205"></td>
+        <td><img src="/other/cncf-member/incubating/white/cncf-incubating-white.svg" width="205"></td>
             </tr>
 </table>
 
