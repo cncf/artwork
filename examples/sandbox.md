@@ -1503,6 +1503,56 @@
     </tr>
     </table>
 
+    
+#### k3s Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/k3s/horizontal/color/k3s-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/k3s/stacked/color/k3s-stacked-color.png" width="95"></td>
+        <td><img src="/projects/k3s/icon/color/k3s-icon-color.png" width="75"></td>
+        <td><img src="/projects/k3s/horizontal/color/k3s-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/k3s/stacked/color/k3s-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/k3s/icon/color/k3s-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/k3s/horizontal/black/k3s-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/k3s/stacked/black/k3s-stacked-black.png" width="95"></td>
+        <td><img src="/projects/k3s/icon/black/k3s-icon-black.png" width="75"></td>
+        <td><img src="/projects/k3s/horizontal/black/k3s-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/k3s/stacked/black/k3s-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/k3s/icon/black/k3s-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/k3s/horizontal/white/k3s-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/k3s/stacked/white/k3s-stacked-white.png" width="95"></td>
+        <td><img src="/projects/k3s/icon/white/k3s-icon-white.png" width="75"></td>
+        <td><img src="/projects/k3s/horizontal/white/k3s-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/k3s/stacked/white/k3s-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/k3s/icon/white/k3s-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
