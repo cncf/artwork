@@ -72,3 +72,22 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
         <td><img src="/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="75"></td>
     </tr>
 </table>
+
+### Architecture diagram icons
+
+These icons are created and maintained by the [Kubernetes Community](https://github.com/kubernetes/community/tree/master/icons) and shown here for convenience. All are in SVG format.
+
+<table>
+    <tr>
+        <th></th>
+        <th>Control Plane components</th>
+        <th>Infrastructure components</th>
+        <th>Resources</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td><img src="/projects/kubernetes/horizontal/white-text/kubernetes-horizontal-white-text.png" width="200"></td>
+    </tr>
+</table>
+
+
