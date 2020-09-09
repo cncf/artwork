@@ -1609,7 +1609,7 @@
         <td><img src="/projects/openservicemesh/stacked/white/openservicemesh-stacked-white.svg" width="95"></td>
         <td><img src="/projects/openservicemesh/icon/white/openservicemesh-icon-white.svg" width="75"></td>
     </tr>
-
+</table>
     
 #### metal3 Logos
 
