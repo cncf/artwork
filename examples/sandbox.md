@@ -796,7 +796,7 @@
     </table>
 
 
-#### Keda Logos
+#### KEDA Logos
 
 <table>
     <tr>
@@ -842,6 +842,15 @@
         <td><img src="/projects/keda/horizontal/white/keda-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/keda/stacked/white/keda-stacked-white.svg" width="95"></td>
         <td><img src="/projects/keda/icon/white/keda-icon-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>print</th>
+        <td><img src="/projects/keda/horizontal/print/keda-horizontal-print.png" width="200"></td>
+        <td><img src="/projects/keda/stacked/print/keda-stacked-print.png" width="95"></td>
+        <td><img src="/projects/keda/icon/print/keda-icon-print.png" width="75"></td>
+        <td><img src="/projects/keda/horizontal/print/keda-horizontal-print.svg" width="200"></td>
+        <td><img src="/projects/keda/stacked/print/keda-stacked-print.svg" width="95"></td>
+        <td><img src="/projects/keda/icon/print/keda-icon-print.svg" width="75"></td>
     </tr>
     </table>
 
