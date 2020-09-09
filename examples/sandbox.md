@@ -1553,6 +1553,49 @@
     </tr>
     </table>
 
+    
+#### metal3 Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/metal3/web/color/metal3-color.png" width="95"></td>
+        <td><img src="/projects/metal3/web/color/metal3-color.png" width="75"></td>
+        <td><img src="/projects/metal3/icon/color/metal3-icon-color.svg" width="95"></td>
+        <td><img src="/projects/metal3/icon/color/metal3-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/metal3/web/black/metal3-black.png" width="95"></td>
+        <td><img src="/projects/metal3/web/black/metal3-black.png" width="75"></td>
+        <td><img src="/projects/metal3/icon/black/metal3-icon-black.svg" width="95"></td>
+        <td><img src="/projects/metal3/icon/black/metal3-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/metal3/web/white/metal3-white.png" width="95"></td>
+        <td><img src="/projects/metal3/web/white/metal3-white.png" width="75"></td>
+        <td><img src="/projects/metal3/icon/white/metal3-icon-white.svg" width="95"></td>
+        <td><img src="/projects/metal3/icon/white/metal3-icon-white.svg" width="75"></td>    </tr>
+    </table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
