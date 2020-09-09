@@ -1575,22 +1575,22 @@
     <tr>
         <th>color</th>
         <td><img src="/projects/metal3/web/color/metal3-color.png" width="125"></td>
-        <td><img src="/projects/metal3/web/color/metal3-icon-color.png" width="125"></td>
-        <td><img src="/projects/metal3/icon/color/metal3-color.svg" width="125"></td>
+        <td><img src="/projects/metal3/icon/color/metal3-icon-color.png" width="125"></td>
+        <td><img src="/projects/metal3/web/color/metal3-color.svg" width="125"></td>
         <td><img src="/projects/metal3/icon/color/metal3-icon-color.svg" width="125"></td>
     </tr>
     <tr>
         <th>black</th>
         <td><img src="/projects/metal3/web/black/metal3-black.png" width="125"></td>
-        <td><img src="/projects/metal3/web/black/metal3-black.png" width="125"></td>
-        <td><img src="/projects/metal3/icon/black/metal3-icon-black.svg" width="125"></td>
+        <td><img src="/projects/metal3/icon/black/metal3-icon-black.png" width="125"></td>
+        <td><img src="/projects/metal3/web/black/metal3-black.svg" width="125"></td>
         <td><img src="/projects/metal3/icon/black/metal3-icon-black.svg" width="125"></td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/projects/metal3/web/white/metal3-white.png" width="125"></td>
-        <td><img src="/projects/metal3/web/white/metal3-white.png" width="125"></td>
-        <td><img src="/projects/metal3/icon/white/metal3-icon-white.svg" width="125"></td>
+        <td><img src="/projects/metal3/icon/white/metal3-icon-white.png" width="125"></td>
+        <td><img src="/projects/metal3/web/white/metal3-white.svg" width="125"></td>
         <td><img src="/projects/metal3/icon/white/metal3-icon-white.svg" width="125"></td>    </tr>
     </table>
 
