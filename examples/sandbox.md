@@ -1575,8 +1575,8 @@
     <tr>
         <th>color</th>
         <td><img src="/projects/metal3/web/color/metal3-color.png" width="125"></td>
-        <td><img src="/projects/metal3/web/color/metal3-color.png" width="125"></td>
-        <td><img src="/projects/metal3/icon/color/metal3-icon-color.svg" width="125"></td>
+        <td><img src="/projects/metal3/web/color/metal3-icon-color.png" width="125"></td>
+        <td><img src="/projects/metal3/icon/color/metal3-color.svg" width="125"></td>
         <td><img src="/projects/metal3/icon/color/metal3-icon-color.svg" width="125"></td>
     </tr>
     <tr>
