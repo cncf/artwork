@@ -843,6 +843,15 @@
         <td><img src="/projects/keda/stacked/white/keda-stacked-white.svg" width="95"></td>
         <td><img src="/projects/keda/icon/white/keda-icon-white.svg" width="75"></td>
     </tr>
+    <tr>
+        <th>print</th>
+        <td><img src="/projects/keda/horizontal/print/keda-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/keda/stacked/print/keda-stacked-white.png" width="95"></td>
+        <td><img src="/projects/keda/icon/print/keda-icon-white.png" width="75"></td>
+        <td><img src="/projects/keda/horizontal/print/keda-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/keda/stacked/print/keda-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/keda/icon/print/keda-icon-white.svg" width="75"></td>
+    </tr>
     </table>
 
 
