@@ -796,7 +796,7 @@
     </table>
 
 
-#### Keda Logos
+#### KEDA Logos
 
 <table>
     <tr>

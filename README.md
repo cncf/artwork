@@ -56,7 +56,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [KubeVirt](examples/sandbox.md#kubevirt-logos)
   * [Longhorn](examples/sandbox.md#longhorn-logos)
   * [ChubaoFS](examples/sandbox.md#chubaofs-logos)
-  * [Keda](examples/sandbox.md#keda-logos)
+  * [KEDA](examples/sandbox.md#keda-logos)
   * [Service Mesh Interface](examples/sandbox.md#service-mesh-interface-logos)
   * [Volcano](examples/sandbox.md#volcano-logos)
   * [Artifact Hub](examples/sandbox.md#artifact-hub-logos)
