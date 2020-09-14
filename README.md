@@ -74,6 +74,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Open Service Mesh](examples/sandbox.md#open-service-mesh-logos)
   * [metal3](examples/sandbox.md#metal3-logos)
   * [Tremor](examples/sandbox.md#tremor-logos)
+  * [OpenYurt](examples/sandbox.md#openyurt-logos)
 * [Other CNCF Logos](examples/other.md)
   * [CNCF](examples/other.md#cncf-logos)
   * [Certification](examples/other.md#certification-logos) (CKA, CKAD, KCSP, KTP)
