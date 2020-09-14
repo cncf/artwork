@@ -1562,54 +1562,6 @@
     </tr>
     </table>
 
-     
-#### Open Service Mesh Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-    </tr>
-    <tr>
-        <th>color</th>      
-        <td><img src="/projects/openservicemesh/horizontal/color/openservicemesh-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/openservicemesh/stacked/color/openservicemesh-stacked-color.png" width="95"></td>
-        <td><img src="/projects/openservicemesh/icon/color/openservicemesh-icon-color.png" width="75"></td>
-        <td><img src="/projects/openservicemesh/horizontal/color/openservicemesh-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/openservicemesh/stacked/color/openservicemesh-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/openservicemesh/icon/color/openservicemesh-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/openservicemesh/horizontal/black/openservicemesh-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/openservicemesh/stacked/black/openservicemesh-stacked-black.png" width="95"></td>
-        <td><img src="/projects/openservicemesh/icon/black/openservicemesh-icon-black.png" width="75"></td>
-        <td><img src="/projects/openservicemesh/horizontal/black/openservicemesh-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/openservicemesh/stacked/black/openservicemesh-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/openservicemesh/icon/black/openservicemesh-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/openservicemesh/horizontal/white/openservicemesh-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/openservicemesh/stacked/white/openservicemesh-stacked-white.png" width="95"></td>
-        <td><img src="/projects/openservicemesh/icon/white/openservicemesh-icon-white.png" width="75"></td>
-        <td><img src="/projects/openservicemesh/horizontal/white/openservicemesh-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/openservicemesh/stacked/white/openservicemesh-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/openservicemesh/icon/white/openservicemesh-icon-white.svg" width="75"></td>
-    </tr>
-</table>
     
 #### metal3 Logos
 
@@ -1700,6 +1652,55 @@
     </tr>
     </table>
 
+
+#### tremor Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/tremor/horizontal/color/tremor-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/tremor/stacked/color/tremor-stacked-color.png" width="95"></td>
+        <td><img src="/projects/tremor/icon/color/tremor-icon-color.png" width="75"></td>
+        <td><img src="/projects/tremor/horizontal/color/tremor-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/tremor/stacked/color/tremor-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/tremor/icon/color/tremor-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/tremor/horizontal/black/tremor-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/tremor/stacked/black/tremor-stacked-black.png" width="95"></td>
+        <td><img src="/projects/tremor/icon/black/tremor-icon-black.png" width="75"></td>
+        <td><img src="/projects/tremor/horizontal/black/tremor-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/tremor/stacked/black/tremor-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/tremor/icon/black/tremor-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/tremor/horizontal/white/tremor-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/tremor/stacked/white/tremor-stacked-white.png" width="95"></td>
+        <td><img src="/projects/tremor/icon/white/tremor-icon-white.png" width="75"></td>
+        <td><img src="/projects/tremor/horizontal/white/tremor-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/tremor/stacked/white/tremor-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/tremor/icon/white/tremor-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
