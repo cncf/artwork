@@ -1603,44 +1603,53 @@
         <td><img src="/projects/metal3/icon/white/metal3-icon-white.svg" width="125"></td>    </tr>
     </table>
 
-#### Tremor Logos
+#### tremor Logos
 
 <table>
     <tr>
-        <th colspan="5"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
-        <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
     </tr>
     <tr>
         <th></th>
-        <th>web</th>
+        <th>horizontal</th>
+        <th>stacked</th>
         <th>icon</th>
-        <th>web</th>
+        <th>horizontal</th>
+        <th>stacked</th>
         <th>icon</th>
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/tremor/web/color/tremor-color.png" width="125"></td>
-        <td><img src="/projects/tremor/icon/color/tremor-icon-color.png" width="125"></td>
-        <td><img src="/projects/tremor/web/color/tremor-color.svg" width="125"></td>
-        <td><img src="/projects/tremor/icon/color/tremor-icon-color.svg" width="125"></td>
+        <td><img src="/projects/tremor/horizontal/color/tremor-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/tremor/stacked/color/tremor-stacked-color.png" width="95"></td>
+        <td><img src="/projects/tremor/icon/color/tremor-icon-color.png" width="75"></td>
+        <td><img src="/projects/tremor/horizontal/color/tremor-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/tremor/stacked/color/tremor-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/tremor/icon/color/tremor-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/tremor/web/black/tremor-black.png" width="125"></td>
-        <td><img src="/projects/tremor/icon/black/tremor-icon-black.png" width="125"></td>
-        <td><img src="/projects/tremor/web/black/tremor-black.svg" width="125"></td>
-        <td><img src="/projects/tremor/icon/black/tremor-icon-black.svg" width="125"></td>
+        <td><img src="/projects/tremor/horizontal/black/tremor-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/tremor/stacked/black/tremor-stacked-black.png" width="95"></td>
+        <td><img src="/projects/tremor/icon/black/tremor-icon-black.png" width="75"></td>
+        <td><img src="/projects/tremor/horizontal/black/tremor-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/tremor/stacked/black/tremor-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/tremor/icon/black/tremor-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/tremor/web/white/tremor-white.png" width="125"></td>
-        <td><img src="/projects/tremor/icon/white/tremor-icon-white.png" width="125"></td>
-        <td><img src="/projects/tremor/web/white/tremor-white.svg" width="125"></td>
-        <td><img src="/projects/tremor/icon/white/tremor-icon-white.svg" width="125"></td>    </tr>
+        <td><img src="/projects/tremor/horizontal/white/tremor-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/tremor/stacked/white/tremor-stacked-white.png" width="95"></td>
+        <td><img src="/projects/tremor/icon/white/tremor-icon-white.png" width="75"></td>
+        <td><img src="/projects/tremor/horizontal/white/tremor-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/tremor/stacked/white/tremor-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/tremor/icon/white/tremor-icon-white.svg" width="75"></td>
+    </tr>
     </table>
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
