@@ -1702,6 +1702,47 @@
     </tr>
     </table>
 
+#### Backstage Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/backstage/horizontal/color/backstage-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/backstage/icon/color/backstage-icon-color.png" width="75"></td>
+        <td><img src="/projects/backstage/horizontal/color/backstage-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/backstage/icon/color/backstage-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/backstage/horizontal/black/backstage-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/backstage/icon/black/backstage-icon-black.png" width="75"></td>
+        <td><img src="/projects/backstage/horizontal/black/backstage-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/backstage/icon/black/backstage-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/backstage/horizontal/white/backstage-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/backstage/icon/white/backstage-icon-white.png" width="75"></td>
+        <td><img src="/projects/backstage/horizontal/white/backstage-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/backstage/icon/white/backstage-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
