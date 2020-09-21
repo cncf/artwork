@@ -217,7 +217,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
 </table>
 
-#### KubeCon + CloudNativeCon Europe Logos
+#### KubeCon + CloudNativeCon North America Virtual Logos
 
 <table>
     <tr>
@@ -227,20 +227,20 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr><tr></tr>
     <tr>
         <th>color 2020</th>
-        <td><img src="/other/kubecon-cloudnativecon/2020-eu/color/kccnc-eu-2020-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2020-eu/color/kccnc-eu-2020-color.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-na-virtual/color/kccnc-na-virtual-2020-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-na-virtual/color/kccnc-na-virtual-2020-color.svg" width="260"></td>
     </tr>
     <tr>
         <th>black 2020</th>
-        <td><img src="/other/kubecon-cloudnativecon/2020-eu/black/kccnc-eu-2020-black.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2020-eu/black/kccnc-eu-2020-black.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-na-virtual/black/kccnc-na-virtual-2020-black.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-na-virtual/black/kccnc-na-virtual-2020-black.svg" width="260"></td>
     </tr>
     <tr>
     </tr>
     <tr>
         <th>white 2020</th>
-        <td><img src="/other/kubecon-cloudnativecon/2020-eu/white/kccnc-eu-2020-white.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2020-eu/white/kccnc-eu-2020-white.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-na-virtual/white/kccnc-na-virtual-2020-white.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2020-na-virtual/white/kccnc-na-virtual-2020-white.svg" width="260"></td>
     </tr>
 </table>
 
