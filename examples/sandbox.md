@@ -1562,6 +1562,54 @@
     </tr>
     </table>
 
+     
+#### Open Service Mesh Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+    </tr>
+    <tr>
+        <th>color</th>      
+        <td><img src="/projects/openservicemesh/horizontal/color/openservicemesh-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/openservicemesh/stacked/color/openservicemesh-stacked-color.png" width="95"></td>
+        <td><img src="/projects/openservicemesh/icon/color/openservicemesh-icon-color.png" width="75"></td>
+        <td><img src="/projects/openservicemesh/horizontal/color/openservicemesh-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/openservicemesh/stacked/color/openservicemesh-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/openservicemesh/icon/color/openservicemesh-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/openservicemesh/horizontal/black/openservicemesh-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/openservicemesh/stacked/black/openservicemesh-stacked-black.png" width="95"></td>
+        <td><img src="/projects/openservicemesh/icon/black/openservicemesh-icon-black.png" width="75"></td>
+        <td><img src="/projects/openservicemesh/horizontal/black/openservicemesh-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/openservicemesh/stacked/black/openservicemesh-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/openservicemesh/icon/black/openservicemesh-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/openservicemesh/horizontal/white/openservicemesh-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/openservicemesh/stacked/white/openservicemesh-stacked-white.png" width="95"></td>
+        <td><img src="/projects/openservicemesh/icon/white/openservicemesh-icon-white.png" width="75"></td>
+        <td><img src="/projects/openservicemesh/horizontal/white/openservicemesh-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/openservicemesh/stacked/white/openservicemesh-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/openservicemesh/icon/white/openservicemesh-icon-white.svg" width="75"></td>
+    </tr>
+
     
 #### metal3 Logos
 
