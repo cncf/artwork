@@ -2027,6 +2027,46 @@
     </tr>
 </table>
 
+#### Cert-Manager Logos
+
+<table>
+    <tr>
+    	<th colspan="5"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+        <th>color</th>
+        <td><img src="/projects/cert-manager/stacked/color/cert-manager-stacked-color.png" width="200"></td>
+        <td><img src="/projects/cert-manager/icon/color/cert-manager-icon-color.png" width="75"></td>
+        <td><img src="/projects/cert-manager/stacked/color/cert-manager-stacked-color.svg" width="200"></td>
+        <td><img src="/projects/cert-manager/icon/color/cert-manager-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/cert-manager/stacked/black/cert-manager-stacked-black.png" width="200"></td>
+        <td><img src="/projects/cert-manager/icon/black/cert-manager-icon-black.png" width="75"></td>
+        <td><img src="/projects/cert-manager/stacked/black/cert-manager-stacked-black.svg" width="200"></td>
+        <td><img src="/projects/cert-manager/icon/black/cert-manager-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/cert-manager/stacked/white/cert-manager-stacked-white.png" width="200"></td>
+        <td><img src="/projects/cert-manager/icon/white/cert-manager-icon-white.png" width="75"></td>
+        <td><img src="/projects/cert-manager/stacked/white/cert-manager-stacked-white.svg" width="200"></td>
+        <td><img src="/projects/cert-manager/icon/white/cert-manager-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
