@@ -1978,6 +1978,55 @@
     </tr>
 </table>
 
+#### Tinkerbell Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color-light</th>
+        <td><img src="/projects/tinkerbell/horizontal/color-light/tinkerbell-horizontal-color-light.png" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/color-light/tinkerbell-stacked-color-light.png" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/color-light/tinkerbell-icon-color-light.png" width="75"></td>
+        <td><img src="/projects/tinkerbell/horizontal/color-light/tinkerbell-horizontal-color-light.svg" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/color-light/tinkerbell-stacked-color-light.svg" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/color-light/tinkerbell-icon-color-light.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>color-dark</th>
+        <td><img src="/projects/tinkerbell/horizontal/color-dark/tinkerbell-horizontal-color-dark.png" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/color-dark/tinkerbell-stacked-color-dark.png" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/color-dark/tinkerbell-icon-color-dark.png" width="75"></td>
+        <td><img src="/projects/tinkerbell/horizontal/color-dark/tinkerbell-horizontal-color-dark.svg" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/color-dark/tinkerbell-stacked-color-dark.svg" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/color-dark/tinkerbell-icon-color-dark.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/tinkerbell/horizontal/white/tinkerbell-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/white/tinkerbell-stacked-white.png" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/white/tinkerbell-icon-white.png" width="75"></td>
+        <td><img src="/projects/tinkerbell/horizontal/white/tinkerbell-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/white/tinkerbell-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/white/tinkerbell-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
