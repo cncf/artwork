@@ -1362,7 +1362,7 @@
         <td><img src="/projects/keptn/icon/white/keptn-icon-white.svg" width="75"></td>
     </tr>
     </table>
-    
+
 #### Kuma Logos
 
 <table>
@@ -1412,7 +1412,7 @@
     </tr>
     </table>
 
-    
+
 #### Cloud Custodian Logos
 
 <table>
@@ -1462,7 +1462,7 @@
     </tr>
     </table>
 
-    
+
 #### Chaos Mesh Logos
 
 <table>
@@ -1512,7 +1512,7 @@
     </tr>
     </table>
 
-    
+
 #### k3s Logos
 
 <table>
@@ -1562,7 +1562,7 @@
     </tr>
     </table>
 
-     
+
 #### Open Service Mesh Logos
 
 <table>
@@ -1610,7 +1610,7 @@
         <td><img src="/projects/openservicemesh/icon/white/openservicemesh-icon-white.svg" width="75"></td>
     </tr>
 </table>
-    
+
 #### metal3 Logos
 
 <table>
@@ -1650,7 +1650,7 @@
         <td><img src="/projects/metal3/web/white/metal3-white.svg" width="125"></td>
         <td><img src="/projects/metal3/icon/white/metal3-icon-white.svg" width="125"></td>    </tr>
     </table>
-    
+
 #### OpenYurt Logos
 
 <table>
@@ -1935,6 +1935,46 @@
         <td><img src="/projects/keylime/horizontal/white/keylime-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/keylime/stacked/white/keylime-stacked-white.svg" width="95"></td>
         <td><img src="/projects/keylime/icon/white/keylime-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### Pravega Logos
+
+<table>
+    <tr>
+    	<th colspan="5"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>icon</th>
+    </tr>
+        <th>color</th>
+        <td><img src="/projects/pravega/horizontal/color/pravega-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/pravega/icon/color/pravega-icon-color.png" width="75"></td>
+        <td><img src="/projects/pravega/horizontal/color/pravega-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/pravega/icon/color/pravega-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/pravega/horizontal/black/pravega-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/pravega/icon/black/pravega-icon-black.png" width="75"></td>
+        <td><img src="/projects/pravega/horizontal/black/pravega-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/pravega/icon/black/pravega-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/pravega/horizontal/white/pravega-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/pravega/icon/white/pravega-icon-white.png" width="75"></td>
+        <td><img src="/projects/pravega/horizontal/white/pravega-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/pravega/icon/white/pravega-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
