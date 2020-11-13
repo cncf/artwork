@@ -2027,7 +2027,7 @@
     </tr>
 </table>
 
-#### Cert-manager Logos
+#### Cert-Manager Logos
 
 <table>
     <tr>
