@@ -1973,7 +1973,7 @@
         <td><img src="/projects/tinkerbell/horizontal/color-dark/tinkerbell-horizontal-color-dark.png" width="200"></td>
         <td><img src="/projects/tinkerbell/stacked/color-dark/tinkerbell-stacked-color-dark.png" width="95"></td>
         <td><img src="/projects/tinkerbell/icon/color-dark/tinkerbell-icon-color-dark.png" width="75"></td>
-        <td><img src="/projects/tinkerbell/horizontal/color-dark/tinkerbell-horizontal-color-darkcolor-dark.svg" width="200"></td>
+        <td><img src="/projects/tinkerbell/horizontal/color-dark/tinkerbell-horizontal-color-dark.svg" width="200"></td>
         <td><img src="/projects/tinkerbell/stacked/color-dark/tinkerbell-stacked-color-dark.svg" width="95"></td>
         <td><img src="/projects/tinkerbell/icon/color-dark/tinkerbell-icon-color-dark.svg" width="75"></td>
     </tr>
