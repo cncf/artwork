@@ -79,6 +79,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Porter](examples/sandbox.md#porter-logos)
   * [Serverless Workflow Specification](examples/sandbox.md#serverless-workflow-specification-logos)
   * [Keylime](examples/sandbox.md#keylime-logos)
+  * [Tinkerbell](examples/sandbox.md#tinkerbell-logos)
 * [Other CNCF Logos](examples/other.md)
   * [CNCF](examples/other.md#cncf-logos)
   * [Certification](examples/other.md#certification-logos) (CKA, CKAD, KCSP, KTP)

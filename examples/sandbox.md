@@ -1362,7 +1362,7 @@
         <td><img src="/projects/keptn/icon/white/keptn-icon-white.svg" width="75"></td>
     </tr>
     </table>
-    
+
 #### Kuma Logos
 
 <table>
@@ -1412,7 +1412,7 @@
     </tr>
     </table>
 
-    
+
 #### Cloud Custodian Logos
 
 <table>
@@ -1462,7 +1462,7 @@
     </tr>
     </table>
 
-    
+
 #### Chaos Mesh Logos
 
 <table>
@@ -1512,7 +1512,7 @@
     </tr>
     </table>
 
-    
+
 #### k3s Logos
 
 <table>
@@ -1562,7 +1562,7 @@
     </tr>
     </table>
 
-     
+
 #### Open Service Mesh Logos
 
 <table>
@@ -1610,7 +1610,7 @@
         <td><img src="/projects/openservicemesh/icon/white/openservicemesh-icon-white.svg" width="75"></td>
     </tr>
 </table>
-    
+
 #### metal3 Logos
 
 <table>
@@ -1650,7 +1650,7 @@
         <td><img src="/projects/metal3/web/white/metal3-white.svg" width="125"></td>
         <td><img src="/projects/metal3/icon/white/metal3-icon-white.svg" width="125"></td>    </tr>
     </table>
-    
+
 #### OpenYurt Logos
 
 <table>
@@ -1935,6 +1935,56 @@
         <td><img src="/projects/keylime/horizontal/white/keylime-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/keylime/stacked/white/keylime-stacked-white.svg" width="95"></td>
         <td><img src="/projects/keylime/icon/white/keylime-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+
+#### Tinkerbell Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color-light</th>
+        <td><img src="/projects/tinkerbell/horizontal/color-light/tinkerbell-horizontal-color-light.png" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/color-light/tinkerbell-stacked-color-light.png" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/color-light/tinkerbell-icon-color-light.png" width="75"></td>
+        <td><img src="/projects/tinkerbell/horizontal/color-light/tinkerbell-horizontal-color-light.svg" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/color-light/tinkerbell-stacked-color-light.svg" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/color-light/tinkerbell-icon-color-light.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>color-dark</th>
+        <td><img src="/projects/tinkerbell/horizontal/color-dark/tinkerbell-horizontal-color-dark.png" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/color-dark/tinkerbell-stacked-color-dark.png" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/color-dark/tinkerbell-icon-color-dark.png" width="75"></td>
+        <td><img src="/projects/tinkerbell/horizontal/color-dark/tinkerbell-horizontal-color-darkcolor-dark.svg" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/color-dark/tinkerbell-stacked-color-dark.svg" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/color-dark/tinkerbell-icon-color-dark.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/tinkerbell/horizontal/white/tinkerbell-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/white/tinkerbell-stacked-white.png" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/white/tinkerbell-icon-white.png" width="75"></td>
+        <td><img src="/projects/tinkerbell/horizontal/white/tinkerbell-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/white/tinkerbell-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/white/tinkerbell-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
