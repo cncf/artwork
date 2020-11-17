@@ -547,6 +547,155 @@
     </tr>
 </table>
 
+#### TUF Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/tuf/horizontal/color/tuf-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/tuf/stacked/color/tuf-stacked-color.png" width="95"></td>
+        <td><img src="/projects/tuf/icon/color/tuf-icon-color.png" width="75"></td>
+        <td><img src="/projects/tuf/horizontal/color/tuf-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/tuf/stacked/color/tuf-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/tuf/icon/color/tuf-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/tuf/horizontal/black/tuf-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/tuf/stacked/black/tuf-stacked-black.png" width="95"></td>
+        <td><img src="/projects/tuf/icon/black/tuf-icon-black.png" width="75"></td>
+        <td><img src="/projects/tuf/horizontal/black/tuf-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/tuf/stacked/black/tuf-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/tuf/icon/black/tuf-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/tuf/horizontal/white/tuf-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/tuf/stacked/white/tuf-stacked-white.png" width="95"></td>
+        <td><img src="/projects/tuf/icon/white/tuf-icon-white.png" width="75"></td>
+        <td><img src="/projects/tuf/horizontal/white/tuf-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/tuf/stacked/white/tuf-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/tuf/icon/white/tuf-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+
+#### TiKV Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/tikv/horizontal/color/tikv-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/tikv/stacked/color/tikv-stacked-color.png" width="95"></td>
+        <td><img src="/projects/tikv/icon/color/tikv-icon-color.png" width="75"></td>
+        <td><img src="/projects/tikv/horizontal/color/tikv-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/tikv/stacked/color/tikv-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/tikv/icon/color/tikv-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/tikv/horizontal/black/tikv-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/tikv/stacked/black/tikv-stacked-black.png" width="95"></td>
+        <td><img src="/projects/tikv/icon/black/tikv-icon-black.png" width="75"></td>
+        <td><img src="/projects/tikv/horizontal/black/tikv-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/tikv/stacked/black/tikv-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/tikv/icon/black/tikv-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/tikv/horizontal/white/tikv-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/tikv/stacked/white/tikv-stacked-white.png" width="95"></td>
+        <td><img src="/projects/tikv/icon/white/tikv-icon-white.png" width="75"></td>
+        <td><img src="/projects/tikv/horizontal/white/tikv-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/tikv/stacked/white/tikv-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/tikv/icon/white/tikv-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### Rook Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/rook/horizontal/color/rook-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/rook/stacked/color/rook-stacked-color.png" width="95"></td>
+        <td><img src="/projects/rook/icon/color/rook-icon-color.png" width="75"></td>
+        <td><img src="/projects/rook/horizontal/color/rook-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/rook/stacked/color/rook-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/rook/icon/color/rook-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/rook/horizontal/black/rook-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/rook/stacked/black/rook-stacked-black.png" width="95"></td>
+        <td><img src="/projects/rook/icon/black/rook-icon-black.png" width="75"></td>
+        <td><img src="/projects/rook/horizontal/black/rook-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/rook/stacked/black/rook-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/rook/icon/black/rook-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/rook/horizontal/white/rook-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/rook/stacked/white/rook-stacked-white.png" width="95"></td>
+        <td><img src="/projects/rook/icon/white/rook-icon-white.png" width="75"></td>
+        <td><img src="/projects/rook/horizontal/white/rook-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/rook/stacked/white/rook-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/rook/icon/white/rook-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
