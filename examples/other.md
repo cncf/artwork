@@ -57,7 +57,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 
 <table>
     <tr>
-    	<th colspan="9"></th>
+    	<th colspan="11"></th>
     </tr>
     <tr>
         <th></th>
