@@ -56,11 +56,10 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 #### Certification Logos
 
 <table>
-    <tr>
-    	<th colspan="11"></th>
+    <tr><th colspan="11"></th>
     </tr>
     <tr>
-        <th></th>
+      <th></th>
         <th colspan="5">PNG</th>
         <th colspan="5">SVG</th>
     </tr>
