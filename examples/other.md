@@ -70,10 +70,12 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>CKAD</th>
         <th>KCSP</th>
         <th>KTP</th>
+        <th>KSS</th>
         <th>CKA</th>
         <th>CKAD</th>
         <th>KCSP</th>
         <th>KTP</th>
+        <th>KSS</th>
     </tr>
     <tr>
         <th>color</th>
@@ -81,10 +83,12 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/ckad/color/kubernetes-ckad-color.png" width="95"></td>
         <td><img src="/other/kcsp/color/kubernetes-kcsp-color.png" width="95"></td>
         <td><img src="/other/ktp/color/kubernetes-ktp-color.png" width="95"></td>
+        <td><img src="/other/kss/color/kubernetes-security-specialist-color.png" width="95"></td>
         <td><img src="/other/cka/color/kubernetes-cka-color.svg" width="95"></td>
         <td><img src="/other/ckad/color/kubernetes-ckad-color.svg" width="95"></td>
         <td><img src="/other/kcsp/color/kubernetes-kcsp-color.svg" width="95"></td>
         <td><img src="/other/ktp/color/kubernetes-ktp-color.svg" width="95"></td>
+        <td><img src="/other/kss/color/kubernetes-security-specialist-color.svg" width="95"></td>
     </tr>
     <tr>
         <th>black</th>
@@ -92,10 +96,12 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/ckad/black/kubernetes-ckad-black.png" width="95"></td>
         <td><img src="/other/kcsp/black/kubernetes-kcsp-black.png" width="95"></td>
         <td><img src="/other/ktp/black/kubernetes-ktp-black.png" width="95"></td>
+        <td><img src="/other/kss/black/kubernetes-security-specialist-black.png" width="95"></td>
         <td><img src="/other/cka/black/kubernetes-cka-black.svg" width="95"></td>
         <td><img src="/other/ckad/black/kubernetes-ckad-black.svg" width="95"></td>
         <td><img src="/other/kcsp/black/kubernetes-kcsp-black.svg" width="95"></td>
         <td><img src="/other/ktp/black/kubernetes-ktp-black.svg" width="95"></td>
+        <td><img src="/other/kss/black/kubernetes-security-specialist-black.svg" width="95"></td>
     </tr>
     <tr>
         <th>white</th>
@@ -103,10 +109,13 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/ckad/white/kubernetes-ckad-white.png" width="95"></td>
         <td><img src="/other/kcsp/white/kubernetes-kcsp-white.png" width="95"></td>
         <td><img src="/other/ktp/white/kubernetes-ktp-white.png" width="95"></td>
+        <td><img src="/other/kss/white/kubernetes-security-specialist-white.png" width="95"></td>
         <td><img src="/other/cka/white/kubernetes-cka-white.svg" width="95"></td>
         <td><img src="/other/ckad/white/kubernetes-ckad-white.svg" width="95"></td>
         <td><img src="/other/kcsp/white/kubernetes-kcsp-white.svg" width="95"></td>
         <td><img src="/other/ktp/white/kubernetes-ktp-white.svg" width="95"></td>
+        <td><img src="/other/kss/white/kubernetes-security-specialist-white.svg" width="95"></td>
+
     </tr>
 </table>
 
