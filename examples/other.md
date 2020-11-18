@@ -62,8 +62,8 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
       <th></th>
         <th colspan="5">PNG</th>
         <th colspan="5">SVG</th>
-    </tr>
-    <tr>
+        </tr>
+        <tr>
         <th></th>
         <th>CKA</th>
         <th>CKAD</th>
