@@ -2067,6 +2067,46 @@
     </tr>
 </table>
 
+#### Kyverno Logos
+
+<table>
+    <tr>
+    	<th colspan="5"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+        <th>color</th>
+        <td><img src="/projects/kyverno/stacked/color/kyverno-stacked-color.png" width="200"></td>
+        <td><img src="/projects/kyverno/icon/color/kyverno-icon-color.png" width="75"></td>
+        <td><img src="/projects/kyverno/stacked/color/kyverno-stacked-color.svg" width="200"></td>
+        <td><img src="/projects/kyverno/icon/color/kyverno-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kyverno/stacked/black/kyverno-stacked-black.png" width="200"></td>
+        <td><img src="/projects/kyverno/icon/black/kyverno-icon-black.png" width="75"></td>
+        <td><img src="/projects/kyverno/stacked/black/kyverno-stacked-black.svg" width="200"></td>
+        <td><img src="/projects/kyverno/icon/black/kyverno-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kyverno/stacked/white/kyverno-stacked-white.png" width="200"></td>
+        <td><img src="/projects/kyverno/icon/white/kyverno-icon-white.png" width="75"></td>
+        <td><img src="/projects/kyverno/stacked/white/kyverno-stacked-white.svg" width="200"></td>
+        <td><img src="/projects/kyverno/icon/white/kyverno-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
