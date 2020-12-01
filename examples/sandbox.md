@@ -2091,7 +2091,7 @@
         <td><img src="/projects/kyverno/horizontal/color/kyverno-horizontal-color.png" width="200"></td>
         <td><img src="/projects/kyverno/stacked/color/kyverno-stacked-color.png" width="150"></td>
         <td><img src="/projects/kyverno/icon/color/kyverno-icon-color.png" width="75"></td>
-        <td><img src="/projects/kyverno/horizontal/white/kyverno-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kyverno/horizontal/color/kyverno-horizontal-color.svg" width="200"></td>
         <td><img src="/projects/kyverno/stacked/color/kyverno-stacked-color.svg" width="150"></td>
         <td><img src="/projects/kyverno/icon/color/kyverno-icon-color.svg" width="75"></td>
     </tr>
