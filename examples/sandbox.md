@@ -2067,7 +2067,8 @@
     </tr>
 </table>
 
-#### Kyverno Logos
+
+#### CDK8s Logos
 
 <table>
     <tr>
@@ -2087,6 +2088,32 @@
         <th>stacked</th>
         <th>icon</th>
     </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/cdk8s/horizontal/cdk8s.horizontal.color.png" width="200"></td>
+        <td><img src="/projects/cdk8s/stacked/cdk8s.stacked.color.png" width="95"></td>
+        <td><img src="/projects/cdk8s/icon/cdk8s.icon.color.png" width="75"></td>
+        <td><img src="/projects/cdk8s/horizontal/cdk8s.horizontal.color.svg" width="200"></td>
+        <td><img src="/projects/cdk8s/stacked/cdk8s.stacked.color.svg" width="95"></td>
+        <td><img src="/projects/cdk8s/icon/cdk8s.icon.color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/cdk8s/horizontal/cdk8s.horizontal.black.png" width="200"></td>
+        <td><img src="/projects/cdk8s/stacked/cdk8s.stacked.black.png" width="95"></td>
+        <td><img src="/projects/cdk8s/icon/cdk8s.icon.black.png" width="75"></td>
+        <td><img src="/projects/cdk8s/horizontal/cdk8s.horizontal.black.svg" width="200"></td>
+        <td><img src="/projects/cdk8s/stacked/cdk8s.stacked.black.svg" width="95"></td>
+        <td><img src="/projects/cdk8s/icon/cdk8s.icon.black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/cdk8s/horizontal/cdk8s.horizontal.white.png" width="200"></td>
+        <td><img src="/projects/cdk8s/stacked/cdk8s.stacked.white.png" width="95"></td>
+        <td><img src="/projects/cdk8s/icon/cdk8s.icon.white.png" width="75"></td>
+        <td><img src="/projects/cdk8s/horizontal/cdk8s.horizontal.white.svg" width="200"></td>
+        <td><img src="/projects/cdk8s/stacked/cdk8s.stacked.white.svg" width="95"></td>
+        <td><img src="/projects/cdk8s/icon/cdk8s.icon.white.svg" width="75"></td>
         <th>color</th>
         <td><img src="/projects/kyverno/horizontal/color/kyverno-horizontal-color.png" width="200"></td>
         <td><img src="/projects/kyverno/stacked/color/kyverno-stacked-color.png" width="150"></td>
