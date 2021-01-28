@@ -192,7 +192,6 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th colspan="1">PNG</th>
         <th colspan="1">SVG</th>
     </tr>
-
     <tr>
         <th>color</th>
         <td><img src="/other/this-week-in-cloud-native/color/cncf-thisweekincloudnative_color.png" width="200"></td>
