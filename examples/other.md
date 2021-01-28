@@ -68,12 +68,12 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>CKAD</th>
         <th>KCSP</th>
         <th>KTP</th>
-        <th>KSS</th>
+        <th>CKS</th>
         <th>CKA</th>
         <th>CKAD</th>
         <th>KCSP</th>
         <th>KTP</th>
-        <th>KSS</th>
+        <th>CKS</th>
         </tr>
         <tr>
         <th>color</th>
