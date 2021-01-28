@@ -260,8 +260,8 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr><tr></tr>
     <tr>
         <th>color 2021</th>
-        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/color/kccnc-eu-2021-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/color/kccnc-eu-2021-color.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/color/kubecon-eu-2021-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/color/kubecon-eu-2021-color.svg" width="260"></td>
     </tr>
     <tr>
         <th>black 2021</th>
