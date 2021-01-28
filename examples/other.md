@@ -181,6 +181,33 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
             </tr>
 </table>
 
+#### This Week in Cloud Native Logos
+
+<table>
+    <tr>
+    	<th colspan="3"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/this-week-in-cloud-native/color/cncf-thisweekincloudnative_color.png" width="200"></td>
+        <td><img src="/other/this-week-in-cloud-native/color/cncf-thisweekincloudnative_color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/this-week-in-cloud-native/black/cncf-thisweekincloudnative_black.png" width="200"></td>
+        <td><img src="/other/this-week-in-cloud-native/black/cncf-thisweekincloudnative_black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/this-week-in-cloud-native/white/cncf-thisweekincloudnative_white.png" width="200"></td>
+        <td><img src="/other/this-week-in-cloud-native/white/cncf-thisweekincloudnative_white.svg" width="200"></td>
+    </tr>
+</table>
 
 #### CNCF Ambassador Logos
 
