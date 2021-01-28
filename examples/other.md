@@ -260,8 +260,8 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr><tr></tr>
     <tr>
         <th>color 2021</th>
-        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/color/kccnc-eu-virtual-2021-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/color/kccnc-eu-virtual-2021-color.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/color/kccnc-eu-2021-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/color/kccnc-eu-2021-color.svg" width="260"></td>
     </tr>
     <tr>
         <th>black 2021</th>
@@ -286,19 +286,19 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>SVG</th>
     </tr><tr></tr>
     <tr>
-        <th>color 2020</th>
+        <th>color 2021</th>
         <td><img src="/other/kubecon-cloudnativecon/2020-na/color/kubecon-na-2021-color.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2020-na/color/kubecon-na-2021-color.svg" width="260"></td>
     </tr>
     <tr>
-        <th>black 2020</th>
+        <th>black 2021</th>
         <td><img src="/other/kubecon-cloudnativecon/2020-na/black/kubecon-na-2021-black.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2020-na/black/kubecon-na-2021-black.svg" width="260"></td>
     </tr>
     <tr>
     </tr>
     <tr>
-        <th>white 2020</th>
+        <th>white 2021</th>
         <td><img src="/other/kubecon-cloudnativecon/2020-na/white/kubecon-na-2021-white.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2020-na/white/kubecon-na-2021-white.svg" width="260"></td>
     </tr>
