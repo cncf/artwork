@@ -1012,6 +1012,55 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
 </table>
 
+#### SIG App Delivery
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/sig-app-delivery/horizontal/color/sig-app-delivery-horizontal-color.png" width="200"></td>
+        <td><img src="/other/sig-app-delivery/stacked/color/sig-app-delivery-stacked-color.png" width="95"></td>
+        <td><img src="/other/sig-app-delivery/icon/color/sig-app-delivery-icon-color.png" width="95"></td>
+        <td><img src="/other/sig-app-delivery/horizontal/color/sig-app-delivery-horizontal-color.svg" width="200"></td>
+        <td><img src="/other/sig-app-delivery/stacked/color/sig-app-delivery-stacked-color.svg" width="95"></td>
+        <td><img src="/other/sig-app-delivery/icon/color/sig-app-delivery-icon-color.svg" width="95"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/sig-app-delivery/horizontal/black/sig-app-delivery-horizontal-black.png" width="200"></td>
+        <td><img src="/other/sig-app-delivery/stacked/black/sig-app-delivery-stacked-black.png" width="95"></td>
+        <td><img src="/other/sig-app-delivery/icon/black/sig-app-delivery-icon-black.png" width="95"></td>
+        <td><img src="/other/sig-app-delivery/horizontal/black/sig-app-delivery-horizontal-black.svg" width="200"></td>
+        <td><img src="/other/sig-app-delivery/stacked/black/sig-app-delivery-stacked-black.svg" width="95"></td>
+        <td><img src="/other/sig-app-delivery/icon/black/sig-app-delivery-icon-black.svg" width="95"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/sig-app-delivery/horizontal/white/sig-app-delivery-horizontal-white.png" width="200"></td>
+        <td><img src="/other/sig-app-delivery/stacked/white/sig-app-delivery-stacked-white.png" width="95"></td>
+        <td><img src="/other/sig-app-delivery/icon/white/sig-app-delivery-icon-white.png" width="95"></td>
+        <td><img src="/other/sig-app-delivery/horizontal/white/sig-app-delivery-horizontal-white.svg" width="200"></td>
+        <td><img src="/other/sig-app-delivery/stacked/white/sig-app-delivery-stacked-white.svg" width="95"></td>
+        <td><img src="/other/sig-app-delivery/icon/white/sig-app-delivery-icon-white.svg" width="95"></td>
+    </tr>
+</table>
+
 #### CNF Testbed Logos
 
 <table>

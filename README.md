@@ -112,6 +112,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [CNCF & Go Gophers by [Ashley McNamara]](examples/other.md#cncf--go-gophers)
   * [SIG Security](examples/other.md#sig-security)
   * [SIG Storage](examples/other.md#sig-storage)
+  * [SIG App Delivery](examples/other.md#sig-app-delivery)
   * [CNF Testbed](examples/other.md#cnf-testbed-logos)
 * [Archived Projects](examples/archived.md)
   * [rkt](examples/archived.md#rkt-logos)
