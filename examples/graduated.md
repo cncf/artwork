@@ -695,7 +695,103 @@
     </tr>
 </table>
 
+#### etcd Logos
 
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/etcd/horizontal/color/etcd-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/etcd/stacked/color/etcd-stacked-color.png" width="95"></td>
+        <td><img src="/projects/etcd/icon/color/etcd-icon-color.png" width="75"></td>
+        <td><img src="/projects/etcd/horizontal/color/etcd-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/etcd/stacked/color/etcd-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/etcd/icon/color/etcd-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/etcd/horizontal/black/etcd-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/etcd/stacked/black/etcd-stacked-black.png" width="95"></td>
+        <td><img src="/projects/etcd/icon/black/etcd-icon-black.png" width="75"></td>
+        <td><img src="/projects/etcd/horizontal/black/etcd-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/etcd/stacked/black/etcd-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/etcd/icon/black/etcd-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/etcd/horizontal/white/etcd-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/etcd/stacked/white/etcd-stacked-white.png" width="95"></td>
+        <td><img src="/projects/etcd/icon/white/etcd-icon-white.png" width="75"></td>
+        <td><img src="/projects/etcd/horizontal/white/etcd-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/etcd/stacked/white/etcd-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/etcd/icon/white/etcd-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### OPA Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/opa/horizontal/color/opa-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/opa/stacked/color/opa-stacked-color.png" width="95"></td>
+        <td><img src="/projects/opa/icon/color/opa-icon-color.png" width="75"></td>
+        <td><img src="/projects/opa/horizontal/color/opa-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/opa/stacked/color/opa-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/opa/icon/color/opa-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/opa/horizontal/black/opa-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/opa/stacked/black/opa-stacked-black.png" width="95"></td>
+        <td><img src="/projects/opa/icon/black/opa-icon-black.png" width="75"></td>
+        <td><img src="/projects/opa/horizontal/black/opa-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/opa/stacked/black/opa-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/opa/icon/black/opa-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/opa/horizontal/white/opa-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/opa/stacked/white/opa-stacked-white.png" width="95"></td>
+        <td><img src="/projects/opa/icon/white/opa-icon-white.png" width="75"></td>
+        <td><img src="/projects/opa/horizontal/white/opa-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/opa/stacked/white/opa-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/opa/icon/white/opa-icon-white.svg" width="75"></td>
+    </tr>
+</table>
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
