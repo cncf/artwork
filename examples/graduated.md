@@ -332,6 +332,38 @@
     </tr>
 </table>
 
+#### Fluentbit Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/fluentd/fluentbit/horizontal/fluentbit-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/fluentd/fluentbit/stacked/fluentbit-stacked-color.png" width="95"></td>
+        <td><img src="/projects/fluentd/fluentbit/icon/fluentbit-icon-color.png" width="75"></td>
+        <td><img src="/projects/fluentd/fluentbit/horizontal/fluentbit-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/fluentd/fluentbit/stacked/fluentbit-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/fluentd/fluentbit/icon/fluentbit-icon-color.svg" width="75"></td>
+    </tr>
+
+</table>
+
 #### Jaeger Logos
 
 <table>
