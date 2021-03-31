@@ -354,12 +354,12 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/fluentd/fluentbit/horizontal/color/fluentbit-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/fluentd/fluentbit/stacked/color/fluentbit-stacked-color.png" width="95"></td>
-        <td><img src="/projects/fluentd/fluentbit/icon/color/fluentbit-icon-color.png" width="75"></td>
-        <td><img src="/projects/fluentd/fluentbit/horizontal/color/fluentbit-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/fluentd/fluentbit/stacked/color/fluentbit-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/fluentd/fluentbit/icon/color/fluentbit-icon-color.svg" width="75"></td>
+        <td><img src="/projects/fluentd/fluentbit/horizontal/fluentbit-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/fluentd/fluentbit/stacked/fluentbit-stacked-color.png" width="95"></td>
+        <td><img src="/projects/fluentd/fluentbit/icon/fluentbit-icon-color.png" width="75"></td>
+        <td><img src="/projects/fluentd/fluentbit/horizontal/fluentbit-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/fluentd/fluentbit/stacked/fluentbit-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/fluentd/fluentbit/icon/fluentbit-icon-color.svg" width="75"></td>
     </tr>
 
 </table>
