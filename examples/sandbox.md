@@ -2264,7 +2264,7 @@
     </tr>
 </table>
 
-#### Kube-OVN Logos
+#### Flagger Logos
 
 <table>
     <tr>
@@ -2286,30 +2286,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/kube-ovn/horizontal/color/kube-ovn-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/kube-ovn/stacked/color/kube-ovn-stacked-color.png" width="95"></td>
-        <td><img src="/projects/kube-ovn/icon/color/kube-ovn-icon-color.png" width="75"></td>
-        <td><img src="/projects/kube-ovn/horizontal/color/kube-ovn-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/kube-ovn/stacked/color/kube-ovn-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/kube-ovn/icon/color/kube-ovn-icon-color.svg" width="75"></td>
+        <td><img src="/projects/flagger/horizontal/color/flagger-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/flagger/stacked/color/flagger-stacked-color.png" width="95"></td>
+        <td><img src="/projects/flagger/icon/color/flagger-icon-color.png" width="75"></td>
+        <td><img src="/projects/flagger/horizontal/color/flagger-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/flagger/stacked/color/flagger-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/flagger/icon/color/flagger-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/kube-ovn/horizontal/black/kube-ovn-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/kube-ovn/stacked/black/kube-ovn-stacked-black.png" width="95"></td>
-        <td><img src="/projects/kube-ovn/icon/black/kube-ovn-icon-black.png" width="75"></td>
-        <td><img src="/projects/kube-ovn/horizontal/black/kube-ovn-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/kube-ovn/stacked/black/kube-ovn-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/kube-ovn/icon/black/kube-ovn-icon-black.svg" width="75"></td>
+        <td><img src="/projects/flagger/horizontal/black/flagger-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/flagger/stacked/black/flagger-stacked-black.png" width="95"></td>
+        <td><img src="/projects/flagger/icon/black/flagger-icon-black.png" width="75"></td>
+        <td><img src="/projects/flagger/horizontal/black/flagger-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/flagger/stacked/black/flagger-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/flagger/icon/black/flagger-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/kube-ovn/horizontal/white/kube-ovn-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/kube-ovn/stacked/white/kube-ovn-stacked-white.png" width="95"></td>
-        <td><img src="/projects/kube-ovn/icon/white/kube-ovn-icon-white.png" width="75"></td>
-        <td><img src="/projects/kube-ovn/horizontal/white/kube-ovn-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/kube-ovn/stacked/white/kube-ovn-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/kube-ovn/icon/white/kube-ovn-icon-white.svg" width="75"></td>
+        <td><img src="/projects/flagger/horizontal/white/flagger-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/flagger/stacked/white/flagger-stacked-white.png" width="95"></td>
+        <td><img src="/projects/flagger/icon/white/flagger-icon-white.png" width="75"></td>
+        <td><img src="/projects/flagger/horizontal/white/flagger-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/flagger/stacked/white/flagger-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/flagger/icon/white/flagger-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
