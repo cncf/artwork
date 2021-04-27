@@ -1701,6 +1701,56 @@
     </table>
 
 
+#### openkruise Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/openkruise/horizontal/color/openkruise-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/openkruise/stacked/color/openkruise-stacked-color.png" width="95"></td>
+        <td><img src="/projects/openkruise/icon/color/openkruise-icon-color.png" width="75"></td>
+        <td><img src="/projects/openkruise/horizontal/color/openkruise-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/openkruise/stacked/color/openkruise-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/openkruise/icon/color/openkruise-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/openkruise/horizontal/black/openkruise-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/openkruise/stacked/black/openkruise-stacked-black.png" width="95"></td>
+        <td><img src="/projects/openkruise/icon/black/openkruise-icon-black.png" width="75"></td>
+        <td><img src="/projects/openkruise/horizontal/black/openkruise-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/openkruise/stacked/black/openkruise-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/openkruise/icon/black/openkruise-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/openkruise/horizontal/white/openkruise-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/openkruise/stacked/white/openkruise-stacked-white.png" width="95"></td>
+        <td><img src="/projects/openkruise/icon/white/openkruise-icon-white.png" width="75"></td>
+        <td><img src="/projects/openkruise/horizontal/white/openkruise-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/openkruise/stacked/white/openkruise-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/openkruise/icon/white/openkruise-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
+
 #### tremor Logos
 
 <table>

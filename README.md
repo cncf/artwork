@@ -75,6 +75,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [metal3](examples/sandbox.md#metal3-logos)
   * [Tremor](examples/sandbox.md#tremor-logos)
   * [OpenYurt](examples/sandbox.md#openyurt-logos)
+  * [OpenKruise](examples/sandbox.md#openkruise-logos)
   * [Backstage](examples/sandbox.md#backstage-logos)
   * [Porter](examples/sandbox.md#porter-logos)
   * [Serverless Workflow Specification](examples/sandbox.md#serverless-workflow-specification-logos)
