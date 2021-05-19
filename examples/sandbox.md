@@ -2501,6 +2501,46 @@
     </tr>
 </table>
 
+#### Trickster Logos
+
+<table>
+    <tr>
+    	<th colspan="5"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+        <th>color</th>
+        <td><img src="/projects/trickster/stacked/color/trickster-stacked-color.png" width="200"></td>
+        <td><img src="/projects/trickster/icon/color/trickster-icon-color.png" width="75"></td>
+        <td><img src="/projects/trickster/stacked/color/trickster-stacked-color.svg" width="200"></td>
+        <td><img src="/projects/trickster/icon/color/trickster-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/trickster/stacked/black/trickster-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/trickster/icon/black/trickster-icon-black.png" width="75"></td>
+        <td><img src="/projects/trickster/stacked/black/trickster-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/trickster/icon/black/trickster-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/trickster/horizontal/white/trickster-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/trickster/icon/white/trickster-icon-white.png" width="75"></td>
+        <td><img src="/projects/trickster/horizontal/white/trickster-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/trickster/icon/white/trickster-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
