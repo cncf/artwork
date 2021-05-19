@@ -2527,16 +2527,16 @@
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/trickster/stacked/black/trickster-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/trickster/stacked/black/trickster-stacked-black.png" width="200"></td>
         <td><img src="/projects/trickster/icon/black/trickster-icon-black.png" width="75"></td>
-        <td><img src="/projects/trickster/stacked/black/trickster-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/trickster/stacked/black/trickster-stacked-black.svg" width="200"></td>
         <td><img src="/projects/trickster/icon/black/trickster-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/trickster/horizontal/white/trickster-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/trickster/stacked/white/trickster-stacked-white.png" width="200"></td>
         <td><img src="/projects/trickster/icon/white/trickster-icon-white.png" width="75"></td>
-        <td><img src="/projects/trickster/horizontal/white/trickster-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/trickster/stacked/white/trickster-stacked-white.svg" width="200"></td>
         <td><img src="/projects/trickster/icon/white/trickster-icon-white.svg" width="75"></td>
     </tr>
 </table>
