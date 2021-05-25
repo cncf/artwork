@@ -2675,7 +2675,7 @@
         <th>white</th>
         <td><img src="/projects/submariner/horizontal/white/submariner-horizontal-white.png" width="200"></td>
         <td><img src="/projects/submariner/icon/white/submariner-icon-white.png" width="75"></td>
-        <td><img src="/projects/submariner/horizontal/white/submarinersubmariner-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/submariner/horizontal/white/submariner-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/submariner/icon/white/submariner-icon-white.svg" width="75"></td>
     </tr>
 </table>
