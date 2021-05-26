@@ -2546,39 +2546,47 @@
 
 <table>
     <tr>
-        <th colspan="5"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
-        <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th
     </tr>
     <tr>
         <th></th>
         <th>horizontal</th>
+        <th>stacked</th>
         <th>icon</th>
         <th>horizontal</th>
+        <th>stacked</th>
         <th>icon</th>
     </tr>
     <tr>
         <th>color</th>
         <td><img src="/projects/submariner/horizontal/color/submariner-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/submariner/stacked/color/submariner-stacked-color.png" width="200"></td>
         <td><img src="/projects/submariner/icon/color/submariner-icon-color.png" width="75"></td>
         <td><img src="/projects/submariner/horizontal/color/submariner-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/submariner/stacked/color/submariner-stacked-color.svg" width="200"></td>
         <td><img src="/projects/submariner/icon/color/submariner-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
         <td><img src="/projects/submariner/horizontal/black/submariner-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/submariner/stacked/black/submariner-stacked-black.png" width="200"></td>
         <td><img src="/projects/submariner/icon/black/submariner-icon-black.png" width="75"></td>
         <td><img src="/projects/submariner/horizontal/black/submariner-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/submariner/stacked/black/submariner-stacked-black.svg" width="200"></td>
         <td><img src="/projects/submariner/icon/black/submariner-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/projects/submariner/horizontal/white/submariner-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/submariner/stacked/white/submariner-stacked-white.png" width="200"></td>
         <td><img src="/projects/submariner/icon/white/submariner-icon-white.png" width="75"></td>
         <td><img src="/projects/submariner/horizontal/white/submariner-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/submariner/stacked/white/submariner-stacked-white.svg" width="200"></td>
         <td><img src="/projects/submariner/icon/white/submariner-icon-white.svg" width="75"></td>
     </tr>
 </table>
