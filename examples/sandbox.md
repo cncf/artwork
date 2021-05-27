@@ -2681,7 +2681,7 @@
 </table>
 
 
-#### Submariner Logos
+#### Vineyard Logos
 
 <table>
     <tr>
@@ -2715,10 +2715,10 @@
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/vineyard/stacked/white/submariner-stacked-white.png" width="200"></td>
-        <td><img src="/projects/vineyard/icon/white/submariner-icon-white.png" width="75"></td>
-        <td><img src="/projects/vineyard/stacked/white/submariner-stacked-white.svg" width="200"></td>
-        <td><img src="/projects/vineyard/icon/white/submariner-icon-white.svg" width="75"></td>
+        <td><img src="/projects/vineyard/stacked/white/vineyard-stacked-white.png" width="200"></td>
+        <td><img src="/projects/vineyard/icon/white/vineyard-icon-white.png" width="75"></td>
+        <td><img src="/projects/vineyard/stacked/white/vineyard-stacked-white.svg" width="200"></td>
+        <td><img src="/projects/vineyard/icon/white/vineyard-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
