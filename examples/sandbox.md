@@ -550,6 +550,54 @@
     </tr>
 </table>
 
+#### Flux Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/flux/horizontal/color/flux-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/flux/stacked/color/flux-stacked-color.png" width="95"></td>
+        <td><img src="/projects/flux/icon/color/flux-icon-color.png" width="75"></td>
+        <td><img src="/projects/flux/horizontal/color/flux-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/flux/stacked/color/flux-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/flux/icon/color/flux-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/flux/horizontal/black/flux-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/flux/stacked/black/flux-stacked-black.png" width="95"></td>
+        <td><img src="/projects/flux/icon/black/flux-icon-black.png" width="75"></td>
+        <td><img src="/projects/flux/horizontal/black/flux-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/flux/stacked/black/flux-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/flux/icon/black/flux-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/flux/horizontal/white/flux-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/flux/stacked/white/flux-stacked-white.png" width="95"></td>
+        <td><img src="/projects/flux/icon/white/flux-icon-white.png" width="75"></td>
+        <td><img src="/projects/flux/horizontal/white/flux-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/flux/stacked/white/flux-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/flux/icon/white/flux-icon-white.svg" width="75"></td>
+    </tr>
+</table>
 
 #### Strimzi Logos
 
@@ -2315,6 +2363,55 @@
     </tr>
 </table>
 
+#### Flagger Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/flagger/horizontal/color/flagger-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/flagger/stacked/color/flagger-stacked-color.png" width="95"></td>
+        <td><img src="/projects/flagger/icon/color/flagger-icon-color.png" width="75"></td>
+        <td><img src="/projects/flagger/horizontal/color/flagger-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/flagger/stacked/color/flagger-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/flagger/icon/color/flagger-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/flagger/horizontal/black/flagger-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/flagger/stacked/black/flagger-stacked-black.png" width="95"></td>
+        <td><img src="/projects/flagger/icon/black/flagger-icon-black.png" width="75"></td>
+        <td><img src="/projects/flagger/horizontal/black/flagger-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/flagger/stacked/black/flagger-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/flagger/icon/black/flagger-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/flagger/horizontal/white/flagger-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/flagger/stacked/white/flagger-stacked-white.png" width="95"></td>
+        <td><img src="/projects/flagger/icon/white/flagger-icon-white.png" width="75"></td>
+        <td><img src="/projects/flagger/horizontal/white/flagger-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/flagger/stacked/white/flagger-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/flagger/icon/white/flagger-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Piraeus Logos
 
 <table>
@@ -2546,48 +2643,82 @@
 
 <table>
     <tr>
-        <th colspan="7"></th>
+        <th colspan="5"></th>
     </tr>
     <tr>
         <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th
     </tr>
     <tr>
         <th></th>
         <th>horizontal</th>
-        <th>stacked</th>
         <th>icon</th>
         <th>horizontal</th>
-        <th>stacked</th>
         <th>icon</th>
     </tr>
     <tr>
         <th>color</th>
         <td><img src="/projects/submariner/horizontal/color/submariner-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/submariner/stacked/color/submariner-stacked-color.png" width="200"></td>
         <td><img src="/projects/submariner/icon/color/submariner-icon-color.png" width="75"></td>
         <td><img src="/projects/submariner/horizontal/color/submariner-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/submariner/stacked/color/submariner-stacked-color.svg" width="200"></td>
         <td><img src="/projects/submariner/icon/color/submariner-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
         <td><img src="/projects/submariner/horizontal/black/submariner-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/submariner/stacked/black/submariner-stacked-black.png" width="200"></td>
         <td><img src="/projects/submariner/icon/black/submariner-icon-black.png" width="75"></td>
         <td><img src="/projects/submariner/horizontal/black/submariner-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/submariner/stacked/black/submariner-stacked-black.svg" width="200"></td>
         <td><img src="/projects/submariner/icon/black/submariner-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/projects/submariner/horizontal/white/submariner-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/submariner/stacked/white/submariner-stacked-white.png" width="200"></td>
         <td><img src="/projects/submariner/icon/white/submariner-icon-white.png" width="75"></td>
         <td><img src="/projects/submariner/horizontal/white/submariner-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/submariner/stacked/white/submariner-stacked-white.svg" width="200"></td>
         <td><img src="/projects/submariner/icon/white/submariner-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+
+#### Submariner Logos
+
+<table>
+    <tr>
+        <th colspan="5"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/vineyard/stacked/color/vineyard-stacked-color.png" width="200"></td>
+        <td><img src="/projects/vineyard/icon/color/vineyard-icon-color.png" width="75"></td>
+        <td><img src="/projects/vineyard/stacked/color/vineyard-stacked-color.svg" width="200"></td>
+        <td><img src="/projects/vineyard/icon/color/vineyard-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/vineyard/stacked/black/vineyard-stacked-black.png" width="200"></td>
+        <td><img src="/projects/vineyard/icon/black/vineyard-icon-black.png" width="75"></td>
+        <td><img src="/projects/vineyard/stacked/black/vineyard-stacked-black.svg" width="200"></td>
+        <td><img src="/projects/vineyard/icon/black/vineyard-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/vineyard/stacked/white/submariner-stacked-white.png" width="200"></td>
+        <td><img src="/projects/vineyard/icon/white/submariner-icon-white.png" width="75"></td>
+        <td><img src="/projects/vineyard/stacked/white/submariner-stacked-white.svg" width="200"></td>
+        <td><img src="/projects/vineyard/icon/white/submariner-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
