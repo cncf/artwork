@@ -2680,7 +2680,6 @@
     </tr>
 </table>
 
-
 #### Vineyard Logos
 
 <table>
@@ -2719,6 +2718,46 @@
         <td><img src="/projects/vineyard/icon/white/vineyard-icon-white.png" width="75"></td>
         <td><img src="/projects/vineyard/stacked/white/vineyard-stacked-white.svg" width="200"></td>
         <td><img src="/projects/vineyard/icon/white/vineyard-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### Antrea Logos
+
+<table>
+    <tr>
+        <th colspan="5"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+        <th>color</th>
+        <td><img src="/projects/antrea/stacked/color/antrea-stacked-color.png" width="200"></td>
+        <td><img src="/projects/antrea/icon/color/antrea-icon-color.png" width="75"></td>
+        <td><img src="/projects/antrea/stacked/color/antrea-stacked-color.svg" width="200"></td>
+        <td><img src="/projects/antrea/icon/color/antrea-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/antrea/stacked/black/antrea-stacked-black.png" width="200"></td>
+        <td><img src="/projects/antrea/icon/black/antrea-icon-black.png" width="75"></td>
+        <td><img src="/projects/antrea/stacked/black/antrea-stacked-black.svg" width="200"></td>
+        <td><img src="/projects/antrea/icon/black/antrea-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/antrea/stacked/white/antrea-stacked-white.png" width="200"></td>
+        <td><img src="/projects/antrea/icon/white/antrea-icon-white.png" width="75"></td>
+        <td><img src="/projects/antrea/stacked/white/antrea-stacked-white.svg" width="200"></td>
+        <td><img src="/projects/antrea/icon/white/antrea-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
