@@ -2700,23 +2700,23 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/vineyard/stacked/color/vineyard-stacked-color.png" width="200"></td>
+        <td><img src="/projects/vineyard/stacked/color/vineyard-stacked-color.png" width="150"></td>
         <td><img src="/projects/vineyard/icon/color/vineyard-icon-color.png" width="75"></td>
-        <td><img src="/projects/vineyard/stacked/color/vineyard-stacked-color.svg" width="200"></td>
+        <td><img src="/projects/vineyard/stacked/color/vineyard-stacked-color.svg" width="150"></td>
         <td><img src="/projects/vineyard/icon/color/vineyard-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/vineyard/stacked/black/vineyard-stacked-black.png" width="200"></td>
+        <td><img src="/projects/vineyard/stacked/black/vineyard-stacked-black.png" width="150"></td>
         <td><img src="/projects/vineyard/icon/black/vineyard-icon-black.png" width="75"></td>
-        <td><img src="/projects/vineyard/stacked/black/vineyard-stacked-black.svg" width="200"></td>
+        <td><img src="/projects/vineyard/stacked/black/vineyard-stacked-black.svg" width="150"></td>
         <td><img src="/projects/vineyard/icon/black/vineyard-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/vineyard/stacked/white/vineyard-stacked-white.png" width="200"></td>
+        <td><img src="/projects/vineyard/stacked/white/vineyard-stacked-white.png" width="150"></td>
         <td><img src="/projects/vineyard/icon/white/vineyard-icon-white.png" width="75"></td>
-        <td><img src="/projects/vineyard/stacked/white/vineyard-stacked-white.svg" width="200"></td>
+        <td><img src="/projects/vineyard/stacked/white/vineyard-stacked-white.svg" width="150"></td>
         <td><img src="/projects/vineyard/icon/white/vineyard-icon-white.svg" width="75"></td>
     </tr>
 </table>
