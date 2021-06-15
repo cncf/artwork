@@ -1061,6 +1061,49 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
 </table>
 
+#### CNCF Distribution
+
+<table>
+    <tr>
+    	<th colspan="5"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/cncf-distribution/stacked/color/cncf-distribution-stacked-color.png" width="95"></td>
+        <td><img src="/other/cncf-distribution/icon/color/cncf-distribution-icon-color.png" width="95"></td>
+        <td><img src="/other/cncf-distribution/stacked/color/cncf-distribution-stacked-color.svg" width="95"></td>
+        <td><img src="/other/cncf-distribution/icon/color/cncf-distribution-icon-color.svg" width="95"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/cncf-distribution/stacked/black/cncf-distribution-stacked-black.png" width="95"></td>
+        <td><img src="/other/cncf-distribution/icon/black/cncf-distribution-icon-black.png" width="95"></td>
+        <td><img src="/other/cncf-distribution/stacked/black/cncf-distribution-stacked-black.svg" width="95"></td>
+        <td><img src="/other/cncf-distribution/icon/black/cncf-distribution-icon-black.svg" width="95"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/cncf-distribution/stacked/white/cncf-distribution-stacked-white.png" width="95"></td>
+        <td><img src="/other/cncf-distribution/icon/white/cncf-distribution-icon-white.png" width="95"></td>
+        <td><img src="/other/cncf-distribution/stacked/white/cncf-distribution-stacked-white.svg" width="95"></td>
+        <td><img src="/other/cncf-distribution/icon/white/cncf-distribution-icon-white.svg" width="95"></td>
+    </tr>
+</table>
+
+
+
 #### CNF Testbed Logos
 
 <table>
