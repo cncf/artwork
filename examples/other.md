@@ -1081,24 +1081,24 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/cncf-distribution/stacked/color/cncf-distribution-stacked-color.png" width="95"></td>
-        <td><img src="/other/cncf-distribution/icon/color/cncf-distribution-icon-color.png" width="95"></td>
-        <td><img src="/other/cncf-distribution/stacked/color/cncf-distribution-stacked-color.svg" width="95"></td>
-        <td><img src="/other/cncf-distribution/icon/color/cncf-distribution-icon-color.svg" width="95"></td>
+        <td><img src="/other/cncf-distribution/stacked/color/cncf-distribution-stacked-color.png" width="150"></td>
+        <td><img src="/other/cncf-distribution/icon/color/cncf-distribution-icon-color.png" width="150"></td>
+        <td><img src="/other/cncf-distribution/stacked/color/cncf-distribution-stacked-color.svg" width="150"></td>
+        <td><img src="/other/cncf-distribution/icon/color/cncf-distribution-icon-color.svg" width="150"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/cncf-distribution/stacked/black/cncf-distribution-stacked-black.png" width="95"></td>
-        <td><img src="/other/cncf-distribution/icon/black/cncf-distribution-icon-black.png" width="95"></td>
-        <td><img src="/other/cncf-distribution/stacked/black/cncf-distribution-stacked-black.svg" width="95"></td>
-        <td><img src="/other/cncf-distribution/icon/black/cncf-distribution-icon-black.svg" width="95"></td>
+        <td><img src="/other/cncf-distribution/stacked/black/cncf-distribution-stacked-black.png" width="150"></td>
+        <td><img src="/other/cncf-distribution/icon/black/cncf-distribution-icon-black.png" width="150"></td>
+        <td><img src="/other/cncf-distribution/stacked/black/cncf-distribution-stacked-black.svg" width="150"></td>
+        <td><img src="/other/cncf-distribution/icon/black/cncf-distribution-icon-black.svg" width="150"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/cncf-distribution/stacked/white/cncf-distribution-stacked-white.png" width="95"></td>
-        <td><img src="/other/cncf-distribution/icon/white/cncf-distribution-icon-white.png" width="95"></td>
-        <td><img src="/other/cncf-distribution/stacked/white/cncf-distribution-stacked-white.svg" width="95"></td>
-        <td><img src="/other/cncf-distribution/icon/white/cncf-distribution-icon-white.svg" width="95"></td>
+        <td><img src="/other/cncf-distribution/stacked/white/cncf-distribution-stacked-white.png" width="150"></td>
+        <td><img src="/other/cncf-distribution/icon/white/cncf-distribution-icon-white.png" width="150"></td>
+        <td><img src="/other/cncf-distribution/stacked/white/cncf-distribution-stacked-white.svg" width="150"></td>
+        <td><img src="/other/cncf-distribution/icon/white/cncf-distribution-icon-white.svg" width="150"></td>
     </tr>
 </table>
 
