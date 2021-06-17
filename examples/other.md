@@ -1161,11 +1161,11 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
 
 #### WasmEdgeRuntime Logos
 
-    <table>
-        <tr>
-            <th colspan="7"></th>
-        </tr>
-        <tr>
+<table>
+      <tr>
+          <th colspan="7"></th>
+      </tr>
+      <tr>
             <th></th>
             <th colspan="3">PNG</th>
             <th colspan="3">SVG</th>
