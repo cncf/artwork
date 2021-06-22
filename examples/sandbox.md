@@ -2836,7 +2836,7 @@
             <td><img src="/projects/wasm-edge-runtime/horizontal/color/wasm-edge-runtime-horizontal-color.png" width="250"></td>
             <td><img src="/projects/wasm-edge-runtime/stacked/color/wasm-edge-runtime-stacked-color.png" width="150"></td>
             <td><img src="/projects/wasm-edge-runtime/icon/color/wasm-edge-runtime-icon-color.png" width="150"></td>
-            <td><img src="/projects/wasm-edge-runtime/horizontal/color/wasm-edge-runtime_horizontal-color.svg" width="250"></td>
+            <td><img src="/projects/wasm-edge-runtime/horizontal/color/wasm-edge-runtime-horizontal-color.svg" width="250"></td>
             <td><img src="/projects/wasm-edge-runtime/stacked/color/wasm-edge-runtime-stacked-color.svg" width="150"></td>
             <td><img src="/projects/wasm-edge-runtime/icon/color/wasm-edge-runtime-icon-color.svg" width="150"></td>
         </tr>
