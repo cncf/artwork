@@ -2833,30 +2833,30 @@
         </tr>
         <tr>
             <th>color</th>
-            <td><img src="/projects/wasm-edge-runtime/horizontal/color/wasm-edge-runtime_horizontal-color.png" width="250"></td>
-            <td><img src="/projects/wasm-edge-runtime/stacked/color/wasm-edge-runtime_stacked-color.png" width="150"></td>
-            <td><img src="/projects/wasm-edge-runtime/icon/color/wasm-edge-runtime_icon-color.png" width="150"></td>
-            <td><img src="/projects/wasm-edge-runtime/horizontal/color/wasm-edge-runtime_horizontal-color.svg" width="250"></td>
-            <td><img src="/projects/wasm-edge-runtime/stacked/color/wasm-edge-runtime_stacked-color.svg" width="150"></td>
-            <td><img src="/projects/wasm-edge-runtime/icon/color/wasm-edge-runtime_icon-color.svg" width="150"></td>
+            <td><img src="/projects/wasm-edge-runtime/horizontal/color/wasm-edge-runtime-horizontal-color.png" width="250"></td>
+            <td><img src="/projects/wasm-edge-runtime/stacked/color/wasm-edge-runtime-stacked-color.png" width="150"></td>
+            <td><img src="/projects/wasm-edge-runtime/icon/color/wasm-edge-runtime-icon-color.png" width="150"></td>
+            <td><img src="/projects/wasm-edge-runtime/horizontal/color/wasm-edge-runtime-horizontal-color.svg" width="250"></td>
+            <td><img src="/projects/wasm-edge-runtime/stacked/color/wasm-edge-runtime-stacked-color.svg" width="150"></td>
+            <td><img src="/projects/wasm-edge-runtime/icon/color/wasm-edge-runtime-icon-color.svg" width="150"></td>
         </tr>
         <tr>
             <th>black</th>
-            <td><img src="/projects/wasm-edge-runtime/horizontal/black/wasm-edge-runtime_horizontal-black.png" width="250"></td>
-            <td><img src="/projects/wasm-edge-runtime/stacked/black/wasm-edge-runtime_stacked-black.png" width="150"></td>
-            <td><img src="/projects/wasm-edge-runtime/icon/black/wasm-edge-runtime_icon-black.png" width="150"></td>
-            <td><img src="/projects/wasm-edge-runtime/horizontal/black/wasm-edge-runtime_horizontal-black.svg" width="250"></td>
-            <td><img src="/projects/wasm-edge-runtime/stacked/black/wasm-edge-runtime_stacked-black.svg" width="150"></td>
-            <td><img src="/projects/wasm-edge-runtime/icon/black/wasm-edge-runtime_icon-black.svg" width="150"></td>
+            <td><img src="/projects/wasm-edge-runtime/horizontal/black/wasm-edge-runtime-horizontal-black.png" width="250"></td>
+            <td><img src="/projects/wasm-edge-runtime/stacked/black/wasm-edge-runtime-stacked-black.png" width="150"></td>
+            <td><img src="/projects/wasm-edge-runtime/icon/black/wasm-edge-runtime-icon-black.png" width="150"></td>
+            <td><img src="/projects/wasm-edge-runtime/horizontal/black/wasm-edge-runtime-horizontal-black.svg" width="250"></td>
+            <td><img src="/projects/wasm-edge-runtime/stacked/black/wasm-edge-runtime-stacked-black.svg" width="150"></td>
+            <td><img src="/projects/wasm-edge-runtime/icon/black/wasm-edge-runtime-icon-black.svg" width="150"></td>
         </tr>
         <tr>
             <th>white</th>
-            <td><img src="/projects/wasm-edge-runtime/horizontal/white/wasm-edge-runtime_horizontal-white.png" width="250"></td>
-            <td><img src="/projects/wasm-edge-runtime/stacked/white/wasm-edge-runtime_stacked-white.png" width="150"></td>
-            <td><img src="/projects/wasm-edge-runtime/icon/white/wasm-edge-runtime_icon-white.png" width="150"></td>
-            <td><img src="/projects/wasm-edge-runtime/horizontal/white/wasm-edge-runtime_horizontal-white.svg" width="250"></td>
-            <td><img src="/projects/wasm-edge-runtime/stacked/white/wasm-edge-runtime_stacked-white.svg" width="150"></td>
-            <td><img src="/projects/wasm-edge-runtime/icon/white/wasm-edge-runtime_icon-white.svg" width="150"></td>
+            <td><img src="/projects/wasm-edge-runtime/horizontal/white/wasm-edge-runtime-horizontal-white.png" width="250"></td>
+            <td><img src="/projects/wasm-edge-runtime/stacked/white/wasm-edge-runtime-stacked-white.png" width="150"></td>
+            <td><img src="/projects/wasm-edge-runtime/icon/white/wasm-edge-runtime-icon-white.png" width="150"></td>
+            <td><img src="/projects/wasm-edge-runtime/horizontal/white/wasm-edge-runtime-horizontal-white.svg" width="250"></td>
+            <td><img src="/projects/wasm-edge-runtime/stacked/white/wasm-edge-runtime-stacked-white.svg" width="150"></td>
+            <td><img src="/projects/wasm-edge-runtime/icon/white/wasm-edge-runtime-icon-white.svg" width="150"></td>
         </tr>
         </table>
 
