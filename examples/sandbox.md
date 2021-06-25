@@ -2861,6 +2861,55 @@
         </table>
 
 
+#### Skooner Logos
+
+<table>
+  <tr>
+    <th colspan="7"></th>
+  </tr>
+  <tr>
+    <th></th>
+    <th colspan="3">PNG</th>
+    <th colspan="3">SVG</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>horizontal</th>
+    <th>stacked</th>
+    <th>icon</th>
+    <th>horizontal</th>
+    <th>stacked</th>
+    <th>icon</th>
+  </tr>
+  <tr>
+    <th>color</th>
+        <td><img src="/projects/skooner/horizontal/color/Skooner-horizontal-color.png" width="250"></td>
+        <td><img src="/projects/skooner/stacked/color/Skooner-stacked-color.png" width="150"></td>
+        <td><img src="/projects/skooner/icon/color/Skooner-icon-color.png" width="150"></td>
+        <td><img src="/projects/skooner/horizontal/color/Skooner-horizontal-color.svg" width="250"></td>
+        <td><img src="/projects/skooner/stacked/color/Skooner-stacked-color.svg" width="150"></td>
+        <td><img src="/projects/skooner/icon/color/Skooner-icon-color.svg" width="150"></td>
+  </tr>
+  <tr>
+    <th>black</th>
+        <td><img src="/projects/skooner/horizontal/black/Skooner-horizontal-black.png" width="250"></td>
+        <td><img src="/projects/skooner/stacked/black/Skooner-stacked-black.png" width="150"></td>
+        <td><img src="/projects/skooner/icon/black/Skooner-icon-black.png" width="150"></td>
+        <td><img src="/projects/skooner/horizontal/black/Skooner-horizontal-black.svg" width="250"></td>
+        <td><img src="/projects/skooner/stacked/black/Skooner-stacked-black.svg" width="150"></td>
+        <td><img src="/projects/skooner/icon/black/Skooner-icon-black.svg" width="150"></td>
+  </tr>
+  <tr>
+    <th>white</th>
+        <td><img src="/projects/skooner/horizontal/white/Skooner-horizontal-white.png" width="250"></td>
+        <td><img src="/projects/skooner/stacked/white/Skooner-stacked-white.png" width="150"></td>
+        <td><img src="/projects/skooner/icon/white/Skooner-icon-white.png" width="150"></td>
+        <td><img src="/projects/skooner/horizontal/white/Skooner-horizontal-white.svg" width="250"></td>
+        <td><img src="/projects/skooner/stacked/white/Skooner-stacked-white.svg" width="150"></td>
+        <td><img src="/projects/skooner/icon/white/Skooner-icon-white.svg" width="150"></td>
+  </tr>
+</table>
+
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
