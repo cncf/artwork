@@ -250,8 +250,8 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
 </table>
 
-<br>
-<br>
+
+
 ### KubeCon + CloudNativeCon Logos
 
 #### North America 2021 Logos
