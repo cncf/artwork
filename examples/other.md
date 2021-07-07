@@ -250,61 +250,9 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
 </table>
 
-#### KubeCon + CloudNativeCon North America Virtual Logos
+### KubeCon + CloudNativeCon Logos
 
-<table>
-    <tr>
-        <th></th>
-        <th>PNG</th>
-        <th>SVG</th>
-    </tr><tr></tr>
-    <tr>
-        <th>color 2020</th>
-        <td><img src="/other/kubecon-cloudnativecon/2020-na-virtual/color/kccnc-na-virtual-2020-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2020-na-virtual/color/kccnc-na-virtual-2020-color.svg" width="260"></td>
-    </tr>
-    <tr>
-        <th>black 2020</th>
-        <td><img src="/other/kubecon-cloudnativecon/2020-na-virtual/black/kccnc-na-virtual-2020-black.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2020-na-virtual/black/kccnc-na-virtual-2020-black.svg" width="260"></td>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-        <th>white 2020</th>
-        <td><img src="/other/kubecon-cloudnativecon/2020-na-virtual/white/kccnc-na-virtual-2020-white.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2020-na-virtual/white/kccnc-na-virtual-2020-white.svg" width="260"></td>
-    </tr>
-</table>
-
-#### KubeCon + CloudNativeCon Europe Virtual Logos
-
-<table>
-    <tr>
-        <th></th>
-        <th>PNG</th>
-        <th>SVG</th>
-    </tr><tr></tr>
-    <tr>
-        <th>color 2021</th>
-        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/color/kubecon-eu-2021-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/color/kubecon-eu-2021-color.svg" width="260"></td>
-    </tr>
-    <tr>
-        <th>black 2021</th>
-        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/black/kubecon-eu-2021-black.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/black/kubecon-eu-2021-black.svg" width="260"></td>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-        <th>white 2021</th>
-        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/white/kubecon-eu-2021-white.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/white/kubecon-eu-2021-white.svg" width="260"></td>
-    </tr>
-</table>
-
-#### KubeCon North America Logos
+#### North America 2021 Logos
 
 <table>
     <tr>
@@ -331,7 +279,36 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
 </table>
 
-#### KubeCon + CloudNativeCon + Open Source Summit China Logos
+
+#### Europe 2021 Virtual Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr><tr></tr>
+    <tr>
+        <th>color 2021</th>
+        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/color/kubecon-eu-2021-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/color/kubecon-eu-2021-color.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>black 2021</th>
+        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/black/kubecon-eu-2021-black.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/black/kubecon-eu-2021-black.svg" width="260"></td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+        <th>white 2021</th>
+        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/white/kubecon-eu-2021-white.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2021-eu-virtual/white/kubecon-eu-2021-white.svg" width="260"></td>
+    </tr>
+</table>
+
+
+#### KubeCon + CloudNativeCon + Open Source Summit China 2021 Logos
 
 <table>
     <tr>
@@ -358,7 +335,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
 </table>
 
-#### KubeCon + CloudNativeCon Cropped Logos
+#### Cropped Logos
 
 <table>
     <tr>
