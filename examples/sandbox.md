@@ -2911,6 +2911,48 @@
 </table>
 
 
+#### Fonio Logos
+
+<table>
+    <tr>
+        <th colspan="5"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/fonio/stacked/color/fonio-stacked-color.png" width="150"></td>
+        <td><img src="/projects/fonio/icon/color/fonio-icon-color.png" width="150"></td>
+        <td><img src="/projects/fonio/stacked/color/fonio-stacked-color.svg" width="150"></td>
+        <td><img src="/projects/fonio/icon/color/fonio-icon-color.svg" width="150"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/fonio/stacked/black/fonio-stacked-black.png" width="150"></td>
+        <td><img src="/projects/fonio/icon/black/fonio-icon-black.png" width="150"></td>
+        <td><img src="/projects/fonio/stacked/black/fonio-stacked-black.svg" width="150"></td>
+        <td><img src="/projects/fonio/icon/black/fonio-icon-black.svg" width="150"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/fonio/stacked/white/fonio-stacked-white.png" width="150"></td>
+        <td><img src="/projects/fonio/icon/white/fonio-icon-white.png" width="150"></td>
+        <td><img src="/projects/fonio/stacked/white/fonio-stacked-white.svg" width="150"></td>
+        <td><img src="/projects/fonio/icon/white/fonio-icon-white.svg" width="150"></td>
+    </tr>
+</table>
+
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
