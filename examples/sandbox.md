@@ -768,30 +768,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/kubeVela/horizontal/color/kubeVela-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/kubeVela/stacked/color/kubeVela-stacked-color.png" width="95"></td>
-        <td><img src="/projects/kubeVela/icon/color/kubeVela-icon-color.png" width="75"></td>
-        <td><img src="/projects/kubeVela/horizontal/color/kubeVela-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/kubeVela/stacked/color/kubeVela-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/kubeVela/icon/color/kubeVela-icon-color.svg" width="75"></td>
+        <td><img src="/projects/kubevela/horizontal/color/kubevela-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubevela/stacked/color/kubevela-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubevela/icon/color/kubevela-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubevela/horizontal/color/kubevela-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubevela/stacked/color/kubevela-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubevela/icon/color/kubevela-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/kubeVela/horizontal/black/kubeVela-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/kubeVela/stacked/black/kubeVela-stacked-black.png" width="95"></td>
-        <td><img src="/projects/kubeVela/icon/black/kubeVela-icon-black.png" width="75"></td>
-        <td><img src="/projects/kubeVela/horizontal/black/kubeVela-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/kubeVela/stacked/black/kubeVela-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/kubeVela/icon/black/kubeVela-icon-black.svg" width="75"></td>
+        <td><img src="/projects/kubevela/horizontal/black/kubevela-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubevela/stacked/black/kubevela-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubevela/icon/black/kubevela-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubevela/horizontal/black/kubevela-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubevela/stacked/black/kubevela-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubevela/icon/black/kubevela-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/kubeVela/horizontal/white/kubeVela-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/kubeVela/stacked/white/kubeVela-stacked-white.png" width="95"></td>
-        <td><img src="/projects/kubeVela/icon/white/kubeVela-icon-white.png" width="75"></td>
-        <td><img src="/projects/kubeVela/horizontal/white/kubeVela-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/kubeVela/stacked/white/kubeVela-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/kubeVela/icon/white/kubeVela-icon-white.svg" width="75"></td>
+        <td><img src="/projects/kubevela/horizontal/white/kubevela-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubevela/stacked/white/kubevela-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubevela/icon/white/kubevela-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubevela/horizontal/white/kubevela-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubevela/stacked/white/kubevela-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubevela/icon/white/kubevela-icon-white.svg" width="75"></td>
     </tr>
     </table>
 
