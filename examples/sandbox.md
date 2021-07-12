@@ -746,6 +746,55 @@
     </tr>
     </table>
 
+#### KubeVela Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubeVela/horizontal/color/kubeVela-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubeVela/stacked/color/kubeVela-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubeVela/icon/color/kubeVela-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubeVela/horizontal/color/kubeVela-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubeVela/stacked/color/kubeVela-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubeVela/icon/color/kubeVela-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubeVela/horizontal/black/kubeVela-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubeVela/stacked/black/kubeVela-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubeVela/icon/black/kubeVela-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubeVela/horizontal/black/kubeVela-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubeVela/stacked/black/kubeVela-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubeVela/icon/black/kubeVela-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubeVela/horizontal/white/kubeVela-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubeVela/stacked/white/kubeVela-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubeVela/icon/white/kubeVela-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubeVela/horizontal/white/kubeVela-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubeVela/stacked/white/kubeVela-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubeVela/icon/white/kubeVela-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
 #### Longhorn Logos
 
 <table>
