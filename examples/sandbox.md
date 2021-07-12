@@ -746,6 +746,55 @@
     </tr>
     </table>
 
+#### KubeVela Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubevela/horizontal/color/kubevela-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubevela/stacked/color/kubevela-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubevela/icon/color/kubevela-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubevela/horizontal/color/kubevela-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubevela/stacked/color/kubevela-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubevela/icon/color/kubevela-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubevela/horizontal/black/kubevela-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubevela/stacked/black/kubevela-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubevela/icon/black/kubevela-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubevela/horizontal/black/kubevela-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubevela/stacked/black/kubevela-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubevela/icon/black/kubevela-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubevela/horizontal/white/kubevela-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubevela/stacked/white/kubevela-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubevela/icon/white/kubevela-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubevela/horizontal/white/kubevela-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubevela/stacked/white/kubevela-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubevela/icon/white/kubevela-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
 #### Longhorn Logos
 
 <table>
