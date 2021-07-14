@@ -26,10 +26,10 @@
         <th>color</th>
         <td><img src="/projects/wasmcloud/horizontal/color/wasmcloud.logo-hrztl_color.png" width="200"></td>
         <td><img src="/projects/wasmcloud/stacked/color/wasmcloud.logo_color.png" width="95"></td>
-        <td><img src="/projects/wasmcloud/icon/color/wasmcloud.icon_Green.png" width="75"></td>
+        <td><img src="/projects/wasmcloud/icon/color/wasmcloud.icon_green.png" width="75"></td>
         <td><img src="/projects/wasmcloud/horizontal/color/wasmcloud.logo-hrztl_color.svg" width="200"></td>
         <td><img src="/projects/wasmcloud/stacked/color/wasmcloud.logo_color.svg" width="95"></td>
-        <td><img src="/projects/wasmcloud/icon/color/wasmcloud.icon_Green.svg" width="75"></td>
+        <td><img src="/projects/wasmcloud/icon/color/wasmcloud.icon_green.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
