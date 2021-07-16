@@ -2,6 +2,55 @@
 
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 
+#### wasmCloud Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/wasmcloud/horizontal/color/wasmcloud.logo-hrztl_color.png" width="200"></td>
+        <td><img src="/projects/wasmcloud/stacked/color/wasmcloud.logo_color.png" width="95"></td>
+        <td><img src="/projects/wasmcloud/icon/color/wasmcloud.icon_green.png" width="75"></td>
+        <td><img src="/projects/wasmcloud/horizontal/color/wasmcloud.logo-hrztl_color.svg" width="200"></td>
+        <td><img src="/projects/wasmcloud/stacked/color/wasmcloud.logo_color.svg" width="95"></td>
+        <td><img src="/projects/wasmcloud/icon/color/wasmcloud.icon_green.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/wasmcloud/horizontal/black/wasmcloud.logo-hrztl_black.png" width="200"></td>
+        <td><img src="/projects/wasmcloud/stacked/black/wasmcloud.logo_black.png" width="95"></td>
+        <td><img src="/projects/wasmcloud/icon/black/wasmcloud.icon_black.png" width="75"></td>
+        <td><img src="/projects/wasmcloud/horizontal/black/wasmcloud.logo-hrztl_black.svg" width="200"></td>
+        <td><img src="/projects/wasmcloud/stacked/black/wasmcloud.logo_black.svg" width="95"></td>
+        <td><img src="/projects/wasmcloud/icon/black/wasmcloud.icon_black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/wasmcloud/horizontal/white/wasmcloud.logo-hrztl_white.inversed.png" width="200"></td>
+        <td><img src="/projects/wasmcloud/stacked/white/wasmcloud.logo_color.inversed.png" width="95"></td>
+        <td><img src="/projects/wasmcloud/icon/white/wasmcloud.icon_inversed.png" width="75"></td>
+        <td><img src="/projects/wasmcloud/horizontal/white/wasmcloud.logo-hrztl_white.inversed.svg" width="200"></td>
+        <td><img src="/projects/wasmcloud/stacked/white/wasmcloud.logo_white.inversed.svg" width="95"></td>
+        <td><img src="/projects/wasmcloud/icon/white/wasmcloud.icon_inversed.svg" width="75"></td>
+    </tr>
+</table>
+
 #### K8gb Logos
 
 <table>
