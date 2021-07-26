@@ -3023,30 +3023,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/krustlet/horizontal/color/krustlet-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/krustlet/stacked/color/krustlet-stacked-color.png" width="95"></td>
-        <td><img src="/projects/krustlet/icon/color/krustlet-icon-color.png" width="75"></td>
-        <td><img src="/projects/krustlet/horizontal/color/krustlet-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/krustlet/stacked/color/krustlet-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/krustlet/icon/color/krustlet-icon-color.svg" width="75"></td>
+        <td><img src="/projects/krustlet/horizontal/krustlet-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/krustlet/stacked/krustlet-stacked-color.png" width="95"></td>
+        <td><img src="/projects/krustlet/icon/krustlet-icon-color.png" width="75"></td>
+        <td><img src="/projects/krustlet/horizontal/krustlet-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/krustlet/stacked/krustlet-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/krustlet/icon/krustlet-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/krustlet/horizontal/black/krustlet-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/krustlet/stacked/black/krustlet-stacked-black.png" width="95"></td>
-        <td><img src="/projects/krustlet/icon/black/krustlet-icon-black.png" width="75"></td>
-        <td><img src="/projects/krustlet/horizontal/black/krustlet-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/krustlet/stacked/black/krustlet-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/krustlet/icon/black/krustlet-icon-black.svg" width="75"></td>
+        <td><img src="/projects/krustlet/horizontal/krustlet-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/krustlet/stacked/krustlet-stacked-black.png" width="95"></td>
+        <td><img src="/projects/krustlet/icon/krustlet-icon-black.png" width="75"></td>
+        <td><img src="/projects/krustlet/horizontal/krustlet-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/krustlet/stacked/krustlet-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/krustlet/icon/krustlet-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/krustlet/horizontal/white/krustlet-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/krustlet/stacked/white/krustlet-stacked-white.png" width="95"></td>
-        <td><img src="/projects/krustlet/icon/white/krustlet-icon-white.png" width="75"></td>
-        <td><img src="/projects/krustlet/horizontal/white/krustlet-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/krustlet/stacked/white/krustlet-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/krustlet/icon/white/krustlet-icon-white.svg" width="75"></td>
+        <td><img src="/projects/krustlet/horizontal/krustlet-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/krustlet/stacked/krustlet-stacked-white.png" width="95"></td>
+        <td><img src="/projects/krustlet/icon/krustlet-icon-white.png" width="75"></td>
+        <td><img src="/projects/krustlet/horizontal/krustlet-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/krustlet/stacked/krustlet-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/krustlet/icon/krustlet-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
