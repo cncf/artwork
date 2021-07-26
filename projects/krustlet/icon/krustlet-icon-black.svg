@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="390px" height="390px" viewBox="0 0 390 390" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon (black)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="183.731653" cy="183.534154" r="183.421645"></circle>
+        <path d="M37.6394659,0.609798396 L65.5688645,126.114227 L184.112282,184.671541 L302.662591,126.114227 L330.412301,1.38790021 C353.481056,32.0595094 367.153298,70.2001701 367.153298,111.534154 C367.153298,212.835131 285.032631,294.955799 183.731653,294.955799 C82.430676,294.955799 0.310008348,212.835131 0.310008348,111.534154 C0.310008348,69.8499151 14.2149431,31.4133476 37.6394659,0.609798396 Z" id="path-3"></path>
+    </defs>
+    <g id="Icon-(black)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="globe-eats-the-k8s" transform="translate(11.000000, 22.000000)">
+            <g id="Group-8" transform="translate(0.000000, 0.181222)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Oval-12" fill-rule="nonzero"></g>
+                <path d="M184.003808,36.7841148 L71.9605052,92.1953289 L49.1331583,152.169994 L61.4725384,206.200377 L184.003379,264.08786 L306.87977,206.151917 L320.186588,153.123515 L296.335239,92.2185346 L184.003808,36.7841148 Z" id="Path-2" stroke="#000000" stroke-width="16" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                <g id="Group-2" mask="url(#mask-2)">
+                    <g transform="translate(0.000000, 72.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <path stroke="#000000" stroke-width="14" d="M34.2797042,17.7371571 C16.7961141,45.5239456 7.31000835,77.8022898 7.31000835,111.534154 C7.31000835,208.969138 86.2966693,287.955799 183.731653,287.955799 C281.166637,287.955799 360.153298,208.969138 360.153298,111.534154 C360.153298,78.1694351 350.873231,46.2245603 333.745794,18.6370036 L308.767641,130.906043 L184.112192,192.47896 L59.4639859,130.906041 L34.2797042,17.7371571 Z"></path>
+                        <path d="M34.2797042,17.7371571 C16.7961141,45.5239456 7.31000835,77.8022898 7.31000835,111.534154 C7.31000835,208.969138 86.2966693,287.955799 183.731653,287.955799 C281.166637,287.955799 360.153298,208.969138 360.153298,111.534154 C360.153298,78.1694351 350.873231,46.2245603 333.745794,18.6370036 L308.767641,130.906043 L184.112192,192.47896 L59.4639859,130.906041 L34.2797042,17.7371571 Z" id="Combined-Shape" stroke="#000000" stroke-width="14" fill="none" fill-rule="nonzero" mask="url(#mask-4)"></path>
+                        <g id="lines" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-4)">
+                            <g transform="translate(-107.381085, -68.136336)" fill-rule="nonzero" stroke="#393939" stroke-width="14">
+                                <path d="M127.853137,0.785711091 L256.781435,606.370819" id="Path-7"></path>
+                                <path d="M457.825934,3.50744191 L320.92269,606.370819" id="Path-8"></path>
+                                <path d="M571.462655,403.797545 L1.56551787,117.888228" id="Path-9"></path>
+                                <path d="M581.07828,408.549943 L0.662105984,117.888228" id="Path-9" transform="translate(290.870193, 263.219085) scale(-1, 1) translate(-290.870193, -263.219085) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(-108.000000, 3.000000)"></g>
+                </g>
+            </g>
+        </g>
+        <circle id="Oval" stroke="#000000" stroke-width="12" fill="#FFFFFF" fill-rule="nonzero" cx="161.377037" cy="22.272637" r="16.5"></circle>
+        <circle id="Oval" stroke="#000000" stroke-width="12" fill="#FFFFFF" fill-rule="nonzero" cx="132.93153" cy="98.2952852" r="26.6486095"></circle>
+        <circle id="Oval" stroke="#000000" stroke-width="12" fill="#FFFFFF" fill-rule="nonzero" cx="254.904426" cy="77.3398673" r="18"></circle>
+    </g>
+</svg>
