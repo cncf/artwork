@@ -942,7 +942,7 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
 </table>
 
 
-#### SIG Storage
+#### TAG Storage
 
 <table>
     <tr>
@@ -964,34 +964,34 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/sig-storage/horizontal/color/sig-storage-horizontal-color.png" width="200"></td>
-        <td><img src="/other/sig-storage/stacked/color/sig-storage-stacked-color.png" width="95"></td>
-        <td><img src="/other/sig-storage/icon/color/sig-storage-icon-color.png" width="95"></td>
-        <td><img src="/other/sig-storage/horizontal/color/sig-storage-horizontal-color.svg" width="200"></td>
-        <td><img src="/other/sig-storage/stacked/color/sig-storage-stacked-color.svg" width="95"></td>
-        <td><img src="/other/sig-storage/icon/color/sig-storage-icon-color.svg" width="95"></td>
+        <td><img src="/other/tag-storage/horizontal/color/tag-storage-horizontal-color.png" width="200"></td>
+        <td><img src="/other/tag-storage/stacked/color/tag-storage-stacked-color.png" width="95"></td>
+        <td><img src="/other/tag-storage/icon/color/tag-storage-icon-color.png" width="95"></td>
+        <td><img src="/other/tag-storage/horizontal/color/tag-storage-horizontal-color.svg" width="200"></td>
+        <td><img src="/other/tag-storage/stacked/color/tag-storage-stacked-color.svg" width="95"></td>
+        <td><img src="/other/tag-storage/icon/color/tag-storage-icon-color.svg" width="95"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/sig-storage/horizontal/black/sig-storage-horizontal-black.png" width="200"></td>
-        <td><img src="/other/sig-storage/stacked/black/sig-storage-stacked-black.png" width="95"></td>
-        <td><img src="/other/sig-storage/icon/black/sig-storage-icon-black.png" width="95"></td>
-        <td><img src="/other/sig-storage/horizontal/black/sig-storage-horizontal-black.svg" width="200"></td>
-        <td><img src="/other/sig-storage/stacked/black/sig-storage-stacked-black.svg" width="95"></td>
-        <td><img src="/other/sig-storage/icon/black/sig-storage-icon-black.svg" width="95"></td>
+        <td><img src="/other/tag-storage/horizontal/black/tag-storage-horizontal-black.png" width="200"></td>
+        <td><img src="/other/tag-storage/stacked/black/tag-storage-stacked-black.png" width="95"></td>
+        <td><img src="/other/tag-storage/icon/black/tag-storage-icon-black.png" width="95"></td>
+        <td><img src="/other/tag-storage/horizontal/black/tag-storage-horizontal-black.svg" width="200"></td>
+        <td><img src="/other/tag-storage/stacked/black/tag-storage-stacked-black.svg" width="95"></td>
+        <td><img src="/other/tag-storage/icon/black/tag-storage-icon-black.svg" width="95"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/sig-storage/horizontal/white/sig-storage-horizontal-white.png" width="200"></td>
-        <td><img src="/other/sig-storage/stacked/white/sig-storage-stacked-white.png" width="95"></td>
-        <td><img src="/other/sig-storage/icon/white/sig-storage-icon-white.png" width="95"></td>
-        <td><img src="/other/sig-storage/horizontal/white/sig-storage-horizontal-white.svg" width="200"></td>
-        <td><img src="/other/sig-storage/stacked/white/sig-storage-stacked-white.svg" width="95"></td>
-        <td><img src="/other/sig-storage/icon/white/sig-storage-icon-white.svg" width="95"></td>
+        <td><img src="/other/tag-storage/horizontal/white/tag-storage-horizontal-white.png" width="200"></td>
+        <td><img src="/other/tag-storage/stacked/white/tag-storage-stacked-white.png" width="95"></td>
+        <td><img src="/other/tag-storage/icon/white/tag-storage-icon-white.png" width="95"></td>
+        <td><img src="/other/tag-storage/horizontal/white/tag-storage-horizontal-white.svg" width="200"></td>
+        <td><img src="/other/tag-storage/stacked/white/tag-storage-stacked-white.svg" width="95"></td>
+        <td><img src="/other/tag-storage/icon/white/tag-storage-icon-white.svg" width="95"></td>
     </tr>
 </table>
 
-#### SIG App Delivery
+#### TAG App Delivery
 
 <table>
     <tr>
@@ -1013,30 +1013,30 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/sig-app-delivery/horizontal/color/sig-app-delivery-horizontal-color.png" width="200"></td>
-        <td><img src="/other/sig-app-delivery/stacked/color/sig-app-delivery-stacked-color.png" width="95"></td>
-        <td><img src="/other/sig-app-delivery/icon/color/sig-app-delivery-icon-color.png" width="95"></td>
-        <td><img src="/other/sig-app-delivery/horizontal/color/sig-app-delivery-horizontal-color.svg" width="200"></td>
-        <td><img src="/other/sig-app-delivery/stacked/color/sig-app-delivery-stacked-color.svg" width="95"></td>
-        <td><img src="/other/sig-app-delivery/icon/color/sig-app-delivery-icon-color.svg" width="95"></td>
+        <td><img src="/other/tag-app-delivery/horizontal/color/tag-app-delivery-horizontal-color.png" width="200"></td>
+        <td><img src="/other/tag-app-delivery/stacked/color/tag-app-delivery-stacked-color.png" width="95"></td>
+        <td><img src="/other/tag-app-delivery/icon/color/tag-app-delivery-icon-color.png" width="95"></td>
+        <td><img src="/other/tag-app-delivery/horizontal/color/tag-app-delivery-horizontal-color.svg" width="200"></td>
+        <td><img src="/other/tag-app-delivery/stacked/color/tag-app-delivery-stacked-color.svg" width="95"></td>
+        <td><img src="/other/tag-app-delivery/icon/color/tag-app-delivery-icon-color.svg" width="95"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/sig-app-delivery/horizontal/black/sig-app-delivery-horizontal-black.png" width="200"></td>
-        <td><img src="/other/sig-app-delivery/stacked/black/sig-app-delivery-stacked-black.png" width="95"></td>
-        <td><img src="/other/sig-app-delivery/icon/black/sig-app-delivery-icon-black.png" width="95"></td>
-        <td><img src="/other/sig-app-delivery/horizontal/black/sig-app-delivery-horizontal-black.svg" width="200"></td>
-        <td><img src="/other/sig-app-delivery/stacked/black/sig-app-delivery-stacked-black.svg" width="95"></td>
-        <td><img src="/other/sig-app-delivery/icon/black/sig-app-delivery-icon-black.svg" width="95"></td>
+        <td><img src="/other/tag-app-delivery/horizontal/black/tag-app-delivery-horizontal-black.png" width="200"></td>
+        <td><img src="/other/tag-app-delivery/stacked/black/tag-app-delivery-stacked-black.png" width="95"></td>
+        <td><img src="/other/tag-app-delivery/icon/black/tag-app-delivery-icon-black.png" width="95"></td>
+        <td><img src="/other/tag-app-delivery/horizontal/black/tag-app-delivery-horizontal-black.svg" width="200"></td>
+        <td><img src="/other/tag-app-delivery/stacked/black/tag-app-delivery-stacked-black.svg" width="95"></td>
+        <td><img src="/other/tag-app-delivery/icon/black/tag-app-delivery-icon-black.svg" width="95"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/sig-app-delivery/horizontal/white/sig-app-delivery-horizontal-white.png" width="200"></td>
-        <td><img src="/other/sig-app-delivery/stacked/white/sig-app-delivery-stacked-white.png" width="95"></td>
-        <td><img src="/other/sig-app-delivery/icon/white/sig-app-delivery-icon-white.png" width="95"></td>
-        <td><img src="/other/sig-app-delivery/horizontal/white/sig-app-delivery-horizontal-white.svg" width="200"></td>
-        <td><img src="/other/sig-app-delivery/stacked/white/sig-app-delivery-stacked-white.svg" width="95"></td>
-        <td><img src="/other/sig-app-delivery/icon/white/sig-app-delivery-icon-white.svg" width="95"></td>
+        <td><img src="/other/tag-app-delivery/horizontal/white/tag-app-delivery-horizontal-white.png" width="200"></td>
+        <td><img src="/other/tag-app-delivery/stacked/white/tag-app-delivery-stacked-white.png" width="95"></td>
+        <td><img src="/other/tag-app-delivery/icon/white/tag-app-delivery-icon-white.png" width="95"></td>
+        <td><img src="/other/tag-app-delivery/horizontal/white/tag-app-delivery-horizontal-white.svg" width="200"></td>
+        <td><img src="/other/tag-app-delivery/stacked/white/tag-app-delivery-stacked-white.svg" width="95"></td>
+        <td><img src="/other/tag-app-delivery/icon/white/tag-app-delivery-icon-white.svg" width="95"></td>
     </tr>
 </table>
 
