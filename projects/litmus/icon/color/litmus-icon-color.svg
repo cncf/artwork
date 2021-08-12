@@ -1,47 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 1520 2000"
-   height="2000"
-   width="1520"
-   xml:space="preserve"
-   id="svg2"
-   version="1.1"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath20"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path18"
-         d="M 0,27.553 H 27.55 V 0 H 0 Z" /></clipPath><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath887"><path
-         d="M 0,27.553 H 27.55 V 0 H 0 Z"
-         id="path885" /></clipPath></defs><g
-     id="layer2"><rect
-       ry="16.6675"
-       rx="16.6675"
-       y="766.11249"
-       x="199.37079"
-       height="1007.3914"
-       width="1120.1066"
-       id="rect836"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.71905518;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><g
-       id="g877"
-       transform="matrix(64.879155,0,0,-64.879155,98.784092,1893.8077)"><path
-         d="M 5.86,16.142 H 2.847 v 8.394 H 5.86 Z"
-         style="fill:#1be0e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path879" /><g
-         id="g881"><g
-           id="g883"
-           clip-path="url(#clipPath887)"><path
-             d="M 17.536,3.005 H 8.583 v 3.013 h 8.953 z m -11.676,0 H 2.847 v 21.53 H 5.86 Z M 0.038,27.553 V 2.338 C 0.038,1.047 1.085,0 2.376,0 h 15.658 c 1.276,0 2.311,1.034 2.311,2.311 v 25.242 z"
-             style="fill:#001959;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path889" /></g></g></g></g><g
-     transform="matrix(1.3333333,0,0,-1.3333333,0,2000)"
-     id="g10" /></svg>
+<svg width="116" height="146" viewBox="0 0 116 146" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M115.657 0H0V135.05C0 141.098 4.85452 146 10.8429 146H104.814C110.803 146 115.657 141.098 115.657 135.05V0Z" fill="#878EDE"/>
+<path d="M17.7935 17.8037H35.5869V58.7549H17.7935V17.8037Z" fill="#4028A0"/>
+<path d="M17.7935 55.1943H35.5869V128.194H17.7935V55.1943Z" fill="white"/>
+<path d="M44.4836 110.391H97.8639V128.196H44.4836V110.391Z" fill="white"/>
+</svg>
