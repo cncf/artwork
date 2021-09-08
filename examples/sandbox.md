@@ -2746,7 +2746,7 @@
     <tr>
         <th></th>
         <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th
+        <th colspan="2">SVG</th>
     </tr>
     <tr>
         <th></th>
@@ -2787,7 +2787,7 @@
     <tr>
         <th></th>
         <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th
+        <th colspan="3">SVG</th>
     </tr>
     <tr>
         <th></th>
@@ -3098,6 +3098,56 @@
         <td><img src="/projects/krustlet/icon/white/krustlet-icon-white.svg" width="75"></td>
     </tr>
 </table>
+
+#### Schemahero Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/schemahero/horizontal/color/schemahero-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/schemahero/stacked/color/schemahero-stacked-color.png" width="95"></td>
+        <td><img src="/projects/schemahero/icon/color/schemahero-icon-color.png" width="75"></td>
+        <td><img src="/projects/schemahero/horizontal/color/schemahero-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/schemahero/stacked/color/schemahero-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/schemahero/icon/color/schemahero-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/schemahero/horizontal/black/schemahero-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/schemahero/stacked/black/schemahero-stacked-black.png" width="95"></td>
+        <td><img src="/projects/schemahero/icon/black/schemahero-icon-black.png" width="75"></td>
+        <td><img src="/projects/schemahero/horizontal/black/schemahero-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/schemahero/stacked/black/schemahero-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/schemahero/icon/black/schemahero-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/schemahero/horizontal/white/schemahero-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/schemahero/stacked/white/schemahero-stacked-white.png" width="95"></td>
+        <td><img src="/projects/schemahero/icon/white/schemahero-icon-white.png" width="75"></td>
+        <td><img src="/projects/schemahero/horizontal/white/schemahero-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/schemahero/stacked/white/schemahero-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/schemahero/icon/white/schemahero-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
