@@ -1730,7 +1730,7 @@
         <th>stacked</th>
     </tr>
     <tr>
-        <th>color</th>      
+        <th>color</th>
         <td><img src="/projects/openservicemesh/horizontal/color/openservicemesh-horizontal-color.png" width="200"></td>
         <td><img src="/projects/openservicemesh/stacked/color/openservicemesh-stacked-color.png" width="95"></td>
         <td><img src="/projects/openservicemesh/icon/color/openservicemesh-icon-color.png" width="75"></td>
@@ -3145,6 +3145,56 @@
         <td><img src="/projects/schemahero/horizontal/white/schemahero-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/schemahero/stacked/white/schemahero-stacked-white.svg" width="95"></td>
         <td><img src="/projects/schemahero/icon/white/schemahero-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+
+#### Pixie Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/pixie/horizontal/color/pixie-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/pixie/stacked/color/pixie-stacked-color.png" width="95"></td>
+        <td><img src="/projects/pixie/icon/color/pixie-icon-color.png" width="75"></td>
+        <td><img src="/projects/pixie/horizontal/color/pixie-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/pixie/stacked/color/pixie-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/pixie/icon/color/pixie-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/pixie/horizontal/black/pixie-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/pixie/stacked/black/pixie-stacked-black.png" width="95"></td>
+        <td><img src="/projects/pixie/icon/black/pixie-icon-black.png" width="75"></td>
+        <td><img src="/projects/pixie/horizontal/black/pixie-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/pixie/stacked/black/pixie-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/pixie/icon/black/pixie-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/pixie/horizontal/white/pixie-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/pixie/stacked/white/pixie-stacked-white.png" width="95"></td>
+        <td><img src="/projects/pixie/icon/white/pixie-icon-white.png" width="75"></td>
+        <td><img src="/projects/pixie/horizontal/white/pixie-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/pixie/stacked/white/pixie-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/pixie/icon/white/pixie-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
