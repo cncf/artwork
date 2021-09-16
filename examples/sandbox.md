@@ -3148,6 +3148,38 @@
     </tr>
 </table>
 
+#### ORAS Logos
+
+<table>
+    <tr>
+        <th colspan="3"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>horizontal</th>
+    </tr>
+        <th>color</th>
+        <td><img src="/projects/oras/horizontal/color/oras-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/oras/horizontal/color/oras-horizontal-color.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/oras/horizontal/black/oras-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/oras/horizontal/black/oras-horizontal-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/oras/horizontal/white/oras-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/oras/horizontal/white/oras-horizontal-white.svg" width="200"></td>
+    </tr>
+</table>
+
 
 #### Pixie Logos
 
