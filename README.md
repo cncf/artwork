@@ -136,6 +136,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [SIG Security](examples/other.md#sig-security)
   * [TAG Storage](examples/other.md#tag-storage-logos)
   * [TAG App Delivery](examples/other.md#tag-app-delivery-logos)
+  * [TAG Contributor Strategy](examples/other.md#tag-contributor-strategy-logos)
   * [CNF Testbed](examples/other.md#cnf-testbed-logos)
   * [GitOps Working Group](examples/other.md#gitops-working-group-logos)
 * [Archived Projects](examples/archived.md)
