@@ -3230,6 +3230,55 @@
     </tr>
 </table>
 
+#### Inclavare Containers Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/inclavare/horizontal/color/inclavare-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/inclavare/stacked/color/inclavare-stacked-color.png" width="95"></td>
+        <td><img src="/projects/inclavare/icon/color/inclavare-icon-color.png" width="75"></td>
+        <td><img src="/projects/inclavare/horizontal/color/inclavare-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/inclavare/stacked/color/inclavare-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/inclavare/icon/color/inclavare-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/inclavare/horizontal/black/inclavare-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/inclavare/stacked/black/inclavare-stacked-black.png" width="95"></td>
+        <td><img src="/projects/inclavare/icon/black/inclavare-icon-black.png" width="75"></td>
+        <td><img src="/projects/inclavare/horizontal/black/inclavare-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/inclavare/stacked/black/inclavare-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/inclavare/icon/black/inclavare-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/inclavare/horizontal/white/inclavare-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/inclavare/stacked/white/inclavare-stacked-white.png" width="95"></td>
+        <td><img src="/projects/inclavare/icon/white/inclavare-icon-white.png" width="75"></td>
+        <td><img src="/projects/inclavare/horizontal/white/inclavare-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/inclavare/stacked/white/inclavare-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/inclavare/icon/white/inclavare-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
