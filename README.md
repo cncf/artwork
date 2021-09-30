@@ -46,6 +46,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [KEDA](examples/sandbox.md#keda-logos)
   * [OpenTelemetry](examples/sandbox.md#opentelemetry-logos)
 * [Sandbox Projects](examples/sandbox.md)
+  * [KubeDL](examples/sandbox.md#KubeDL-logos)
    * [wasmCloud](examples/sandbox.md#wasmcloud-logos)
   * [K8gb](examples/sandbox.md#k8gb-logos)
   * [Telepresence](examples/sandbox.md#telepresence-logos)
