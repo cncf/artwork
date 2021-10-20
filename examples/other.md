@@ -810,12 +810,12 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
 
 <table>
     <tr>
-    	<th colspan="9"></th>
+    	<th colspan="13"></th>
     </tr>
     <tr>
         <th></th>
-        <th colspan="4">PNG</th>
-        <th colspan="4">SVG</th>
+        <th colspan="6">PNG</th>
+        <th colspan="6">SVG</th>
     </tr>
     <tr>
         <th></th>
@@ -834,18 +834,18 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/phippy-and-friends/phippy/color/phippy-color.png"></td>
-        <td><img src="/other/phippy-and-friends/zee/color/zee-color.png"></td>
-        <td><img src="/other/phippy-and-friends/goldie/color/goldie-color.png"></td>
-        <td><img src="/other/phippy-and-friends/captainkube/color/captainkube-color.png"></td>
-        <td><img src="/other/phippy-and-friends/hazel/color/hazel-color.png"></td>
-        <td><img src="/other/phippy-and-friends/linky/color/linky-color.png"></td>
-        <td><img src="/other/phippy-and-friends/phippy/color/phippy-color.svg"></td>
-        <td><img src="/other/phippy-and-friends/zee/color/zee-color.svg"></td>
-        <td><img src="/other/phippy-and-friends/goldie/color/goldie-color.svg"></td>
-        <td><img src="/other/phippy-and-friends/captainkube/color/captainkube-color.svg"></td>
-        <td><img src="/other/phippy-and-friends/hazel/color/hazel-color.svg"></td>
-        <td><img src="/other/phippy-and-friends/linky/color/linky-color.svg"></td>
+        <td><img src="/other/phippy-and-friends/phippy/color/phippy-color.png" width="75"></td>
+        <td><img src="/other/phippy-and-friends/zee/color/zee-color.png" width="75"></td>
+        <td><img src="/other/phippy-and-friends/goldie/color/goldie-color.png" width="75"></td>
+        <td><img src="/other/phippy-and-friends/captainkube/color/captainkube-color.png" width="75"></td>
+        <td><img src="/other/phippy-and-friends/hazel/color/hazel-color.png" width="75"></td>
+        <td><img src="/other/phippy-and-friends/linky/color/linky-color.png" width="75"></td>
+        <td><img src="/other/phippy-and-friends/phippy/color/phippy-color.svg" width="75"></td>
+        <td><img src="/other/phippy-and-friends/zee/color/zee-color.svg" width="75"></td>
+        <td><img src="/other/phippy-and-friends/goldie/color/goldie-color.svg" width="75"></td>
+        <td><img src="/other/phippy-and-friends/captainkube/color/captainkube-color.svg" width="75"></td>
+        <td><img src="/other/phippy-and-friends/hazel/color/hazel-color.svg" width="75"></td>
+        <td><img src="/other/phippy-and-friends/linky/color/linky-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
