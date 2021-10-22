@@ -791,8 +791,8 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/phippy-and-friends/group/color/group-color.png" width="420"></td>
-        <td><img src="/other/phippy-and-friends/group/color/group-color.svg" width="420"></td>
+        <td><img src="/other/phippy-and-friends/group/color/group-color.png" width="120"></td>
+        <td><img src="/other/phippy-and-friends/group/color/group-color.svg" width="120"></td>
     </tr>
     <tr>
         <th>black</th>
