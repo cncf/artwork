@@ -791,18 +791,18 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/phippy-and-friends/group/color/group-color.png" width="120"></td>
-        <td><img src="/other/phippy-and-friends/group/color/group-color.svg" width="120"></td>
+        <td><img src="/other/phippy-and-friends/group/color/group-color.png" width="420"></td>
+        <td><img src="/other/phippy-and-friends/group/color/group-color.svg" width="420"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/phippy-and-friends/group/black/group-black.png"></td>
-        <td><img src="/other/phippy-and-friends/group/black/group-black.svg"></td>
+        <td><img src="/other/phippy-and-friends/group/black/group-black.png" width="420"></td>
+        <td><img src="/other/phippy-and-friends/group/black/group-black.svg" width="420"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/phippy-and-friends/group/white/group-white.png"></td>
-        <td><img src="/other/phippy-and-friends/group/white/group-white.svg"></td>
+        <td><img src="/other/phippy-and-friends/group/white/group-white.png" width="420"></td>
+        <td><img src="/other/phippy-and-friends/group/white/group-white.svg" width="420"></td>
     </tr>
 </table>
 
