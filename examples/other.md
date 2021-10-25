@@ -791,18 +791,18 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/phippy-and-friends/group/color/group-color.png" width="320"></td>
-        <td><img src="/other/phippy-and-friends/group/color/group-color.svg" width="320"></td>
+        <td><img src="/other/phippy-and-friends/group/color/group-color.png" width="420"></td>
+        <td><img src="/other/phippy-and-friends/group/color/group-color.svg" width="420"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/phippy-and-friends/group/black/group-black.png" width="320"></td>
-        <td><img src="/other/phippy-and-friends/group/black/group-black.svg" width="320"></td>
+        <td><img src="/other/phippy-and-friends/group/black/group-black.png" width="420"></td>
+        <td><img src="/other/phippy-and-friends/group/black/group-black.svg" width="420"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/phippy-and-friends/group/white/group-white.png" width="320"></td>
-        <td><img src="/other/phippy-and-friends/group/white/group-white.svg" width="320"></td>
+        <td><img src="/other/phippy-and-friends/group/white/group-white.png" width="420"></td>
+        <td><img src="/other/phippy-and-friends/group/white/group-white.svg" width="420"></td>
     </tr>
 </table>
 
@@ -810,12 +810,12 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
 
 <table>
     <tr>
-    	<th colspan="9"></th>
+    	<th colspan="13"></th>
     </tr>
     <tr>
         <th></th>
-        <th colspan="4">PNG</th>
-        <th colspan="4">SVG</th>
+        <th colspan="6">PNG</th>
+        <th colspan="6">SVG</th>
     </tr>
     <tr>
         <th></th>
@@ -823,43 +823,59 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
         <th>Zee</th>
         <th>Goldie</th>
         <th>Captain Kube</th>
+        <th>Hazel</th>
+        <th>Linky</th>
         <th>Phippy</th>
         <th>Zee</th>
         <th>Goldie</th>
         <th>Captain Kube</th>
+        <th>Hazel</th>
+        <th>Linky</th>
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/phippy-and-friends/phippy/color/phippy-color.png" width="95"></td>
-        <td><img src="/other/phippy-and-friends/zee/color/zee-color.png" width="95"></td>
-        <td><img src="/other/phippy-and-friends/goldie/color/goldie-color.png" width="95"></td>
-        <td><img src="/other/phippy-and-friends/captainkube/color/captainkube-color.png" width="95"></td>
-        <td><img src="/other/phippy-and-friends/phippy/color/phippy-color.svg" width="95"></td>
-        <td><img src="/other/phippy-and-friends/zee/color/zee-color.svg" width="95"></td>
-        <td><img src="/other/phippy-and-friends/goldie/color/goldie-color.svg" width="95"></td>
-        <td><img src="/other/phippy-and-friends/captainkube/color/captainkube-color.svg" width="95"></td>
+        <td><img src="/other/phippy-and-friends/phippy/color/phippy-color.png" width="75"></td>
+        <td><img src="/other/phippy-and-friends/zee/color/zee-color.png" width="75"></td>
+        <td><img src="/other/phippy-and-friends/goldie/color/goldie-color.png" width="75"></td>
+        <td><img src="/other/phippy-and-friends/captainkube/color/captainkube-color.png" width="75"></td>
+        <td><img src="/other/phippy-and-friends/hazel/color/hazel-color.png" width="75"></td>
+        <td><img src="/other/phippy-and-friends/linky/color/linky-color.png" width="75"></td>
+        <td><img src="/other/phippy-and-friends/phippy/color/phippy-color.svg" width="75"></td>
+        <td><img src="/other/phippy-and-friends/zee/color/zee-color.svg" width="75"></td>
+        <td><img src="/other/phippy-and-friends/goldie/color/goldie-color.svg" width="75"></td>
+        <td><img src="/other/phippy-and-friends/captainkube/color/captainkube-color.svg" width="75"></td>
+        <td><img src="/other/phippy-and-friends/hazel/color/hazel-color.svg" width="75"></td>
+        <td><img src="/other/phippy-and-friends/linky/color/linky-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/phippy-and-friends/phippy/black/phippy-black.png" width="95"></td>
-        <td><img src="/other/phippy-and-friends/zee/black/zee-black.png" width="95"></td>
-        <td><img src="/other/phippy-and-friends/goldie/black/goldie-black.png" width="95"></td>
-        <td><img src="/other/phippy-and-friends/captainkube/black/captainkube-black.png" width="95"></td>
-        <td><img src="/other/phippy-and-friends/phippy/black/phippy-black.svg" width="95"></td>
-        <td><img src="/other/phippy-and-friends/zee/black/zee-black.svg" width="95"></td>
-        <td><img src="/other/phippy-and-friends/goldie/black/goldie-black.svg" width="95"></td>
-        <td><img src="/other/phippy-and-friends/captainkube/black/captainkube-black.svg" width="95"></td>
+        <td><img src="/other/phippy-and-friends/phippy/black/phippy-black.png"></td>
+        <td><img src="/other/phippy-and-friends/zee/black/zee-black.png"></td>
+        <td><img src="/other/phippy-and-friends/goldie/black/goldie-black.png"></td>
+        <td><img src="/other/phippy-and-friends/captainkube/black/captainkube-black.png"></td>
+        <td><img src="/other/phippy-and-friends/hazel/black/hazel-black.png"></td>
+        <td><img src="/other/phippy-and-friends/linky/black/linky-black.png"></td>
+        <td><img src="/other/phippy-and-friends/phippy/black/phippy-black.svg"></td>
+        <td><img src="/other/phippy-and-friends/zee/black/zee-black.svg"></td>
+        <td><img src="/other/phippy-and-friends/goldie/black/goldie-black.svg"></td>
+        <td><img src="/other/phippy-and-friends/captainkube/black/captainkube-black.svg"></td>
+        <td><img src="/other/phippy-and-friends/hazel/black/hazel-black.svg"></td>
+        <td><img src="/other/phippy-and-friends/linky/black/linky-black.svg"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/phippy-and-friends/phippy/white/phippy-white.png" width="95"></td>
-        <td><img src="/other/phippy-and-friends/zee/white/zee-white.png" width="95"></td>
-        <td><img src="/other/phippy-and-friends/goldie/white/goldie-white.png" width="95"></td>
-        <td><img src="/other/phippy-and-friends/captainkube/white/captainkube-white.png" width="95"></td>
-        <td><img src="/other/phippy-and-friends/phippy/white/phippy-white.svg" width="95"></td>
-        <td><img src="/other/phippy-and-friends/zee/white/zee-white.svg" width="95"></td>
-        <td><img src="/other/phippy-and-friends/goldie/white/goldie-white.svg" width="95"></td>
-        <td><img src="/other/phippy-and-friends/captainkube/white/captainkube-white.svg" width="95"></td>
+        <td><img src="/other/phippy-and-friends/phippy/white/phippy-white.png"></td>
+        <td><img src="/other/phippy-and-friends/zee/white/zee-white.png"></td>
+        <td><img src="/other/phippy-and-friends/goldie/white/goldie-white.png"></td>
+        <td><img src="/other/phippy-and-friends/captainkube/white/captainkube-white.png"></td>
+        <td><img src="/other/phippy-and-friends/hazel/white/hazel-white.png"></td>
+        <td><img src="/other/phippy-and-friends/linky/white/linky-white.png"></td>
+        <td><img src="/other/phippy-and-friends/phippy/white/phippy-white.svg"></td>
+        <td><img src="/other/phippy-and-friends/zee/white/zee-white.svg"></td>
+        <td><img src="/other/phippy-and-friends/goldie/white/goldie-white.svg"></td>
+        <td><img src="/other/phippy-and-friends/captainkube/white/captainkube-white.svg"></td>
+        <td><img src="/other/phippy-and-friends/hazel/white/hazel-white.svg"></td>
+        <td><img src="/other/phippy-and-friends/linky/white/linky-white.svg"></td>
     </tr>
 </table>
 
