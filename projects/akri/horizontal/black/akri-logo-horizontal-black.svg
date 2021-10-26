@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2509px"
+   height="1441px"
+   viewBox="0 0 2509 1441"
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="akri-logo-horizontal-black.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo strip</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     id="namedview32"
+     showgrid="false"
+     inkscape:zoom="0.58732983"
+     inkscape:cx="1143.226"
+     inkscape:cy="947.49057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg30" />
+  <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">logo strip</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs8">
+    <polygon
+       id="path-1"
+       points="372.056053 636.539198 0.109255203 421.64021 0.109255203 0.441802823 372.056053 217.973657" />
+    <polygon
+       id="path-3"
+       points="371.334837 0.0494938955 742.74905 217.647788 371.334837 435.246082 0.315596385 217.863525" />
+    <mask
+       id="mask-2"
+       fill="#ffffff">
+      <use
+         xlink:href="#path-1"
+         id="use11"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </mask>
+    <mask
+       id="mask-4"
+       fill="#ffffff">
+      <use
+         xlink:href="#path-3"
+         id="use17"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </mask>
+  </defs>
+  <path
+     d="m 1462.4266,802.00825 h -68.9568 l -18.4592,61.23764 h -47.3008 l 89.1114,-264.8 h 22.8057 l 89.1113,264.8 h -48.1454 z m -58.6451,-34.20861 h 48.4971 l -24.0546,-81.08708 z m 216.1797,6.33493 -15.6262,15.62615 v 73.48517 h -48.5677 V 579.86343 h 51.9464 v 3.80096 c -1.4078,1.68932 -2.3228,3.51939 -2.7452,5.49027 -0.4223,1.97088 -0.6335,5.34947 -0.6335,10.13588 v 138.52377 l 75.1745,-72.64051 c 2.2525,0.28155 4.6456,0.63349 7.1796,1.05582 2.534,0.42233 5.0679,0.77427 7.6019,1.05582 2.534,0.28156 5.068,0.49272 7.6019,0.6335 2.534,0.14077 4.6456,0.21116 6.335,0.21116 h 22.8057 l -78.1308,76.44147 88.689,118.252 -54.4804,2.11164 z m 207.3665,-75.65715 c 0.5396,-1.13131 1.1133,-2.23741 1.7213,-3.31829 3.801,-6.75729 8.5874,-12.66983 14.3592,-17.7378 5.7719,-5.06797 12.1067,-8.86889 19.0048,-11.40287 6.8981,-2.53399 14.0072,-3.80096 21.3276,-3.80096 10.9806,0 20.9052,1.75968 29.7741,5.27911 8.869,3.51942 17.1043,9.2208 24.7063,17.1043 l -20.2718,40.12122 -1.267,3.37863 -3.8009,-1.68932 c -0.8447,-2.25243 -1.6894,-4.57521 -2.534,-6.96842 -0.8447,-2.39321 -2.9563,-5.13832 -6.3349,-8.23541 -3.9418,-3.09709 -8.0947,-5.49026 -12.4587,-7.17958 -4.3641,-1.68933 -9.0801,-2.53397 -14.148,-2.53397 -6.7573,0 -13.233,1.12619 -19.4272,3.37862 -6.1941,2.25244 -11.614,5.7718 -16.2596,10.55822 -4.6456,4.78641 -8.3058,10.91011 -10.9806,18.37129 -2.6747,7.46118 -4.0121,16.2596 -4.0121,26.39554 v 103.04816 h -48.5678 V 666.86311 h 49.4125 z m 141.8464,164.76847 v -37.58724 h 48.1455 V 704.45036 h -45.6115 v -37.58725 h 93.7569 v 158.79554 h 43.9222 v 37.58724 z m 70.1066,-228.90208 c -8.1651,0 -15.2038,-2.81549 -21.1165,-8.44657 -5.9126,-5.63107 -8.8689,-12.38826 -8.8689,-20.27177 0,-8.44661 2.8155,-15.34458 8.4466,-20.6941 5.6311,-5.34952 12.8106,-8.02424 21.5388,-8.02424 7.8835,0 14.8518,2.8155 20.9052,8.44657 6.0534,5.63108 9.0801,12.38827 9.0801,20.27177 0,7.88351 -3.0267,14.6407 -9.0801,20.27177 -6.0534,5.63108 -13.0217,8.44657 -20.9052,8.44657 z"
+     id="Akri"
+     fill="#3e446f"
+     style="fill-rule:evenodd;stroke:none;stroke-width:1;fill:#000000;fill-opacity:1"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500" />
+  <polygon
+     id="Path-6"
+     fill="#3e446f"
+     fill-rule="nonzero"
+     mask="url(#mask-2)"
+     points="58.294747,452.86742 58.294747,474.01015 127.73159,505.50176 127.73159,356.05424 57.355958,312.12059 57.355958,245.4784 189.49336,323.76542 189.49336,539.04411 381.0971,649.71614 381.0971,210.32043 -2.2948866,-9.4292194 -2.2948866,66.604308 -0.20518062,70.491675 310.41708,253.51657 310.41708,525.42007 253.70298,493.04147 253.70298,283.90019 -5.9128997,129.43164 -5.9128997,356.05424 -0.20518062,358.50111 58.294747,394.5737 "
+     style="stroke:none;stroke-width:1;fill:#000000;fill-opacity:1"
+     transform="rotate(180,361.15278,584.20274)"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500" />
+  <polygon
+     id="Path-4"
+     fill="#3e446f"
+     fill-rule="nonzero"
+     mask="url(#mask-4)"
+     points="504.0244,71.380736 498.56235,74.481749 371.44449,144.81348 302.08559,102.49249 241.92021,137.57153 371.44449,211.96329 498.05719,140.5798 567.32039,181.57375 371.94965,292.05092 118.83476,146.57957 318.35037,30.33449 372.45481,63.932581 455.00412,19.409412 763.02658,192.03116 742.33869,217.52745 371.44449,435.20762 0.26996423,217.81888 66.601479,178.57486 371.31771,356.94873 683.61578,174.67565 "
+     style="stroke:none;stroke-width:1;fill:#000000;fill-opacity:1"
+     transform="rotate(180,546.30127,374.74775)"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500" />
+  <polygon
+     id="Path-2"
+     fill="#524886"
+     points="188.33387,526.41845 188.33387,453.14653 315.88486,379.24513 315.88486,161.50132 0.57098425,342.16086 0.36294006,636.40328 66.50539,597.62187 66.50539,376.01487 255.36429,269.0827 255.36429,339.16185 120.90681,414.88063 120.90681,565.85449 "
+     style="fill-rule:nonzero;stroke:none;stroke-width:1;fill:#000000;fill-opacity:1"
+     transform="rotate(180,546.34375,583.958)"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500" />
+  <polygon
+     id="Path-7"
+     fill="#524886"
+     points="0.31971285,285.80929 0.0028160383,218.93666 370.80822,0.031572517 370.80822,69.87294 "
+     style="fill-rule:nonzero;stroke:none;stroke-width:1;fill:#000000;fill-opacity:1"
+     transform="rotate(180,546.34375,583.958)"
+     inkscape:export-xdpi="500"
+     inkscape:export-ydpi="500" />
+</svg>
