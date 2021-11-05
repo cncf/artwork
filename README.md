@@ -26,7 +26,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [gRPC](examples/incubating.md#grpc-logos)
   * [CNI](examples/incubating.md#cni-logos)
   * [Notary](examples/incubating.md#notary-logos)
-  * [NATS](examples/incubating.md#opentracing-logos)
+  * [NATS](examples/incubating.md#nats-logos)
   * [Linkerd](examples/incubating.md#linkerd-logos)
   * [CRI-O](examples/incubating.md#cri-o-logos)
   * [CloudEvents](examples/incubating.md#cloudevents-logos)
