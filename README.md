@@ -23,7 +23,6 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [etcd](examples/graduated.md#etcd-logos)
   * [OPA](examples/graduated.md#opa-logos)
 * [Incubating Projects](examples/incubating.md)
-  * [OpenTracing](examples/incubating.md#opentracing-logos)
   * [gRPC](examples/incubating.md#grpc-logos)
   * [CNI](examples/incubating.md#cni-logos)
   * [Notary](examples/incubating.md#notary-logos)
@@ -146,6 +145,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [GitOps Working Group](examples/other.md#gitops-working-group-logos)
 * [Archived Projects](examples/archived.md)
   * [rkt](examples/archived.md#rkt-logos)
+  * [OpenTracing](examples/archived.md#opentracing-logos)
 
 ## CNCF Brand Guidelines
 
