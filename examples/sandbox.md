@@ -608,55 +608,6 @@
     </tr>
 </table>
 
-#### OpenTelemetry Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/opentelemetry/horizontal/color/opentelemetry-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/opentelemetry/stacked/color/opentelemetry-stacked-color.png" width="95"></td>
-        <td><img src="/projects/opentelemetry/icon/color/opentelemetry-icon-color.png" width="75"></td>
-        <td><img src="/projects/opentelemetry/horizontal/color/opentelemetry-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/opentelemetry/stacked/color/opentelemetry-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/opentelemetry/horizontal/black/opentelemetry-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/opentelemetry/stacked/black/opentelemetry-stacked-black.png" width="95"></td>
-        <td><img src="/projects/opentelemetry/icon/black/opentelemetry-icon-black.png" width="75"></td>
-        <td><img src="/projects/opentelemetry/horizontal/black/opentelemetry-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/opentelemetry/stacked/black/opentelemetry-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/opentelemetry/icon/black/opentelemetry-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/opentelemetry/horizontal/white/opentelemetry-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/opentelemetry/stacked/white/opentelemetry-stacked-white.png" width="95"></td>
-        <td><img src="/projects/opentelemetry/icon/white/opentelemetry-icon-white.png" width="75"></td>
-        <td><img src="/projects/opentelemetry/horizontal/white/opentelemetry-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/opentelemetry/stacked/white/opentelemetry-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/opentelemetry/icon/white/opentelemetry-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### Flux Logos
 
 <table>
