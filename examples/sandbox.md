@@ -2,6 +2,64 @@
 
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 
+#### Akri Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+        <tr>
+        <th>color-dark</th>
+        <td><img src="/projects/akri/horizontal/dark/akri-logo-horizontal-dark.png" width="200"></td>
+        <td><img src="/projects/akri/stacked/dark/akri-logo-stack-dark.png" width="95"></td>
+        <td><img src="/projects/akri/icon/dark/akri-icon-dark.png" width="75"></td>
+        <td><img src="/projects/akri/horizontal/dark/akri-logo-horizontal-dark.svg" width="200"></td>
+        <td><img src="/projects/akri/stacked/dark/akri-logo-stack-dark.svg" width="95"></td>
+        <td><img src="/projects/akri/icon/dark/akri-icon-dark.svg" width="75"></td>
+    </tr>
+        <tr>
+        <th>color-light</th>
+        <td><img src="/projects/akri/horizontal/light/akri-logo-horizontal-light.png" width="200"></td>
+        <td><img src="/projects/akri/stacked/light/akri-logo-stack-light.png" width="95"></td>
+        <td><img src="/projects/akri/icon/light/akri-icon-light.png" width="75"></td>
+        <td><img src="/projects/akri/horizontal/light/akri-logo-horizontal-light.svg" width="200"></td>
+        <td><img src="/projects/akri/stacked/light/akri-logo-stack-light.svg" width="95"></td>
+        <td><img src="/projects/akri/icon/light/akri-icon-light.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/akri/horizontal/white/akri-logo-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/akri/stacked/white/akri-logo-stack-white.png" width="95"></td>
+        <td><img src="/projects/akri/icon/white/akri-icon-white.png" width="75"></td>
+        <td><img src="/projects/akri/horizontal/white/akri-logo-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/akri/stacked/white/akri-logo-stack-white.svg" width="95"></td>
+        <td><img src="/projects/akri/icon/white/akri-icon-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/akri/horizontal/black/akri-logo-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/akri/stacked/black/akri-logo-stack-black.png" width="95"></td>
+        <td><img src="/projects/akri/icon/black/akri-icon-black.png" width="75"></td>
+        <td><img src="/projects/akri/horizontal/black/akri-logo-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/akri/stacked/black/akri-logo-stack-black.svg" width="95"></td>
+        <td><img src="/projects/akri/icon/black/akri-icon-black.svg" width="75"></td>
+    </tr>
+</table>
+
 #### wasmCloud Logos
 
 <table>
