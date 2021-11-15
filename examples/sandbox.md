@@ -3438,7 +3438,7 @@
 
 #### Dapr Logos
 
-    <table>
+<table>
         <tr>
             <th colspan="5"></th>
         </tr>
