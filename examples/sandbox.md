@@ -3435,12 +3435,11 @@
     </tr>
     </table>
 
-
 #### Dapr Logos
 
 <table>
-        <tr>
-            <th colspan="5"></th>
+    <tr>
+        <th colspan="5"></th>
         </tr>
         <tr>
             <th></th>
