@@ -3435,6 +3435,49 @@
     </tr>
     </table>
 
+
+#### Dapr Logos
+
+    <table>
+        <tr>
+            <th colspan="5"></th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="2">PNG</th>
+            <th colspan="2">SVG</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th>stacked</th>
+            <th>icon</th>
+            <th>stacked</th>
+            <th>icon</th>
+        </tr>
+        <tr>
+            <th>color</th>
+            <td><img src="/projects/dapr/stacked/color/dapr-stacked-color.png" width="150"></td>
+            <td><img src="/projects/dapr/icon/color/dapr-icon-color.png" width="150"></td>
+            <td><img src="/projects/dapr/stacked/color/dapr-stacked-color.svg" width="150"></td>
+            <td><img src="/projects/dapr/icon/color/dapr-icon-color.svg" width="150"></td>
+        </tr>
+        <tr>
+            <th>black</th>
+            <td><img src="/projects/dapr/stacked/black/dapr-stacked-black.png" width="150"></td>
+            <td><img src="/projects/dapr/icon/black/dapr-icon-black.png" width="150"></td>
+            <td><img src="/projects/dapr/stacked/black/dapr-stacked-black.svg" width="150"></td>
+            <td><img src="/projects/dapr/icon/black/dapr-icon-black.svg" width="150"></td>
+        </tr>
+        <tr>
+            <th>white</th>
+            <td><img src="/projects/dapr/stacked/white/dapr-stacked-white.png" width="150"></td>
+            <td><img src="/projects/dapr/icon/white/dapr-icon-white.png" width="150"></td>
+            <td><img src="/projects/dapr/stacked/white/dapr-stacked-white.svg" width="150"></td>
+            <td><img src="/projects/dapr/icon/white/dapr-icon-white.svg" width="150"></td>
+        </tr>
+    </table>
+
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
