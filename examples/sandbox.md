@@ -3435,6 +3435,178 @@
     </tr>
     </table>
 
-Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
+#### Dapr Logos
+
+<table>
+    <tr>
+        <th colspan="5"></th>
+        </tr>
+        <tr>
+            <th></th>
+            <th colspan="2">PNG</th>
+            <th colspan="2">SVG</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th>stacked</th>
+            <th>icon</th>
+            <th>stacked</th>
+            <th>icon</th>
+        </tr>
+        <tr>
+            <th>color</th>
+            <td><img src="/projects/dapr/stacked/color/dapr-stacked-color.png" width="150"></td>
+            <td><img src="/projects/dapr/icon/color/dapr-icon-color.png" width="150"></td>
+            <td><img src="/projects/dapr/stacked/color/dapr-stacked-color.svg" width="150"></td>
+            <td><img src="/projects/dapr/icon/color/dapr-icon-color.svg" width="150"></td>
+        </tr>
+        <tr>
+            <th>black</th>
+            <td><img src="/projects/dapr/stacked/black/dapr-stacked-black.png" width="150"></td>
+            <td><img src="/projects/dapr/icon/black/dapr-icon-black.png" width="150"></td>
+            <td><img src="/projects/dapr/stacked/black/dapr-stacked-black.svg" width="150"></td>
+            <td><img src="/projects/dapr/icon/black/dapr-icon-black.svg" width="150"></td>
+        </tr>
+        <tr>
+            <th>white</th>
+            <td><img src="/projects/dapr/stacked/white/dapr-stacked-white.png" width="150"></td>
+            <td><img src="/projects/dapr/icon/white/dapr-icon-white.png" width="150"></td>
+            <td><img src="/projects/dapr/stacked/white/dapr-stacked-white.svg" width="150"></td>
+            <td><img src="/projects/dapr/icon/white/dapr-icon-white.svg" width="150"></td>
+        </tr>
+    </table>
+    #### Dapr Logos
+
+    <table>
+        <tr>
+            <th colspan="5"></th>
+            </tr>
+            <tr>
+                <th></th>
+                <th colspan="2">PNG</th>
+                <th colspan="2">SVG</th>
+            </tr>
+            <tr>
+                <th></th>
+                <th>stacked</th>
+                <th>icon</th>
+                <th>stacked</th>
+                <th>icon</th>
+            </tr>
+            <tr>
+                <th>color</th>
+                <td><img src="/projects/dapr/stacked/color/dapr-stacked-color.png" width="150"></td>
+                <td><img src="/projects/dapr/icon/color/dapr-icon-color.png" width="150"></td>
+                <td><img src="/projects/dapr/stacked/color/dapr-stacked-color.svg" width="150"></td>
+                <td><img src="/projects/dapr/icon/color/dapr-icon-color.svg" width="150"></td>
+            </tr>
+            <tr>
+                <th>black</th>
+                <td><img src="/projects/dapr/stacked/black/dapr-stacked-black.png" width="150"></td>
+                <td><img src="/projects/dapr/icon/black/dapr-icon-black.png" width="150"></td>
+                <td><img src="/projects/dapr/stacked/black/dapr-stacked-black.svg" width="150"></td>
+                <td><img src="/projects/dapr/icon/black/dapr-icon-black.svg" width="150"></td>
+            </tr>
+            <tr>
+                <th>white</th>
+                <td><img src="/projects/dapr/stacked/white/dapr-stacked-white.png" width="150"></td>
+                <td><img src="/projects/dapr/icon/white/dapr-icon-white.png" width="150"></td>
+                <td><img src="/projects/dapr/stacked/white/dapr-stacked-white.svg" width="150"></td>
+                <td><img src="/projects/dapr/icon/white/dapr-icon-white.svg" width="150"></td>
+            </tr>
+        </table>
+
+#### Krator Logos
+
+<table>
+    <tr>
+      <th colspan="5"></th>
+                </tr>
+                <tr>
+                    <th></th>
+                    <th colspan="2">PNG</th>
+                    <th colspan="2">SVG</th>
+                </tr>
+                <tr>
+                    <th></th>
+                    <th>stacked</th>
+                    <th>icon</th>
+                    <th>stacked</th>
+                    <th>icon</th>
+                </tr>
+                <tr>
+                    <th>color</th>
+                    <td><img src="/projects/krator/stacked/color/krator-stacked-color.png" width="150"></td>
+                    <td><img src="/projects/krator/icon/color/krator-icon-color.png" width="150"></td>
+                    <td><img src="/projects/krator/stacked/color/krator-stacked-color.svg" width="150"></td>
+                    <td><img src="/projects/krator/icon/color/krator-icon-color.svg" width="150"></td>
+                </tr>
+                <tr>
+                    <th>black</th>
+                    <td><img src="/projects/krator/stacked/black/krator-stacked-black.png" width="150"></td>
+                    <td><img src="/projects/krator/icon/black/krator-icon-black.png" width="150"></td>
+                    <td><img src="/projects/krator/stacked/black/krator-stacked-black.svg" width="150"></td>
+                    <td><img src="/projects/krator/icon/black/krator-icon-black.svg" width="150"></td>
+                </tr>
+                <tr>
+                    <th>white</th>
+                    <td><img src="/projects/krator/stacked/white/krator-stacked-white.png" width="150"></td>
+                    <td><img src="/projects/krator/icon/white/krator-icon-white.png" width="150"></td>
+                    <td><img src="/projects/krator/stacked/white/krator-stacked-white.svg" width="150"></td>
+                    <td><img src="/projects/krator/icon/white/krator-icon-white.svg" width="150"></td>
+                </tr>
+</table>
+
+
+#### MetalLB Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/metallb/horizontal/color/metallb-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/metallb/stacked/color/metallb-stacked-color.png" width="95"></td>
+        <td><img src="/projects/metallb/icon/color/metallb-icon-color.png" width="75"></td>
+        <td><img src="/projects/metallb/horizontal/color/metallb-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/metallb/stacked/color/metallb-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/metallb/icon/color/metallb-icon-color.svg" width="75"></td>
+    </tr>
+   <tr>
+        <th>black</th>
+        <td><img src="/projects/metallb/horizontal/black/metallb-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/metallb/stacked/black/metallb-stacked-black.png" width="95"></td>
+        <td><img src="/projects/metallb/icon/black/metallb-icon-black.png" width="75"></td>
+        <td><img src="/projects/metallb/horizontal/black/metallb-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/metallb/stacked/black/metallb-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/metallb/icon/black/metallb-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/metallb/horizontal/white/metallb-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/metallb/stacked/white/metallb-stacked-white.png" width="95"></td>
+        <td><img src="/projects/metallb/icon/white/metallb-icon-white.png" width="75"></td>
+        <td><img src="/projects/metallb/horizontal/white/metallb-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/metallb/stacked/white/metallb-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/metallb/icon/white/metallb-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
+            Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
