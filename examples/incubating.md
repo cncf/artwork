@@ -854,30 +854,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/flagger/horizontal/color/flagger-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/flagger/stacked/color/flagger-stacked-color.png" width="95"></td>
-        <td><img src="/projects/flagger/icon/color/flagger-icon-color.png" width="75"></td>
-        <td><img src="/projects/flagger/horizontal/color/flagger-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/flagger/stacked/color/flagger-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/flagger/icon/color/flagger-icon-color.svg" width="75"></td>
+        <td><img src="/projects/flux/flagger/horizontal/color/flagger-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/flux/flagger/stacked/color/flagger-stacked-color.png" width="95"></td>
+        <td><img src="/projects/flux/flagger/icon/color/flagger-icon-color.png" width="75"></td>
+        <td><img src="/projects/flux/flagger/horizontal/color/flagger-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/flux/flagger/stacked/color/flagger-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/flux/flagger/icon/color/flagger-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/flagger/horizontal/black/flagger-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/flagger/stacked/black/flagger-stacked-black.png" width="95"></td>
-        <td><img src="/projects/flagger/icon/black/flagger-icon-black.png" width="75"></td>
-        <td><img src="/projects/flagger/horizontal/black/flagger-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/flagger/stacked/black/flagger-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/flagger/icon/black/flagger-icon-black.svg" width="75"></td>
+        <td><img src="/projects/flux/flagger/horizontal/black/flagger-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/flux/flagger/stacked/black/flagger-stacked-black.png" width="95"></td>
+        <td><img src="/projects/flux/flagger/icon/black/flagger-icon-black.png" width="75"></td>
+        <td><img src="/projects/flux/flagger/horizontal/black/flagger-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/flux/flagger/stacked/black/flagger-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/flux/flagger/icon/black/flagger-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/flagger/horizontal/white/flagger-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/flagger/stacked/white/flagger-stacked-white.png" width="95"></td>
-        <td><img src="/projects/flagger/icon/white/flagger-icon-white.png" width="75"></td>
-        <td><img src="/projects/flagger/horizontal/white/flagger-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/flagger/stacked/white/flagger-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/flagger/icon/white/flagger-icon-white.svg" width="75"></td>
+        <td><img src="/projects/flux/flagger/horizontal/white/flagger-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/flux/flagger/stacked/white/flagger-stacked-white.png" width="95"></td>
+        <td><img src="/projects/flux/flagger/icon/white/flagger-icon-white.png" width="75"></td>
+        <td><img src="/projects/flux/flagger/horizontal/white/flagger-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/flux/flagger/stacked/white/flagger-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/flux/flagger/icon/white/flagger-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
