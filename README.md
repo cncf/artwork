@@ -114,6 +114,8 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [SuperEdge](examples/sandbox.md#superedge-logos)
   * [Dapr](examples/sandbox.md#dapr-logos)
   * [Nocalhost](examples/sandbox.md#nocalhost-logos)
+  * [Krator](examples/sandbox.md#krator-logos)
+  * [MetalLB](examples/sandbox.md#metallb-logos)
 * [Other CNCF Logos](examples/other.md)
   * [CNCF](examples/other.md#cncf-logos)
   * [Certification](examples/other.md#certification-logos) (CKA, CKAD, KCSP, KTP, KSS)
