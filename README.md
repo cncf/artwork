@@ -44,6 +44,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Emissary-Ingress](examples/incubating.md#emissary-ingress-logos)
   * [KEDA](examples/sandbox.md#keda-logos)
   * [OpenTelemetry](examples/incubating.md#opentelemetry-logos)
+  * [Dapr](examples/incubating.md#dapr-logos)
 * [Sandbox Projects](examples/sandbox.md)
   * [Akri](examples/sandbox.md#akri-logos)
   * [KubeDL](examples/sandbox.md#KubeDL-logos)
