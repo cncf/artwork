@@ -832,7 +832,7 @@
     </tr>
 </table>
 
-#### Flagger Logos
+#### Flagger Logos (a subproject of Flux) 
 
 <table>
     <tr>
