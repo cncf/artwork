@@ -263,26 +263,26 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>SVG</th>
     </tr><tr></tr>
     <tr>
-        <th>color 2021</th>
+        <th>color</th>
         <td><img src="/other/kubecon-cloudnativecon/2022-na/logos/color/kubecon-na-2022-color.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2022-na/logos/color/kubecon-na-2022-color.svg" width="260"></td>
     </tr>
     <tr>
-        <th>black 2021</th>
+        <th>black</th>
         <td><img src="/other/kubecon-cloudnativecon/2022-na/logos/black/kubecon-na-2022-black.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2022-na/logos/black/kubecon-na-2022-black.svg" width="260"></td>
     </tr>
     <tr>
     </tr>
     <tr>
-        <th>white 2021</th>
+        <th>white</th>
         <td><img src="/other/kubecon-cloudnativecon/2022-na/logos/white/kubecon-na-2022-white.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2022-na/logos/white/kubecon-na-2022-white.svg" width="260"></td>
     </tr>
 </table>
 
 
-#### Europe 2021 Virtual Logos
+#### Europe 2022 Virtual Logos
 
 <table>
     <tr>
@@ -291,19 +291,19 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>SVG</th>
     </tr><tr></tr>
     <tr>
-        <th>color 2021</th>
+        <th>color</th>
         <td><img src="/other/kubecon-cloudnativecon/2022-eu/color/kubecon-eu-2022-color.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2022-eu/color/kubecon-eu-2022-color.svg" width="260"></td>
     </tr>
     <tr>
-        <th>black 2021</th>
+        <th>black</th>
         <td><img src="/other/kubecon-cloudnativecon/2022-eu/black/kubecon-eu-2022-black.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2022-eu/black/kubecon-eu-2022-black.svg" width="260"></td>
     </tr>
     <tr>
     </tr>
     <tr>
-        <th>white 2021</th>
+        <th>white</th>
         <td><img src="/other/kubecon-cloudnativecon/2022-eu/white/kubecon-eu-2022-white.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2022-eu/white/kubecon-eu-2022-white.svg" width="260"></td>
     </tr>
