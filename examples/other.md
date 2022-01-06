@@ -264,20 +264,20 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr><tr></tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/kubecon-cloudnativecon/2022-na/color/kubecon-na-2022-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2022-na/color/kubecon-na-2022-color.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2022-na/color/kccnc-na-2022-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2022-na/color/kccnc-na-2022-color.svg" width="260"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/kubecon-cloudnativecon/2022-na/black/kubecon-na-2022-black.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2022-na/black/kubecon-na-2022-black.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2022-na/black/kccnc-na-2022-black.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2022-na/black/kccnc-na-2022-black.svg" width="260"></td>
     </tr>
     <tr>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/kubecon-cloudnativecon/2022-na/white/kubecon-na-2022-white.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2022-na/white/kubecon-na-2022-white.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2022-na/white/kccnc-na-2022-white.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2022-na/white/kccnc-na-2022-white.svg" width="260"></td>
     </tr>
 </table>
 
@@ -292,20 +292,20 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr><tr></tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/kubecon-cloudnativecon/2022-eu/color/kubecon-eu-2022-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2022-eu/color/kubecon-eu-2022-color.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2022-eu/color/kccnc-eu-2022-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2022-eu/color/kccnc-eu-2022-color.svg" width="260"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/kubecon-cloudnativecon/2022-eu/black/kubecon-eu-2022-black.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2022-eu/black/kubecon-eu-2022-black.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2022-eu/black/kccnc-eu-2022-black.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2022-eu/black/kccnc-eu-2022-black.svg" width="260"></td>
     </tr>
     <tr>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/kubecon-cloudnativecon/2022-eu/white/kubecon-eu-2022-white.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2022-eu/white/kubecon-eu-2022-white.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2022-eu/white/kccnc-eu-2022-white.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2022-eu/white/kccnc-eu-2022-white.svg" width="260"></td>
     </tr>
 </table>
 
