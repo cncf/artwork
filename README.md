@@ -113,7 +113,6 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Inclavare Containers](examples/sandbox.md#inclavare-containers-logos)
   * [Karmada](examples/sandbox.md#karmada-logos)
   * [SuperEdge](examples/sandbox.md#superedge-logos)
-  * [Dapr](examples/sandbox.md#dapr-logos)
   * [Open Cluster Management](examples/sandbox.md#open-cluster-management-logos)
   * [Nocalhost](examples/sandbox.md#nocalhost-logos)
   * [Krator](examples/sandbox.md#krator-logos)
