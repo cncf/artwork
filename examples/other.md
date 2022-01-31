@@ -1195,6 +1195,54 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
 </table>
 
+#### TAG Runtime
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/tag-runtime/horizontal/color/tag-runtime_horizontal-color.png" width="200"></td>
+        <td><img src="/other/tag-runtime/stacked/color/tag-runtime_stacked-color.png" width="95"></td>
+        <td><img src="/other/tag-runtime/icon/color/tag-runtime_icon-color.png" width="95"></td>
+        <td><img src="/other/tag-runtime/horizontal/color/tag-runtime_horizontal-color.svg" width="200"></td>
+        <td><img src="/other/tag-runtime/stacked/color/tag-runtime_stacked-color.svg" width="95"></td>
+        <td><img src="/other/tag-runtime/icon/color/tag-runtime_icon-color.svg" width="95"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/tag-runtime/horizontal/black/tag-runtime_horizontal-black.png" width="200"></td>
+        <td><img src="/other/tag-runtime/stacked/black/tag-runtime_stacked-black.png" width="95"></td>
+        <td><img src="/other/tag-runtime/icon/black/tag-runtime_icon-black.png" width="95"></td>
+        <td><img src="/other/tag-runtime/horizontal/black/tag-runtime_horizontal-black.svg" width="200"></td>
+        <td><img src="/other/tag-runtime/stacked/black/tag-runtime_stacked-black.svg" width="95"></td>
+        <td><img src="/other/tag-runtime/icon/black/tag-runtime_icon-black.svg" width="95"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/tag-runtime/horizontal/white/tag-runtime_horizontal-white.png" width="200"></td>
+        <td><img src="/other/tag-runtime/stacked/white/tag-runtime_stacked-white.png" width="95"></td>
+        <td><img src="/other/tag-runtime/icon/white/tag-runtime_icon-white.png" width="95"></td>
+        <td><img src="/other/tag-runtime/horizontal/white/tag-runtime_horizontal-white.svg" width="200"></td>
+        <td><img src="/other/tag-runtime/stacked/white/tag-runtime_stacked-white.svg" width="95"></td>
+        <td><img src="/other/tag-runtime/icon/white/tag-runtime_icon-white.svg" width="95"></td>
+    </tr>
+</table>
 
 #### CNF Testbed Logos
 
