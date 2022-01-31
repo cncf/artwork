@@ -1146,6 +1146,56 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
 </table>
 
+#### TAG Storage
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/tag-network/horizontal/color/tag-network_horizontal-color.png" width="200"></td>
+        <td><img src="/other/tag-network/stacked/color/tag-network_stacked-color.png" width="95"></td>
+        <td><img src="/other/tag-network/icon/color/tag-network_icon-color.png" width="95"></td>
+        <td><img src="/other/tag-network/horizontal/color/tag-network_horizontal-color.svg" width="200"></td>
+        <td><img src="/other/tag-network/stacked/color/tag-network_stacked-color.svg" width="95"></td>
+        <td><img src="/other/tag-network/icon/color/tag-network_icon-color.svg" width="95"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/tag-network/horizontal/black/tag-network_horizontal-black.png" width="200"></td>
+        <td><img src="/other/tag-network/stacked/black/tag-network_stacked-black.png" width="95"></td>
+        <td><img src="/other/tag-network/icon/black/tag-network_icon-black.png" width="95"></td>
+        <td><img src="/other/tag-network/horizontal/black/tag-network_horizontal-black.svg" width="200"></td>
+        <td><img src="/other/tag-network/stacked/black/tag-network_stacked-black.svg" width="95"></td>
+        <td><img src="/other/tag-network/icon/black/tag-network_icon-black.svg" width="95"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/tag-network/horizontal/white/tag-network_horizontal-white.png" width="200"></td>
+        <td><img src="/other/tag-network/stacked/white/tag-network_stacked-white.png" width="95"></td>
+        <td><img src="/other/tag-network/icon/white/tag-network_icon-white.png" width="95"></td>
+        <td><img src="/other/tag-network/horizontal/white/tag-network_horizontal-white.svg" width="200"></td>
+        <td><img src="/other/tag-network/stacked/white/tag-network_stacked-white.svg" width="95"></td>
+        <td><img src="/other/tag-network/icon/white/tag-network_icon-white.svg" width="95"></td>
+    </tr>
+</table>
+
+
 #### CNF Testbed Logos
 
 <table>
