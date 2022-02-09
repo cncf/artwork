@@ -1071,8 +1071,8 @@
 
 #### Cilium Logos
 
-    <table>
-        <tr>
+<table>
+    <tr>
             <th colspan="7"></th>
         </tr>
         <tr>
