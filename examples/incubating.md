@@ -1069,7 +1069,7 @@
     </tr>
     </table>
 
-    #### Cilium Logos
+#### Cilium Logos
 
     <table>
         <tr>
