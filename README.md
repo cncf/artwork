@@ -46,6 +46,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [OpenTelemetry](examples/incubating.md#opentelemetry-logos)
   * [Dapr](examples/incubating.md#dapr-logos)
   * [Litmus](examples/incubating.md#litmus-logos)
+  * [Cilium](examples/incubating.md#cilium-logos)
 * [Sandbox Projects](examples/sandbox.md)
   * [Akri](examples/sandbox.md#akri-logos)
   * [KubeDL](examples/sandbox.md#KubeDL-logos)
