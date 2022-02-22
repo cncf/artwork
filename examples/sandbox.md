@@ -1671,6 +1671,45 @@
     </table>
 
 
+#### kube-rs Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kube-rs/horizontal/white/kube-rs-logo-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kube-rs/stacked/white/kube-rs-logo-stack-white.png" width="95"></td>
+        <td><img src="/projects/kube-rs/icon/white/kube-rs-icon-white.png" width="75"></td>
+        <td><img src="/projects/kube-rs/horizontal/white/kube-rs-logo-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kube-rs/stacked/white/kube-rs-logo-stack-white.svg" width="95"></td>
+        <td><img src="/projects/kube-rs/icon/white/kube-rs-icon-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kube-rs/horizontal/black/kube-rs-logo-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kube-rs/stacked/black/kube-rs-logo-stack-black.png" width="95"></td>
+        <td><img src="/projects/kube-rs/icon/black/kube-rs-icon-black.png" width="75"></td>
+        <td><img src="/projects/kube-rs/horizontal/black/kube-rs-logo-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kube-rs/stacked/black/kube-rs-logo-stack-black.svg" width="95"></td>
+        <td><img src="/projects/kube-rs/icon/black/kube-rs-icon-black.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Open Service Mesh Logos
 
 <table>
