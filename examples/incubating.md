@@ -1141,7 +1141,7 @@
         <tr>
             <th>color</th>
             <td><img src="/projects/knative/horizontal/color/knative-horizontal-color.png" width="200"></td>
-            <td><img src="/projects/knative/stacked/color/knative-tacked-color.png" width="95"></td>
+            <td><img src="/projects/knative/stacked/color/knative-stacked-color.png" width="95"></td>
             <td><img src="/projects/knative/icon/color/knative-icon-color.png" width="75"></td>
             <td><img src="/projects/knative/horizontal/color/knative-horizontal-color.svg" width="200"></td>
             <td><img src="/projects/knative/stacked/color/knative-stacked-color.svg" width="95"></td>
