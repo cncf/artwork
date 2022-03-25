@@ -902,7 +902,7 @@
     </tr>
     </table>
 
-#### ChubaoFS Logos
+#### CubeFS Logos
 
 <table>
     <tr>
@@ -924,30 +924,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/chubaofs/horizontal/color/chubaofs-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/chubaofs/stacked/color/chubaofs-stacked-color.png" width="95"></td>
-        <td><img src="/projects/chubaofs/icon/color/chubaofs-icon-color.png" width="75"></td>
-        <td><img src="/projects/chubaofs/horizontal/color/chubaofs-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/chubaofs/stacked/color/chubaofs-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/chubaofs/icon/color/chubaofs-icon-color.svg" width="75"></td>
+        <td><img src="/projects/cubefs/horizontal/color/cubefs-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/cubefs/stacked/color/cubefs-stacked-color.png" width="95"></td>
+        <td><img src="/projects/cubefs/icon/color/cubefs-icon-color.png" width="75"></td>
+        <td><img src="/projects/cubefs/horizontal/color/cubefs-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/cubefs/stacked/color/cubefs-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/cubefs/icon/color/cubefs-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/chubaofs/horizontal/black/chubaofs-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/chubaofs/stacked/black/chubaofs-stacked-black.png" width="95"></td>
-        <td><img src="/projects/chubaofs/icon/black/chubaofs-icon-black.png" width="75"></td>
-        <td><img src="/projects/chubaofs/horizontal/black/chubaofs-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/chubaofs/stacked/black/chubaofs-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/chubaofs/icon/black/chubaofs-icon-black.svg" width="75"></td>
+        <td><img src="/projects/cubefs/horizontal/black/cubefs-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/cubefs/stacked/black/cubefs-stacked-black.png" width="95"></td>
+        <td><img src="/projects/cubefs/icon/black/cubefs-icon-black.png" width="75"></td>
+        <td><img src="/projects/cubefs/horizontal/black/cubefs-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/cubefs/stacked/black/cubefs-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/cubefs/icon/black/cubefs-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/chubaofs/horizontal/white/chubaofs-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/chubaofs/stacked/white/chubaofs-stacked-white.png" width="95"></td>
-        <td><img src="/projects/chubaofs/icon/white/chubaofs-icon-white.png" width="75"></td>
-        <td><img src="/projects/chubaofs/horizontal/white/chubaofs-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/chubaofs/stacked/white/chubaofs-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/chubaofs/icon/white/chubaofs-icon-white.svg" width="75"></td>
+        <td><img src="/projects/cubefs/horizontal/white/cubefs-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/cubefs/stacked/white/cubefs-stacked-white.png" width="95"></td>
+        <td><img src="/projects/cubefs/icon/white/cubefs-icon-white.png" width="75"></td>
+        <td><img src="/projects/cubefs/horizontal/white/cubefs-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/cubefs/stacked/white/cubefs-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/cubefs/icon/white/cubefs-icon-white.svg" width="75"></td>
     </tr>
     </table>
 
