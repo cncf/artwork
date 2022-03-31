@@ -3666,6 +3666,55 @@
     </tr>
   </table>
 
+#### Confidential Containers Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/confidential-containers/horizontal/color/confidential-containers-color.png" width="200"></td>
+        <td><img src="/projects/confidential-containers/stacked/color/confidential-containers-stacked-color.png" width="95"></td>
+        <td><img src="/projects/confidential-containers/icon/color/confidential-containers-icon.png" width="75"></td>
+        <td><img src="/projects/confidential-containers/horizontal/color/confidential-containers-color.svg" width="200"></td>
+        <td><img src="/projects/confidential-containers/stacked/color/confidential-containers-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/confidential-containers/icon/color/confidential-containers-icon.svg" width="75"></td>
+    </tr>
+   <tr>
+        <th>black</th>
+        <td><img src="/projects/confidential-containers/horizontal/black/confidential-containers-black.png" width="200"></td>
+        <td><img src="/projects/confidential-containers/stacked/black/confidential-containers-stacked-black.png" width="95"></td>
+        <td><img src="/projects/confidential-containers/icon/black/confidential-containers-icon-black.png" width="75"></td>
+        <td><img src="/projects/confidential-containers/horizontal/black/confidential-containers-black.svg" width="200"></td>
+        <td><img src="/projects/confidential-containers/stacked/black/confidential-containers-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/confidential-containers/icon/black/confidential-containers-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/confidential-containers/horizontal/white/confidential-containers-white.png" width="200"></td>
+        <td><img src="/projects/confidential-containers/stacked/white/confidential-containers-stacked-white.png" width="95"></td>
+        <td><img src="/projects/confidential-containers/icon/white/confidential-containers-icon-white.png" width="75"></td>
+        <td><img src="/projects/confidential-containers/horizontal/white/confidential-containers-white.svg" width="200"></td>
+        <td><img src="/projects/confidential-containers/stacked/white/confidential-containers-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/confidential-containers/icon/white/confidential-containers-icon.svg" width="75"></td>
+    </tr>
+  </table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
