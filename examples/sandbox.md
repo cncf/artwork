@@ -3711,7 +3711,7 @@
         <td><img src="/projects/confidential-containers/icon/white/confidential-containers-icon-white.png" width="75"></td>
         <td><img src="/projects/confidential-containers/horizontal/white/confidential-containers-white.svg" width="200"></td>
         <td><img src="/projects/confidential-containers/stacked/white/confidential-containers-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/confidential-containers/icon/white/confidential-containers-icon.svg" width="75"></td>
+        <td><img src="/projects/confidential-containers/icon/white/confidential-containers-icon-white.svg" width="75"></td>
     </tr>
   </table>
 
