@@ -3715,6 +3715,54 @@
     </tr>
   </table>
 
+#### FabEdge Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/fabedge/horizontal/color/fabedge-color.png" width="200"></td>
+        <td><img src="/projects/fabedge/stacked/color/fabedge-stacked-color.png" width="95"></td>
+        <td><img src="/projects/fabedge/icon/color/fabedge-color.png" width="75"></td>
+        <td><img src="/projects/fabedge/horizontal/color/fabedge-color.svg" width="200"></td>
+        <td><img src="/projects/fabedge/stacked/color/fabedge-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/fabedge/icon/color/fabedge-color.svg" width="75"></td>
+    </tr>
+   <tr>
+        <th>black</th>
+        <td><img src="/projects/fabedge/horizontal/black/fabedge-black.png" width="200"></td>
+        <td><img src="/projects/fabedge/stacked/black/fabedge-stacked-black.png" width="95"></td>
+        <td><img src="/projects/fabedge/icon/black/fabedge-black.png" width="75"></td>
+        <td><img src="/projects/fabedge/horizontal/black/fabedge-black.svg" width="200"></td>
+        <td><img src="/projects/fabedge/stacked/black/fabedge-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/fabedge/icon/black/fabedge-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/fabedge/horizontal/white/fabedge-white.png" width="200"></td>
+        <td><img src="/projects/fabedge/stacked/white/fabedge-stacked-white.png" width="95"></td>
+        <td><img src="/projects/fabedge/icon/white/fabedge-white.png" width="75"></td>
+        <td><img src="/projects/fabedge/horizontal/white/fabedge-white.svg" width="200"></td>
+        <td><img src="/projects/fabedge/stacked/white/fabedge-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/fabedge/icon/white/fabedge-white.svg" width="75"></td>
+    </tr>
+  </table>
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
