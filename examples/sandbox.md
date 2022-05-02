@@ -2265,6 +2265,15 @@
         <td><img src="/projects/tinkerbell/stacked/color-light/tinkerbell-stacked-color-light.svg" width="95"></td>
         <td><img src="/projects/tinkerbell/icon/color-light/tinkerbell-icon-color-light.svg" width="75"></td>
     </tr>
+     <tr>
+        <th>color-dark</th>
+        <td><img src="/projects/tinkerbell/horizontal/color-dark/tinkerbell-horizontal-color-dark.png" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/color-dark/tinkerbell-stacked-color-dark.png" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/color-dark/tinkerbell-icon-color-dark.png" width="75"></td>
+        <td><img src="/projects/tinkerbell/horizontal/color-dark/tinkerbell-horizontal-color-dark.svg" width="200"></td>
+        <td><img src="/projects/tinkerbell/stacked/color-dark/tinkerbell-stacked-color-dark.svg" width="95"></td>
+        <td><img src="/projects/tinkerbell/icon/color-dark/tinkerbell-icon-color-dark.svg" width="75"></td>
+    </tr>
     <tr>
         <th>white</th>
         <td><img src="/projects/tinkerbell/horizontal/white/tinkerbell-horizontal-white.png" width="200"></td>
