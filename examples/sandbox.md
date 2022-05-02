@@ -207,6 +207,67 @@
     </tr>
 </table>
 
+
+#### Teller Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+        <tr>
+        <th>color</th>
+        <td><img src="/projects/teller/horizontal/color/teller-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/teller/stacked/color/teller-stacked-color.png" width="95"></td>
+        <td><img src="/projects/teller/icon/color/teller-icon-color.png" width="75"></td>
+        <td><img src="/projects/teller/horizontal/color/teller-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/teller/stacked/color/teller-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/teller/icon/color/teller-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/teller/horizontal/black/teller-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/teller/stacked/black/teller-stacked-black.png" width="95"></td>
+        <td><img src="/projects/teller/icon/black/teller-icon-black.png" width="75"></td>
+        <td><img src="/projects/teller/horizontal/black/teller-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/teller/stacked/black/teller-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/teller/icon/black/teller-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/teller/horizontal/white/teller-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/teller/stacked/white/teller-stacked-white.png" width="95"></td>
+        <td><img src="/projects/teller/icon/white/teller-icon-white.png" width="75"></td>
+        <td><img src="/projects/teller/horizontal/white/teller-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/teller/stacked/white/teller-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/teller/icon/white/teller-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
 #### OpenMetrics Logos
 
 <table>
@@ -2203,15 +2264,6 @@
         <td><img src="/projects/tinkerbell/horizontal/color-light/tinkerbell-horizontal-color-light.svg" width="200"></td>
         <td><img src="/projects/tinkerbell/stacked/color-light/tinkerbell-stacked-color-light.svg" width="95"></td>
         <td><img src="/projects/tinkerbell/icon/color-light/tinkerbell-icon-color-light.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>color-dark</th>
-        <td><img src="/projects/tinkerbell/horizontal/color-dark/tinkerbell-horizontal-color-dark.png" width="200"></td>
-        <td><img src="/projects/tinkerbell/stacked/color-dark/tinkerbell-stacked-color-dark.png" width="95"></td>
-        <td><img src="/projects/tinkerbell/icon/color-dark/tinkerbell-icon-color-dark.png" width="75"></td>
-        <td><img src="/projects/tinkerbell/horizontal/color-dark/tinkerbell-horizontal-color-dark.svg" width="200"></td>
-        <td><img src="/projects/tinkerbell/stacked/color-dark/tinkerbell-stacked-color-dark.svg" width="95"></td>
-        <td><img src="/projects/tinkerbell/icon/color-dark/tinkerbell-icon-color-dark.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
