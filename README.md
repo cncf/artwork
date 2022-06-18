@@ -159,12 +159,6 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [rkt](examples/archived.md#rkt-logos)
   * [OpenTracing](examples/archived.md#opentracing-logos)
 
-## CNCF Brand Guidelines
-
-These guidelines are both for people in CNCF who design CNCF-branded web properties and also for people external to CNCF who want to use CNCF’s brand assets.
-
-https://www.cncf.io/brand-guidelines/
-
 ## Trademark and Logo Policy
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage with the key excepts available at https://github.com/cncf/artwork/blob/master/LICENSE.md.
