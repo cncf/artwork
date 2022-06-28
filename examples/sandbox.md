@@ -3874,7 +3874,7 @@
     </tr>
   </table>
 
-#### Opencost Logos
+#### OpenCost Logos
 
 <table>
     <tr>
