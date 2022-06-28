@@ -3824,6 +3824,55 @@
         <td><img src="/projects/fabedge/icon/white/fabedge-white.svg" width="75"></td>
     </tr>
   </table>
+
+#### DevStream Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/devstream/horizontal/color/devstream-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/devstream/stacked/color/devstream-stacked-color.png" width="95"></td>
+        <td><img src="/projects/devstream/icon/color/devstream-icon-color.png" width="75"></td>
+        <td><img src="/projects/devstream/horizontal/color/devstream-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/devstream/stacked/color/devstream-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/devstream/icon/color/devstream-icon-color.svg" width="75"></td>
+    </tr>
+   <tr>
+        <th>black</th>
+        <td><img src="/projects/devstream/horizontal/black/devstream-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/devstream/stacked/black/devstream-stacked-black.png" width="95"></td>
+        <td><img src="/projects/devstream/icon/black/devstream-icon-black.png" width="75"></td>
+        <td><img src="/projects/devstream/horizontal/black/devstream-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/devstream/stacked/black/devstream-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/devstream/icon/black/devstream-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/devstream/horizontal/white/devstream-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/devstream/stacked/white/devstream-stacked-white.png" width="95"></td>
+        <td><img src="/projects/devstream/icon/white/devstream-icon-white.png" width="75"></td>
+        <td><img src="/projects/devstream/horizontal/white/devstream-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/devstream/stacked/white/devstream-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/devstream/icon/white/devstream-icon-white.svg" width="75"></td>
+    </tr>
+  </table>
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
