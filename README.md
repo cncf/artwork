@@ -124,6 +124,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Devfile](examples/sandbox.md#devfile-logos)
   * [Confidential Containers](examples/sandbox.md#confidential-containers-logos)
   * [FabEdge](examples/sandbox.md#fabedge-logos)
+  * [DevStream](examples/sandbox.md#devstream-logos)
 * [Other CNCF Logos](examples/other.md)
   * [CNCF](examples/other.md#cncf-logos)
   * [Certification](examples/other.md#certification-logos) (CKA, CKAD, KCSP, KTP, KSS)
@@ -158,12 +159,6 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
 * [Archived Projects](examples/archived.md)
   * [rkt](examples/archived.md#rkt-logos)
   * [OpenTracing](examples/archived.md#opentracing-logos)
-
-## CNCF Brand Guidelines
-
-These guidelines are both for people in CNCF who design CNCF-branded web properties and also for people external to CNCF who want to use CNCF’s brand assets.
-
-https://www.cncf.io/brand-guidelines/
 
 ## Trademark and Logo Policy
 
