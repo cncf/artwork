@@ -3906,7 +3906,7 @@
     </tr>
   </table>
 
-#### OpenCost Logos
+#### Clusterpedia Logos
 
 <table>
     <tr>
@@ -3928,6 +3928,43 @@
     </tr>
     <tr>
         <th>color</th>
+        <td><img src="/projects/clusterpedia/horizontal/color/clusterpedia-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/clusterpedia/stacked/color/clusterpedia-stacked-color.png" width="95"></td>
+        <td><img src="/projects/clusterpedia/icon/color/clusterpedia-icon-color.png" width="75"></td>
+        <td><img src="/projects/clusterpedia/horizontal/color/clusterpedia-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/clusterpedia/stacked/color/clusterpedia-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/clusterpedia/icon/color/clusterpedia-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/clusterpedia/horizontal/black/clusterpedia-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/clusterpedia/stacked/black/clusterpedia-stacked-black.png" width="95"></td>
+        <td><img src="/projects/clusterpedia/icon/black/clusterpedia-icon-black.png" width="75"></td>
+        <td><img src="/projects/clusterpedia/horizontal/black/clusterpedia-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/clusterpedia/stacked/black/clusterpedia-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/clusterpedia/icon/black/clusterpedia-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/clusterpedia/horizontal/white/clusterpedia-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/clusterpedia/stacked/white/clusterpedia-stacked-white.png" width="95"></td>
+        <td><img src="/projects/clusterpedia/icon/white/clusterpedia-icon-white.png" width="75"></td>
+        <td><img src="/projects/clusterpedia/horizontal/white/clusterpedia-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/clusterpedia/stacked/white/clusterpedia-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/clusterpedia/icon/white/clusterpedia-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### OpenCost Logos
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
         <td><img src="/projects/opencost/horizontal/color/Opencost_Horizontal_Color.png" width="200"></td>
         <td><img src="/projects/opencost/stacked/color/Opencost_Stacked_Color.png" width="95"></td>
         <td><img src="/projects/opencost/icon/color/Opencost_Icon_Color.png" width="75"></td>
