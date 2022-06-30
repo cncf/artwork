@@ -3825,7 +3825,7 @@
     </tr>
   </table>
 
-#### DevStream Logos
+#### OpenFunction Logos
 
 <table>
     <tr>
@@ -3847,6 +3847,38 @@
     </tr>
     <tr>
         <th>color</th>
+        <td><img src="/projects/openfunction/horizontal/color/openfunction-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/openfunction/stacked/color/openfunction-stacked-color.png" width="95"></td>
+        <td><img src="/projects/openfunction/icon/color/openfunction-icon-color.png" width="75"></td>
+        <td><img src="/projects/openfunction/horizontal/color/openfunction-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/openfunction/stacked/color/openfunction-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/openfunction/icon/color/openfunction-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/openfunction/horizontal/black/openfunction-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/openfunction/stacked/black/openfunction-stacked-black.png" width="95"></td>
+        <td><img src="/projects/openfunction/icon/black/openfunction-icon-black.png" width="75"></td>
+        <td><img src="/projects/openfunction/horizontal/black/openfunction-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/openfunction/stacked/black/openfunction-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/openfunction/icon/black/openfunction-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/openfunction/horizontal/white/openfunction-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/openfunction/stacked/white/openfunction-stacked-white.png" width="95"></td>
+        <td><img src="/projects/openfunction/icon/white/openfunction-icon-white.png" width="75"></td>
+        <td><img src="/projects/openfunction/horizontal/white/openfunction-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/openfunction/stacked/white/openfunction-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/openfunction/icon/white/openfunction-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### DevStream Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
         <td><img src="/projects/devstream/horizontal/color/devstream-horizontal-color.png" width="200"></td>
         <td><img src="/projects/devstream/stacked/color/devstream-stacked-color.png" width="95"></td>
         <td><img src="/projects/devstream/icon/color/devstream-icon-color.png" width="75"></td>
@@ -3922,7 +3954,6 @@
         <td><img src="/projects/opencost/icon/white/Opencost_Icon_White.svg" width="75"></td>
     </tr>
 </table>
-
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
