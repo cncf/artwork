@@ -3992,6 +3992,55 @@
     </tr>
 </table>
 
+#### Curve Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/curve/horizontal/color/curve_horizontal_color.png" width="250"></td>
+        <td><img src="/projects/curve/stacked/color/curve_stacked_color.png" width="150"></td>
+        <td><img src="/projects/curve/icon/color/curve_icon_color.png" width="150"></td>
+        <td><img src="/projects/curve/horizontal/color/curve_horizontal_color.svg" width="250"></td>
+        <td><img src="/projects/curve/stacked/color/curve_stacked_color.svg" width="150"></td>
+        <td><img src="/projects/curve/icon/color/curve_icon_color.svg" width="150"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/curve/horizontal/black/curve_horizontal_black.png" width="250"></td>
+        <td><img src="/projects/curve/stacked/black/curve_stacked_black.png" width="150"></td>
+        <td><img src="/projects/curve/icon/black/curve_icon_black.png" width="150"></td>
+        <td><img src="/projects/curve/horizontal/black/curve_horizontal_black.svg" width="250"></td>
+        <td><img src="/projects/curve/stacked/black/curve_stacked_black.svg" width="150"></td>
+        <td><img src="/projects/curve/icon/black/curve_icon_black.svg" width="150"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/curve/horizontal/white/curve_horizontal_white.png" width="250"></td>
+        <td><img src="/projects/curve/stacked/white/curve_stacked_white.png" width="150"></td>
+        <td><img src="/projects/curve/icon/white/curve_icon_white.png" width="150"></td>
+        <td><img src="/projects/curve/horizontal/white/curve_horizontal_white.svg" width="250"></td>
+        <td><img src="/projects/curve/stacked/white/curve_stacked_white.svg" width="150"></td>
+        <td><img src="/projects/curve/icon/white/curve_icon_white.svg" width="150"></td>
+    </tr>
+</table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
