@@ -282,33 +282,6 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 </table>
 
 
-#### China 2021 Logos
-
-<table>
-    <tr>
-        <th></th>
-        <th>PNG</th>
-        <th>SVG</th>
-    </tr><tr></tr>
-    <tr>
-        <th>color 2021</th>
-        <td><img src="/other/kubecon-cloudnativecon/2021-china/color/kubecon-china-2021-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2021-china/color/kubecon-china-2021-color.svg" width="260"></td>
-    </tr>
-    <tr>
-        <th>black 2021</th>
-        <td><img src="/other/kubecon-cloudnativecon/2021-china/black/kubecon-china-2021-black.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2021-china/black/kubecon-china-2021-black.svg" width="260"></td>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-        <th>white 2021</th>
-        <td><img src="/other/kubecon-cloudnativecon/2021-china/white/kubecon-china-2021-white.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2021-china/white/kubecon-china-2021-white.svg" width="260"></td>
-    </tr>
-</table>
-
 #### Cropped Logos
 
 <table>
