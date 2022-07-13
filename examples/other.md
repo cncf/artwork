@@ -903,55 +903,6 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
 </table>
 
 
-#### TAG Storage
-
-<table>
-    <tr>
-    	<th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/other/tag-storage/horizontal/color/tag-storage-horizontal-color.png" width="200"></td>
-        <td><img src="/other/tag-storage/stacked/color/tag-storage-stacked-color.png" width="95"></td>
-        <td><img src="/other/tag-storage/icon/color/tag-storage-icon-color.png" width="95"></td>
-        <td><img src="/other/tag-storage/horizontal/color/tag-storage-horizontal-color.svg" width="200"></td>
-        <td><img src="/other/tag-storage/stacked/color/tag-storage-stacked-color.svg" width="95"></td>
-        <td><img src="/other/tag-storage/icon/color/tag-storage-icon-color.svg" width="95"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/tag-storage/horizontal/black/tag-storage-horizontal-black.png" width="200"></td>
-        <td><img src="/other/tag-storage/stacked/black/tag-storage-stacked-black.png" width="95"></td>
-        <td><img src="/other/tag-storage/icon/black/tag-storage-icon-black.png" width="95"></td>
-        <td><img src="/other/tag-storage/horizontal/black/tag-storage-horizontal-black.svg" width="200"></td>
-        <td><img src="/other/tag-storage/stacked/black/tag-storage-stacked-black.svg" width="95"></td>
-        <td><img src="/other/tag-storage/icon/black/tag-storage-icon-black.svg" width="95"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/other/tag-storage/horizontal/white/tag-storage-horizontal-white.png" width="200"></td>
-        <td><img src="/other/tag-storage/stacked/white/tag-storage-stacked-white.png" width="95"></td>
-        <td><img src="/other/tag-storage/icon/white/tag-storage-icon-white.png" width="95"></td>
-        <td><img src="/other/tag-storage/horizontal/white/tag-storage-horizontal-white.svg" width="200"></td>
-        <td><img src="/other/tag-storage/stacked/white/tag-storage-stacked-white.svg" width="95"></td>
-        <td><img src="/other/tag-storage/icon/white/tag-storage-icon-white.svg" width="95"></td>
-    </tr>
-</table>
-
 #### TAG App Delivery
 
 <table>
