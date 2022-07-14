@@ -4041,6 +4041,46 @@
     </tr>
 </table>
 
+#### OpenFeature Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/openfeature/horizontal/black/openfeature-horizontal-black.png" width="250"></td>
+        <td><img src="/projects/openfeature/stacked/black/openfeature-stacked-black.png" width="150"></td>
+        <td><img src="/projects/openfeature/icon/black/openfeature-icon-black.png" width="150"></td>
+        <td><img src="/projects/openfeature/horizontal/black/openfeature-horizontal-black.svg" width="250"></td>
+        <td><img src="/projects/openfeature/stacked/black/openfeature-stacked-black.svg" width="150"></td>
+        <td><img src="/projects/openfeature/icon/black/openfeature-icon-black.svg" width="150"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/openfeature/horizontal/white/openfeature-horizontal-white.png" width="250"></td>
+        <td><img src="/projects/openfeature/stacked/white/openfeature-stacked-white.png" width="150"></td>
+        <td><img src="/projects/openfeature/icon/white/openfeature-icon-white.png" width="150"></td>
+        <td><img src="/projects/openfeature/horizontal/white/openfeature-horizontal-white.svg" width="250"></td>
+        <td><img src="/projects/openfeature/stacked/white/openfeature-stacked-white.svg" width="150"></td>
+        <td><img src="/projects/openfeature/icon/white/openfeature-icon-white.svg" width="150"></td>
+    </tr>
+</table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
