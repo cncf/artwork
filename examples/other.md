@@ -481,6 +481,35 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
 </table>
 
+#### CNF Certified Logos
+
+<table>
+    <tr>
+    	<th colspan="5"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/cnf-certified/color/cnf-certified-color.png" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.png" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.23/color/certified-kubernetes-1.23-color.svg" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.svg" width="130"></td>
+    </tr>
+
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.23/white/certified-kubernetes-1.23-white.png" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/versionless/white/certified-kubernetes-white.png" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.23/white/certified-kubernetes-1.23-white.svg" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/versionless/white/certified-kubernetes-white.svg" width="130"></td>
+    </tr>
+</table>
+
+
 #### DevStats Logos
 
 <table>
