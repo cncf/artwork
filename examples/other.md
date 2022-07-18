@@ -483,6 +483,8 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
 
 #### Certified CNF Logos
 
+The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-cnf) marks are only available for use with [qualifying offerings](https://www.cncf.io/certification/cnf/) and must comply with the [brand guidelines](https://github.com/cncf/artwork/blob/master/other/certified-cnf/certified-cnf-brand-guide.pdf).
+
 <table>
     <tr>
     	<th colspan="5"></th>
