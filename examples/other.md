@@ -494,17 +494,17 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/cnf-certified/color/cnf-certified-color.png" width="200"></td>
-        <td><img src="/other/cnf-certified/color/cnf-certified-color-2.png" width="200"></td>
-        <td><img src="/other/cnf-certified/color/cnf-certified-color.svg" width="200"></td>
-        <td><img src="/other/cnf-certified/color/cnf-certified-color-2.svg" width="200"></td>
+        <td><img src="/other/cnf-certified/color/cnf-certified-color.png" width="100"></td>
+        <td><img src="/other/cnf-certified/color/cnf-certified-color-2.png" width="100"></td>
+        <td><img src="/other/cnf-certified/color/cnf-certified-color.svg" width="100"></td>
+        <td><img src="/other/cnf-certified/color/cnf-certified-color-2.svg" width="100"></td>
     </tr>
     <tr>
-        <th>white</th>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.23/white/certified-kubernetes-1.23-white.png" width="130"></td>
-        <td><img src="/projects/kubernetes/certified-kubernetes/versionless/white/certified-kubernetes-white.png" width="130"></td>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.23/white/certified-kubernetes-1.23-white.svg" width="130"></td>
-        <td><img src="/projects/kubernetes/certified-kubernetes/versionless/white/certified-kubernetes-white.svg" width="130"></td>
+        <th>black</th>
+        <td><img src="/other/cnf-certified/color/cnf-certified-color.png" width="100"></td>
+        <td><img src="/other/cnf-certified/color/cnf-certified-color-2.png" width="100"></td>
+        <td><img src="/other/cnf-certified/color/cnf-certified-color.svg" width="100"></td>
+        <td><img src="/other/cnf-certified/color/cnf-certified-color-2.svg" width="100"></td>
     </tr>
 </table>
 
