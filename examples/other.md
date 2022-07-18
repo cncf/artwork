@@ -481,7 +481,7 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
 </table>
 
-#### CNF Certified Logos
+#### Certified CNF Logos
 
 <table>
     <tr>
