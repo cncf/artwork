@@ -501,17 +501,17 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/cnf-certified/color/cnf-certified-black.png" width="150"></td>
-        <td><img src="/other/cnf-certified/color/cnf-certified-black-2.png" width="150"></td>
-        <td><img src="/other/cnf-certified/color/cnf-certified-black.svg" width="150"></td>
-        <td><img src="/other/cnf-certified/color/cnf-certified-black-2.svg" width="150"></td>
+        <td><img src="/other/cnf-certified/black/cnf-certified-black.png" width="150"></td>
+        <td><img src="/other/cnf-certified/black/cnf-certified-black-2.png" width="150"></td>
+        <td><img src="/other/cnf-certified/black/cnf-certified-black.svg" width="150"></td>
+        <td><img src="/other/cnf-certified/black/cnf-certified-black-2.svg" width="150"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/cnf-certified/color/cnf-certified-white.png" width="150"></td>
-        <td><img src="/other/cnf-certified/color/cnf-certified-white-2.png" width="150"></td>
-        <td><img src="/other/cnf-certified/color/cnf-certified-white.svg" width="150"></td>
-        <td><img src="/other/cnf-certified/color/cnf-certified-white-2.svg" width="150"></td>
+        <td><img src="/other/cnf-certified/white/cnf-certified-white.png" width="150"></td>
+        <td><img src="/other/cnf-certified/white/cnf-certified-white-2.png" width="150"></td>
+        <td><img src="/other/cnf-certified/white/cnf-certified-white.svg" width="150"></td>
+        <td><img src="/other/cnf-certified/white/cnf-certified-white-2.svg" width="150"></td>
     </tr>
 </table>
 
