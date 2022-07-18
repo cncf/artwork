@@ -496,24 +496,24 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/cnf-certified/color/cnf-certified-color.png" width="150"></td>
-        <td><img src="/other/cnf-certified/color/cnf-certified-color-2.png" width="150"></td>
-        <td><img src="/other/cnf-certified/color/cnf-certified-color.svg" width="150"></td>
-        <td><img src="/other/cnf-certified/color/cnf-certified-color-2.svg" width="150"></td>
+        <td><img src="/other/certified-cnf/color/certified-cnf-color.png" width="150"></td>
+        <td><img src="/other/certified-cnf/color/certified-cnf-color-2.png" width="150"></td>
+        <td><img src="/other/certified-cnf/color/certified-cnf-color.svg" width="150"></td>
+        <td><img src="/other/certified-cnf/color/certified-cnf-color-2.svg" width="150"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/cnf-certified/black/cnf-certified-black.png" width="150"></td>
-        <td><img src="/other/cnf-certified/black/cnf-certified-black-2.png" width="150"></td>
-        <td><img src="/other/cnf-certified/black/cnf-certified-black.svg" width="150"></td>
-        <td><img src="/other/cnf-certified/black/cnf-certified-black-2.svg" width="150"></td>
+        <td><img src="/other/certified-cnf/black/certified-cnf-black.png" width="150"></td>
+        <td><img src="/other/certified-cnf/black/certified-cnf-black-2.png" width="150"></td>
+        <td><img src="/other/certified-cnf/black/certified-cnf-black.svg" width="150"></td>
+        <td><img src="/other/certified-cnf/black/certified-cnf-black-2.svg" width="150"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/cnf-certified/white/cnf-certified-white.png" width="150"></td>
-        <td><img src="/other/cnf-certified/white/cnf-certified-white-2.png" width="150"></td>
-        <td><img src="/other/cnf-certified/white/cnf-certified-white.svg" width="150"></td>
-        <td><img src="/other/cnf-certified/white/cnf-certified-white-2.svg" width="150"></td>
+        <td><img src="/other/certified-cnf/white/certified-cnf-white.png" width="150"></td>
+        <td><img src="/other/certified-cnf/white/certified-cnf-white-2.png" width="150"></td>
+        <td><img src="/other/certified-cnf/white/certified-cnf-white.svg" width="150"></td>
+        <td><img src="/other/certified-cnf/white/certified-cnf-white-2.svg" width="150"></td>
     </tr>
 </table>
 
