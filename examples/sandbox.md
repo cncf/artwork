@@ -3956,6 +3956,8 @@
 </table>
 
 #### OpenCost Logos
+
+<table>
     <tr>
         <th colspan="7"></th>
     </tr>
