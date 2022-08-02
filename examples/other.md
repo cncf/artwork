@@ -387,7 +387,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/kubernetes-community-days/icon/color/kubernetes-community-days-icon-color.svg" width="75"></td>
     </tr>
     <tr>
-        <th>color</th>
+        <th>black</th>
         <td><img src="/other/kubernetes-community-days/horizontal/black/kubernetes-community-days-horizontal-black.png" width="200"></td>
         <td><img src="/other/kubernetes-community-days/stacked/black/kubernetes-community-days-stacked-black.png" width="95"></td>
         <td><img src="/other/kubernetes-community-days/icon/black/kubernetes-community-days-icon-black.png" width="75"></td>
@@ -396,7 +396,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/kubernetes-community-days/icon/black/kubernetes-community-days-icon-black.svg" width="75"></td>
     </tr>
     <tr>
-        <th>color</th>
+        <th>white</th>
         <td><img src="/other/kubernetes-community-days/horizontal/white/kubernetes-community-days-horizontal-white.png" width="200"></td>
         <td><img src="/other/kubernetes-community-days/stacked/white/kubernetes-community-days-stacked-white.png" width="95"></td>
         <td><img src="/other/kubernetes-community-days/icon/white/kubernetes-community-days-icon-white.png" width="75"></td>
