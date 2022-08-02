@@ -361,30 +361,48 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 
 <table>
     <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
         <th></th>
-        <th>PNG</th>
-        <th>SVG</th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/kubernetes-community-days/color/kubernetes-community-days-color.png" width="320"></td>
-        <td><img src="/other/kubernetes-community-days/color/kubernetes-community-days-color.svg" width="320"></td>
+        <td><img src="/other/kubernetes-community-days/horizontal/color/kubernetes-community-days-horizontal-color.png" width="200"></td>
+        <td><img src="/other/kubernetes-community-days/stacked/color/kubernetes-community-days-stacked-color.png" width="95"></td>
+        <td><img src="/other/kubernetes-community-days/icon/color/kubernetes-community-days-icon-color.png" width="75"></td>
+        <td><img src="/other/kubernetes-community-days/horizontal/color/kubernetes-community-days-horizontal-color.svg" width="200"></td>
+        <td><img src="/other/kubernetes-community-days/stacked/color/kubernetes-community-days-stacked-color.svg" width="95"></td>
+        <td><img src="/other/kubernetes-community-days/icon/color/kubernetes-community-days-icon-color.svg" width="75"></td>
     </tr>
     <tr>
-        <th>black</th>
-        <td><img src="/other/kubernetes-community-days/black/kubernetes-community-days-black.png" width="320"></td>
-        <td><img src="/other/kubernetes-community-days/black/kubernetes-community-days-black.svg" width="320"></td>
+        <th>color</th>
+        <td><img src="/other/kubernetes-community-days/horizontal/black/kubernetes-community-days-horizontal-black.png" width="200"></td>
+        <td><img src="/other/kubernetes-community-days/stacked/black/kubernetes-community-days-stacked-black.png" width="95"></td>
+        <td><img src="/other/kubernetes-community-days/icon/black/kubernetes-community-days-icon-black.png" width="75"></td>
+        <td><img src="/other/kubernetes-community-days/horizontal/black/kubernetes-community-days-horizontal-black.svg" width="200"></td>
+        <td><img src="/other/kubernetes-community-days/stacked/black/kubernetes-community-days-stacked-black.svg" width="95"></td>
+        <td><img src="/other/kubernetes-community-days/icon/black/kubernetes-community-days-icon-black.svg" width="75"></td>
     </tr>
     <tr>
-        <th>white</th>
-        <td><img src="/other/kubernetes-community-days/white/kubernetes-community-days-white.png" width="320"></td>
-        <td><img src="/other/kubernetes-community-days/white/kubernetes-community-days-white.svg" width="320"></td>
-    </tr>
-	<tr></tr>
-	<tr>
-        <th>white-text</th>
-        <td><img src="/other/kubernetes-community-days/white-text/kubernetes-community-days-white-text.png" width="320"></td>
-        <td><img src="/other/kubernetes-community-days/white-text/kubernetes-community-days-white-text.svg" width="320"></td>
+        <th>color</th>
+        <td><img src="/other/kubernetes-community-days/horizontal/white/kubernetes-community-days-horizontal-white.png" width="200"></td>
+        <td><img src="/other/kubernetes-community-days/stacked/white/kubernetes-community-days-stacked-white.png" width="95"></td>
+        <td><img src="/other/kubernetes-community-days/icon/white/kubernetes-community-days-icon-white.png" width="75"></td>
+        <td><img src="/other/kubernetes-community-days/horizontal/white/kubernetes-community-days-horizontal-white.svg" width="200"></td>
+        <td><img src="/other/kubernetes-community-days/stacked/white/kubernetes-community-days-stacked-white.svg" width="95"></td>
+        <td><img src="/other/kubernetes-community-days/icon/white/kubernetes-community-days-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
