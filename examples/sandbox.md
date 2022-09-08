@@ -4213,10 +4213,10 @@
     <tr>
         <th>color</th>
         <td></td>
-        <td><img src="/projects/konveyor/stacked/konveyor-stacked-color.png" width="150"></td>
+        <td><img src="/projects/konveyor/icon/color/konveyor-icon-color.png" width="150"></td>
         <td></td>
         <td></td>
-        <td><img src="/projects/konveyor/stacked/konveyor-stacked-color.svg" width="150"></td>
+        <td><img src="/projects/konveyor/icon/color/konveyor-icon-color.svg" width="150"></td>
         <td></td>
     </tr>
     <tr>
