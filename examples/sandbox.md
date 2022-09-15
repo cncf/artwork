@@ -942,7 +942,6 @@
         <td><img src="/projects/serverless-devs/horizontal/color/serverless-devs-horizontal-color.svg" width="200"></td>
         <td><img src="/projects/serverless-devs/stacked/color/serverless-devs-stacked-color.svg" width="95"></td>
         <td><img src="/projects/serverless-devs/icon/color/serverless-devs-icon-color.svg" width="75"></td>
-    serverless-devs
     <tr>
         <th>black</th>
         <td><img src="/projects/serverless-devs/horizontal/black/serverless-devs-horizontal-black.png" width="200"></td>
