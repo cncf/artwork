@@ -914,6 +914,54 @@
     </tr>
     </table>
 
+#### Serverless Devs Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/serverless-devs/horizontal/color/serverless-devs-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/serverless-devs/stacked/color/serverless-devs-stacked-color.png" width="95"></td>
+        <td><img src="/projects/serverless-devs/icon/color/serverless-devs-icon-color.png" width="75"></td>
+        <td><img src="/projects/serverless-devs/horizontal/color/serverless-devs-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/serverless-devs/stacked/color/serverless-devs-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/serverless-devs/icon/color/serverless-devs-icon-color.svg" width="75"></td>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/serverless-devs/horizontal/black/serverless-devs-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/serverless-devs/stacked/black/serverless-devs-stacked-black.png" width="95"></td>
+        <td><img src="/projects/serverless-devs/icon/black/serverless-devs-icon-black.png" width="75"></td>
+        <td><img src="/projects/serverless-devs/horizontal/black/serverless-devs-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/serverless-devs/stacked/black/serverless-devs-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/serverless-devs/icon/black/serverless-devs-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/serverless-devs/horizontal/white/serverless-devs-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/serverless-devs/stacked/white/serverless-devs-stacked-white.png" width="95"></td>
+        <td><img src="/projects/serverless-devs/icon/white/serverless-devs-icon-white.png" width="75"></td>
+        <td><img src="/projects/serverless-devs/horizontal/white/serverless-devs-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/serverless-devs/stacked/white/serverless-devs-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/serverless-devs/icon/white/serverless-devs-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Longhorn Logos
 
 <table>
