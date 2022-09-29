@@ -4299,7 +4299,7 @@
         <th>icon</th>
     </tr>
     <tr>
-        <th>dark</th>
+        <th>black</th>
         <td></td>
         <td></td>
         <td></td>
@@ -4311,13 +4311,13 @@
         <th>color</th>
         <td></td>
         <td></td>
-        <td><img src="/projects/kured/icon/color/kured-icon-color.png" /></td>
-        <td></td>
+        <td><img src="/projects/kured/icon/kured-icon-color.png" width="75"></td>
+        <td><img src="/projects/kured/icon/kured-icon-color.svg" width="75"></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <th>light</th>
+        <th>white</th>
         <td></td>
         <td></td>
         <td></td>
