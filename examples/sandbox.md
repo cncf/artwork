@@ -4310,10 +4310,10 @@
     <tr>
         <th>color</th>
         <td></td>
-        <td></td>
         <td><img src="/projects/kured/icon/kured-icon-color.png" width="75"></td>
-        <td><img src="/projects/kured/icon/kured-icon-color.svg" width="75"></td>
         <td></td>
+        <td></td>
+        <td><img src="/projects/kured/icon/kured-icon-color.svg" width="75"></td>
         <td></td>
     </tr>
     <tr>
