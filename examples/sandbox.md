@@ -4280,6 +4280,7 @@
 
 #### Kured Logos
 
+
 <table>
     <tr>
         <th colspan="7"></th>
@@ -4302,29 +4303,29 @@
         <th>black</th>
         <td></td>
         <td></td>
+        <td><img src="/projects/kured/icon/kured-icon-black.png" width="100"></td>
         <td></td>
         <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td></td>
-        <td><img src="/projects/kured/icon/kured-icon-color.png" width="75"></td>
-        <td></td>
-        <td></td>
-        <td><img src="/projects/kured/icon/kured-icon-color.svg" width="75"></td>
-        <td></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
+        <td><img src="/projects/kured/icon/kured-icon-black.svg" width="100"></td>
+        </tr
+        <tr>
+      <th>color</th>
+      <td></td>
+      <td></td>
+      <td><img src="/projects/kured/icon/kured-icon-color.png" width="100"></td>
+      <td></td>
+      <td></td>
+      <td><img src="/projects/kured/icon/kured-icon-color.svg" width="100"></td>
+      </tr>
+      <tr>
+      <th>white</th>
+      <td></td>
+      <td></td>
+      <td><img src="/projects/kured/icon/kured-icon-white.png" width="100"></td>
+      <td></td>
+      <td></td>
+      <td><img src="/projects/kured/icon/kured-icon-white.svg" width="100"></td>
+      </tr>
 </table>
 
 #### ContainerSSH Logos
