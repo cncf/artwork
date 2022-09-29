@@ -131,6 +131,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Hexa](examples/sandbox.md#hexa-policy-orchestrator-logos)
   * [Konveyor](examples/sandbox.md#konveyor-logos)
   * [Kured](examples/sandbox.md#kured-logos)
+  * [ContainerSSH](examples/sandbox.md#containerssh-logos)
 * [Other CNCF Logos](examples/other.md)
   * [CNCF](examples/other.md#cncf-logos)
   * [Certification](examples/other.md#certification-logos) (CKA, CKAD, KCSP, KTP, KSS)
