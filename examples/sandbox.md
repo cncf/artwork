@@ -4303,28 +4303,28 @@
         <th>black</th>
         <td></td>
         <td></td>
-        <td><img src="/projects/kured/icon/kured-icon-black.png" width="100"></td>
+        <td><img src="/projects/kured/icon/black/kured-icon-black.png" width="100"></td>
         <td></td>
         <td></td>
-        <td><img src="/projects/kured/icon/kured-icon-black.svg" width="100"></td>
+        <td><img src="/projects/kured/icon/black/kured-icon-black.svg" width="100"></td>
         </tr
         <tr>
       <th>color</th>
       <td></td>
       <td></td>
-      <td><img src="/projects/kured/icon/kured-icon-color.png" width="100"></td>
+      <td><img src="/projects/kured/icon/color/kured-icon-color.png" width="100"></td>
       <td></td>
       <td></td>
-      <td><img src="/projects/kured/icon/kured-icon-color.svg" width="100"></td>
+      <td><img src="/projects/kured/icon/color/kured-icon-color.svg" width="100"></td>
       </tr>
       <tr>
       <th>white</th>
       <td></td>
       <td></td>
-      <td><img src="/projects/kured/icon/kured-icon-white.png" width="100"></td>
+      <td><img src="/projects/kured/icon/white/kured-icon-white.png" width="100"></td>
       <td></td>
       <td></td>
-      <td><img src="/projects/kured/icon/kured-icon-white.svg" width="100"></td>
+      <td><img src="/projects/kured/icon/white/kured-icon-white.svg" width="100"></td>
       </tr>
 </table>
 
