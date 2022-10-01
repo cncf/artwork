@@ -4302,21 +4302,21 @@
     <tr>
         <th>black</th>
         <td><img src="/projects/kured/horizontal/black/kured_horizontal-black.png" width="150"></td>
-        <td><img src="/projects/kured/stacked/black/kured_stacked-black.png" width="100"></td>
+        <td><img src="/projects/kured/stacked/black/kured_stacked-black.png" width="80"></td>
         <td><img src="/projects/kured/icon/black/kured-icon-black.png" width="100"></td>
-        <td><img src="/projects/kured/horizontal/black/kured_horizontal-black.svg" width="100"></td>
-        <td><img src="/projects/kured/stacked/black/kured_stacked-black.png" width="100"></td>
+        <td><img src="/projects/kured/horizontal/black/kured_horizontal-black.svg" width="150"></td>
+        <td><img src="/projects/kured/stacked/black/kured_stacked-black.png" width="80"></td>
         <td><img src="/projects/kured/icon/black/kured-icon-black.svg" width="100"></td>
         </tr
         <tr>
       <th>color</th>
-      <td></td>
-      <td></td>
+      <td><img src="/projects/kured/horizontal/color/kured_horizontal-color.png" width="150"></td>
+      <td><img src="/projects/kured/stacked/color/kured_stacked-color.png" width="80"></td>
       <td><img src="/projects/kured/icon/color/kured-icon-color.png" width="100"></td>
-      <td></td>
-      <td></td>
+      <td><img src="/projects/kured/horizontal/color/kured_horizontal-color.svg" width="150"></td>
+      <td><img src="/projects/kured/stacked/color/kured_stacked-color.png" width="80"></td>
       <td><img src="/projects/kured/icon/color/kured-icon-color.svg" width="100"></td>
-      </tr>
+      </tr
       <tr>
       <th>white</th>
       <td></td>
