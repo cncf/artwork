@@ -135,12 +135,12 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-color.png" width="200"></td>
-        <td><img src="/other/prometheus-certified-associate/stacked/color/PrometheusCertifiedAssociate-color.svg" width="95"></td>
+        <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-color.png" width="95"></td>
+        <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-color.svg" width="95"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/prometheus-certified-associate/horizontal/black/cncf-black.png" width="200"></td>
+      <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-black.png" width="95"></td>
         <td><img src="/other/prometheus-certified-associate/stacked/black/cncf-stacked-black.png" width="95"></td>
     </tr>
     <tr>
