@@ -4319,13 +4319,14 @@
       </tr
       <tr>
       <th>white</th>
-      <td></td>
-      <td></td>
+      <td><img src="/projects/kured/horizontal/white/kured_horizontal-white.png" width="150"></td>
+      <td><img src="/projects/kured/stacked/white/kured_stacked-white.png" width="80"></td>
       <td><img src="/projects/kured/icon/white/kured-icon-white.png" width="100"></td>
-      <td></td>
-      <td></td>
+      <td><img src="/projects/kured/horizontal/white/kured_horizontal-white.svg" width="150"></td>
+      <td><img src="/projects/kured/stacked/white/kured_stacked-white.png" width="80"></td>
       <td><img src="/projects/kured/icon/white/kured-icon-white.svg" width="100"></td>
-      </tr>
+      </tr
+      <tr>
 </table>
 
 #### ContainerSSH Logos
