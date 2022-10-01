@@ -135,18 +135,18 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-color.png" width="95"></td>
-        <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-color.svg" width="95"></td>
+        <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-color.png" width="125"></td>
+        <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-color.svg" width="125"></td>
     </tr>
     <tr>
         <th>black</th>
-      <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-black.png" width="95"></td>
-        <td><img src="/other/prometheus-certified-associate/stacked/black/cncf-stacked-black.png" width="95"></td>
+      <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-black.png" width="125"></td>
+        <td><img src="/other/prometheus-certified-associate/stacked/black/cncf-stacked-black.png" width="125"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/prometheus-certified-associate/horizontal/white/PrometheusCertifiedAssociate-white.png" width="200"></td>
-        <td><img src="/other/prometheus-certified-associate/stacked/white/cncf-stacked-white.png" width="95"></td>
+        <td><img src="/other/prometheus-certified-associate/white/PrometheusCertifiedAssociate-white.png" width="125"></td>
+        <td><img src="/other/prometheus-certified-associate/white/cncf-stacked-white.png" width="125"></td>
     </tr>
 </table>
 
