@@ -127,7 +127,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 #### Prometheus Certification Logos
 <table>
     <tr>
-    	<th colspan="3"></th>
+    	<th colspan="7"></th>
     </tr>
     <tr>
       <th></th>
