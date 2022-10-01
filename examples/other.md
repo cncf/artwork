@@ -127,16 +127,16 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 #### Prometheus Certification Logos
 <table>
     <tr>
-    	<th colspan="7"></th>
+    	<th colspan="4"></th>
     </tr>
     <tr>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
+        <th colspan="2">PNG</th>
+        <th colspan="1">SVG</th>
     </tr>
     <tr>
         <th>color</th>
         <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-color.png" width="200"></td>
-        <td><img src="/other/prometheus-certified-associate/stacked/color/cncf-stacked-color.png" width="95"></td>
+        <td><img src="/other/prometheus-certified-associate/stacked/color/PrometheusCertifiedAssociate-color.svg" width="95"></td>
     </tr>
     <tr>
         <th>black</th>
