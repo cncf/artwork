@@ -53,7 +53,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
 </table>
 
-#### Certification Logos
+#### Kubernetes Certification Logos
 
 <table>
     <tr><th colspan="13"></th></tr>
@@ -123,6 +123,36 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/kcna/white/kcna_white.svg" width="85"></td>
     </tr>
 </table>
+
+#### Prometheus Certification Logos
+
+<table>
+    <tr>
+    	<th colspan="3"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+
+    <tr>
+        <th>color</th>
+        <td><img src="/other/prometheus-certified-associate/horizontal/color/cncf-color.png" width="200"></td>
+        <td><img src="/other/prometheus-certified-associate/stacked/color/cncf-stacked-color.png" width="95"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/prometheus-certified-associate/horizontal/black/cncf-black.png" width="200"></td>
+        <td><img src="/other/prometheus-certified-associate/stacked/black/cncf-stacked-black.png" width="95"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/prometheus-certified-associate/horizontal/white/PrometheusCertifiedAssociate-white.png" width="200"></td>
+        <td><img src="/other/prometheus-certified-associate/stacked/white/cncf-stacked-white.png" width="95"></td>
+    </tr>
+</table>
+
 
 #### CNCF Member Logos
 
