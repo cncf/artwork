@@ -4301,11 +4301,11 @@
     </tr>
     <tr>
         <th>black</th>
-        <td></td>
-        <td></td>
+        <td><img src="/projects/kured/horizontal/black/kured-horizontal-black.png" width="150"></td>
+        <td><img src="/projects/kured/stacked/black/kured-stacked-black.png" width="100"></td>
         <td><img src="/projects/kured/icon/black/kured-icon-black.png" width="100"></td>
-        <td></td>
-        <td></td>
+        <td><img src="/projects/kured/horizontal/black/kured-horizontal-black.svg" width="100"></td>
+        <td><img src="/projects/kured/stacked/black/kured-stacked-black.png" width="100"></td>
         <td><img src="/projects/kured/icon/black/kured-icon-black.svg" width="100"></td>
         </tr
         <tr>
