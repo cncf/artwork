@@ -4418,6 +4418,55 @@
     </tr>
 </table>
 
+#### Kubewarden Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubewarden/horizontal/color/kubewarden.logo-hrztl_color.png" width="200"></td>
+        <td><img src="/projects/kubewarden/stacked/color/kubewarden.logo_color.png" width="95"></td>
+        <td><img src="/projects/kubewarden/icon/color/kubewarden.icon.png" width="75"></td>
+        <td><img src="/projects/kubewarden/horizontal/color/kubewarden.logo-hrztl_color.svg" width="200"></td>
+        <td><img src="/projects/kubewarden/stacked/color/kubewarden.logo_color.svg" width="95"></td>
+        <td><img src="/projects/kubewarden/icon/color/kubewarden.icon.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubewarden/horizontal/black/kubewarden.logo-hrztl_black.png" width="200"></td>
+        <td><img src="/projects/kubewarden/stacked/black/kubewarden.logo_black.png" width="95"></td>
+        <td><img src="/projects/kubewarden/icon/black/kubewarden.icon_black.png" width="75"></td>
+        <td><img src="/projects/kubewarden/horizontal/black/kubewarden.logo-hrztl_black.svg" width="200"></td>
+        <td><img src="/projects/kubewarden/stacked/black/kubewarden.logo_black.svg" width="95"></td>
+        <td><img src="/projects/kubewarden/icon/black/kubewarden.icon_black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubewarden/horizontal/white/kubewarden.logo-hrztl_white.inversed.png" width="200"></td>
+        <td><img src="/projects/kubewarden/stacked/white/kubewarden.logo_white.inversed.png" width="95"></td>
+        <td><img src="/projects/kubewarden/icon/white/kubewarden.icon_inversed.png" width="75"></td>
+        <td><img src="/projects/kubewarden/horizontal/white/kubewarden.logo-hrztl_white.inversed.svg" width="200"></td>
+        <td><img src="/projects/kubewarden/stacked/white/kubewarden.logo_white.inversed.svg" width="95"></td>
+        <td><img src="/projects/kubewarden/icon/white/kubewarden.icon_inversed.svg" width="75"></td>
+    </tr>
+</table>
+
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
