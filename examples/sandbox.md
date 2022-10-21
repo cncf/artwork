@@ -257,6 +257,55 @@
     </tr>
 </table>
 
+#### Armada Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+        <tr>
+        <th>color</th>
+        <td><img src="/projects/armada/horizontal/color/armada-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/armada/stacked/color/armada-stacked-color.png" width="95"></td>
+        <td><img src="/projects/armada/icon/color/armada-icon-color.png" width="75"></td>
+        <td><img src="/projects/armada/horizontal/color/armada-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/armada/stacked/color/armada-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/armada/icon/color/armada-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/armada/horizontal/black/armada-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/armada/stacked/black/armada-stacked-black.png" width="95"></td>
+        <td><img src="/projects/armada/icon/black/armada-icon-black.png" width="75"></td>
+        <td><img src="/projects/armada/horizontal/black/armada-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/armada/stacked/black/armada-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/armada/icon/black/armada-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/armada/horizontal/white/armada-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/armada/stacked/white/armada-stacked-white.png" width="95"></td>
+        <td><img src="/projects/armada/icon/white/armada-icon-white.png" width="75"></td>
+        <td><img src="/projects/armada/horizontal/white/armada-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/armada/stacked/white/armada-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/armada/icon/white/armada-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 
 
 
