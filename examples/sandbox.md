@@ -2472,55 +2472,6 @@
         </tr>
       </table>
 
-#### Kyverno Logos
-
-<table>
-    <tr>
-    	<th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/kyverno/horizontal/color/kyverno-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/kyverno/stacked/color/kyverno-stacked-color.png" width="150"></td>
-        <td><img src="/projects/kyverno/icon/color/kyverno-icon-color.png" width="75"></td>
-        <td><img src="/projects/kyverno/horizontal/color/kyverno-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/kyverno/stacked/color/kyverno-stacked-color.svg" width="150"></td>
-        <td><img src="/projects/kyverno/icon/color/kyverno-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/kyverno/horizontal/black/kyverno-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/kyverno/stacked/black/kyverno-stacked-black.png" width="150"></td>
-        <td><img src="/projects/kyverno/icon/black/kyverno-icon-black.png" width="75"></td>
-        <td><img src="/projects/kyverno/horizontal/black/kyverno-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/kyverno/stacked/black/kyverno-stacked-black.svg" width="150"></td>
-        <td><img src="/projects/kyverno/icon/black/kyverno-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/kyverno/horizontal/white/kyverno-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/kyverno/stacked/white/kyverno-stacked-white.png" width="150"></td>
-        <td><img src="/projects/kyverno/icon/white/kyverno-icon-white.png" width="75"></td>
-        <td><img src="/projects/kyverno/horizontal/white/kyverno-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/kyverno/stacked/white/kyverno-stacked-white.svg" width="150"></td>
-        <td><img src="/projects/kyverno/icon/white/kyverno-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### Curiefense Logos
 
 <table>
