@@ -1376,6 +1376,43 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
     </table>
 
 
+#### Descheduler Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/descheduler/horizontal/color/descheduler-horizontal-color.png" width="100"></td>
+        <td><img src="/other/descheduler/stacked/color/descheduler-stacked-color.png" width="100"></td>
+        <td><img src="/other/descheduler/icon/color/descheduler-icon-color.png" width="100"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/descheduler/horizontal/black/descheduler-horizontal-black.png" width="100"></td>
+        <td><img src="/other/descheduler/stacked/black/descheduler-stacked-black.png" width="100"></td>
+        <td><img src="/other/descheduler/icon/black/descheduler-icon-black.png" width="100"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/descheduler/horizontal/white/descheduler-horizontal-white.png" width="100"></td>
+        <td><img src="/other/descheduler/stacked/white/descheduler-stacked-white.png" width="100"></td>
+        <td><img src="/other/descheduler/icon/white/descheduler-icon-white.png" width="100"></td>
+    </tr>
+</table>
+
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are only available for use with [conformant](https://www.cncf.io/certification/software-conformance/) implementations and must comply with the [brand guidelines](/projects/kubernetes/certified-kubernetes/certified-kubernetes-brand-guide.pdf).
