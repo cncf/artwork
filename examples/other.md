@@ -258,6 +258,36 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 
 ### KubeCon + CloudNativeCon Logos
 
+
+#### Europe 2023 Logos
+
+<table>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr><tr></tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/kubecon-cloudnativecon/2023-eu/color/kccnc-eu-2023-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2023-eu/color/kccnc-eu-2023-color.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/kubecon-cloudnativecon/2023-eu/black/kccnc-eu-2023-black.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2023-eu/black/kccnc-eu-2023-black.svg" width="260"></td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/kubecon-cloudnativecon/2023-eu/white/kccnc-eu-2023-white.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2023-eu/white/kccnc-eu-2023-whites.svg" width="260"></td>
+    </tr>
+</table>
+
+
+
 #### North America 2022 Logos
 
 <table>
