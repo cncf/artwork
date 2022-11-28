@@ -4467,6 +4467,42 @@
     </tr>
 </table>
 
+#### Carvel Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/carvel/horizontal/color/carvel-horizontal-gray.png" width="200"></td>
+        <td><img src="/projects/carvel/stacked/color/carvel-stacked-gray.png" width="200"></td>
+        <td><img src="/projects/carvel/icon/color/carvel-icon-color.png" width="75"></td>
+        <td><img src="/projects/carvel/horizontal/color/carvel-horizontal-gray.svg" width="200"></td>
+        <td><img src="/projects/carvel/stacked/color/carvel-stacked-gray.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/carvel/horizontal/white/carvel-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/carvel/stacked/white/carvel-stacked-white.png" width="200"></td>
+        <td><img src="/projects/carvel/horizontal/white/carvel-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/carvel/stacked/white/carvel-stacked-white.svg" width="200"></td>
+    </tr>
+</table>
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
