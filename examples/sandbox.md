@@ -718,6 +718,55 @@
     </tr>
 </table>
 
+#### Flux Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/flux/horizontal/color/flux-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/flux/stacked/color/flux-stacked-color.png" width="95"></td>
+        <td><img src="/projects/flux/icon/color/flux-icon-color.png" width="75"></td>
+        <td><img src="/projects/flux/horizontal/color/flux-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/flux/stacked/color/flux-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/flux/icon/color/flux-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/flux/horizontal/black/flux-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/flux/stacked/black/flux-stacked-black.png" width="95"></td>
+        <td><img src="/projects/flux/icon/black/flux-icon-black.png" width="75"></td>
+        <td><img src="/projects/flux/horizontal/black/flux-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/flux/stacked/black/flux-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/flux/icon/black/flux-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/flux/horizontal/white/flux-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/flux/stacked/white/flux-stacked-white.png" width="95"></td>
+        <td><img src="/projects/flux/icon/white/flux-icon-white.png" width="75"></td>
+        <td><img src="/projects/flux/horizontal/white/flux-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/flux/stacked/white/flux-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/flux/icon/white/flux-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Strimzi Logos
 
 <table>
@@ -2518,6 +2567,55 @@
         <td><img src="/projects/athenz/horizontal/white/athenz-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/athenz/stacked/white/athenz-stacked-white.svg" width="95"></td>
         <td><img src="/projects/athenz/icon/white/athenz-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### Flagger Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/flux/flagger/horizontal/color/flagger-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/flux/flagger/stacked/color/flagger-stacked-color.png" width="95"></td>
+        <td><img src="/projects/flux/flagger/icon/color/flagger-icon-color.png" width="75"></td>
+        <td><img src="/projects/flux/flagger/horizontal/color/flagger-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/flux/flagger/stacked/color/flagger-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/flux/flagger/icon/color/flagger-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/flux/flagger/horizontal/black/flagger-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/flux/flagger/stacked/black/flagger-stacked-black.png" width="95"></td>
+        <td><img src="/projects/flux/flagger/icon/black/flagger-icon-black.png" width="75"></td>
+        <td><img src="/projects/flux/flagger/horizontal/black/flagger-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/flux/flagger/stacked/black/flagger-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/flux/flagger/icon/black/flagger-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/flux/flagger/horizontal/white/flagger-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/flux/flagger/stacked/white/flagger-stacked-white.png" width="95"></td>
+        <td><img src="/projects/flux/flagger/icon/white/flagger-icon-white.png" width="75"></td>
+        <td><img src="/projects/flux/flagger/horizontal/white/flagger-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/flux/flagger/stacked/white/flagger-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/flux/flagger/icon/white/flagger-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
@@ -4390,7 +4488,6 @@
         <th>icon</th>
     </tr>
     <tr>
-<<<<<<< HEAD
         <th>black</th>
         <td><img src="/projects/carvel/horizontal/black/carvel-horizontal-black.png" width="150"></td>
         <td><img src="/projects/carvel/stacked/black/carvel-stacked-black.png" width="80"></td>
@@ -4398,42 +4495,26 @@
         <td><img src="/projects/carvel/horizontal/black/carvel-horizontal-black.svg" width="150"></td>
         <td><img src="/projects/carvel/stacked/black/carvel-stacked-black.png" width="80"></td>
         <td><img src="/projects/carvel/icon/black/carvel-icon-black.svg" width="100"></td>
-        </tr
-        <tr>
-      <th>color</th>
-      <td><img src="/projects/carvel/horizontal/color/carvel-horizontal-color.png" width="150"></td>
-      <td><img src="/projects/carvel/stacked/color/carvel-stacked-color.png" width="80"></td>
-      <td><img src="/projects/carvel/icon/color/carvel-icon-color.png" width="100"></td>
-      <td><img src="/projects/carvel/horizontal/color/carvel-horizontal-color.svg" width="150"></td>
-      <td><img src="/projects/carvel/stacked/color/carvel-stacked-color.png" width="80"></td>
-      <td><img src="/projects/carvel/icon/color/carvel-icon-color.svg" width="100"></td>
-      </tr
-      <tr>
-      <th>white</th>
-      <td><img src="/projects/carvel/horizontal/white/carvel-horizontal-white.png" width="150"></td>
-      <td><img src="/projects/carvel/stacked/white/carvel-stacked-white.png" width="80"></td>
-      <td><img src="/projects/carvel/icon/white/carvel-icon-white.png" width="100"></td>
-      <td><img src="/projects/carvel/horizontal/white/carvel-horizontal-white.svg" width="150"></td>
-      <td><img src="/projects/carvel/stacked/white/carvel-stacked-white.png" width="80"></td>
-      <td><img src="/projects/carvel/icon/white/carvel-icon-white.svg" width="100"></td>
-      </tr>
-      <tr>
-=======
+    </tr
+    <tr>
         <th>color</th>
-        <td><img src="/projects/carvel/horizontal/color/carvel-horizontal-gray.png" width="200"></td>
-        <td><img src="/projects/carvel/stacked/color/carvel-stacked-gray.png" width="200"></td>
-        <td><img src="/projects/carvel/icon/color/carvel-icon-color.png" width="75"></td>
-        <td><img src="/projects/carvel/horizontal/color/carvel-horizontal-gray.svg" width="200"></td>
-        <td><img src="/projects/carvel/stacked/color/carvel-stacked-gray.svg" width="200"></td>
-    </tr>
+        <td><img src="/projects/carvel/horizontal/color/carvel-horizontal-color.png" width="150"></td>
+        <td><img src="/projects/carvel/stacked/color/carvel-stacked-color.png" width="80"></td>
+        <td><img src="/projects/carvel/icon/color/carvel-icon-color.png" width="100"></td>
+        <td><img src="/projects/carvel/horizontal/color/carvel-horizontal-color.svg" width="150"></td>
+        <td><img src="/projects/carvel/stacked/color/carvel-stacked-color.png" width="80"></td>
+        <td><img src="/projects/carvel/icon/color/carvel-icon-color.svg" width="100"></td>
+    </tr
     <tr>
         <th>white</th>
-        <td><img src="/projects/carvel/horizontal/white/carvel-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/carvel/stacked/white/carvel-stacked-white.png" width="200"></td>
-        <td><img src="/projects/carvel/horizontal/white/carvel-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/carvel/stacked/white/carvel-stacked-white.svg" width="200"></td>
+        <td><img src="/projects/carvel/horizontal/white/carvel-horizontal-white.png" width="150"></td>
+        <td><img src="/projects/carvel/stacked/white/carvel-stacked-white.png" width="80"></td>
+        <td><img src="/projects/carvel/icon/white/carvel-icon-white.png" width="100"></td>
+        <td><img src="/projects/carvel/horizontal/white/carvel-horizontal-white.svg" width="150"></td>
+        <td><img src="/projects/carvel/stacked/white/carvel-stacked-white.png" width="80"></td>
+        <td><img src="/projects/carvel/icon/white/carvel-icon-white.svg" width="100"></td>
     </tr>
->>>>>>> 728c22e0510e2795c0efdec5480998dd59bf64e3
+    <tr>
 </table>
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
