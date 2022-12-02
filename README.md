@@ -57,7 +57,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Crossplane](examples/sandbox.md#crossplane-logos)
   * [CubeFS](examples/sandbox.md#cubefs-logos)
   * [in-toto](examples/sandbox.md#in-toto-logos)
-  * [Istio](examples/sandbox.md#istio-logos)
+  * [Istio](examples/incubating.md#istio-logos)
   * [Keptn](examples/sandbox.md#keptn-logos)
   * [KubeVirt](examples/sandbox.md#kubevirt-logos)
   * [Kyverno](examples/sandbox.md#kyverno-logos)
