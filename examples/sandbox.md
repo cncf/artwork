@@ -4390,6 +4390,35 @@
         <th>icon</th>
     </tr>
     <tr>
+<<<<<<< HEAD
+        <th>black</th>
+        <td><img src="/projects/carvel/horizontal/black/carvel-horizontal-black.png" width="150"></td>
+        <td><img src="/projects/carvel/stacked/black/carvel-stacked-black.png" width="80"></td>
+        <td><img src="/projects/carvel/icon/black/carvel-icon-black.png" width="100"></td>
+        <td><img src="/projects/carvel/horizontal/black/carvel-horizontal-black.svg" width="150"></td>
+        <td><img src="/projects/carvel/stacked/black/carvel-stacked-black.png" width="80"></td>
+        <td><img src="/projects/carvel/icon/black/carvel-icon-black.svg" width="100"></td>
+        </tr
+        <tr>
+      <th>color</th>
+      <td><img src="/projects/carvel/horizontal/color/carvel-horizontal-color.png" width="150"></td>
+      <td><img src="/projects/carvel/stacked/color/carvel-stacked-color.png" width="80"></td>
+      <td><img src="/projects/carvel/icon/color/carvel-icon-color.png" width="100"></td>
+      <td><img src="/projects/carvel/horizontal/color/carvel-horizontal-color.svg" width="150"></td>
+      <td><img src="/projects/carvel/stacked/color/carvel-stacked-color.png" width="80"></td>
+      <td><img src="/projects/carvel/icon/color/carvel-icon-color.svg" width="100"></td>
+      </tr
+      <tr>
+      <th>white</th>
+      <td><img src="/projects/carvel/horizontal/white/carvel-horizontal-white.png" width="150"></td>
+      <td><img src="/projects/carvel/stacked/white/carvel-stacked-white.png" width="80"></td>
+      <td><img src="/projects/carvel/icon/white/carvel-icon-white.png" width="100"></td>
+      <td><img src="/projects/carvel/horizontal/white/carvel-horizontal-white.svg" width="150"></td>
+      <td><img src="/projects/carvel/stacked/white/carvel-stacked-white.png" width="80"></td>
+      <td><img src="/projects/carvel/icon/white/carvel-icon-white.svg" width="100"></td>
+      </tr>
+      <tr>
+=======
         <th>color</th>
         <td><img src="/projects/carvel/horizontal/color/carvel-horizontal-gray.png" width="200"></td>
         <td><img src="/projects/carvel/stacked/color/carvel-stacked-gray.png" width="200"></td>
@@ -4404,6 +4433,7 @@
         <td><img src="/projects/carvel/horizontal/white/carvel-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/carvel/stacked/white/carvel-stacked-white.svg" width="200"></td>
     </tr>
+>>>>>>> 728c22e0510e2795c0efdec5480998dd59bf64e3
 </table>
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
