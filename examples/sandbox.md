@@ -4517,6 +4517,56 @@
     <tr>
 </table>
 
+#### Paralus Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/paralus/horizontal/black/paralus-horizontal-black.png" width="150"></td>
+        <td><img src="/projects/paralus/stacked/black/paralus-stacked-black.png" width="80"></td>
+        <td><img src="/projects/paralus/icon/black/paralus-icon-black.png" width="100"></td>
+        <td><img src="/projects/paralus/horizontal/black/paralus-horizontal-black.svg" width="150"></td>
+        <td><img src="/projects/paralus/stacked/black/paralus-stacked-black.svg" width="80"></td>
+        <td><img src="/projects/paralus/icon/black/paralus-icon-black.svg" width="100"></td>
+    </tr
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/paralus/horizontal/color/paralus-horizontal-color.png" width="150"></td>
+        <td><img src="/projects/paralus/stacked/color/paralus-stacked-color.png" width="80"></td>
+        <td><img src="/projects/paralus/icon/color/paralus-icon-color.png" width="100"></td>
+        <td><img src="/projects/paralus/horizontal/color/paralus-horizontal-color.svg" width="150"></td>
+        <td><img src="/projects/paralus/stacked/color/paralus-stacked-color.svg" width="80"></td>
+        <td><img src="/projects/paralus/icon/color/paralus-icon-color.svg" width="100"></td>
+    </tr
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/paralus/horizontal/white/paralus-horizontal-white.png" width="150"></td>
+        <td><img src="/projects/paralus/stacked/white/paralus-stacked-white.png" width="80"></td>
+        <td><img src="/projects/paralus/icon/white/paralus-icon-white.png" width="100"></td>
+        <td><img src="/projects/paralus/horizontal/white/paralus-horizontal-white.svg" width="150"></td>
+        <td><img src="/projects/paralus/stacked/white/paralus-stacked-white.svg" width="80"></td>
+        <td><img src="/projects/paralus/icon/white/paralus-icon-white.svg" width="100"></td>
+    </tr>
+    <tr>
+</table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
