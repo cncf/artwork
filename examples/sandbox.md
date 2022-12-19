@@ -513,55 +513,6 @@
     </tr>
 </table>
 
-#### Brigade Logos
-
-<table>
-    <tr>
-    	<th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/brigade/horizontal/color/brigade-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/brigade/stacked/color/brigade-stacked-color.png" width="95"></td>
-        <td><img src="/projects/brigade/icon/color/brigade-icon-color.png" width="75"></td>
-        <td><img src="/projects/brigade/horizontal/color/brigade-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/brigade/stacked/color/brigade-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/brigade/icon/color/brigade-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/brigade/horizontal/black/brigade-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/brigade/stacked/black/brigade-stacked-black.png" width="95"></td>
-        <td><img src="/projects/brigade/icon/black/brigade-icon-black.png" width="75"></td>
-        <td><img src="/projects/brigade/horizontal/black/brigade-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/brigade/stacked/black/brigade-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/brigade/icon/black/brigade-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/brigade/horizontal/white/brigade-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/brigade/stacked/white/brigade-stacked-white.png" width="95"></td>
-        <td><img src="/projects/brigade/icon/white/brigade-icon-white.png" width="75"></td>
-        <td><img src="/projects/brigade/horizontal/white/brigade-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/brigade/stacked/white/brigade-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/brigade/icon/white/brigade-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### KubeEdge Logos
 
 <table>
@@ -3926,7 +3877,24 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
         <td><img src="/projects/devstream/horizontal/color/devstream-horizontal-color.png" width="200"></td>
         <td><img src="/projects/devstream/stacked/color/devstream-stacked-color.png" width="95"></td>
         <td><img src="/projects/devstream/icon/color/devstream-icon-color.png" width="75"></td>
@@ -4015,6 +3983,16 @@
         <th colspan="3">SVG</th>
     </tr>
     <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
         <td><img src="/projects/opencost/horizontal/color/Opencost_Horizontal_Color.png" width="200"></td>
         <td><img src="/projects/opencost/stacked/color/Opencost_Stacked_Color.png" width="95"></td>
         <td><img src="/projects/opencost/icon/color/Opencost_Icon_Color.png" width="75"></td>
