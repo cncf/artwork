@@ -4637,15 +4637,6 @@
         <th>icon</th>
     </tr>
     <tr>
-        <th>dark</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
         <th>color</th>
         <td></td>
         <td><img src="/projects/kubescape/stacked/color/kubescape-stacked-color.png" width="95" /></td>
@@ -4655,7 +4646,16 @@
         <td><img src="/projects/kubescape/icon/color/kubescape-icon-color.svg" width="75" /></td>
     </tr>
     <tr>
-        <th>light</th>
+        <th>black</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>white</th>
         <td></td>
         <td></td>
         <td></td>
