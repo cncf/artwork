@@ -4616,6 +4616,55 @@
     </tr>
     </table>
 
+#### Kubescape Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>dark</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td></td>
+        <td><img src="/projects/kubescape/horizontal/color/kubescape-stacked-color.png" width="95" /></td>
+        <td><img src="/projects/kubescape/icon/color/kubescape-icon-color.png" width="75" /></td>
+        <td></td>
+        <td><img src="/projects/kubescape/horizontal/color/kubescape-stacked-color.svg" width="95" /></td>
+        <td><img src="/projects/kubescape/icon/color/kubescape-icon-color.svg" width="75" /></td>
+    </tr>
+    <tr>
+        <th>light</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
