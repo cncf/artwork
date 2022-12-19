@@ -4648,10 +4648,10 @@
     <tr>
         <th>color</th>
         <td></td>
-        <td><img src="/projects/kubescape/horizontal/color/kubescape-stacked-color.png" width="95" /></td>
+        <td><img src="/projects/kubescape/stacked/color/kubescape-stacked-color.png" width="95" /></td>
         <td><img src="/projects/kubescape/icon/color/kubescape-icon-color.png" width="75" /></td>
         <td></td>
-        <td><img src="/projects/kubescape/horizontal/color/kubescape-stacked-color.svg" width="95" /></td>
+        <td><img src="/projects/kubescape/stacked/color/kubescape-stacked-color.svg" width="95" /></td>
         <td><img src="/projects/kubescape/icon/color/kubescape-icon-color.svg" width="75" /></td>
     </tr>
     <tr>
