@@ -27,6 +27,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [SPIRE](examples/incubating.md#spire-logos)
   * [Flux](examples/graduated.md#flux-logos)
   * [Flagger](examples/graduated.md#flagger-logos)
+  * [Argo](examples/graduated.md#argo-logos)
 * [Incubating Projects](examples/incubating.md)
   * [gRPC](examples/incubating.md#grpc-logos)
   * [CNI](examples/incubating.md#cni-logos)
@@ -35,7 +36,6 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [CRI-O](examples/incubating.md#cri-o-logos)
   * [CloudEvents](examples/incubating.md#cloudevents-logos)
   * [Falco](examples/incubating.md#falco-logos)
-  * [Argo](examples/incubating.md#argo-logos)
   * [Dragonfly](examples/incubating.md#dragonfly-logos)
   * [Contour](examples/incubating.md#contour-logos)
   * [Operator Framework](examples/incubating.md#operator-framework-logos)
@@ -72,7 +72,6 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Telepresence](examples/sandbox.md#telepresence-logos)
   * [Teller](examples/sandbox.md#teller-logos)
   * [Virtual Kubelet](examples/sandbox.md#virtual-kubelet-logos)
-  * [Brigade](examples/sandbox.md#brigrade-logos)
   * [Network Service Mesh](examples/sandbox.md#network-service-mesh-logos)
   * [OpenEBS](examples/sandbox.md#openebs-logos)
   * [Strimzi](examples/sandbox.md#strimzi-logos)
@@ -172,6 +171,8 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
 * [Archived Projects](examples/archived.md)
   * [rkt](examples/archived.md#rkt-logos)
   * [OpenTracing](examples/archived.md#opentracing-logos)
+  * [Brigade](examples/archived.md#brigade-logos)
+
 
 ## CNCF Brand Guidelines
 
