@@ -483,56 +483,6 @@
     </tr>
 </table>
 
-
-#### Argo Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/argo/horizontal/color/argo-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/argo/stacked/color/argo-stacked-color.png" width="95"></td>
-        <td><img src="/projects/argo/icon/color/argo-icon-color.png" width="75"></td>
-        <td><img src="/projects/argo/horizontal/color/argo-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/argo/stacked/color/argo-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/argo/icon/color/argo-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/argo/horizontal/black/argo-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/argo/stacked/black/argo-stacked-black.png" width="95"></td>
-        <td><img src="/projects/argo/icon/black/argo-icon-black.png" width="75"></td>
-        <td><img src="/projects/argo/horizontal/black/argo-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/argo/stacked/black/argo-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/argo/icon/black/argo-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/argo/horizontal/white/argo-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/argo/stacked/white/argo-stacked-white.png" width="95"></td>
-        <td><img src="/projects/argo/icon/white/argo-icon-white.png" width="75"></td>
-        <td><img src="/projects/argo/horizontal/white/argo-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/argo/stacked/white/argo-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/argo/icon/white/argo-icon-white.svg" width="75"></td>
-    </tr>
-    </table>
-
 #### Dragonfly Logos
 
 <table>
@@ -831,105 +781,6 @@
     </tr>
 </table>
 
-
-#### Flux Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/flux/horizontal/color/flux-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/flux/stacked/color/flux-stacked-color.png" width="95"></td>
-        <td><img src="/projects/flux/icon/color/flux-icon-color.png" width="75"></td>
-        <td><img src="/projects/flux/horizontal/color/flux-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/flux/stacked/color/flux-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/flux/icon/color/flux-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/flux/horizontal/black/flux-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/flux/stacked/black/flux-stacked-black.png" width="95"></td>
-        <td><img src="/projects/flux/icon/black/flux-icon-black.png" width="75"></td>
-        <td><img src="/projects/flux/horizontal/black/flux-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/flux/stacked/black/flux-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/flux/icon/black/flux-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/flux/horizontal/white/flux-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/flux/stacked/white/flux-stacked-white.png" width="95"></td>
-        <td><img src="/projects/flux/icon/white/flux-icon-white.png" width="75"></td>
-        <td><img src="/projects/flux/horizontal/white/flux-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/flux/stacked/white/flux-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/flux/icon/white/flux-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
-#### Flagger Logos (a subproject of Flux)
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/flux/flagger/horizontal/color/flagger-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/flux/flagger/stacked/color/flagger-stacked-color.png" width="95"></td>
-        <td><img src="/projects/flux/flagger/icon/color/flagger-icon-color.png" width="75"></td>
-        <td><img src="/projects/flux/flagger/horizontal/color/flagger-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/flux/flagger/stacked/color/flagger-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/flux/flagger/icon/color/flagger-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/flux/flagger/horizontal/black/flagger-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/flux/flagger/stacked/black/flagger-stacked-black.png" width="95"></td>
-        <td><img src="/projects/flux/flagger/icon/black/flagger-icon-black.png" width="75"></td>
-        <td><img src="/projects/flux/flagger/horizontal/black/flagger-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/flux/flagger/stacked/black/flagger-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/flux/flagger/icon/black/flagger-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/flux/flagger/horizontal/white/flagger-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/flux/flagger/stacked/white/flagger-stacked-white.png" width="95"></td>
-        <td><img src="/projects/flux/flagger/icon/white/flagger-icon-white.png" width="75"></td>
-        <td><img src="/projects/flux/flagger/horizontal/white/flagger-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/flux/flagger/stacked/white/flagger-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/flux/flagger/icon/white/flagger-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### Emissary-Ingress Logos
 
 <table>
@@ -1217,6 +1068,12 @@
             <th>icon</th>
         </tr>
         <tr>
+            <th>black</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>        <tr>
             <th>color</th>
             <td><img src="/projects/istio/stacked/color/istio-stacked-color.png" width="95"></td>
             <td><img src="/projects/istio/icon/color/istio-icon-color.png" width="75"></td>
