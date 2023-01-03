@@ -4616,30 +4616,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td></td>
-        <td><img src="/projects/kubescape/stacked/color/kubescape-stacked-color.png" width="95" /></td>
-        <td><img src="/projects/kubescape/icon/color/kubescape-icon-color.png" width="75" /></td>
-        <td></td>
-        <td><img src="/projects/kubescape/stacked/color/kubescape-stacked-color.svg" width="95" /></td>
-        <td><img src="/projects/kubescape/icon/color/kubescape-icon-color.svg" width="75" /></td>
+        <td><img src="/projects/kubescape/horizontal/color/kubescape-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubescape/stacked/color/kubescape-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubescape/icon/color/kubescape-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubescape/horizontal/color/kubescape-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubescape/stacked/color/kubescape-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubescape/icon/color/kubescape-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><img src="/projects/kubescape/horizontal/black/kubescape-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubescape/stacked/black/kubescape-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubescape/icon/black/kubescape-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubescape/horizontal/black/kubescape-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubescape/stacked/black/kubescape-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubescape/icon/black/kubescape-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><img src="/projects/kubescape/horizontal/white/kubescape-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubescape/stacked/white/kubescape-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubescape/icon/white/kubescape-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubescape/horizontal/white/kubescape-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubescape/stacked/white/kubescape-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubescape/icon/white/kubescape-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
