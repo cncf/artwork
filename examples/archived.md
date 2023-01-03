@@ -24,30 +24,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/rkt/horizontal/color/rkt-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/rkt/stacked/color/rkt-stacked-color.png" width="95"></td>
-        <td><img src="/projects/rkt/icon/color/rkt-icon-color.png" width="75"></td>
-        <td><img src="/projects/rkt/horizontal/color/rkt-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/rkt/stacked/color/rkt-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/rkt/icon/color/rkt-icon-color.svg" width="75"></td>
+        <td><img src="/archived/rkt/horizontal/color/rkt-horizontal-color.png" width="200"></td>
+        <td><img src="/archived/rkt/stacked/color/rkt-stacked-color.png" width="95"></td>
+        <td><img src="/archived/rkt/icon/color/rkt-icon-color.png" width="75"></td>
+        <td><img src="/archived/rkt/horizontal/color/rkt-horizontal-color.svg" width="200"></td>
+        <td><img src="/archived/rkt/stacked/color/rkt-stacked-color.svg" width="95"></td>
+        <td><img src="/archived/rkt/icon/color/rkt-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/rkt/horizontal/black/rkt-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/rkt/stacked/black/rkt-stacked-black.png" width="95"></td>
-        <td><img src="/projects/rkt/icon/black/rkt-icon-black.png" width="75"></td>
-        <td><img src="/projects/rkt/horizontal/black/rkt-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/rkt/stacked/black/rkt-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/rkt/icon/black/rkt-icon-black.svg" width="75"></td>
+        <td><img src="/archived/rkt/horizontal/black/rkt-horizontal-black.png" width="200"></td>
+        <td><img src="/archived/rkt/stacked/black/rkt-stacked-black.png" width="95"></td>
+        <td><img src="/archived/rkt/icon/black/rkt-icon-black.png" width="75"></td>
+        <td><img src="/archived/rkt/horizontal/black/rkt-horizontal-black.svg" width="200"></td>
+        <td><img src="/archived/rkt/stacked/black/rkt-stacked-black.svg" width="95"></td>
+        <td><img src="/archived/rkt/icon/black/rkt-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/rkt/horizontal/white/rkt-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/rkt/stacked/white/rkt-stacked-white.png" width="95"></td>
-        <td><img src="/projects/rkt/icon/white/rkt-icon-white.png" width="75"></td>
-        <td><img src="/projects/rkt/horizontal/white/rkt-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/rkt/stacked/white/rkt-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/rkt/icon/white/rkt-icon-white.svg" width="75"></td>
+        <td><img src="/archived/rkt/horizontal/white/rkt-horizontal-white.png" width="200"></td>
+        <td><img src="/archived/rkt/stacked/white/rkt-stacked-white.png" width="95"></td>
+        <td><img src="/archived/rkt/icon/white/rkt-icon-white.png" width="75"></td>
+        <td><img src="/archived/rkt/horizontal/white/rkt-horizontal-white.svg" width="200"></td>
+        <td><img src="/archived/rkt/stacked/white/rkt-stacked-white.svg" width="95"></td>
+        <td><img src="/archived/rkt/icon/white/rkt-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
@@ -73,30 +73,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/opentracing/horizontal/color/opentracing-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/opentracing/stacked/color/opentracing-stacked-color.png" width="95"></td>
-        <td><img src="/projects/opentracing/icon/color/opentracing-icon-color.png" width="75"></td>
-        <td><img src="/projects/opentracing/horizontal/color/opentracing-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/opentracing/stacked/color/opentracing-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/opentracing/icon/color/opentracing-icon-color.svg" width="75"></td>
+        <td><img src="/archived/opentracing/horizontal/color/opentracing-horizontal-color.png" width="200"></td>
+        <td><img src="/archived/opentracing/stacked/color/opentracing-stacked-color.png" width="95"></td>
+        <td><img src="/archived/opentracing/icon/color/opentracing-icon-color.png" width="75"></td>
+        <td><img src="/archived/opentracing/horizontal/color/opentracing-horizontal-color.svg" width="200"></td>
+        <td><img src="/archived/opentracing/stacked/color/opentracing-stacked-color.svg" width="95"></td>
+        <td><img src="/archived/opentracing/icon/color/opentracing-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/opentracing/horizontal/black/opentracing-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/opentracing/stacked/black/opentracing-stacked-black.png" width="95"></td>
-        <td><img src="/projects/opentracing/icon/black/opentracing-icon-black.png" width="75"></td>
-        <td><img src="/projects/opentracing/horizontal/black/opentracing-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/opentracing/stacked/black/opentracing-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/opentracing/icon/black/opentracing-icon-black.svg" width="75"></td>
+        <td><img src="/archived/opentracing/horizontal/black/opentracing-horizontal-black.png" width="200"></td>
+        <td><img src="/archived/opentracing/stacked/black/opentracing-stacked-black.png" width="95"></td>
+        <td><img src="/archived/opentracing/icon/black/opentracing-icon-black.png" width="75"></td>
+        <td><img src="/archived/opentracing/horizontal/black/opentracing-horizontal-black.svg" width="200"></td>
+        <td><img src="/archived/opentracing/stacked/black/opentracing-stacked-black.svg" width="95"></td>
+        <td><img src="/archived/opentracing/icon/black/opentracing-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/opentracing/horizontal/white/opentracing-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/opentracing/stacked/white/opentracing-stacked-white.png" width="95"></td>
-        <td><img src="/projects/opentracing/icon/white/opentracing-icon-white.png" width="75"></td>
-        <td><img src="/projects/opentracing/horizontal/white/opentracing-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/opentracing/stacked/white/opentracing-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/opentracing/icon/white/opentracing-icon-white.svg" width="75"></td>
+        <td><img src="/archived/opentracing/horizontal/white/opentracing-horizontal-white.png" width="200"></td>
+        <td><img src="/archived/opentracing/stacked/white/opentracing-stacked-white.png" width="95"></td>
+        <td><img src="/archived/opentracing/icon/white/opentracing-icon-white.png" width="75"></td>
+        <td><img src="/archived/opentracing/horizontal/white/opentracing-horizontal-white.svg" width="200"></td>
+        <td><img src="/archived/opentracing/stacked/white/opentracing-stacked-white.svg" width="95"></td>
+        <td><img src="/archived/opentracing/icon/white/opentracing-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
