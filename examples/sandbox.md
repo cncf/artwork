@@ -4229,30 +4229,30 @@
     </tr>
     <tr>
         <th>dark</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><img src="/projects/konveyor/horizontal/black/konveyor-horizontal-black.png" width="250"></td>
+        <td><img src="/projects/konveyor/stacked/black/konveyor-stacked-black.png" width="150"></td>
+        <td><img src="/projects/konveyor/icon/black/konveyor-icon-black.png" width="150"></td>
+        <td><img src="/projects/konveyor/horizontal/black/konveyor-horizontal-black.svg" width="250"></td>
+        <td><img src="/projects/konveyor/stacked/black/konveyor-stacked-black.svg" width="150"></td>
+        <td><img src="/projects/konveyor/icon/black/konveyor-icon-black.svg" width="150"></td>
     </tr>
     <tr>
         <th>color</th>
-        <td></td>
+        <td><img src="/projects/konveyor/horizontal/color/konveyor-horizontal-color.png" width="250"></td>
+        <td><img src="/projects/konveyor/stacked/color/konveyor-stacked-color-v2.png" width="150"></td>
         <td><img src="/projects/konveyor/icon/color/konveyor-icon-color.png" width="150"></td>
-        <td></td>
-        <td></td>
+        <td><img src="/projects/konveyor/horizontal/color/konveyor-horizontal-color.svg" width="250"></td>
+        <td><img src="/projects/konveyor/stacked/color/konveyor-stacked-color-v2.svg" width="150"></td>
         <td><img src="/projects/konveyor/icon/color/konveyor-icon-color.svg" width="150"></td>
-        <td></td>
     </tr>
     <tr>
         <th>light</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><img src="/projects/konveyor/horizontal/white/konveyor-horizontal-white-text.png" width="250"></td>
+        <td><img src="/projects/konveyor/stacked/white/konveyor-stacked-white-text-v3.png" width="150"></td>
+        <td><img src="/projects/konveyor/icon/white/konveyor-icon-white-text.png" width="150"></td>
+        <td><img src="/projects/konveyor/horizontal/white/konveyor-horizontal-white-text.svg" width="250"></td>
+        <td><img src="/projects/konveyor/stacked/white/konveyor-stacked-white-text-v3.svg" width="150"></td>
+        <td><img src="/projects/konveyor/icon/white/konveyor-icon-white-text.svg" width="150"></td>
     </tr>
 </table>
 
