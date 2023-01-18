@@ -4347,6 +4347,46 @@
     </tr>
 </table>
 
+#### Open Policy Containers Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>light</th>
+        <td><img src="/projects/opcr/horizontal/opcr.png" width="200"></td>
+        <td><img src="/projects/opcr/stacked/opcr-stacked.png" width="200"></td>
+        <td><img src="/projects/opcr/icon/opcr-logo.png" width="100"></td>
+        <td><img src="/projects/opcr/horizontal/opcr.svg" width="200"></td>
+        <td><img src="/projects/opcr/stacked/opcr-stacked.svg" width="200"></td>
+        <td><img src="/projects/opcr/icon/opcr-logo.svg" width="100"></td>
+    </tr>
+    <tr>
+        <th>dark</th>
+        <td><img src="/projects/opcr/horizontal/opcr-dark.png" width="200"></td>
+        <td><img src="/projects/opcr/stacked/opcr-stacked-dark.png" width="200"></td>
+        <td><img src="/projects/opcr/icon/opcr-logo.png" width="100"></td>
+        <td><img src="/projects/opcr/horizontal/opcr-dark.svg" width="200"></td>
+        <td><img src="/projects/opcr/stacked/opcr-stacked-dark.svg" width="200"></td>
+        <td><img src="/projects/opcr/icon/opcr-logo.svg" width="100"></td>
+    </tr>
+</table>
+
 #### Lima Logos
 
 <table>
