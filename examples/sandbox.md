@@ -4369,21 +4369,21 @@
     </tr>
     <tr>
         <th>light</th>
-        <td><img src="/projects/opcr/horizontal/opcr.png" width="200"></td>
-        <td><img src="/projects/opcr/stacked/opcr-stacked.png" width="200"></td>
-        <td><img src="/projects/opcr/icon/opcr-logo.png" width="100"></td>
-        <td><img src="/projects/opcr/horizontal/opcr.svg" width="200"></td>
-        <td><img src="/projects/opcr/stacked/opcr-stacked.svg" width="200"></td>
-        <td><img src="/projects/opcr/icon/opcr-logo.svg" width="100"></td>
+        <td><img src="/projects/opcr/horizontal/color/opcr-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/opcr/stacked/color/opcr-stacked-color.png" width="200"></td>
+        <td><img src="/projects/opcr/icon/color/opcr-icon-color.png" width="100"></td>
+        <td><img src="/projects/opcr/horizontal/color/opcr-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/opcr/stacked/color/opcr-stacked-color.svg" width="200"></td>
+        <td><img src="/projects/opcr/icon/color/opcr-icon-color.svg" width="100"></td>
     </tr>
     <tr>
         <th>dark</th>
-        <td><img src="/projects/opcr/horizontal/opcr-dark.png" width="200"></td>
-        <td><img src="/projects/opcr/stacked/opcr-stacked-dark.png" width="200"></td>
-        <td><img src="/projects/opcr/icon/opcr-logo.png" width="100"></td>
-        <td><img src="/projects/opcr/horizontal/opcr-dark.svg" width="200"></td>
-        <td><img src="/projects/opcr/stacked/opcr-stacked-dark.svg" width="200"></td>
-        <td><img src="/projects/opcr/icon/opcr-logo.svg" width="100"></td>
+        <td><img src="/projects/opcr/horizontal/color/opcr-horizontal-color-dark.png" width="200"></td>
+        <td><img src="/projects/opcr/stacked/color/opcr-stacked-color-dark.png" width="200"></td>
+        <td><img src="/projects/opcr/icon/color/opcr-icon-color.png" width="100"></td>
+        <td><img src="/projects/opcr/horizontal/color/opcr-horizontal-color-dark.svg" width="200"></td>
+        <td><img src="/projects/opcr/stacked/color/opcr-stacked-color-dark.svg" width="200"></td>
+        <td><img src="/projects/opcr/icon/color/opcr-icon-color.svg" width="100"></td>
     </tr>
 </table>
 
