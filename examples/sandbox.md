@@ -4754,30 +4754,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/zot/horizontal/color/zot-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/zot/stacked/color/zot-stacked-color.png" width="95"></td>
-        <td><img src="/projects/zot/icon/color/zot-icon-color.png" width="75"></td>
-        <td><img src="/projects/zot/horizontal/color/zot-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/zot/stacked/color/zot-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/zot/icon/color/zot-icon-color.svg" width="75"></td>
+        <td><img src="/projects/zot/horizontal/color/zot-color-horizontal.png" width="200"></td>
+        <td><img src="/projects/zot/stacked/color/zot-color-stacked.png" width="95"></td>
+        <td><img src="/projects/zot/icon/color/zot-color-icon.png" width="75"></td>
+        <td><img src="/projects/zot/horizontal/color/zot-color-horizontal.svg" width="200"></td>
+        <td><img src="/projects/zot/stacked/color/zot-color-stacked.svg" width="95"></td>
+        <td><img src="/projects/zot/icon/color/zot-color-icon.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/zot/horizontal/black/zot-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/zot/stacked/black/zot-stacked-black.png" width="95"></td>
-        <td><img src="/projects/zot/icon/black/zot-icon-black.png" width="75"></td>
-        <td><img src="/projects/zot/horizontal/black/zot-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/zot/stacked/black/zot-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/zot/icon/black/zot-icon-black.svg" width="75"></td>
+        <td><img src="/projects/zot/horizontal/black/zot-black-horizontal.png" width="200"></td>
+        <td><img src="/projects/zot/stacked/black/zot-black-stacked.png" width="95"></td>
+        <td><img src="/projects/zot/icon/black/zot-black-icon.png" width="75"></td>
+        <td><img src="/projects/zot/horizontal/black/zot-black-horizontal.svg" width="200"></td>
+        <td><img src="/projects/zot/stacked/black/zot-black-stacked.svg" width="95"></td>
+        <td><img src="/projects/zot/icon/black/zot-black-icon.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/zot/horizontal/white/zot-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/zot/stacked/white/zot-stacked-white.png" width="95"></td>
-        <td><img src="/projects/zot/icon/white/zot-icon-white.png" width="75"></td>
-        <td><img src="/projects/zot/horizontal/white/zot-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/zot/stacked/white/zot-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/zot/icon/white/zot-icon-white.svg" width="75"></td>
+        <td><img src="/projects/zot/horizontal/white/zot-white-horizontal.png" width="200"></td>
+        <td><img src="/projects/zot/stacked/white/zot-white-stacked.png" width="95"></td>
+        <td><img src="/projects/zot/icon/white/zot-white-icon.png" width="75"></td>
+        <td><img src="/projects/zot/horizontal/white/zot-white-horizontal.svg" width="200"></td>
+        <td><img src="/projects/zot/stacked/white/zot-white-stacked.svg" width="95"></td>
+        <td><img src="/projects/zot/icon/white/zot-white-icon.svg" width="75"></td>
     </tr>
 </table>
 
