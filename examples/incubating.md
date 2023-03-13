@@ -275,6 +275,15 @@
         <td><img src="/projects/linkerd/stacked/white/linkerd-stacked-white.svg" width="95"></td>
         <td><img src="/projects/linkerd/icon/white/linkerd-icon-white.svg" width="75"></td>
     </tr>
+    <tr>
+        <th>wireframe</th>
+        <td><span width="200">&nbsp;</span></td>
+        <td><span width="95">&nbsp;</span></td>
+        <td><img src="/projects/linkerd/icon/wireframe/linkerd-icon-wireframe.png" width="75"></td>
+        <td><span width="200">&nbsp;</span></td>
+        <td><span width="95">&nbsp;</span></td>
+        <td><img src="/projects/linkerd/icon/wireframe/linkerd-icon-wireframe.svg" width="75"></td>
+    </tr>
 </table>
 
 
