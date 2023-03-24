@@ -233,24 +233,24 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/ambassador/horizontal/color/cncf-ambassador-horizontal-color.png" width="200"></td>
-        <td><img src="/other/ambassador/stacked/color/cncf-ambassador-stacked-color.png" width="95"></td>
-        <td><img src="/other/ambassador/horizontal/color/cncf-ambassador-horizontal-color.svg" width="200"></td>
-        <td><img src="/other/ambassador/stacked/color/cncf-ambassador-stacked-color.svg" width="95"></td>
+        <td><img src="/other/ambassador/stacked/color/cncf-ambassador-stacked-color.png" width="200"></td>
+        <td><img src="/other/ambassador/icon/color/cncf-ambassador-icon-color.png" width="95"></td>
+        <td><img src="/other/ambassador/stacked/color/cncf-stacked-horizontal-color.svg" width="200"></td>
+        <td><img src="/other/ambassador/icon/color/cncf-ambassador-icon-color.svg" width="95"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/ambassador/horizontal/black/cncf-ambassador-horizontal-black.png" width="200"></td>
-        <td><img src="/other/ambassador/stacked/black/cncf-ambassador-stacked-black.png" width="95"></td>
-        <td><img src="/other/ambassador/horizontal/black/cncf-ambassador-horizontal-black.svg" width="200"></td>
-        <td><img src="/other/ambassador/stacked/black/cncf-ambassador-stacked-black.svg" width="95"></td>
+        <td><img src="/other/ambassador/stacked/black/cncf-ambassador-stacked-black.png" width="200"></td>
+        <td><img src="/other/ambassador/icon/black/cncf-ambassador-icon-black.png" width="95"></td>
+        <td><img src="/other/ambassador/stacked/black/cncf-ambassador-stacked-black.svg" width="200"></td>
+        <td><img src="/other/ambassador/icon/black/cncf-ambassador-icon-black.svg" width="95"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/ambassador/horizontal/white/cncf-ambassador-horizontal-white.png" width="200"></td>
-        <td><img src="/other/ambassador/stacked/white/cncf-ambassador-stacked-white.png" width="95"></td>
-        <td><img src="/other/ambassador/horizontal/white/cncf-ambassador-horizontal-white.svg" width="200"></td>
-        <td><img src="/other/ambassador/stacked/white/cncf-ambassador-stacked-white.svg" width="95"></td>
+        <td><img src="/other/ambassador/stacked/white/cncf-ambassador-stacked-white.png" width="200"></td>
+        <td><img src="/other/ambassador/icon/white/cncf-ambassador-icon-white.png" width="95"></td>
+        <td><img src="/other/ambassador/stacked/white/cncf-ambassador-stacked-white.svg" width="200"></td>
+        <td><img src="/other/ambassador/icon/white/cncf-ambassador-icon-white.svg" width="95"></td>
     </tr>
 </table>
 
