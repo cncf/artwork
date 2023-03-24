@@ -226,16 +226,16 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
     <tr>
         <th></th>
-        <th>horizontal</th>
         <th>stacked</th>
-        <th>horizontal</th>
+        <th>icon</th>
         <th>stacked</th>
+        <th>icon</th>
     </tr>
     <tr>
         <th>color</th>
         <td><img src="/other/ambassador/stacked/color/cncf-ambassador-stacked-color.png" width="200"></td>
         <td><img src="/other/ambassador/icon/color/cncf-ambassador-icon-color.png" width="95"></td>
-        <td><img src="/other/ambassador/stacked/color/cncf-stacked-horizontal-color.svg" width="200"></td>
+        <td><img src="/other/ambassador/stacked/color/cncf-stacked-stacked-color.svg" width="200"></td>
         <td><img src="/other/ambassador/icon/color/cncf-ambassador-icon-color.svg" width="95"></td>
     </tr>
     <tr>
