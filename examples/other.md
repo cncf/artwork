@@ -971,12 +971,12 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
 </tr>
 <tr>
         <th>white</th>
-        <td><img src="/other/tag-security/cloud-native-security-horizontal-white-display.png" width="200"></a></td>
-        <td><img src="/other/tag-security/cloud-native-security-stacked-white-display.png" width="95"></a></td>
-        <td><img src="/other/tag-security/cloud-native-security-icon-white-display.png" width="95"></a></td>
-        <td><img src="/other/tag-security/cloud-native-security-horizontal-white-display.png" width="200"></a></td>
-        <td><img src="/other/tag-security/cloud-native-security-stacked-white-display.png" width="95"></a></td>
-        <td><img src="/other/tag-security/cloud-native-security-icon-white-display.png" width="95"></a></td>
+        <td><img src="/other/tag-security/cloud-native-security-horizontal-white-display.png" width="200"></td>
+        <td><img src="/other/tag-security/cloud-native-security-stacked-white-display.png" width="95"></td>
+        <td><img src="/other/tag-security/cloud-native-security-icon-white-display.png" width="95"></td>
+        <td><img src="/other/tag-security/cloud-native-security-horizontal-white-display.png" width="200"></td>
+        <td><img src="/other/tag-security/cloud-native-security-stacked-white-display.png" width="95"></td>
+        <td><img src="/other/tag-security/cloud-native-security-icon-white-display.png" width="95"></td>
 </tr>
 </table>
 
