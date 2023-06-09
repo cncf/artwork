@@ -4827,6 +4827,15 @@
         <td><img src="/projects/pipecd/stacked/white/pipecd-stacked-white.svg" width="95"></td>
         <td><img src="/projects/pipecd/icon/white/pipecd-icon-white.svg" width="75"></td>
     </tr>
+    <tr>
+        <th>reverse-color</th>
+        <td><img src="/projects/pipecd/horizontal/reverse-color/pipecd-horizontal-reverse-color.png" width="200"></td>
+        <td><img src="/projects/pipecd/stacked/reverse-color/pipecd-stacked-reverse-color.png" width="95"></td>
+        <td><img src="/projects/pipecd/icon/reverse-color/pipecd-icon-reverse-color.png" width="75"></td>
+        <td><img src="/projects/pipecd/horizontal/reverse-color/pipecd-horizontal-reverse-color.svg" width="200"></td>
+        <td><img src="/projects/pipecd/stacked/reverse-color/pipecd-stacked-reverse-color.svg" width="95"></td>
+        <td><img src="/projects/pipecd/icon/reverse-color/pipecd-icon-reverse-color.svg" width="75"></td>
+    </tr>
     </table>
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
