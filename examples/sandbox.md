@@ -4780,6 +4780,55 @@
     </tr>
     </table>
 
+#### Kepler Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kepler/horizontal/color/kepler-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kepler/stacked/color/kepler-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kepler/icon/color/kepler-icon-color.png" width="75"></td>
+        <td><img src="/projects/kepler/horizontal/color/kepler-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kepler/stacked/color/kepler-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kepler/icon/color/kepler-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kepler/horizontal/black/kepler-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kepler/stacked/black/kepler-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kepler/icon/black/kepler-icon-black.png" width="75"></td>
+        <td><img src="/projects/kepler/horizontal/black/kepler-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kepler/stacked/black/kepler-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kepler/icon/black/kepler-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kepler/horizontal/white/kepler-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kepler/stacked/white/kepler-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kepler/icon/white/kepler-icon-white.png" width="75"></td>
+        <td><img src="/projects/kepler/horizontal/white/kepler-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kepler/stacked/white/kepler-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kepler/icon/white/kepler-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
