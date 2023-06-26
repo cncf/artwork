@@ -130,6 +130,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [OpenFeature](examples/sandbox.md#openfeature-logos)
   * [Headlamp](examples/sandbox.md#headlamp-logos)
   * [Hexa](examples/sandbox.md#hexa-policy-orchestrator-logos)
+  * [Inspektor Gadget](examples/sandbox.md#inspektor-gadget-logos)
   * [Konveyor](examples/sandbox.md#konveyor-logos)
   * [Kured](examples/sandbox.md#kured-logos)
   * [ContainerSSH](examples/sandbox.md#containerssh-logos)

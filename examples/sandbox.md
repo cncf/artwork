@@ -4206,6 +4206,55 @@
     </tr>
 </table>
 
+#### Inspektor Gadget Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/inspektor-gadget/horizontal/color/inspektor-gadget-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/inspektor-gadget/stacked/color/inspektor-gadget-stacked-color.png" width="95"></td>
+        <td><img src="/projects/inspektor-gadget/icon/color/inspektor-gadget-icon-color.png" width="75"></td>
+        <td><img src="/projects/inspektor-gadget/horizontal/color/inspektor-gadget-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/inspektor-gadget/stacked/color/inspektor-gadget-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/inspektor-gadget/icon/color/inspektor-gadget-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/inspektor-gadget/horizontal/black/inspektor-gadget-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/inspektor-gadget/stacked/black/inspektor-gadget-stacked-black.png" width="95"></td>
+        <td><img src="/projects/inspektor-gadget/icon/black/inspektor-gadget-icon-black.png" width="75"></td>
+        <td><img src="/projects/inspektor-gadget/horizontal/black/inspektor-gadget-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/inspektor-gadget/stacked/black/inspektor-gadget-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/inspektor-gadget/icon/black/inspektor-gadget-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/inspektor-gadget/horizontal/white/inspektor-gadget-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/inspektor-gadget/stacked/white/inspektor-gadget-stacked-white.png" width="95"></td>
+        <td><img src="/projects/inspektor-gadget/icon/white/inspektor-gadget-icon-white.png" width="75"></td>
+        <td><img src="/projects/inspektor-gadget/horizontal/white/inspektor-gadget-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/inspektor-gadget/stacked/white/inspektor-gadget-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/inspektor-gadget/icon/white/inspektor-gadget-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Konveyor Logos
 
 <table>
