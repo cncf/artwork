@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>hwameistor-stacked-white</title>
+    <g id="hwameistor-stacked-white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="merbridge-stacked-white">
+            <rect id="Frame" x="0" y="0" width="512" height="512"></rect>
+            <g id="Text-/-02_Small-@2_white" transform="translate(131.926, 356.063)" fill="#FFFFFF" fill-rule="nonzero" font-family="Roboto-Bold, Roboto" font-size="48" font-weight="bold">
+                <text id="Merbridge">
+                    <tspan x="0" y="45">Hwameistor</tspan>
+                </text>
+            </g>
+            <g id="Merbridge_Light" transform="translate(144, 96)">
+                <rect id="Frame-2" x="0" y="0" width="224" height="224"></rect>
+                <g id="logo">
+                    <circle id="c" fill="#FFFFFF" fill-rule="nonzero" opacity="0.66" cx="149.935625" cy="101.82375" r="12.25"></circle>
+                    <path d="M49.599375,147.06125 C45.36875,147.06125 41.125,146.57125 36.946875,145.569375 C22.7675,142.17875 11.01625,133.35 4.7075,121.345 L23.296875,111.57125 C26.788125,118.2125 33.543125,123.160625 41.83375,125.1425 C51.2925,127.404375 61.333125,125.426875 69.37875,119.713125 C75.429375,115.416875 80.530625,105.730625 85.929375,95.475625 C96.64375,75.13625 109.974375,49.8225 141.526875,46.03375 C159.8275,43.8375 175.923125,48.37 188.06375,59.14125 C204.015,73.294375 209.698125,94.94625 209.698125,110.490625 L188.698125,110.490625 C188.698125,100.0125 184.883125,84.39375 174.125,74.851875 C166.499375,68.08375 156.37125,65.40625 144.029375,66.889375 C123.414375,69.36125 114.23125,86.804375 104.51,105.266875 C97.908125,117.80125 91.669375,129.644375 81.5325,136.84125 C72.0825,143.548125 60.904375,147.06125 49.599375,147.06125 L49.599375,147.06125 Z M203,161 L21,161 L21,182 L203,182 L203,161 Z" id="d" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="e" x="0" y="0" width="224" height="224"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
