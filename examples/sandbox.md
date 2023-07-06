@@ -669,55 +669,6 @@
     </tr>
 </table>
 
-#### Flux Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/flux/horizontal/color/flux-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/flux/stacked/color/flux-stacked-color.png" width="95"></td>
-        <td><img src="/projects/flux/icon/color/flux-icon-color.png" width="75"></td>
-        <td><img src="/projects/flux/horizontal/color/flux-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/flux/stacked/color/flux-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/flux/icon/color/flux-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/flux/horizontal/black/flux-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/flux/stacked/black/flux-stacked-black.png" width="95"></td>
-        <td><img src="/projects/flux/icon/black/flux-icon-black.png" width="75"></td>
-        <td><img src="/projects/flux/horizontal/black/flux-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/flux/stacked/black/flux-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/flux/icon/black/flux-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/flux/horizontal/white/flux-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/flux/stacked/white/flux-stacked-white.png" width="95"></td>
-        <td><img src="/projects/flux/icon/white/flux-icon-white.png" width="75"></td>
-        <td><img src="/projects/flux/horizontal/white/flux-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/flux/stacked/white/flux-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/flux/icon/white/flux-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### Strimzi Logos
 
 <table>
@@ -2471,55 +2422,6 @@
     </tr>
 </table>
 
-#### Flagger Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/flux/flagger/horizontal/color/flagger-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/flux/flagger/stacked/color/flagger-stacked-color.png" width="95"></td>
-        <td><img src="/projects/flux/flagger/icon/color/flagger-icon-color.png" width="75"></td>
-        <td><img src="/projects/flux/flagger/horizontal/color/flagger-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/flux/flagger/stacked/color/flagger-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/flux/flagger/icon/color/flagger-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/flux/flagger/horizontal/black/flagger-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/flux/flagger/stacked/black/flagger-stacked-black.png" width="95"></td>
-        <td><img src="/projects/flux/flagger/icon/black/flagger-icon-black.png" width="75"></td>
-        <td><img src="/projects/flux/flagger/horizontal/black/flagger-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/flux/flagger/stacked/black/flagger-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/flux/flagger/icon/black/flagger-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/flux/flagger/horizontal/white/flagger-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/flux/flagger/stacked/white/flagger-stacked-white.png" width="95"></td>
-        <td><img src="/projects/flux/flagger/icon/white/flagger-icon-white.png" width="75"></td>
-        <td><img src="/projects/flux/flagger/horizontal/white/flagger-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/flux/flagger/stacked/white/flagger-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/flux/flagger/icon/white/flagger-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### Piraeus Logos
 
 <table>
@@ -4108,6 +4010,55 @@
     </tr>
 </table>
 
+#### Headlamp Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/headlamp/horizontal/color/headlamp-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/headlamp/stacked/color/headlamp-stacked-color.png" width="95"></td>
+        <td><img src="/projects/headlamp/icon/color/headlamp-icon-color.png" width="75"></td>
+        <td><img src="/projects/headlamp/horizontal/color/headlamp-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/headlamp/stacked/color/headlamp-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/headlamp/icon/color/headlamp-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/headlamp/horizontal/black/headlamp-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/headlamp/stacked/black/headlamp-stacked-black.png" width="95"></td>
+        <td><img src="/projects/headlamp/icon/black/headlamp-icon-black.png" width="75"></td>
+        <td><img src="/projects/headlamp/horizontal/black/headlamp-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/headlamp/stacked/black/headlamp-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/headlamp/icon/black/headlamp-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/headlamp/horizontal/white/headlamp-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/headlamp/stacked/white/headlamp-stacked-white.png" width="95"></td>
+        <td><img src="/projects/headlamp/icon/white/headlamp-icon-white.png" width="75"></td>
+        <td><img src="/projects/headlamp/horizontal/white/headlamp-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/headlamp/stacked/white/headlamp-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/headlamp/icon/white/headlamp-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Hexa Policy Orchestrator Logos
 
 <table>
@@ -4154,6 +4105,55 @@
         <td><img src="/projects/hexa/horizontal/hexa-horizontal-light.svg" width="250"></td>
         <td><img src="/projects/hexa/stacked/hexa-stacked-light.svg" width="150"></td>
         <td><img src="/projects/hexa/icon/hexa-icon-light.svg" width="150"></td>
+    </tr>
+</table>
+
+#### Inspektor Gadget Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/inspektor-gadget/horizontal/color/inspektor-gadget-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/inspektor-gadget/stacked/color/inspektor-gadget-stacked-color.png" width="95"></td>
+        <td><img src="/projects/inspektor-gadget/icon/color/inspektor-gadget-icon-color.png" width="75"></td>
+        <td><img src="/projects/inspektor-gadget/horizontal/color/inspektor-gadget-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/inspektor-gadget/stacked/color/inspektor-gadget-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/inspektor-gadget/icon/color/inspektor-gadget-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/inspektor-gadget/horizontal/black/inspektor-gadget-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/inspektor-gadget/stacked/black/inspektor-gadget-stacked-black.png" width="95"></td>
+        <td><img src="/projects/inspektor-gadget/icon/black/inspektor-gadget-icon-black.png" width="75"></td>
+        <td><img src="/projects/inspektor-gadget/horizontal/black/inspektor-gadget-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/inspektor-gadget/stacked/black/inspektor-gadget-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/inspektor-gadget/icon/black/inspektor-gadget-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/inspektor-gadget/horizontal/white/inspektor-gadget-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/inspektor-gadget/stacked/white/inspektor-gadget-stacked-white.png" width="95"></td>
+        <td><img src="/projects/inspektor-gadget/icon/white/inspektor-gadget-icon-white.png" width="75"></td>
+        <td><img src="/projects/inspektor-gadget/horizontal/white/inspektor-gadget-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/inspektor-gadget/stacked/white/inspektor-gadget-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/inspektor-gadget/icon/white/inspektor-gadget-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
@@ -4780,6 +4780,64 @@
     </tr>
     </table>
 
+#### PipeCD Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/pipecd/horizontal/color/pipecd-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/pipecd/stacked/color/pipecd-stacked-color.png" width="95"></td>
+        <td><img src="/projects/pipecd/icon/color/pipecd-icon-color.png" width="75"></td>
+        <td><img src="/projects/pipecd/horizontal/color/pipecd-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/pipecd/stacked/color/pipecd-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/pipecd/icon/color/pipecd-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/pipecd/horizontal/black/pipecd-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/pipecd/stacked/black/pipecd-stacked-black.png" width="95"></td>
+        <td><img src="/projects/pipecd/icon/black/pipecd-icon-black.png" width="75"></td>
+        <td><img src="/projects/pipecd/horizontal/black/pipecd-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/pipecd/stacked/black/pipecd-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/pipecd/icon/black/pipecd-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/pipecd/horizontal/white/pipecd-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/pipecd/stacked/white/pipecd-stacked-white.png" width="95"></td>
+        <td><img src="/projects/pipecd/icon/white/pipecd-icon-white.png" width="75"></td>
+        <td><img src="/projects/pipecd/horizontal/white/pipecd-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/pipecd/stacked/white/pipecd-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/pipecd/icon/white/pipecd-icon-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>reverse-color</th>
+        <td><img src="/projects/pipecd/horizontal/reverse-color/pipecd-horizontal-reverse-color.png" width="200"></td>
+        <td><img src="/projects/pipecd/stacked/reverse-color/pipecd-stacked-reverse-color.png" width="95"></td>
+        <td><img src="/projects/pipecd/icon/reverse-color/pipecd-icon-reverse-color.png" width="75"></td>
+        <td><img src="/projects/pipecd/horizontal/reverse-color/pipecd-horizontal-reverse-color.svg" width="200"></td>
+        <td><img src="/projects/pipecd/stacked/reverse-color/pipecd-stacked-reverse-color.svg" width="95"></td>
+        <td><img src="/projects/pipecd/icon/reverse-color/pipecd-icon-reverse-color.svg" width="75"></td>
+    </tr>
+    </table>
+
 #### Kepler Logos
 
 <table>
@@ -4828,6 +4886,7 @@
         <td><img src="/projects/kepler/icon/white/kepler-icon-white.svg" width="75"></td>
     </tr>
     </table>
+      
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
