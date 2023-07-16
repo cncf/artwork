@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>hwameistor-icon-color</title>
+    <g id="hwameistor-icon-color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Merbridge_Color_Dark">
+            <rect id="Frame-2" x="0" y="0" width="512" height="512"></rect>
+            <g id="logo">
+                <circle id="c" fill="#000000" fill-rule="nonzero" cx="342.71" cy="232.74" r="28"></circle>
+                <path d="M113.37,336.14 C103.7,336.14 94,335.02 84.45,332.73 C52.04,324.98 25.18,304.8 10.76,277.36 L53.25,255.02 C61.23,270.2 76.67,281.51 95.62,286.04 C117.24,291.21 140.19,286.69 158.58,273.63 C172.41,263.81 184.07,241.67 196.41,218.23 C220.9,171.74 251.37,113.88 323.49,105.22 C365.32,100.2 402.11,110.56 429.86,135.18 C466.32,167.53 479.31,217.02 479.31,252.55 L431.31,252.55 C431.31,228.6 422.59,192.9 398,171.09 C380.57,155.62 357.42,149.5 329.21,152.89 C282.09,158.54 261.1,198.41 238.88,240.61 C223.79,269.26 209.53,296.33 186.36,312.78 C164.76,328.11 139.21,336.14 113.37,336.14 L113.37,336.14 Z M464,368 L48,368 L48,416 L464,416 L464,368 Z" id="d" fill="#33DE72" fill-rule="nonzero"></path>
+                <rect id="e" x="0" y="0" width="512" height="512"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
