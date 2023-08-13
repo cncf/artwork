@@ -1998,6 +1998,47 @@
     </tr>
     </table>
 
+#### SlimToolkit Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/slimtoolkit/horizontal/color/slimtoolkit-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/slimtoolkit/icon/color/slimtoolkit-icon-color.png" width="75"></td>
+        <td><img src="/projects/slimtoolkit/horizontal/color/slimtoolkit-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/slimtoolkit/icon/color/slimtoolkit-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/slimtoolkit/horizontal/black/slimtoolkit-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/slimtoolkit/icon/black/slimtoolkit-icon-black.png" width="75"></td>
+        <td><img src="/projects/slimtoolkit/horizontal/black/slimtoolkit-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/slimtoolkit/icon/black/slimtoolkit-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/slimtoolkit/horizontal/white/slimtoolkit-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/slimtoolkit/icon/white/slimtoolkit-icon-white.png" width="75"></td>
+        <td><img src="/projects/slimtoolkit/horizontal/white/slimtoolkit-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/slimtoolkit/icon/white/slimtoolkit-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
 #### Porter Logos
 
 <table>
