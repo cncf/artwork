@@ -1393,6 +1393,30 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
     </tr>
 </table>
 
+#### Cloud Native Community Groups
+
+<table>
+    <tr>
+        <th colspan="3"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>stacked</th>
+        <th>stacked</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/cncg/stacked/color/cncg-stacked-color.png" width="95"></td>
+        <td><img src="/other/cncg/stacked/color/cncg-stacked-color.svg" width="95"></td>
+    </tr>
+</table>
+
+
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
