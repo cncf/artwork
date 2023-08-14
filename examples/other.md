@@ -1411,8 +1411,8 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/cncg/stacked/color/cncg-stacked-color.png" width="95"></td>
-        <td><img src="/other/cncg/stacked/color/cncg-stacked-color.svg" width="95"></td>
+        <td><img src="/other/cncg/stacked/color/cncg-stacked-color.png" width="150"></td>
+        <td><img src="/other/cncg/stacked/color/cncg-stacked-color.svg" width="150"></td>
     </tr>
 </table>
 
