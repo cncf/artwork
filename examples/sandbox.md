@@ -1980,6 +1980,47 @@
     </tr>
     </table>
 
+#### KCP Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kcp/horizontal/color/kcp-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kcp/icon/color/kcp-icon-color.png" width="75"></td>
+        <td><img src="/projects/kcp/horizontal/color/kcp-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kcp/icon/color/kcp-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kcp/horizontal/black/kcp-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kcp/icon/black/kcp-icon-color.png" width="75"></td>
+        <td><img src="/projects/kcp/horizontal/black/kcp-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kcp/icon/black/kcp-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kcp/horizontal/white/kcp-horizontal-white.png" width="200"></td>
+        <td>N/A</td>
+        <td><img src="/projects/kcp/horizontal/white/kcp-horizontal-white.svg" width="200"></td>
+        <td>N/A</td>
+    </tr>
+    </table>
+
 #### Porter Logos
 
 <table>
