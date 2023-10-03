@@ -4918,6 +4918,54 @@
     </tr>
 </table>
 
+#### KCL Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kcl/horizontal/color/kcl-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kcl/stacked/color/kcl-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kcl/icon/color/kcl-icon-color.png" width="75"></td>
+        <td><img src="/projects/kcl/horizontal/color/kcl-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kcl/stacked/color/kcl-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kcl/icon/color/kcl-icon-color.svg" width="75"></td>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kcl/horizontal/black/kcl-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kcl/stacked/black/kcl-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kcl/icon/black/kcl-icon-black.png" width="75"></td>
+        <td><img src="/projects/kcl/horizontal/black/kcl-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kcl/stacked/black/kcl-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kcl/icon/black/kcl-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kcl/horizontal/white/kcl-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kcl/stacked/white/kcl-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kcl/icon/white/kcl-icon-white.png" width="75"></td>
+        <td><img src="/projects/kcl/horizontal/white/kcl-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kcl/stacked/white/kcl-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kcl/icon/white/kcl-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
