@@ -2008,9 +2008,9 @@
     <tr>
         <th>black</th>
         <td><img src="/projects/kcp/horizontal/black/kcp-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/kcp/icon/black/kcp-icon-color.png" width="75"></td>
+        <td><img src="/projects/kcp/icon/black/kcp-icon-black.png" width="75"></td>
         <td><img src="/projects/kcp/horizontal/black/kcp-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/kcp/icon/black/kcp-icon-color.svg" width="75"></td>
+        <td><img src="/projects/kcp/icon/black/kcp-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
