@@ -5349,9 +5349,9 @@
     <tr>
         <th>color</th>
         <td><img src="/projects/k8up/horizontal/color/k8up-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/k8up/icon/color/k8up-icon-color.png" width="75"></td>
+        <td><img src="/projects/k8up/icon/k8up-icon-color.png" width="75"></td>
         <td><img src="/projects/k8up/horizontal/color/k8up-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/k8up/icon/color/k8up-icon-color.svg" width="75"></td>
+        <td><img src="/projects/k8up/icon/k8up-icon-color.svg" width="75"></td>
     </tr>
 
 </table>
@@ -5405,6 +5405,81 @@
     </tr>
 </table>
 
+#### meshery Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>Dark</th>
+        <td><img src="/projects/meshery/horizontal/meshery-dark-text.png" width="200"></td>
+        <td>-</td>
+        <td><img src="/projects/meshery/icon/meshery-logo.png" width="75"></td>
+        <td><img src="/projects/meshery/horizontal/meshery-dark-text.svg" width="200"></td>
+        <td>-</td>
+        <td><img src="/projects/meshery/icon/meshery-logo.svg" width="75"></td>
+    </tr>
+   <tr>
+        <th>Light</th>
+        <td><img src="/projects/meshery/horizontal/meshery-logo-light-text-side.png" width="200"></td>
+        <td><img src="/projects/meshery/stacked/meshery-logo-light-text.png" width="95"></td>
+        <td><img src="/projects/meshery/icon/meshery-logo-light.png" width="75"></td>
+        <td><img src="/projects/meshery/horizontal/meshery-logo-light-text-side.svg" width="200"></td>
+        <td><img src="/projects/meshery/stacked/meshery-logo-light-text.svg" width="95"></td>
+        <td><img src="/projects/meshery/icon/meshery-logo-light.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>Shadow</th>
+        <td><img src="/projects/meshery/horizontal/meshery-logo-shadow-light-white-text-side.png" width="200"></td>
+        <td>-</td>
+        <td><img src="/projects/meshery/icon/meshery-shadow.png" width="75"></td>
+        <td><img src="/projects/meshery/horizontal/meshery-logo-shadow-light-white-text-side.svg" width="200"></td>
+        <td>-</td>
+        <td><img src="/projects/meshery/icon/white/meshery-shadow.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>White</th>
+        <td><img src="/projects/meshery/horizontal/meshery-logo-white-text-side.png" width="200"></td>
+        <td>-</td>
+        <td><img src="/projects/meshery/icon/meshery-logo-white.png" width="75"></td>
+        <td><img src="/projects/meshery/horizontal/meshery-logo-white-text-side.svg" width="200"></td>
+        <td>-</td>
+        <td><img src="/projects/meshery/icon/meshery-logo-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>Dark Text</th>
+        <td><img src="/projects/meshery/horizontal/meshery-logo-dark-text-side.png" width="200"></td>
+        <td><img src="/projects/meshery/stacked/meshery-logo-dark-text.png" width="95"></td>
+        <td>-</td>
+        <td><img src="/projects/meshery/horizontal/meshery-logo-dark-text-side.svg" width="200"></td>
+        <td><img src="/projects/meshery/stacked/meshery-logo-dark-text.svg" width="95"></td>
+        <td>-</td>
+    </tr>
+     <tr>
+        <th>White Text</th>
+        <td><img src="/projects/meshery/horizontal/meshery-light-white-text.png" width="200"></td>
+        <td><img src="/projects/meshery/stacked/meshery-logo-white-text.png" width="95"></td>
+        <td>-</td>
+        <td><img src="/projects/meshery/horizontal/meshery-light-white-text.svg" width="200"></td>
+        <td><img src="/projects/meshery/stacked/meshery-logo-white-text.svg" width="95"></td>
+        <td>-</td>
+    </tr>
+</table>
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
