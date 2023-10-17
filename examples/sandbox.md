@@ -5008,12 +5008,12 @@
     </tr>
     <tr>
         <th>white-text</th>
-        <td><img src="/projects/kcl/horizontal/white-text/xline-horizontal-white-text.png" width="200"></td>
-        <td><img src="/projects/kcl/stacked/white-text/xline-stacked-white-text.png" width="95"></td>
-        <td><img src="/projects/kcl/icon/white-text/xline-icon-white-text.png" width="75"></td>
-        <td><img src="/projects/kcl/horizontal/white-text/xline-horizontal-white-text.svg" width="200"></td>
-        <td><img src="/projects/kcl/stacked/white-text/xline-stacked-white-text.svg" width="95"></td>
-        <td><img src="/projects/kcl/icon/white-text/xline-icon-white-text.svg" width="75"></td>
+        <td><img src="/projects/kcl/horizontal/white-text/kcl-horizontal-white-text.png" width="200"></td>
+        <td><img src="/projects/kcl/stacked/white-text/kcl-stacked-white-text.png" width="95"></td>
+        <td><img src="/projects/kcl/icon/white-text/kcl-icon-white-text.png" width="75"></td>
+        <td><img src="/projects/kcl/horizontal/white-text/kcl-horizontal-white-text.svg" width="200"></td>
+        <td><img src="/projects/kcl/stacked/white-text/kcl-stacked-white-text.svg" width="95"></td>
+        <td><img src="/projects/kcl/icon/white-text/kcl-icon-white-text.svg" width="75"></td>
     </tr>
 		
 </table>
