@@ -5220,6 +5220,7 @@
         <td><img src="/projects/chaosblade/icon/white/chaosblade-icon-white.svg" width="75"></td>
     </tr>
 </table>
+
 #### Eraser Logos
 
 <table>
@@ -5326,6 +5327,84 @@
         <td><img src="/projects/hwameistor/icon/white/hwameistor-icon-white.svg" width="75"></td>
     </tr>
 </table>
+
+#### k8up Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/k8up/horizontal/color/k8up-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/k8up/icon/color/k8up-icon-color.png" width="75"></td>
+        <td><img src="/projects/k8up/horizontal/color/k8up-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/k8up/icon/color/k8up-icon-color.svg" width="75"></td>
+    </tr>
+
+</table>
+
+#### kubearmor Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubearmor/horizontal/color/kubearmor-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubearmor/stacked/color/kubearmor-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubearmor/icon/color/kubearmor-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubearmor/horizontal/color/kubearmor-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubearmor/stacked/color/kubearmor-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubearmor/icon/color/kubearmor-icon-color.svg" width="75"></td>
+    </tr>
+   <tr>
+        <th>black</th>
+        <td><img src="/projects/kubearmor/horizontal/black/kubearmor-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubearmor/stacked/black/kubearmor-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubearmor/icon/black/kubearmor-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubearmor/horizontal/black/kubearmor-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubearmor/stacked/black/kubearmor-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubearmor/icon/black/kubearmor-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubearmor/horizontal/white/kubearmor-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubearmor/stacked/white/kubearmor-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubearmor/icon/white/kubearmor-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubearmor/horizontal/white/kubearmor-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubearmor/stacked/white/kubearmor-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubearmor/icon/white/kubearmor-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
