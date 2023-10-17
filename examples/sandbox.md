@@ -5087,30 +5087,30 @@
     </tr>
     <tr>
         <th>dark</th>
-        <td><img src="/projects/smp/horizontal/color/smp-dark-text-side.png" width="200"></td>
-        <td><img src="/projects/smp/stacked/color/smp-dark-text.png" width="95"></td>
-        <td><img src="/projects/smp/icon/color/smp-dark.png" width="75"></td>
-        <td><img src="/projects/smp/horizontal/color/smp-dark-text-side.svg" width="200"></td>
-        <td><img src="/projects/smp/stacked/color/smp-dark-text.svg" width="95"></td>
-        <td><img src="/projects/smp/icon/color/smp-dark.svg" width="75"></td>
+        <td><img src="/projects/servicemeshperformance/horizontal/color/smp-dark-text-side.png" width="200"></td>
+        <td><img src="/projects/servicemeshperformance/stacked/color/smp-dark-text.png" width="95"></td>
+        <td><img src="/projects/servicemeshperformance/icon/color/smp-dark.png" width="75"></td>
+        <td><img src="/projects/servicemeshperformance/horizontal/color/smp-dark-text-side.svg" width="200"></td>
+        <td><img src="/projects/servicemeshperformance/stacked/color/smp-dark-text.svg" width="95"></td>
+        <td><img src="/projects/servicemeshperformance/icon/color/smp-dark.svg" width="75"></td>
     </tr>
     <tr>
         <th>light</th>
-        <td><img src="/projects/smp/horizontal/black/smp-light-text-side.png" width="200"></td>
-        <td><img src="/projects/smp/stacked/black/smp-light-text.png" width="95"></td>
-        <td><img src="/projects/smp/icon/black/smp-light.png" width="75"></td>
-        <td><img src="/projects/smp/horizontal/black/smp-light-text-side.svg" width="200"></td>
-        <td><img src="/projects/smp/stacked/black/smp-light-text.svg" width="95"></td>
-        <td><img src="/projects/smp/icon/black/smp-light.svg" width="75"></td>
+        <td><img src="/projects/servicemeshperformance/horizontal/black/smp-light-text-side.png" width="200"></td>
+        <td><img src="/projects/servicemeshperformance/stacked/black/smp-light-text.png" width="95"></td>
+        <td><img src="/projects/servicemeshperformance/icon/black/smp-light.png" width="75"></td>
+        <td><img src="/projects/servicemeshperformance/horizontal/black/smp-light-text-side.svg" width="200"></td>
+        <td><img src="/projects/servicemeshperformance/stacked/black/smp-light-text.svg" width="95"></td>
+        <td><img src="/projects/servicemeshperformance/icon/black/smp-light.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/smp/horizontal/white/smp-white-text-side.png" width="200"></td>
-        <td><img src="/projects/smp/stacked/white/smp-white-text.png" width="95"></td>
-        <td><img src="/projects/smp/icon/white/smp-white.png" width="75"></td>
-        <td><img src="/projects/smp/horizontal/white/smp-white-text-side.svg" width="200"></td>
-        <td><img src="/projects/smp/stacked/white/smp-white-text.svg" width="95"></td>
-        <td><img src="/projects/smp/icon/white/smp-white.svg" width="75"></td>
+        <td><img src="/projects/servicemeshperformance/horizontal/white/smp-white-text-side.png" width="200"></td>
+        <td><img src="/projects/servicemeshperformance/stacked/white/smp-white-text.png" width="95"></td>
+        <td><img src="/projects/servicemeshperformance/icon/white/smp-white.png" width="75"></td>
+        <td><img src="/projects/servicemeshperformance/horizontal/white/smp-white-text-side.svg" width="200"></td>
+        <td><img src="/projects/servicemeshperformance/stacked/white/smp-white-text.svg" width="95"></td>
+        <td><img src="/projects/servicemeshperformance/icon/white/smp-white.svg" width="75"></td>
     </tr>
 </table>
 
