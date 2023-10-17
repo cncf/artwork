@@ -4987,6 +4987,7 @@
         <td><img src="/projects/kcl/horizontal/color/kcl-horizontal-color.svg" width="200"></td>
         <td><img src="/projects/kcl/stacked/color/kcl-stacked-color.svg" width="95"></td>
         <td><img src="/projects/kcl/icon/color/kcl-icon-color.svg" width="75"></td>
+    </tr>    
     <tr>
         <th>black</th>
         <td><img src="/projects/kcl/horizontal/black/kcl-horizontal-black.png" width="200"></td>
@@ -4995,7 +4996,7 @@
         <td><img src="/projects/kcl/horizontal/black/kcl-horizontal-black.svg" width="200"></td>
         <td><img src="/projects/kcl/stacked/black/kcl-stacked-black.svg" width="95"></td>
         <td><img src="/projects/kcl/icon/black/kcl-icon-black.svg" width="75"></td>
-    </tr>
+    </tr>	    
     <tr>
         <th>white</th>
         <td><img src="/projects/kcl/horizontal/white/kcl-horizontal-white.png" width="200"></td>
@@ -5004,6 +5005,325 @@
         <td><img src="/projects/kcl/horizontal/white/kcl-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/kcl/stacked/white/kcl-stacked-white.svg" width="95"></td>
         <td><img src="/projects/kcl/icon/white/kcl-icon-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white-text</th>
+        <td><img src="/projects/kcl/horizontal/white-text/xline-horizontal-white-text.png" width="200"></td>
+        <td><img src="/projects/kcl/stacked/white-text/xline-stacked-white-text.png" width="95"></td>
+        <td><img src="/projects/kcl/icon/white-text/xline-icon-white-text.png" width="75"></td>
+        <td><img src="/projects/kcl/horizontal/white-text/xline-horizontal-white-text.svg" width="200"></td>
+        <td><img src="/projects/kcl/stacked/white-text/xline-stacked-white-text.svg" width="95"></td>
+        <td><img src="/projects/kcl/icon/white-text/xline-icon-white-text.svg" width="75"></td>
+    </tr>
+		
+</table>
+
+#### Xline Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/xline/horizontal/color/xline-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/xline/stacked/color/xline-stacked-color.png" width="95"></td>
+        <td><img src="/projects/xline/icon/color/xline-icon-color.png" width="75"></td>
+        <td><img src="/projects/xline/horizontal/color/xline-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/xline/stacked/color/xline-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/xline/icon/color/xline-icon-color.svg" width="75"></td>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/xline/horizontal/black/xline-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/xline/stacked/black/xline-stacked-black.png" width="95"></td>
+        <td><img src="/projects/xline/icon/black/xline-icon-black.png" width="75"></td>
+        <td><img src="/projects/xline/horizontal/black/xline-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/xline/stacked/black/xline-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/xline/icon/black/xline-icon-black.svg" width="75"></td>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/xline/horizontal/white/xline-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/xline/stacked/white/xline-stacked-white.png" width="95"></td>
+        <td><img src="/projects/xline/icon/white/xline-icon-white.png" width="75"></td>
+        <td><img src="/projects/xline/horizontal/white/xline-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/xline/stacked/white/xline-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/xline/icon/white/xline-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### servicemeshperformance Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>dark</th>
+        <td><img src="/projects/smp/horizontal/color/smp-dark-text-side.png" width="200"></td>
+        <td><img src="/projects/smp/stacked/color/smp-dark-text.png" width="95"></td>
+        <td><img src="/projects/smp/icon/color/smp-dark.png" width="75"></td>
+        <td><img src="/projects/smp/horizontal/color/smp-dark-text-side.svg" width="200"></td>
+        <td><img src="/projects/smp/stacked/color/smp-dark-text.svg" width="95"></td>
+        <td><img src="/projects/smp/icon/color/smp-dark.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>light</th>
+        <td><img src="/projects/smp/horizontal/black/smp-light-text-side.png" width="200"></td>
+        <td><img src="/projects/smp/stacked/black/smp-light-text.png" width="95"></td>
+        <td><img src="/projects/smp/icon/black/smp-light.png" width="75"></td>
+        <td><img src="/projects/smp/horizontal/black/smp-light-text-side.svg" width="200"></td>
+        <td><img src="/projects/smp/stacked/black/smp-light-text.svg" width="95"></td>
+        <td><img src="/projects/smp/icon/black/smp-light.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/smp/horizontal/white/smp-white-text-side.png" width="200"></td>
+        <td><img src="/projects/smp/stacked/white/smp-white-text.png" width="95"></td>
+        <td><img src="/projects/smp/icon/white/smp-white.png" width="75"></td>
+        <td><img src="/projects/smp/horizontal/white/smp-white-text-side.svg" width="200"></td>
+        <td><img src="/projects/smp/stacked/white/smp-white-text.svg" width="95"></td>
+        <td><img src="/projects/smp/icon/white/smp-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### Merbridge Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/merbridge/horizontal/color/merbridge-horizontal-colordark.png" width="200"></td>
+        <td><img src="/projects/merbridge/stacked/color/merbridge-stacked-color.png" width="95"></td>
+        <td><img src="/projects/merbridge/icon/color/merbridge-icon-color.png" width="75"></td>
+        <td><img src="/projects/merbridge/horizontal/color/merbridge-horizontal-colordark.svg" width="200"></td>
+        <td><img src="/projects/merbridge/stacked/color/merbridge-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/merbridge/icon/color/merbridge-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>  
+        <th>color-light</th>
+        <td><img src="/projects/merbridge/horizontal/color/merbridge-horizontal-colorlight.png" width="200"></td>
+        <td><img src="/projects/merbridge/stacked/color/merbridge-stacked-colorlight.png" width="95"></td>
+        <td><img src="/projects/merbridge/icon/color/merbridge-icon-colorlight.png" width="75"></td>
+        <td><img src="/projects/merbridge/horizontal/color/merbridge-horizontal-colorlight.svg" width="200"></td>
+        <td><img src="/projects/merbridge/stacked/color/merbridge-stacked-colorlight.svg" width="95"></td>
+        <td><img src="/projects/merbridge/icon/color/merbridge-icon-colorlight.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/merbridge/horizontal/black/merbridge-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/merbridge/stacked/black/merbridge-stacked-black.png" width="95"></td>
+        <td><img src="/projects/merbridge/icon/black/merbridge-icon-black.png" width="75"></td>
+        <td><img src="/projects/merbridge/horizontal/black/merbridge-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/merbridge/stacked/black/merbridge-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/merbridge/icon/black/merbridge-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/merbridge/horizontal/white/merbridge-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/merbridge/stacked/white/merbridge-stacked-white.png" width="95"></td>
+        <td><img src="/projects/merbridge/icon/white/merbridge-icon-white.png" width="75"></td>
+        <td><img src="/projects/merbridge/horizontal/white/merbridge-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/merbridge/stacked/white/merbridge-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/merbridge/icon/white/merbridge-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### ChaosBlade Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/chaosblade/horizontal/color/chaosblade-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/chaosblade/stacked/color/chaosblade-stacked-color.png" width="95"></td>
+        <td><img src="/projects/chaosblade/icon/color/chaosblade-icon-color.png" width="75"></td>
+        <td><img src="/projects/chaosblade/horizontal/color/chaosblade-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/chaosblade/stacked/color/chaosblade-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/chaosblade/icon/color/chaosblade-icon-color.svg" width="75"></td>
+    </tr>
+   <tr>
+        <th>black</th>
+        <td><img src="/projects/chaosblade/horizontal/black/chaosblade-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/chaosblade/stacked/black/chaosblade-stacked-black.png" width="95"></td>
+        <td><img src="/projects/chaosblade/icon/black/chaosblade-icon-black.png" width="75"></td>
+        <td><img src="/projects/chaosblade/horizontal/black/chaosblade-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/chaosblade/stacked/black/chaosblade-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/chaosblade/icon/black/chaosblade-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/chaosblade/horizontal/white/chaosblade-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/chaosblade/stacked/white/chaosblade-stacked-white.png" width="95"></td>
+        <td><img src="/projects/chaosblade/icon/white/chaosblade-icon-white.png" width="75"></td>
+        <td><img src="/projects/chaosblade/horizontal/white/chaosblade-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/chaosblade/stacked/white/chaosblade-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/chaosblade/icon/white/chaosblade-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+#### Eraser Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/eraser/horizontal/color/eraser-logo-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/eraser/stacked/color/eraser-logo-stacked-color.png" width="95"></td>
+        <td><img src="/projects/eraser/icon/color/eraser-icon-color.png" width="75"></td>
+        <td><img src="/projects/eraser/horizontal/color/eraser-logo-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/eraser/stacked/color/eraser-logo-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/eraser/icon/color/eraser-icon-color.svg" width="75"></td>
+    </tr>
+   <tr>
+        <th>black</th>
+        <td><img src="/projects/eraser/horizontal/black/eraser-logo-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/eraser/stacked/black/eraser-logo-stacked-color.png" width="95"></td>
+        <td><img src="/projects/eraser/icon/black/eraser-icon-black.png" width="75"></td>
+        <td><img src="/projects/eraser/horizontal/black/eraser-logo-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/eraser/stacked/black/eraser-logo-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/eraser/icon/black/eraser-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/eraser/horizontal/white/eraser-logo-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/eraser/stacked/white/eraser-logo-stacked-white.png" width="95"></td>
+        <td><img src="/projects/eraser/icon/white/eraser-icon-white.png" width="75"></td>
+        <td><img src="/projects/eraser/horizontal/white/eraser-logo-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/eraser/stacked/white/eraser-logo-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/eraser/icon/white/eraser-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### Hwameistor Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color-dark</th>
+        <td><img src="/projects/hwameistor/horizontal/color/hwameistor-horizontal-colordark.png" width="200"></td>
+        <td><img src="/projects/hwameistor/stacked/color/hwmeistor-stacked-color.png" width="95"></td>
+        <td><img src="/projects/hwameistor/icon/color/hwameistor-icon-color.png" width="75"></td>
+        <td><img src="/projects/hwameistor/horizontal/color/hwameistor-horizontal-colordark.png" width="200"></td>
+        <td><img src="/projects/hwameistor/stacked/color/hwmeistor-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/hwameistor/icon/color/hwameistor-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>  
+        <th>color-light</th>
+        <td><img src="/projects/hwameistor/horizontal/color/hwameistor-horizontal-colorlight.png" width="200"></td>
+        <td><img src="/projects/hwameistor/stacked/color/hwameistor-stacked-colorlight.png" width="95"></td>
+        <td><img src="/projects/hwameistor/icon/color/hwameistor-icon-colorlight.png" width="75"></td>
+        <td><img src="/projects/hwameistor/horizontal/color/hwameistor-horizontal-colorlight.svg" width="200"></td>
+        <td><img src="/projects/hwameistor/stacked/color/hwameistor-stacked-colorlight.svg" width="95"></td>
+        <td><img src="/projects/hwameistor/icon/color/hwameistor-icon-colorlight.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/hwameistor/horizontal/black/hwameistor-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/hwameistor/stacked/black/hwameistor-stacked-black.png" width="95"></td>
+        <td><img src="/projects/hwameistor/icon/black/hwameistor-icon-black.png" width="75"></td>
+        <td><img src="/projects/hwameistor/horizontal/black/hwameistor-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/hwameistor/stacked/black/hwameistor-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/hwameistor/icon/black/hwameistor-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/hwameistor/horizontal/white/hwameistor-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/hwameistor/stacked/white/hwameistor-stacked-white.png" width="95"></td>
+        <td><img src="/projects/hwameistor/icon/white/hwameistor-icon-white.png" width="75"></td>
+        <td><img src="/projects/hwameistor/horizontal/white/hwameistor-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/hwameistor/stacked/white/hwameistor-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/hwameistor/icon/white/hwameistor-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
