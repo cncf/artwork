@@ -5056,12 +5056,12 @@
     </tr>
     <tr>
         <th>white-text</th>
-        <td><img src="/projects/xline/horizontal/white/xline-horizontal-white-text.png" width="200"></td>
-        <td><img src="/projects/xline/stacked/white/xline-stacked-white-text.png" width="95"></td>
-        <td><img src="/projects/xline/icon/white/xline-icon-white-text.png" width="75"></td>
-        <td><img src="/projects/xline/horizontal/white/xline-horizontal-white-text.svg" width="200"></td>
-        <td><img src="/projects/xline/stacked/white/xline-stacked-white-text.svg" width="95"></td>
-        <td><img src="/projects/xline/icon/white/xline-icon-white-text.svg" width="75"></td>
+        <td><img src="/projects/xline/horizontal/white-text/xline-horizontal-white-text.png" width="200"></td>
+        <td><img src="/projects/xline/stacked/white-text/xline-stacked-white-text.png" width="95"></td>
+        <td><img src="/projects/xline/icon/white-text/xline-icon-white-text.png" width="75"></td>
+        <td><img src="/projects/xline/horizontal/white-text/xline-horizontal-white-text.svg" width="200"></td>
+        <td><img src="/projects/xline/stacked/white-text/xline-stacked-white-text.svg" width="95"></td>
+        <td><img src="/projects/xline/icon/white-text/xline-icon-white-text.svg" width="75"></td>
     </tr>
 </table>
 
