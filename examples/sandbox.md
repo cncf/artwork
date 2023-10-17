@@ -5428,10 +5428,10 @@
     <tr>
         <th>Dark</th>
         <td><img src="/projects/meshery/horizontal/meshery-dark-text.png" width="200"></td>
-        <td>-</td>
+        <td></td>
         <td><img src="/projects/meshery/icon/meshery-logo.png" width="75"></td>
         <td><img src="/projects/meshery/horizontal/meshery-dark-text.svg" width="200"></td>
-        <td>-</td>
+        <td></td>
         <td><img src="/projects/meshery/icon/meshery-logo.svg" width="75"></td>
     </tr>
    <tr>
@@ -5446,26 +5446,26 @@
     <tr>
         <th>Shadow</th>
         <td><img src="/projects/meshery/horizontal/meshery-logo-shadow-light-white-text-side.png" width="200"></td>
-        <td>-</td>
+        <td></td>
         <td><img src="/projects/meshery/icon/meshery-shadow.png" width="75"></td>
         <td><img src="/projects/meshery/horizontal/meshery-logo-shadow-light-white-text-side.svg" width="200"></td>
-        <td>-</td>
-        <td><img src="/projects/meshery/icon/white/meshery-shadow.svg" width="75"></td>
+        <td></td>
+        <td><img src="/projects/meshery/icon/meshery-shadow.svg" width="75"></td>
     </tr>
     <tr>
         <th>White</th>
         <td><img src="/projects/meshery/horizontal/meshery-logo-white-text-side.png" width="200"></td>
-        <td>-</td>
+        <td></td>
         <td><img src="/projects/meshery/icon/meshery-logo-white.png" width="75"></td>
         <td><img src="/projects/meshery/horizontal/meshery-logo-white-text-side.svg" width="200"></td>
-        <td>-</td>
+        <td></td>
         <td><img src="/projects/meshery/icon/meshery-logo-white.svg" width="75"></td>
     </tr>
     <tr>
         <th>Dark Text</th>
         <td><img src="/projects/meshery/horizontal/meshery-logo-dark-text-side.png" width="200"></td>
         <td><img src="/projects/meshery/stacked/meshery-logo-dark-text.png" width="95"></td>
-        <td>-</td>
+        <td></td>
         <td><img src="/projects/meshery/horizontal/meshery-logo-dark-text-side.svg" width="200"></td>
         <td><img src="/projects/meshery/stacked/meshery-logo-dark-text.svg" width="95"></td>
         <td>-</td>
@@ -5474,10 +5474,10 @@
         <th>White Text</th>
         <td><img src="/projects/meshery/horizontal/meshery-light-white-text.png" width="200"></td>
         <td><img src="/projects/meshery/stacked/meshery-logo-white-text.png" width="95"></td>
-        <td>-</td>
+        <td></td>
         <td><img src="/projects/meshery/horizontal/meshery-light-white-text.svg" width="200"></td>
         <td><img src="/projects/meshery/stacked/meshery-logo-white-text.svg" width="95"></td>
-        <td>-</td>
+        <td></td>
     </tr>
 </table>
 
