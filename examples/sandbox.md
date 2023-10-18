@@ -5403,6 +5403,7 @@
         <td><img src="/projects/kubearmor/stacked/white/kubearmor-stacked-white.svg" width="95"></td>
         <td><img src="/projects/kubearmor/icon/white/kubearmor-icon-white.svg" width="75"></td>
     </tr>
+	
 </table>
 
 #### meshery Logos
@@ -5479,6 +5480,7 @@
         <td><img src="/projects/meshery/stacked/meshery-logo-white-text.svg" width="95"></td>
         <td></td>
     </tr>
+	
 </table>
 
 #### OpenFGA Logos
@@ -5555,6 +5557,8 @@
         <td><img src="/projects/openfga/stacked/monochrome/white/openfga-stacked-monochrome_white.svg" width="95"></td>
         <td></td>
     </tr>
+	
+</table>
 
 #### Aeraki Mesh Logos
 
@@ -5603,7 +5607,6 @@
         <td><img src="/projects/aerakimesh/stacked/white/AerakiMesh_stacked-white.svg" width="95"></td>
         <td><img src="/projects/aerakimesh/icon/white/AerakiMesh_icon-white.svg" width="75"></td>
     </tr>
-</table>
 
 </table>
 
