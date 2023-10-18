@@ -28,7 +28,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Flux](examples/graduated.md#flux-logos)
   * [Flagger](examples/graduated.md#flagger-logos)
   * [Argo](examples/graduated.md#argo-logos)
-  * [Cilium](examples/incubating.md#cilium-logos)
+  * [Cilium](examples/graduated.md#cilium-logos)
   * [CRI-O](examples/incubating.md#cri-o-logos)
   * [Istio](examples/incubating.md#istio-logos)
   * [KEDA](examples/sandbox.md#keda-logos)
