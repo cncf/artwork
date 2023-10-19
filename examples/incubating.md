@@ -1628,7 +1628,7 @@
     </tr>
     </table>
 
-#### openkruise Logos
+#### OpenKruise Logos
 
 <table>
     <tr>
