@@ -4922,6 +4922,56 @@
 
 </table>
 
+#### Project Capsule Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/capsule/horizontal/color/capsule-horizontal-color.png" height="75"></td>
+        <td><img src="/projects/capsule/stacked/color/capsule-stacked-color.png" height="75"></td>
+        <td><img src="/projects/capsule/icon/color/capsule-icon-color.png" height="75"></td>
+        <td><img src="/projects/capsule/horizontal/color/capsule-horizontal-color.svg" height="75"></td>
+        <td><img src="/projects/capsule/stacked/color/capsule-stacked-color.svg" height="75"></td>
+        <td><img src="/projects/capsule/icon/color/capsule-icon-color.svg" height="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/capsule/horizontal/black/capsule-horizontal-black.png" height="75"></td>
+        <td><img src="/projects/capsule/stacked/black/capsule-stacked-black.png" height="75"></td>
+        <td><img src="/projects/capsule/icon/black/capsule-icon-black.png" height="75"></td>
+        <td><img src="/projects/capsule/horizontal/black/capsule-horizontal-black.svg" height="75"></td>
+        <td><img src="/projects/capsule/stacked/black/capsule-stacked-black.svg" height="75"></td>
+        <td><img src="/projects/capsule/icon/black/capsule-icon-black.svg" height="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/capsule/horizontal/white/capsule-horizontal-white.png" height="75"></td>
+        <td><img src="/projects/capsule/stacked/white/capsule-stacked-white.png" height="75"></td>
+        <td><img src="/projects/capsule/icon/white/capsule-icon-white.png" height="75"></td>
+        <td><img src="/projects/capsule/horizontal/white/capsule-horizontal-white.svg" height="75"></td>
+        <td><img src="/projects/capsule/stacked/white/capsule-stacked-white.svg" height="75"></td>
+        <td><img src="/projects/capsule/icon/white/capsule-icon-white.svg" height="75"></td>
+    </tr>
+
+</table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
