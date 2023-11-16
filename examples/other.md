@@ -56,11 +56,11 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 #### Kubernetes Certification Logos
 
 <table>
-    <tr><th colspan="13"></th></tr>
+    <tr><th colspan="15"></th></tr>
     <tr>
-      <th></th>
-        <th colspan="6">PNG</th>
-        <th colspan="6">SVG</th>
+        <th></th>
+        <th colspan="7">PNG</th>
+        <th colspan="7">SVG</th>
         </tr>
         <tr>
         <th></th>
@@ -70,12 +70,14 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>KTP</th>
         <th>CKS</th>
         <th>KCNA</th>
+        <th>KCSA</th>
         <th>CKA</th>
         <th>CKAD</th>
         <th>KCSP</th>
         <th>KTP</th>
         <th>CKS</th>
         <th>KCNA</th>
+        <th>KCSA</th>
         </tr>
         <tr>
         <th>color</th>
@@ -84,13 +86,15 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/kcsp/color/kubernetes-kcsp-color.png" width="95"></td>
         <td><img src="/other/ktp/color/kubernetes-ktp-color.png" width="95"></td>
         <td><img src="/other/kss/color/kubernetes-security-specialist-color.png" width="95"></td>
-        <td><img src="/other/kcna/color/kcna_color.png" width="85"></td>
+        <td><img src="/other/kcna/color/kubernetes-kcna-color.png" width="85"></td>
+        <td><img src="/other/kcsa/color/kubernetes-kcsa-color.png" width="85"></td>
         <td><img src="/other/cka/color/kubernetes-cka-color.svg" width="95"></td>
         <td><img src="/other/ckad/color/kubernetes-ckad-color.svg" width="95"></td>
         <td><img src="/other/kcsp/color/kubernetes-kcsp-color.svg" width="95"></td>
         <td><img src="/other/ktp/color/kubernetes-ktp-color.svg" width="95"></td>
         <td><img src="/other/kss/color/kubernetes-security-specialist-color.svg" width="95"></td>
-        <td><img src="/other/kcna/color/kcna_color.svg" width="85"></td>
+        <td><img src="/other/kcna/color/kubernetes-kcna-color.svg" width="85"></td>
+        <td><img src="/other/kcsa/color/kubernetes-kcsa-color.svg" width="85"></td>
         </tr>
         <tr>
         <th>black</th>
@@ -99,13 +103,15 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/kcsp/black/kubernetes-kcsp-black.png" width="95"></td>
         <td><img src="/other/ktp/black/kubernetes-ktp-black.png" width="95"></td>
         <td><img src="/other/kss/black/kubernetes-security-specialist-black.png" width="95"></td>
-        <td><img src="/other/kcna/black/kcna_black.png" width="85"></td>
+        <td><img src="/other/kcna/black/kubernetes-kcna-black.png" width="85"></td>
+        <td>Soon</td>
         <td><img src="/other/cka/black/kubernetes-cka-black.svg" width="95"></td>
         <td><img src="/other/ckad/black/kubernetes-ckad-black.svg" width="95"></td>
         <td><img src="/other/kcsp/black/kubernetes-kcsp-black.svg" width="95"></td>
         <td><img src="/other/ktp/black/kubernetes-ktp-black.svg" width="95"></td>
         <td><img src="/other/kss/black/kubernetes-security-specialist-black.svg" width="95"></td>
-        <td><img src="/other/kcna/black/kcna_black.svg" width="85"></td>
+        <td><img src="/other/kcna/black/kubernetes-kcna-black.svg" width="85"></td>
+        <td>Soon</td>
         </tr>
         <tr>
         <th>white</th>
@@ -114,51 +120,82 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/kcsp/white/kubernetes-kcsp-white.png" width="95"></td>
         <td><img src="/other/ktp/white/kubernetes-ktp-white.png" width="95"></td>
         <td><img src="/other/kss/white/kubernetes-security-specialist-white.png" width="95"></td>
-        <td><img src="/other/kcna/white/kcna_white.png" width="85"></td>
+        <td><img src="/other/kcna/white/kubernetes-kcna-white.png" width="85"></td>
+        <td>Soon</td>
         <td><img src="/other/cka/white/kubernetes-cka-white.svg" width="95"></td>
         <td><img src="/other/ckad/white/kubernetes-ckad-white.svg" width="95"></td>
         <td><img src="/other/kcsp/white/kubernetes-kcsp-white.svg" width="95"></td>
         <td><img src="/other/ktp/white/kubernetes-ktp-white.svg" width="95"></td>
         <td><img src="/other/kss/white/kubernetes-security-specialist-white.svg" width="95"></td>
-        <td><img src="/other/kcna/white/kcna_white.svg" width="85"></td>
+        <td><img src="/other/kcna/white/kubernetes-kcna-white.svg" width="85"></td>
+        <td>Soon</td>
     </tr>
 </table>
 
-#### Prometheus Certification Logos
+
+#### Cloud Native Certification Logos
 <table>
+    <tr><th colspan="9"></th></tr>
     <tr>
-        <th colspan="2">PNG</th>
-        <th colspan="1">SVG</th>
+        <th colspan="4">PNG</th>
+        <th colspan="4">SVG</th>
     </tr>
+    <tr>
+        <th></th>
+        <th>PCA</th>
+        <th>CAPA</th>
+        <th>CCA</th>
+        <th>ICA</th>
+        <th>PCA</th>
+        <th>CAPA</th>
+        <th>CCA</th>
+        <th>ICA</th>
     <tr>
         <th>color</th>
         <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-color.png" width="125"></td>
+        <td><img src="/other/capa/color/capa-icon-color.png" width="125"></td>
+        <td><img src="/other/cca/color/cca-icon-color.png" width="125"></td>
+        <td><img src="/other/ica/color/ica-icon-color.png" width="125"></td>
         <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-color.svg" width="125"></td>
+        <td><img src="/other/capa/color/capa-icon-color.svg" width="125"></td>
+        <td><img src="/other/cca/color/cca-icon-color.svg" width="125"></td>
+        <td><img src="/other/ica/color/ica-icon-color.svg" width="125"></td>
     </tr>
     <tr>
         <th>black</th>
-      <td><img src="/other/prometheus-certified-associate/black/PrometheusCertifiedAssociate-black.png" width="125"></td>
         <td><img src="/other/prometheus-certified-associate/black/PrometheusCertifiedAssociate-black.png" width="125"></td>
+        <td>Soon</td>
+        <td>Soon</td>
+        <td>Soon</td>
+        <td><img src="/other/prometheus-certified-associate/black/PrometheusCertifiedAssociate-black.png" width="125"></td>
+        <td>Soon</td>
+        <td>Soon</td>
+        <td>Soon</td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/other/prometheus-certified-associate/white/PrometheusCertifiedAssociate-white.png" width="125"></td>
+        <td>Soon</td>
+        <td>Soon</td>
+        <td>Soon</td>
         <td><img src="/other/prometheus-certified-associate/white/PrometheusCertifiedAssociate-white.svg" width="125"></td>
+        <td>Soon</td>
+        <td>Soon</td>
+        <td>Soon</td>
     </tr>
 </table>
-
 
 #### CNCF Member Logos
 
 <table>
-       <tr>
+    <tr>
         <th></th>
         <th>platinum</th>
         <th>gold</th>
         <th>silver</th>
         <th>end user</th>
-	<th>non-profit</th>
-	<th>academic</th>
+        <th>non-profit</th>
+        <th>academic</th>
     </tr>
     <tr>
         <th>color</th>
@@ -166,32 +203,33 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/cncf-member/gold/color/cncf-member-gold-color.svg" width="125"></td>
         <td><img src="/other/cncf-member/silver/color/cncf-member-silver-color.svg" width="125"></td>
         <td><img src="/other/cncf-member/endusersupporter/color/cncf-member-endusersupporter-color.svg" width="125"></td>
-	<td><img src="/other/cncf-member/nonprofit/color/cncf-member-nonprofit-color.svg" width="125"></td>
-	<td><img src="/other/cncf-member/academic/color/cncf-member-academic-color.svg" width="125"></td>
+	    <td><img src="/other/cncf-member/nonprofit/color/cncf-member-nonprofit-color.svg" width="125"></td>
+	    <td><img src="/other/cncf-member/academic/color/cncf-member-academic-color.svg" width="125"></td>
     </tr>
     <tr>
         <th>black</th>
-          <td><img src="/other/cncf-member/platinum/black/cncf-member-platinum-black.svg" width="125"></td>
+        <td><img src="/other/cncf-member/platinum/black/cncf-member-platinum-black.svg" width="125"></td>
         <td><img src="/other/cncf-member/gold/black/cncf-member-gold-black.svg" width="125"></td>
         <td><img src="/other/cncf-member/silver/black/cncf-member-silver-black.svg" width="125"></td>
         <td><img src="/other/cncf-member/endusersupporter/black/cncf-member-endusersupporter-black.svg" width="125"></td>
-	<td><img src="/other/cncf-member/nonprofit/black/cncf-member-nonprofit-black.svg" width="125"></td>
-	<td><img src="/other/cncf-member/academic/black/cncf-member-academic-black.svg" width="125"></td>    </tr>
+	    <td><img src="/other/cncf-member/nonprofit/black/cncf-member-nonprofit-black.svg" width="125"></td>
+	    <td><img src="/other/cncf-member/academic/black/cncf-member-academic-black.svg" width="125"></td>    </tr>
     <tr>
         <th>white</th>
         <td><img src="/other/cncf-member/platinum/white/cncf-member-platinum-white.svg" width="125"></td>
         <td><img src="/other/cncf-member/gold/white/cncf-member-gold-white.svg" width="125"></td>
         <td><img src="/other/cncf-member/silver/white/cncf-member-silver-white.svg" width="125"></td>
         <td><img src="/other/cncf-member/endusersupporter/white/cncf-member-endusersupporter-white.svg" width="125"></td>
-	<td><img src="/other/cncf-member/nonprofit/white/cncf-member-nonprofit-white.svg" width="125"></td>
-	<td><img src="/other/cncf-member/academic/white/cncf-member-academic-white.svg" width="125"></td>
+	    <td><img src="/other/cncf-member/nonprofit/white/cncf-member-nonprofit-white.svg" width="125"></td>
+	    <td><img src="/other/cncf-member/academic/white/cncf-member-academic-white.svg" width="125"></td>
     </tr>
 </table>
+
 
 #### CNCF Project Level Logos
 
 <table>
-       <tr>
+    <tr>
         <th></th>
         <th>graduated</th>
         <th>incubating</th>
@@ -210,7 +248,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>white</th>
         <td><img src="/other/cncf-member/graduated/white/cncf-graduated-white.svg" width="205"></td>
         <td><img src="/other/cncf-member/incubating/white/cncf-incubating-white.svg" width="205"></td>
-            </tr>
+    </tr>
 </table>
 
 #### CNCF Ambassador Logos
