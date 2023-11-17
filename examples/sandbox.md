@@ -74,28 +74,28 @@
         <tr>
         <th>color</th>
         <td><img src="/projects/akri/horizontal/color/akri-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/akri/stacked/color/akri-stack-color.png" width="95"></td>
+        <td><img src="/projects/akri/stacked/color/akri-stacked-color.png" width="95"></td>
         <td><img src="/projects/akri/icon/color/akri-icon-color.png" width="75"></td>
         <td><img src="/projects/akri/horizontal/color/akri-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/akri/stacked/color/akri-stack-color.svg" width="95"></td>
+        <td><img src="/projects/akri/stacked/color/akri-stacked-color.svg" width="95"></td>
         <td><img src="/projects/akri/icon/color/akri-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
         <td><img src="/projects/akri/horizontal/black/akri-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/akri/stacked/black/akri-stack-black.png" width="95"></td>
+        <td><img src="/projects/akri/stacked/black/akri-stacked-black.png" width="95"></td>
         <td><img src="/projects/akri/icon/black/akri-icon-black.png" width="75"></td>
         <td><img src="/projects/akri/horizontal/black/akri-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/akri/stacked/black/akri-stack-black.svg" width="95"></td>
+        <td><img src="/projects/akri/stacked/black/akri-stacked-black.svg" width="95"></td>
         <td><img src="/projects/akri/icon/black/akri-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/projects/akri/horizontal/white/akri-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/akri/stacked/white/akri-stack-white.png" width="95"></td>
+        <td><img src="/projects/akri/stacked/white/akri-stacked-white.png" width="95"></td>
         <td><img src="/projects/akri/icon/white/akri-icon-white.png" width="75"></td>
         <td><img src="/projects/akri/horizontal/white/akri-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/akri/stacked/white/akri-stack-white.svg" width="95"></td>
+        <td><img src="/projects/akri/stacked/white/akri-stacked-white.svg" width="95"></td>
         <td><img src="/projects/akri/icon/white/akri-icon-white.svg" width="75"></td>
     </tr>
 </table>
@@ -3007,55 +3007,6 @@
     </tr>
 </table>
 
-#### Open Service Mesh Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/openservicemesh/horizontal/color/openservicemesh-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/openservicemesh/stacked/color/openservicemesh-stacked-color.png" width="95"></td>
-        <td><img src="/projects/openservicemesh/icon/color/openservicemesh-icon-color.png" width="75"></td>
-        <td><img src="/projects/openservicemesh/horizontal/color/openservicemesh-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/openservicemesh/stacked/color/openservicemesh-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/openservicemesh/icon/color/openservicemesh-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/openservicemesh/horizontal/black/openservicemesh-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/openservicemesh/stacked/black/openservicemesh-stacked-black.png" width="95"></td>
-        <td><img src="/projects/openservicemesh/icon/black/openservicemesh-icon-black.png" width="75"></td>
-        <td><img src="/projects/openservicemesh/horizontal/black/openservicemesh-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/openservicemesh/stacked/black/openservicemesh-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/openservicemesh/icon/black/openservicemesh-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/openservicemesh/horizontal/white/openservicemesh-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/openservicemesh/stacked/white/openservicemesh-stacked-white.png" width="95"></td>
-        <td><img src="/projects/openservicemesh/icon/white/openservicemesh-icon-white.png" width="75"></td>
-        <td><img src="/projects/openservicemesh/horizontal/white/openservicemesh-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/openservicemesh/stacked/white/openservicemesh-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/openservicemesh/icon/white/openservicemesh-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
-
 #### OpenCost Logos
 
 <table>
@@ -3940,71 +3891,6 @@
         <td><img src="/projects/serverlessworkflow/icon/white/serverlessworkflow-icon-white.svg" width="75"></td>
     </tr>
 </table>
-
-#### Service Mesh Interface Logos
-
-<table>
-    <tr>
-        <th colspan="11"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="5">PNG</th>
-        <th colspan="5">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horiz</th>
-	<th>stackedtext</th>
-        <th>stacked</th>
-  	<th>smi</th>
-        <th>icon</th>
-        <th>horiz</th>
-	<th>stackedtext</th>
-        <th>stacked</th>
-  	<th>smi</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/servicemeshinterface/horizontal/color/servicemeshinterface-horizontal-color.png" width="200"></td>
-	<td><img src="/projects/servicemeshinterface/horizontal-stackedtext/color/servicemeshinterface-horizontal-stackedtext-color.png" width="200"></td>
-        <td><img src="/projects/servicemeshinterface/stacked/color/servicemeshinterface-stacked-color.png" width="95"></td>
-	<td><img src="/projects/servicemeshinterface/stacked-smi/color/servicemeshinterface-stackedsmi-color.png" width="95"></td>
-        <td><img src="/projects/servicemeshinterface/icon/color/servicemeshinterface-icon-color.png" width="75"></td>
-        <td><img src="/projects/servicemeshinterface/horizontal/color/servicemeshinterface-horizontal-color.svg" width="200"></td>
-	<td><img src="/projects/servicemeshinterface/horizontal-stackedtext/color/servicemeshinterface-horizontal-stackedtext-color.svg" width="200"></td>
-        <td><img src="/projects/servicemeshinterface/stacked/color/servicemeshinterface-stacked-color.svg" width="95"></td>
- 	<td><img src="/projects/servicemeshinterface/stacked-smi/color/servicemeshinterface-stackedsmi-color.svg" width="95"></td>
-        <td><img src="/projects/servicemeshinterface/icon/color/servicemeshinterface-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/servicemeshinterface/horizontal/black/servicemeshinterface-horizontal-black.png" width="200"></td>
-	<td><img src="/projects/servicemeshinterface/horizontal-stackedtext/black/servicemeshinterface-horizontal-stackedtext-black.png" width="200"></td>
-        <td><img src="/projects/servicemeshinterface/stacked/black/servicemeshinterface-stacked-black.png" width="95"></td>
-	<td><img src="/projects/servicemeshinterface/stacked-smi/black/servicemeshinterface-stackedsmi-black.png" width="95"></td>
-        <td><img src="/projects/servicemeshinterface/icon/black/servicemeshinterface-icon-black.png" width="75"></td>
-        <td><img src="/projects/servicemeshinterface/horizontal/black/servicemeshinterface-horizontal-black.svg" width="200"></td>
-<td><img src="/projects/servicemeshinterface/horizontal-stackedtext/black/servicemeshinterface-horizontal-stackedtext-black.svg" width="200"></td>
-        <td><img src="/projects/servicemeshinterface/stacked/black/servicemeshinterface-stacked-black.svg" width="95"></td>
-	<td><img src="/projects/servicemeshinterface/stacked-smi/black/servicemeshinterface-stackedsmi-black.svg" width="95"></td>
-        <td><img src="/projects/servicemeshinterface/icon/black/servicemeshinterface-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/servicemeshinterface/horizontal/white/servicemeshinterface-horizontal-white.png" width="200"></td>
-	<td><img src="/projects/servicemeshinterface/horizontal-stackedtext/white/servicemeshinterface-horizontal-stackedtext-white.png" width="200"></td>
-        <td><img src="/projects/servicemeshinterface/stacked/white/servicemeshinterface-stacked-white.png" width="95"></td>
-	<td><img src="/projects/servicemeshinterface/stacked-smi/white/servicemeshinterface-stackedsmi-white.png" width="95"></td>
-        <td><img src="/projects/servicemeshinterface/icon/white/servicemeshinterface-icon-white.png" width="75"></td>
-        <td><img src="/projects/servicemeshinterface/horizontal/white/servicemeshinterface-horizontal-white.svg" width="200"></td>
-<td><img src="/projects/servicemeshinterface/horizontal-stackedtext/white/servicemeshinterface-horizontal-stackedtext-white.svg" width="200"></td>
-        <td><img src="/projects/servicemeshinterface/stacked/white/servicemeshinterface-stacked-white.svg" width="95"></td>
-	<td><img src="/projects/servicemeshinterface/stacked-smi/white/servicemeshinterface-stackedsmi-white.svg" width="95"></td>
-        <td><img src="/projects/servicemeshinterface/icon/white/servicemeshinterface-icon-white.svg" width="75"></td>
-    </tr>
-    </table>
 
 #### servicemeshperformance Logos
 

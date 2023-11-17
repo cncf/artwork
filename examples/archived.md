@@ -2,7 +2,7 @@
 
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 
-#### rkt Logos
+#### Brigade Logos
 
 <table>
     <tr>
@@ -24,30 +24,79 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/archived/rkt/horizontal/color/rkt-horizontal-color.png" width="200"></td>
-        <td><img src="/archived/rkt/stacked/color/rkt-stacked-color.png" width="95"></td>
-        <td><img src="/archived/rkt/icon/color/rkt-icon-color.png" width="75"></td>
-        <td><img src="/archived/rkt/horizontal/color/rkt-horizontal-color.svg" width="200"></td>
-        <td><img src="/archived/rkt/stacked/color/rkt-stacked-color.svg" width="95"></td>
-        <td><img src="/archived/rkt/icon/color/rkt-icon-color.svg" width="75"></td>
+        <td><img src="/archived/brigade/horizontal/color/brigade-horizontal-color.png" width="200"></td>
+        <td><img src="/archived/brigade/stacked/color/brigade-stacked-color.png" width="95"></td>
+        <td><img src="/archived/brigade/icon/color/brigade-icon-color.png" width="75"></td>
+        <td><img src="/archived/brigade/horizontal/color/brigade-horizontal-color.svg" width="200"></td>
+        <td><img src="/archived/brigade/stacked/color/brigade-stacked-color.svg" width="95"></td>
+        <td><img src="/archived/brigade/icon/color/brigade-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/archived/rkt/horizontal/black/rkt-horizontal-black.png" width="200"></td>
-        <td><img src="/archived/rkt/stacked/black/rkt-stacked-black.png" width="95"></td>
-        <td><img src="/archived/rkt/icon/black/rkt-icon-black.png" width="75"></td>
-        <td><img src="/archived/rkt/horizontal/black/rkt-horizontal-black.svg" width="200"></td>
-        <td><img src="/archived/rkt/stacked/black/rkt-stacked-black.svg" width="95"></td>
-        <td><img src="/archived/rkt/icon/black/rkt-icon-black.svg" width="75"></td>
+        <td><img src="/archived/brigade/horizontal/black/brigade-horizontal-black.png" width="200"></td>
+        <td><img src="/archived/brigade/stacked/black/brigade-stacked-black.png" width="95"></td>
+        <td><img src="/archived/brigade/icon/black/brigade-icon-black.png" width="75"></td>
+        <td><img src="/archived/brigade/horizontal/black/brigade-horizontal-black.svg" width="200"></td>
+        <td><img src="/archived/brigade/stacked/black/brigade-stacked-black.svg" width="95"></td>
+        <td><img src="/archived/brigade/icon/black/brigade-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/archived/rkt/horizontal/white/rkt-horizontal-white.png" width="200"></td>
-        <td><img src="/archived/rkt/stacked/white/rkt-stacked-white.png" width="95"></td>
-        <td><img src="/archived/rkt/icon/white/rkt-icon-white.png" width="75"></td>
-        <td><img src="/archived/rkt/horizontal/white/rkt-horizontal-white.svg" width="200"></td>
-        <td><img src="/archived/rkt/stacked/white/rkt-stacked-white.svg" width="95"></td>
-        <td><img src="/archived/rkt/icon/white/rkt-icon-white.svg" width="75"></td>
+        <td><img src="/archived/brigade/horizontal/white/brigade-horizontal-white.png" width="200"></td>
+        <td><img src="/archived/brigade/stacked/white/brigade-stacked-white.png" width="95"></td>
+        <td><img src="/archived/brigade/icon/white/brigade-icon-white.png" width="75"></td>
+        <td><img src="/archived/brigade/horizontal/white/brigade-horizontal-white.svg" width="200"></td>
+        <td><img src="/archived/brigade/stacked/white/brigade-stacked-white.svg" width="95"></td>
+        <td><img src="/archived/brigade/icon/white/brigade-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+
+#### Open Service Mesh Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/archived/openservicemesh/horizontal/color/openservicemesh-horizontal-color.png" width="200"></td>
+        <td><img src="/archived/openservicemesh/stacked/color/openservicemesh-stacked-color.png" width="95"></td>
+        <td><img src="/archived/openservicemesh/icon/color/openservicemesh-icon-color.png" width="75"></td>
+        <td><img src="/archived/openservicemesh/horizontal/color/openservicemesh-horizontal-color.svg" width="200"></td>
+        <td><img src="/archived/openservicemesh/stacked/color/openservicemesh-stacked-color.svg" width="95"></td>
+        <td><img src="/archived/openservicemesh/icon/color/openservicemesh-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/archived/openservicemesh/horizontal/black/openservicemesh-horizontal-black.png" width="200"></td>
+        <td><img src="/archived/openservicemesh/stacked/black/openservicemesh-stacked-black.png" width="95"></td>
+        <td><img src="/archived/openservicemesh/icon/black/openservicemesh-icon-black.png" width="75"></td>
+        <td><img src="/archived/openservicemesh/horizontal/black/openservicemesh-horizontal-black.svg" width="200"></td>
+        <td><img src="/archived/openservicemesh/stacked/black/openservicemesh-stacked-black.svg" width="95"></td>
+        <td><img src="/archived/openservicemesh/icon/black/openservicemesh-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/archived/openservicemesh/horizontal/white/openservicemesh-horizontal-white.png" width="200"></td>
+        <td><img src="/archived/openservicemesh/stacked/white/openservicemesh-stacked-white.png" width="95"></td>
+        <td><img src="/archived/openservicemesh/icon/white/openservicemesh-icon-white.png" width="75"></td>
+        <td><img src="/archived/openservicemesh/horizontal/white/openservicemesh-horizontal-white.svg" width="200"></td>
+        <td><img src="/archived/openservicemesh/stacked/white/openservicemesh-stacked-white.svg" width="95"></td>
+        <td><img src="/archived/openservicemesh/icon/white/openservicemesh-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
@@ -100,7 +149,7 @@
     </tr>
 </table>
 
-#### Brigade Logos
+#### rkt Logos
 
 <table>
     <tr>
@@ -122,32 +171,100 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/archived/brigade/horizontal/color/brigade-horizontal-color.png" width="200"></td>
-        <td><img src="/archived/brigade/stacked/color/brigade-stacked-color.png" width="95"></td>
-        <td><img src="/archived/brigade/icon/color/brigade-icon-color.png" width="75"></td>
-        <td><img src="/archived/brigade/horizontal/color/brigade-horizontal-color.svg" width="200"></td>
-        <td><img src="/archived/brigade/stacked/color/brigade-stacked-color.svg" width="95"></td>
-        <td><img src="/archived/brigade/icon/color/brigade-icon-color.svg" width="75"></td>
+        <td><img src="/archived/rkt/horizontal/color/rkt-horizontal-color.png" width="200"></td>
+        <td><img src="/archived/rkt/stacked/color/rkt-stacked-color.png" width="95"></td>
+        <td><img src="/archived/rkt/icon/color/rkt-icon-color.png" width="75"></td>
+        <td><img src="/archived/rkt/horizontal/color/rkt-horizontal-color.svg" width="200"></td>
+        <td><img src="/archived/rkt/stacked/color/rkt-stacked-color.svg" width="95"></td>
+        <td><img src="/archived/rkt/icon/color/rkt-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/archived/brigade/horizontal/black/brigade-horizontal-black.png" width="200"></td>
-        <td><img src="/archived/brigade/stacked/black/brigade-stacked-black.png" width="95"></td>
-        <td><img src="/archived/brigade/icon/black/brigade-icon-black.png" width="75"></td>
-        <td><img src="/archived/brigade/horizontal/black/brigade-horizontal-black.svg" width="200"></td>
-        <td><img src="/archived/brigade/stacked/black/brigade-stacked-black.svg" width="95"></td>
-        <td><img src="/archived/brigade/icon/black/brigade-icon-black.svg" width="75"></td>
+        <td><img src="/archived/rkt/horizontal/black/rkt-horizontal-black.png" width="200"></td>
+        <td><img src="/archived/rkt/stacked/black/rkt-stacked-black.png" width="95"></td>
+        <td><img src="/archived/rkt/icon/black/rkt-icon-black.png" width="75"></td>
+        <td><img src="/archived/rkt/horizontal/black/rkt-horizontal-black.svg" width="200"></td>
+        <td><img src="/archived/rkt/stacked/black/rkt-stacked-black.svg" width="95"></td>
+        <td><img src="/archived/rkt/icon/black/rkt-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/archived/brigade/horizontal/white/brigade-horizontal-white.png" width="200"></td>
-        <td><img src="/archived/brigade/stacked/white/brigade-stacked-white.png" width="95"></td>
-        <td><img src="/archived/brigade/icon/white/brigade-icon-white.png" width="75"></td>
-        <td><img src="/archived/brigade/horizontal/white/brigade-horizontal-white.svg" width="200"></td>
-        <td><img src="/archived/brigade/stacked/white/brigade-stacked-white.svg" width="95"></td>
-        <td><img src="/archived/brigade/icon/white/brigade-icon-white.svg" width="75"></td>
+        <td><img src="/archived/rkt/horizontal/white/rkt-horizontal-white.png" width="200"></td>
+        <td><img src="/archived/rkt/stacked/white/rkt-stacked-white.png" width="95"></td>
+        <td><img src="/archived/rkt/icon/white/rkt-icon-white.png" width="75"></td>
+        <td><img src="/archived/rkt/horizontal/white/rkt-horizontal-white.svg" width="200"></td>
+        <td><img src="/archived/rkt/stacked/white/rkt-stacked-white.svg" width="95"></td>
+        <td><img src="/archived/rkt/icon/white/rkt-icon-white.svg" width="75"></td>
     </tr>
 </table>
+
+
+#### Service Mesh Interface Logos
+
+<table>
+    <tr>
+        <th colspan="11"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="5">PNG</th>
+        <th colspan="5">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horiz</th>
+	<th>stackedtext</th>
+        <th>stacked</th>
+  	<th>smi</th>
+        <th>icon</th>
+        <th>horiz</th>
+	<th>stackedtext</th>
+        <th>stacked</th>
+  	<th>smi</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/archived/servicemeshinterface/horizontal/color/servicemeshinterface-horizontal-color.png" width="200"></td>
+	<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/color/servicemeshinterface-horizontal-stackedtext-color.png" width="200"></td>
+        <td><img src="/archived/servicemeshinterface/stacked/color/servicemeshinterface-stacked-color.png" width="95"></td>
+	<td><img src="/archived/servicemeshinterface/stacked-smi/color/servicemeshinterface-stackedsmi-color.png" width="95"></td>
+        <td><img src="/archived/servicemeshinterface/icon/color/servicemeshinterface-icon-color.png" width="75"></td>
+        <td><img src="/archived/servicemeshinterface/horizontal/color/servicemeshinterface-horizontal-color.svg" width="200"></td>
+	<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/color/servicemeshinterface-horizontal-stackedtext-color.svg" width="200"></td>
+        <td><img src="/archived/servicemeshinterface/stacked/color/servicemeshinterface-stacked-color.svg" width="95"></td>
+ 	<td><img src="/archived/servicemeshinterface/stacked-smi/color/servicemeshinterface-stackedsmi-color.svg" width="95"></td>
+        <td><img src="/archived/servicemeshinterface/icon/color/servicemeshinterface-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/archived/servicemeshinterface/horizontal/black/servicemeshinterface-horizontal-black.png" width="200"></td>
+	<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/black/servicemeshinterface-horizontal-stackedtext-black.png" width="200"></td>
+        <td><img src="/archived/servicemeshinterface/stacked/black/servicemeshinterface-stacked-black.png" width="95"></td>
+	<td><img src="/archived/servicemeshinterface/stacked-smi/black/servicemeshinterface-stackedsmi-black.png" width="95"></td>
+        <td><img src="/archived/servicemeshinterface/icon/black/servicemeshinterface-icon-black.png" width="75"></td>
+        <td><img src="/archived/servicemeshinterface/horizontal/black/servicemeshinterface-horizontal-black.svg" width="200"></td>
+<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/black/servicemeshinterface-horizontal-stackedtext-black.svg" width="200"></td>
+        <td><img src="/archived/servicemeshinterface/stacked/black/servicemeshinterface-stacked-black.svg" width="95"></td>
+	<td><img src="/archived/servicemeshinterface/stacked-smi/black/servicemeshinterface-stackedsmi-black.svg" width="95"></td>
+        <td><img src="/archived/servicemeshinterface/icon/black/servicemeshinterface-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/archived/servicemeshinterface/horizontal/white/servicemeshinterface-horizontal-white.png" width="200"></td>
+	<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/white/servicemeshinterface-horizontal-stackedtext-white.png" width="200"></td>
+        <td><img src="/archived/servicemeshinterface/stacked/white/servicemeshinterface-stacked-white.png" width="95"></td>
+	<td><img src="/archived/servicemeshinterface/stacked-smi/white/servicemeshinterface-stackedsmi-white.png" width="95"></td>
+        <td><img src="/archived/servicemeshinterface/icon/white/servicemeshinterface-icon-white.png" width="75"></td>
+        <td><img src="/archived/servicemeshinterface/horizontal/white/servicemeshinterface-horizontal-white.svg" width="200"></td>
+<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/white/servicemeshinterface-horizontal-stackedtext-white.svg" width="200"></td>
+        <td><img src="/archived/servicemeshinterface/stacked/white/servicemeshinterface-stacked-white.svg" width="95"></td>
+	<td><img src="/archived/servicemeshinterface/stacked-smi/white/servicemeshinterface-stackedsmi-white.svg" width="95"></td>
+        <td><img src="/archived/servicemeshinterface/icon/white/servicemeshinterface-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
+
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 

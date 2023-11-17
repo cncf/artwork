@@ -109,7 +109,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Konveyor](examples/sandbox.md#konveyor-logos)
   * [Krator](examples/sandbox.md#krator-logos)
   * [Krustlet](examples/sandbox.md#ckrustlet-logos)
-  * ~~[Kube-OVN](examples/sandbox.md#kube-ovn-logos)~~
+  * [Kube-OVN](examples/sandbox.md#kube-ovn-logos)
   * [kube-rs](examples/sandbox.md/#kube-rs-logos)
   * [kubearmor](examples/sandbox.md#kubearmor-logos)
   * [KubeDL](examples/sandbox.md#KubeDL-logos)
@@ -129,7 +129,6 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Nocalhost](examples/sandbox.md#nocalhost-logos)
   * [Open Cluster Management](examples/sandbox.md#open-cluster-management-logos)
   * [Open Policy Containers (OPCR)](examples/sandbox.md#open-policy-containers-logos)
-  * [Open Service Mesh](examples/sandbox.md#open-service-mesh-logos)
   * [OpenCost](examples/sandbox.md#opencost-logos)
   * [OpenEBS](examples/sandbox.md#openebs-logos)
   * [OpenFeature](examples/sandbox.md#openfeature-logos)
@@ -148,7 +147,6 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Schemahero](examples/sandbox.md#schemahero-logos)
   * [Serverless Devs](examples/sandbox.md#serverless-devs-logos)
   * [Serverless Workflow Specification](examples/sandbox.md#serverless-workflow-specification-logos)
-  * [Service Mesh Interface](examples/sandbox.md#service-mesh-interface-logos)
   * [Service Mesh Performance (SMP)](examples/sandbox.md#servicemeshperformance-logos)
   * [Skooner](examples/sandbox.md#skooner-logos)
   * [SlimToolkit](examples/sandbox.md#slimtoolkit-logos)
@@ -200,9 +198,11 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [GitOps Working Group](examples/other.md#gitops-working-group-logos)
   * [Cartografos Working Group](examples/other.md#cartografosWG-logos)
 * [Archived Projects](examples/archived.md)
-  * [rkt](examples/archived.md#rkt-logos)
-  * [OpenTracing](examples/archived.md#opentracing-logos)
   * [Brigade](examples/archived.md#brigade-logos)
+  * [Open Service Mesh](examples/archived.md#open-service-mesh-logos)
+  * [OpenTracing](examples/archived.md#opentracing-logos)
+  * [rkt](examples/archived.md#rkt-logos)
+  * [Service Mesh Interface](examples/archived.md#service-mesh-interface-logos)
 
 
 ## CNCF Brand Guidelines
