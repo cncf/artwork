@@ -168,7 +168,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td>Soon</td>
         <td>Soon</td>
         <td>Soon</td>
-        <td><img src="/other/prometheus-certified-associate/black/PrometheusCertifiedAssociate-black.png" width="125"></td>
+        <td><img src="/other/prometheus-certified-associate/black/PrometheusCertifiedAssociate-black.svg" width="125"></td>
         <td>Soon</td>
         <td>Soon</td>
         <td>Soon</td>
