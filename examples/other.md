@@ -1444,13 +1444,23 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
     </tr>
     <tr>
         <th></th>
-        <th>stacked</th>
-        <th>stacked</th>
+        <th>icon</th>
+        <th>icon</th>
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/cncg/stacked/color/cncg-stacked-color.png" width="150"></td>
-        <td><img src="/other/cncg/stacked/color/cncg-stacked-color.svg" width="150"></td>
+        <td><img src="/other/cncg/icon/color/cncg-icon-color.png" width="150"></td>
+        <td><img src="/other/cncg/icon/color/cncg-icon-color.svg" width="150"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/cncg/icon/black/cncg-icon-color.png" width="150"></td>
+        <td><img src="/other/cncg/icon/black/cncg-icon-color.svg" width="150"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/cncg/icon/white/cncg-icon-color.png" width="150"></td>
+        <td><img src="/other/cncg/icon/white/cncg-icon-color.svg" width="150"></td>
     </tr>
 </table>
 
