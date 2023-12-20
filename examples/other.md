@@ -1454,13 +1454,13 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/cncg/icon/black/cncg-icon-color.png" width="150"></td>
-        <td><img src="/other/cncg/icon/black/cncg-icon-color.svg" width="150"></td>
+        <td><img src="/other/cncg/icon/black/cncg-icon-black.png" width="150"></td>
+        <td><img src="/other/cncg/icon/black/cncg-icon-black.svg" width="150"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/cncg/icon/white/cncg-icon-color.png" width="150"></td>
-        <td><img src="/other/cncg/icon/white/cncg-icon-color.svg" width="150"></td>
+        <td><img src="/other/cncg/icon/white/cncg-icon-white.png" width="150"></td>
+        <td><img src="/other/cncg/icon/white/cncg-icon-white.svg" width="150"></td>
     </tr>
 </table>
 
