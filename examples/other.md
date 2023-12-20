@@ -441,37 +441,22 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     <tr>
         <th></th>
         <th>horizontal</th>
-        <th>stacked</th>
         <th>horizontal</th>
-        <th>stacked</th>
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/kubernetes-community-days/horizontal/color/kubernetes-community-days-horizontal-color.png" width="200"></td>
-        <td><img src="/other/kubernetes-community-days/stacked/color/kubernetes-community-days-stacked-color.png" width="95"></td>
-        <td><img src="/other/kubernetes-community-days/horizontal/color/kubernetes-community-days-horizontal-color.svg" width="200"></td>
-        <td><img src="/other/kubernetes-community-days/stacked/color/kubernetes-community-days-stacked-color.svg" width="95"></td>
-    </tr>
-    <tr>
-        <th>reversed</th>
-        <td><img src="/other/kubernetes-community-days/horizontal/reversed/kubernetes-community-days-horizontal-reversed.png" width="200"></td>
-        <td><img src="/other/kubernetes-community-days/stacked/reversed/kubernetes-community-days-stacked-reversed.png" width="95"></td>
-        <td><img src="/other/kubernetes-community-days/horizontal/reversed/kubernetes-community-days-horizontal-reversed.svg" width="200"></td>
-        <td><img src="/other/kubernetes-community-days/stacked/reversed/kubernetes-community-days-stacked-reversed.svg" width="95"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/other/kubernetes-community-days/horizontal/white/kubernetes-community-days-horizontal-white.png" width="200"></td>
-        <td><img src="/other/kubernetes-community-days/stacked/white/kubernetes-community-days-stacked-white.png" width="95"></td>
-        <td><img src="/other/kubernetes-community-days/horizontal/white/kubernetes-community-days-horizontal-white.svg" width="200"></td>
-        <td><img src="/other/kubernetes-community-days/stacked/white/kubernetes-community-days-stacked-white.svg" width="95"></td>
+        <td><img src="/other/kubernetes-community-days/horizontal/color/kcd-logo-color.png" width="200"></td>
+        <td><img src="/other/kubernetes-community-days/horizontal/color/kcd-logo-color.svg" width="200"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/kubernetes-community-days/horizontal/black/kubernetes-community-days-horizontal-black.png" width="200"></td>
-        <td><img src="/other/kubernetes-community-days/stacked/black/kubernetes-community-days-stacked-black.png" width="95"></td>
-        <td><img src="/other/kubernetes-community-days/horizontal/black/kubernetes-community-days-horizontal-black.svg" width="200"></td>
-        <td><img src="/other/kubernetes-community-days/stacked/black/kubernetes-community-days-stacked-black.svg" width="95"></td>
+        <td><img src="/other/kubernetes-community-days/horizontal/black/kcd-logo-black.png" width="200"></td>
+        <td><img src="/other/kubernetes-community-days/horizontal/black/kcd-logo-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/kubernetes-community-days/horizontal/white/kcd-logo-white.png" width="200"></td>
+        <td><img src="/other/kubernetes-community-days/horizontal/white/kcd-logo-white.svg" width="200"></td>
     </tr>
 </table>
 
