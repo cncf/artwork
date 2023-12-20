@@ -197,6 +197,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [CNF Testbed](examples/other.md#cnf-testbed-logos)
   * [GitOps Working Group](examples/other.md#gitops-working-group-logos)
   * [Cartografos Working Group](examples/other.md#cartografosWG-logos)
+  * [Cloud Native Community Groups](examples/other.md#cloud-native-community-groups)
 * [Archived Projects](examples/archived.md)
   * [Brigade](examples/archived.md#brigade-logos)
   * [Open Service Mesh](examples/archived.md#open-service-mesh-logos)
