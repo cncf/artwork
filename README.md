@@ -100,6 +100,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Inspektor Gadget](examples/sandbox.md#inspektor-gadget-logos)
   * [k3s](examples/sandbox.md#k3s-logos)
   * [K8gb](examples/sandbox.md#k8gb-logos)
+  * [k8sgpt](examples/sandbox.md#k8sgpt-logos)
   * [k8up](examples/sandbox.md#k8up-logos)
   * [Karmada](examples/sandbox.md#karmada-logos)
   * [KCL](examples/sandbox.md#kcl-logos)
