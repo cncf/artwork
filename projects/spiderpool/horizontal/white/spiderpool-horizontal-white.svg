@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="722px" height="160px" viewBox="0 0 722 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>spiderpool-horizontal-white</title>
+    <g id="spiderpool-horizontal-white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Frame" x="0" y="0" width="722" height="160"></rect>
+            <g id="Text-/-1_Big-@-2_white" transform="translate(192, 27.055)" fill="#FFFFFF" fill-rule="nonzero" font-family="Roboto-Medium, Roboto" font-size="96" font-weight="400">
+                <text id="Merbridge">
+                    <tspan x="0" y="89">Spiderpool</tspan>
+                </text>
+            </g>
+            <g id="Spiderpool_Graph_Color_Light" transform="translate(32, 16)">
+                <rect id="Frame" x="0" y="0" width="128" height="128"></rect>
+                <path d="M64,17.8565 L103.9615,40.92825 L103.9615,87.07175 L64,110.1435 L24.0385,87.07175 L24.0385,40.92825 L64,17.8565 M64,4 L12.0385,34 L12.0385,94 L64,124 L115.9615,94 L115.9615,34 L64,4 Z" id="Primary" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M64.0068597,67.6516926 L79.0982199,76.1641532 L79.0982199,92.4236258 L69.9736458,100.667889 L69.9736458,80.1458153 L64,76.8053059 L58.2168739,80.1458153 L58.2168739,100.667889 L49.0615215,92.4236258 L49.0615215,76.1641532 L64.0068597,67.6516926 Z M71.4671849,28.032 L79.8093914,37.0799255 L79.8093914,50.6086271 L71.9809313,55.0848424 L78.7619389,58.4583489 L87.1413129,53.65152 L87.1413129,36.5260425 L96.0137194,46.6436239 L96.0268087,57.1901817 L86.6460217,62.553161 L96.7299285,67.5847472 L96.7299285,80.9554117 L86.6460217,91.0437115 L86.6460217,72.2636558 L64.0274388,59.7294252 L41.3676977,72.2636558 L41.3676977,91.0437115 L31.2837909,80.9554117 L31.2837909,67.5847472 L41.3676977,62.553161 L31.9869107,57.1901817 L32,46.6436239 L40.8724065,36.5260425 L40.8724065,53.65152 L49.2517805,58.4583489 L56.0327881,55.0848424 L48.204328,50.6086271 L48.204328,37.0799255 L56.5465345,28.032 L56.5465345,46.6436239 L64.0069909,50.8416 L71.4671849,46.6436239 L71.4671849,28.032 Z" id="Shape" fill="#FFFFFF" opacity="0.66"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -151,6 +151,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Skooner](examples/sandbox.md#skooner-logos)
   * [SlimToolkit](examples/sandbox.md#slimtoolkit-logos)
   * [Strimzi](examples/sandbox.md#strimzi-logos)
+  * [Spiderpool](examples/sandbox.md#spiderpool-logos)
   * [Submariner](examples/sandbox.md#submariner-logos)
   * [SuperEdge](examples/sandbox.md#superedge-logos)
   * [Telepresence](examples/sandbox.md#telepresence-logos)

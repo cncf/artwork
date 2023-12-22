@@ -4080,6 +4080,63 @@
     </tr>
     </table>
 
+#### Spiderpool Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color-dark</th>
+        <td><img src="/projects/spiderpool/horizontal/color/spiderpool-horizontal-colordark.png" width="200"></td>
+        <td><img src="/projects/spiderpool/stacked/color/spiderpool-stacked-color.png" width="95"></td>
+        <td><img src="/projects/spiderpool/icon/color/spiderpool-icon-color.png" width="75"></td>
+        <td><img src="/projects/spiderpool/horizontal/color/spiderpool-horizontal-colordark.png" width="200"></td>
+        <td><img src="/projects/spiderpool/stacked/color/spiderpool-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/spiderpool/icon/color/spiderpool-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>  
+        <th>color-light</th>
+        <td><img src="/projects/spiderpool/horizontal/color/spiderpool-horizontal-colorlight.png" width="200"></td>
+        <td><img src="/projects/spiderpool/stacked/color/spiderpool-stacked-colorlight.png" width="95"></td>
+        <td><img src="/projects/spiderpool/icon/color/spiderpool-icon-colorlight.png" width="75"></td>
+        <td><img src="/projects/spiderpool/horizontal/color/spiderpool-horizontal-colorlight.svg" width="200"></td>
+        <td><img src="/projects/spiderpool/stacked/color/spiderpool-stacked-colorlight.svg" width="95"></td>
+        <td><img src="/projects/spiderpool/icon/color/spiderpool-icon-colorlight.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/spiderpool/horizontal/black/spiderpool-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/spiderpool/stacked/black/spiderpool-stacked-black.png" width="95"></td>
+        <td><img src="/projects/spiderpool/icon/black/spiderpool-icon-black.png" width="75"></td>
+        <td><img src="/projects/spiderpool/horizontal/black/spiderpool-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/spiderpool/stacked/black/spiderpool-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/spiderpool/icon/black/spiderpool-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/spiderpool/horizontal/white/spiderpool-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/spiderpool/stacked/white/spiderpool-stacked-white.png" width="95"></td>
+        <td><img src="/projects/spiderpool/icon/white/spiderpool-icon-white.png" width="75"></td>
+        <td><img src="/projects/spiderpool/horizontal/white/spiderpool-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/spiderpool/stacked/white/spiderpool-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/spiderpool/icon/white/spiderpool-icon-white.svg" width="75"></td>
+    </tr>
+</table>
 
 #### Submariner Logos
 
