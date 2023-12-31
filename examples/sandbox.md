@@ -2067,6 +2067,55 @@
     </tr>
 </table>
 
+#### Kube-Logging Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kube-logging/horizontal/color/kube-logging-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kube-logging/stacked/color/kube-logging-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kube-logging/icon/color/kube-logging-icon-color.png" width="75"></td>
+        <td><img src="/projects/kube-logging/horizontal/color/kube-logging-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kube-logging/stacked/color/kube-logging-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kube-logging/icon/color/kube-logging-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kube-logging/horizontal/black/kube-logging-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kube-logging/stacked/black/kube-logging-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kube-logging/icon/black/kube-logging-icon-black.png" width="75"></td>
+        <td><img src="/projects/kube-logging/horizontal/black/kube-logging-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kube-logging/stacked/black/kube-logging-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kube-logging/icon/black/kube-logging-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kube-logging/horizontal/white/kube-logging-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kube-logging/stacked/white/kube-logging-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kube-logging/icon/white/kube-logging-icon-white.png" width="75"></td>
+        <td><img src="/projects/kube-logging/horizontal/white/kube-logging-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kube-logging/stacked/white/kube-logging-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kube-logging/icon/white/kube-logging-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### kube-rs Logos
 
 <table>
