@@ -1615,6 +1615,55 @@
     </tr>
 </table>
 
+#### K8sGPT Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/k8sgpt/horizontal/color/k8sgpt-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/k8sgpt/stacked/color/k8sgpt-stacked-color.png" width="95"></td>
+        <td><img src="/projects/k8sgpt/icon/color/k8sgpt-icon-color.png" width="75"></td>
+        <td><img src="/projects/k8sgpt/horizontal/color/k8sgpt-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/k8sgpt/stacked/color/k8sgpt-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/k8sgpt/icon/color/k8sgpt-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/k8sgpt/horizontal/black/k8sgpt-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/k8sgpt/stacked/black/k8sgpt-stacked-black.png" width="95"></td>
+        <td><img src="/projects/k8sgpt/icon/black/k8sgpt-icon-black.png" width="75"></td>
+        <td><img src="/projects/k8sgpt/horizontal/black/k8sgpt-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/k8sgpt/stacked/black/k8sgpt-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/k8sgpt/icon/black/k8sgpt-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/k8sgpt/horizontal/white/k8sgpt-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/k8sgpt/stacked/white/k8sgpt-stacked-white.png" width="95"></td>
+        <td><img src="/projects/k8sgpt/icon/white/k8sgpt-icon-white.png" width="75"></td>
+        <td><img src="/projects/k8sgpt/horizontal/white/k8sgpt-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/k8sgpt/stacked/white/k8sgpt-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/k8sgpt/icon/white/k8sgpt-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### k8up Logos
 
 <table>
