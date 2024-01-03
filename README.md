@@ -118,6 +118,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [KubeDL](examples/sandbox.md#KubeDL-logos)
   * [Kuberhealthy](examples/sandbox.md#kuberhealthy-logos)
   * [Kubescape](examples/sandbox.md#kubescape-logos)
+  * [KubeStellar](examples/sandbox.md#kubestellar-logos)
   * [Kubewarden](examples/sandbox.md#kubewarden-logos)
   * [Kudo](examples/sandbox.md#kudo-logos)
   * [Kuma](examples/sandbox.md#kuma-logos)
