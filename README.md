@@ -88,6 +88,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [DevStream](examples/sandbox.md#devstream-logos)
   * [Dex](examples/sandbox.md#dex-logos)
   * [Distribution](examples/sandbox.md#distribution-logos)
+  * [Easegress](examples/sandbox.md#easegress-logos)
   * [Eraser](examples/sandbox.md#eraser-logos)
   * [external-secrets](examples/sandbox.md#external-secrets-operator-logos)
   * [FabEdge](examples/sandbox.md#fabedge-logos)
