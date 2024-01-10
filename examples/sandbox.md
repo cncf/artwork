@@ -1044,29 +1044,29 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/easegress/horizontal/color/easegress-logo-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/easegress/stacked/color/easegress-logo-stacked-color.png" width="95"></td>
+        <td><img src="/projects/easegress/horizontal/color/easegress-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/easegress/stacked/color/easegress-stacked-color.png" width="95"></td>
         <td><img src="/projects/easegress/icon/color/easegress-icon-color.png" width="75"></td>
-        <td><img src="/projects/easegress/horizontal/color/easegress-logo-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/easegress/stacked/color/easegress-logo-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/easegress/horizontal/color/easegress-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/easegress/stacked/color/easegress-stacked-color.svg" width="95"></td>
         <td><img src="/projects/easegress/icon/color/easegress-icon-color.svg" width="75"></td>
     </tr>
    <tr>
         <th>black</th>
-        <td><img src="/projects/easegress/horizontal/black/easegress-logo-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/easegress/stacked/black/easegress-logo-stacked-color.png" width="95"></td>
+        <td><img src="/projects/easegress/horizontal/black/easegress-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/easegress/stacked/black/easegress-stacked-color.png" width="95"></td>
         <td><img src="/projects/easegress/icon/black/easegress-icon-black.png" width="75"></td>
-        <td><img src="/projects/easegress/horizontal/black/easegress-logo-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/easegress/stacked/black/easegress-logo-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/easegress/horizontal/black/easegress-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/easegress/stacked/black/easegress-stacked-black.svg" width="95"></td>
         <td><img src="/projects/easegress/icon/black/easegress-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/easegress/horizontal/white/easegress-logo-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/easegress/stacked/white/easegress-logo-stacked-white.png" width="95"></td>
+        <td><img src="/projects/easegress/horizontal/white/easegress-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/easegress/stacked/white/easegress-stacked-white.png" width="95"></td>
         <td><img src="/projects/easegress/icon/white/easegress-icon-white.png" width="75"></td>
-        <td><img src="/projects/easegress/horizontal/white/easegress-logo-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/easegress/stacked/white/easegress-logo-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/easegress/horizontal/white/easegress-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/easegress/stacked/white/easegress-stacked-white.svg" width="95"></td>
         <td><img src="/projects/easegress/icon/white/easegress-icon-white.svg" width="75"></td>
     </tr>
 </table>
