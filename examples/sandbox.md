@@ -1054,7 +1054,7 @@
    <tr>
         <th>black</th>
         <td><img src="/projects/easegress/horizontal/black/easegress-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/easegress/stacked/black/easegress-stacked-color.png" width="95"></td>
+        <td><img src="/projects/easegress/stacked/black/easegress-stacked-black.png" width="95"></td>
         <td><img src="/projects/easegress/icon/black/easegress-icon-black.png" width="75"></td>
         <td><img src="/projects/easegress/horizontal/black/easegress-horizontal-black.svg" width="200"></td>
         <td><img src="/projects/easegress/stacked/black/easegress-stacked-black.svg" width="95"></td>
