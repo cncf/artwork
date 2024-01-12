@@ -367,6 +367,7 @@ displayed on the light grey of tables.*
 </table>
 
 #### Flagger Logos
+(Flux subproject)
 
 <table>
     <tr>
@@ -463,6 +464,27 @@ displayed on the light grey of tables.*
         <td><img src="/projects/fluentd/icon/white/fluentd-icon-white.svg" width="75"></td>
     </tr>
 </table>
+
+#### Fluentbit Logos
+(Fluentd subproject)
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+	@@ -354,21 +339,38 @@
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/fluentd/fluentbit/horizontal/fluentbit-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/fluentd/fluentbit/stacked/fluentbit-stacked-color.png" width="95"></td>
+        <td><img src="/projects/fluentd/fluentbit/icon/fluentbit-icon-color.png" width="75"></td>
+        <td><img src="/projects/fluentd/fluentbit/horizontal/fluentbit-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/fluentd/fluentbit/stacked/fluentbit-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/fluentd/fluentbit/icon/fluentbit-icon-color.svg" width="75"></td>
+
 
 #### Flux Logos
 
