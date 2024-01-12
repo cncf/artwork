@@ -470,11 +470,21 @@ displayed on the light grey of tables.*
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
-	@@ -354,21 +339,38 @@
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
     </tr>
     <tr>
         <th>color</th>
@@ -484,6 +494,8 @@ displayed on the light grey of tables.*
         <td><img src="/projects/fluentd/fluentbit/horizontal/fluentbit-horizontal-color.svg" width="200"></td>
         <td><img src="/projects/fluentd/fluentbit/stacked/fluentbit-stacked-color.svg" width="95"></td>
         <td><img src="/projects/fluentd/fluentbit/icon/fluentbit-icon-color.svg" width="75"></td>
+    </tr>
+</table>
 
 
 #### Flux Logos
