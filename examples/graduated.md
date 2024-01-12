@@ -478,12 +478,12 @@ displayed on the light grey of tables.*
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/fluentd/fluentbit/horizontal/fluentbit-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/fluentd/fluentbit/stacked/fluentbit-stacked-color.png" width="95"></td>
-        <td><img src="/projects/fluentd/fluentbit/icon/fluentbit-icon-color.png" width="75"></td>
-        <td><img src="/projects/fluentd/fluentbit/horizontal/fluentbit-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/fluentd/fluentbit/stacked/fluentbit-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/fluentd/fluentbit/icon/fluentbit-icon-color.svg" width="75"></td>
+        <td><img src="/projects/fluentbit/horizontal/fluentbit-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/fluentbit/stacked/fluentbit-stacked-color.png" width="95"></td>
+        <td><img src="/projects/fluentbit/icon/fluentbit-icon-color.png" width="75"></td>
+        <td><img src="/projects/fluentbit/horizontal/fluentbit-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/fluentbit/stacked/fluentbit-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/fluentbit/icon/fluentbit-icon-color.svg" width="75"></td>
 
 
 #### Flux Logos
