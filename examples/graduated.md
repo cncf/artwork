@@ -367,7 +367,6 @@ displayed on the light grey of tables.*
 </table>
 
 #### Flagger Logos
-(Flux subproject)
 
 <table>
     <tr>
@@ -466,7 +465,6 @@ displayed on the light grey of tables.*
 </table>
 
 #### Fluentbit Logos
-(Fluentd subproject)
 
 <table>
     <tr>
