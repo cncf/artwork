@@ -6,7 +6,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -55,7 +55,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -153,7 +153,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -454,7 +454,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -740,7 +740,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -1022,6 +1022,55 @@
     </tr>
 </table>
 
+#### Easegress Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/easegress/horizontal/color/easegress-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/easegress/stacked/color/easegress-stacked-color.png" width="95"></td>
+        <td><img src="/projects/easegress/icon/color/easegress-icon-color.png" width="75"></td>
+        <td><img src="/projects/easegress/horizontal/color/easegress-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/easegress/stacked/color/easegress-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/easegress/icon/color/easegress-icon-color.svg" width="75"></td>
+    </tr>
+   <tr>
+        <th>black</th>
+        <td><img src="/projects/easegress/horizontal/black/easegress-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/easegress/stacked/black/easegress-stacked-black.png" width="95"></td>
+        <td><img src="/projects/easegress/icon/black/easegress-icon-black.png" width="75"></td>
+        <td><img src="/projects/easegress/horizontal/black/easegress-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/easegress/stacked/black/easegress-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/easegress/icon/black/easegress-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/easegress/horizontal/white/easegress-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/easegress/stacked/white/easegress-stacked-white.png" width="95"></td>
+        <td><img src="/projects/easegress/icon/white/easegress-icon-white.png" width="75"></td>
+        <td><img src="/projects/easegress/horizontal/white/easegress-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/easegress/stacked/white/easegress-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/easegress/icon/white/easegress-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Eraser Logos
 
 <table>
@@ -1264,7 +1313,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -1388,7 +1437,7 @@
         <td><img src="/projects/hwameistor/stacked/color/hwmeistor-stacked-color.svg" width="95"></td>
         <td><img src="/projects/hwameistor/icon/color/hwameistor-icon-color.svg" width="75"></td>
     </tr>
-    <tr>  
+    <tr>
         <th>color-light</th>
         <td><img src="/projects/hwameistor/horizontal/color/hwameistor-horizontal-colorlight.png" width="200"></td>
         <td><img src="/projects/hwameistor/stacked/color/hwameistor-stacked-colorlight.png" width="95"></td>
@@ -1471,7 +1520,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -1570,7 +1619,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -1769,7 +1818,7 @@
         <td><img src="/projects/kcl/horizontal/color/kcl-horizontal-color.svg" width="200"></td>
         <td><img src="/projects/kcl/stacked/color/kcl-stacked-color.svg" width="95"></td>
         <td><img src="/projects/kcl/icon/color/kcl-icon-color.svg" width="75"></td>
-    </tr>    
+    </tr>
     <tr>
         <th>black</th>
         <td><img src="/projects/kcl/horizontal/black/kcl-horizontal-black.png" width="200"></td>
@@ -1778,7 +1827,7 @@
         <td><img src="/projects/kcl/horizontal/black/kcl-horizontal-black.svg" width="200"></td>
         <td><img src="/projects/kcl/stacked/black/kcl-stacked-black.svg" width="95"></td>
         <td><img src="/projects/kcl/icon/black/kcl-icon-black.svg" width="75"></td>
-    </tr>	    
+    </tr>
     <tr>
         <th>white</th>
         <td><img src="/projects/kcl/horizontal/white/kcl-horizontal-white.png" width="200"></td>
@@ -1787,7 +1836,7 @@
         <td><img src="/projects/kcl/horizontal/white/kcl-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/kcl/stacked/white/kcl-stacked-white.svg" width="95"></td>
         <td><img src="/projects/kcl/icon/white/kcl-icon-white.svg" width="75"></td>
-    </tr> 	
+    </tr>
 </table>
 
 #### KCP Logos
@@ -1884,7 +1933,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -2227,7 +2276,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -2364,7 +2413,7 @@
 
 <table>
     <tr>
-    	<th colspan="5"></th>
+        <th colspan="5"></th>
     </tr>
     <tr>
         <th></th>
@@ -2453,7 +2502,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -2502,7 +2551,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -2773,7 +2822,7 @@
         <td><img src="/projects/merbridge/stacked/color/merbridge-stacked-color.svg" width="95"></td>
         <td><img src="/projects/merbridge/icon/color/merbridge-icon-color.svg" width="75"></td>
     </tr>
-    <tr>  
+    <tr>
         <th>color-light</th>
         <td><img src="/projects/merbridge/horizontal/color/merbridge-horizontal-colorlight.png" width="200"></td>
         <td><img src="/projects/merbridge/stacked/color/merbridge-stacked-colorlight.png" width="95"></td>
@@ -3914,7 +3963,7 @@
 
 <table>
     <tr>
-    	<th colspan="5"></th>
+        <th colspan="5"></th>
     </tr>
     <tr>
         <th></th>
@@ -4052,7 +4101,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -4314,7 +4363,7 @@
         <td><img src="/projects/spiderpool/stacked/color/spiderpool-stacked-color.svg" width="95"></td>
         <td><img src="/projects/spiderpool/icon/color/spiderpool-icon-color.svg" width="75"></td>
     </tr>
-    <tr>  
+    <tr>
         <th>color-light</th>
         <td><img src="/projects/spiderpool/horizontal/color/spiderpool-horizontal-colorlight.png" width="200"></td>
         <td><img src="/projects/spiderpool/stacked/color/spiderpool-stacked-colorlight.png" width="95"></td>
@@ -4437,7 +4486,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -4487,7 +4536,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -4537,7 +4586,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -4637,7 +4686,7 @@
 
 <table>
     <tr>
-    	<th colspan="5"></th>
+        <th colspan="5"></th>
     </tr>
     <tr>
         <th></th>
@@ -4727,7 +4776,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -4776,7 +4825,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
@@ -5030,7 +5079,7 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+        <th colspan="7"></th>
     </tr>
     <tr>
         <th></th>
