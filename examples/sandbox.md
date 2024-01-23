@@ -2174,6 +2174,55 @@
     </tr>
 </table>
 
+#### Kuasar Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kuasar/horizontal/color/kuasar-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kuasar/stacked/color/kuasar-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kuasar/icon/color/kuasar-icon-color.png" width="75"></td>
+        <td><img src="/projects/kuasar/horizontal/color/kuasar-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kuasar/stacked/color/kuasar-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kuasar/icon/color/kuasar-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kuasar/horizontal/black/kuasar-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kuasar/stacked/black/kuasar-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kuasar/icon/black/kuasar-icon-black.png" width="75"></td>
+        <td><img src="/projects/kuasar/horizontal/black/kuasar-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kuasar/stacked/black/kuasar-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kuasar/icon/black/kuasar-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kuasar/horizontal/white/kuasar-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kuasar/stacked/white/kuasar-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kuasar/icon/white/kuasar-icon-white.png" width="75"></td>
+        <td><img src="/projects/kuasar/horizontal/white/kuasar-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kuasar/stacked/white/kuasar-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kuasar/icon/white/kuasar-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Kube-OVN Logos
 
 <table>
