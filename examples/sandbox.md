@@ -2272,7 +2272,7 @@
     </tr>
 </table>
 
-#### Kube-Logging Logos
+#### Logging-Operator Logos
 
 <table>
     <tr>
@@ -2294,30 +2294,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/kube-logging/horizontal/color/kube-logging-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/kube-logging/stacked/color/kube-logging-stacked-color.png" width="95"></td>
-        <td><img src="/projects/kube-logging/icon/color/kube-logging-icon-color.png" width="75"></td>
-        <td><img src="/projects/kube-logging/horizontal/color/kube-logging-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/kube-logging/stacked/color/kube-logging-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/kube-logging/icon/color/kube-logging-icon-color.svg" width="75"></td>
+        <td><img src="/projects/logging-operator/horizontal/color/logging-operator-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/logging-operator/stacked/color/logging-operator-stacked-color.png" width="95"></td>
+        <td><img src="/projects/logging-operator/icon/color/logging-operator-icon-color.png" width="75"></td>
+        <td><img src="/projects/logging-operator/horizontal/color/logging-operator-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/logging-operator/stacked/color/logging-operator-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/logging-operator/icon/color/logging-operator-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/kube-logging/horizontal/black/kube-logging-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/kube-logging/stacked/black/kube-logging-stacked-black.png" width="95"></td>
-        <td><img src="/projects/kube-logging/icon/black/kube-logging-icon-black.png" width="75"></td>
-        <td><img src="/projects/kube-logging/horizontal/black/kube-logging-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/kube-logging/stacked/black/kube-logging-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/kube-logging/icon/black/kube-logging-icon-black.svg" width="75"></td>
+        <td><img src="/projects/logging-operator/horizontal/black/logging-operator-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/logging-operator/stacked/black/logging-operator-stacked-black.png" width="95"></td>
+        <td><img src="/projects/logging-operator/icon/black/logging-operator-icon-black.png" width="75"></td>
+        <td><img src="/projects/logging-operator/horizontal/black/logging-operator-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/logging-operator/stacked/black/logging-operator-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/logging-operator/icon/black/logging-operator-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/kube-logging/horizontal/white/kube-logging-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/kube-logging/stacked/white/kube-logging-stacked-white.png" width="95"></td>
-        <td><img src="/projects/kube-logging/icon/white/kube-logging-icon-white.png" width="75"></td>
-        <td><img src="/projects/kube-logging/horizontal/white/kube-logging-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/kube-logging/stacked/white/kube-logging-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/kube-logging/icon/white/kube-logging-icon-white.svg" width="75"></td>
+        <td><img src="/projects/logging-operator/horizontal/white/logging-operator-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/logging-operator/stacked/white/logging-operator-stacked-white.png" width="95"></td>
+        <td><img src="/projects/logging-operator/icon/white/logging-operator-icon-white.png" width="75"></td>
+        <td><img src="/projects/logging-operator/horizontal/white/logging-operator-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/logging-operator/stacked/white/logging-operator-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/logging-operator/icon/white/logging-operator-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
