@@ -2067,6 +2067,56 @@
                 </tr>
 </table>
 
+#### Krkn Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>dark</th>
+        <td><img src="/projects/krkn/horizontal/black/krkn-horizontal-black.png" width="250"></td>
+        <td><img src="/projects/krkn/stacked/black/krkn-stacked-black.png" width="150"></td>
+        <td><img src="/projects/krkn/icon/black/krkn-icon-black.png" width="150"></td>
+        <td><img src="/projects/krkn/horizontal/black/krkn-horizontal-black.svg" width="250"></td>
+        <td><img src="/projects/krkn/stacked/black/krkn-stacked-black.svg" width="150"></td>
+        <td><img src="/projects/krkn/icon/black/krkn-icon-black.svg" width="150"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/krkn/horizontal/color/krkn-horizontal-color.png" width="250"></td>
+        <td><img src="/projects/krkn/stacked/color/krkn-stacked-color.png" width="150"></td>
+        <td><img src="/projects/krkn/icon/color/krkn-icon-color.png" width="150"></td>
+        <td><img src="/projects/krkn/horizontal/color/krkn-horizontal-color.svg" width="250"></td>
+        <td><img src="/projects/krkn/stacked/color/krkn-stacked-color.svg" width="150"></td>
+        <td><img src="/projects/krkn/icon/color/krkn-icon-color.svg" width="150"></td>
+    </tr>
+    <tr>
+        <th>light</th>
+        <td><img src="/projects/krkn/horizontal/white/krkn-horizontal-white-text.png" width="250"></td>
+        <td><img src="/projects/krkn/stacked/white/krkn-stacked-white-text.png" width="150"></td>
+        <td><img src="/projects/krkn/icon/white/krkn-icon-white-text.png" width="150"></td>
+        <td><img src="/projects/krkn/horizontal/white/krkn-horizontal-white-text.svg" width="250"></td>
+        <td><img src="/projects/krkn/stacked/white/krkn-stacked-white-text.svg" width="150"></td>
+        <td><img src="/projects/krkn/icon/white/krkn-icon-white-text.svg" width="150"></td>
+    </tr>
+</table>
+
+
 #### kube-burner Logos
 
 <table>
