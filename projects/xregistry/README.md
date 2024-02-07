@@ -23,24 +23,24 @@ With many browsers, you can right click and copy the logo of your choice below. 
     </tr>
     <tr>
         <td>Icon</td>
-        <td><img src="./icon/black/xregistry-icon-black.png" width="50"></td>
-        <td><img src="./icon/color/xregistry-icon-color.png" width="50"></td>
-        <td><img src="./icon/color-whitetext/xregistry-icon-color-whitetext.png" width="50"></td>
-        <td><img src="./icon/white/xregistry-icon-white.png" width="50"></td>
+        <td style="background-color: gray"><img src="./icon/black/xregistry-icon-black.png" width="50"></td>
+        <td style="background-color: gray"><img src="./icon/color/xregistry-icon-color.png" width="50"></td>
+        <td style="background-color: gray"><img src="./icon/color-whitetext/xregistry-icon-color-whitetext.png" width="50"></td>
+        <td style="background-color: gray"><img src="./icon/white/xregistry-icon-white.png" width="50"></td>
     </tr>
     <tr>
         <td>Horizontal</td>
-        <td><img src="./horizontal/black/xregistry-horizontal-black.png" width="210"></td>
-        <td><img src="./horizontal/color/xregistry-horizontal-color.png" width="210"></td>
-        <td><img src="./horizontal/color-whitetext/xregistry-horizontal-color-whitetext.png" width="210"></td>
-        <td><img src="./horizontal/white/xregistry-horizontal-white.png" width="210"></td>
+        <td style="background-color: gray"><img src="./horizontal/black/xregistry-horizontal-black.png" width="210"></td>
+        <td style="background-color: gray"><img src="./horizontal/color/xregistry-horizontal-color.png" width="210"></td>
+        <td style="background-color: gray"><img src="./horizontal/color-whitetext/xregistry-horizontal-color-whitetext.png" width="210"></td>
+        <td style="background-color: gray"><img src="./horizontal/white/xregistry-horizontal-white.png" width="210"></td>
     </tr>
     <tr>
         <td>Stacked</td>
-        <td><img src="./stacked/black/xregistry-stacked-black.png" width="50"></td>
-        <td><img src="./stacked/color/xregistry-stacked-color.png" width="50"></td>
-        <td><img src="./stacked/color-whitetext/xregistry-stacked-color-whitetext.png" width="50"></td>
-        <td><img src="./stacked/white/xregistry-stacked-white.png" width="50"></td>
+        <td style="background-color: gray"><img src="./stacked/black/xregistry-stacked-black.png" width="50"></td>
+        <td style="background-color: gray"><img src="./stacked/color/xregistry-stacked-color.png" width="50"></td>
+        <td style="background-color: gray"><img src="./stacked/color-whitetext/xregistry-stacked-color-whitetext.png" width="50"></td>
+        <td style="background-color: gray"><img src="./stacked/white/xregistry-stacked-white.png" width="50"></td>
     </tr>
 </table>
 
@@ -56,23 +56,23 @@ With many browsers, you can right click and copy the logo of your choice below. 
     </tr>
     <tr>
         <td>Icon</td>
-        <td><img src="./icon/black/xregistry-icon-black.svg" width="50"></td>
-        <td><img src="./icon/color/xregistry-icon-color.svg" width="50"></td>
-        <td><img src="./icon/color-whitetext/xregistry-icon-color-whitetext.svg" width="50"></td>
-        <td><img src="./icon/white/xregistry-icon-white.svg" width="50"></td>
+        <td style="background-color: gray"><img src="./icon/black/xregistry-icon-black.svg" width="50"></td>
+        <td style="background-color: gray"><img src="./icon/color/xregistry-icon-color.svg" width="50"></td>
+        <td style="background-color: gray"><img src="./icon/color-whitetext/xregistry-icon-color-whitetext.svg" width="50"></td>
+        <td style="background-color: gray"><img src="./icon/white/xregistry-icon-white.svg" width="50"></td>
     </tr>
     <tr>
         <td>Horizontal</td>
-        <td><img src="./horizontal/black/xregistry-horizontal-black.svg" width="210"></td>
-        <td><img src="./horizontal/color/xregistry-horizontal-color.svg" width="210"></td>
-        <td><img src="./horizontal/color-whitetext/xregistry-horizontal-color-whitetext.svg" width="210"></td>
-        <td><img src="./horizontal/white/xregistry-horizontal-white.svg" width="210"></td>
+        <td style="background-color: gray"><img src="./horizontal/black/xregistry-horizontal-black.svg" width="210"></td>
+        <td style="background-color: gray"><img src="./horizontal/color/xregistry-horizontal-color.svg" width="210"></td>
+        <td style="background-color: gray"><img src="./horizontal/color-whitetext/xregistry-horizontal-color-whitetext.svg" width="210"></td>
+        <td style="background-color: gray"><img src="./horizontal/white/xregistry-horizontal-white.svg" width="210"></td>
     </tr>
     <tr>
         <td>Stacked</td>
-        <td><img src="./stacked/black/xregistry-stacked-black.svg" width="50"></td>
-        <td><img src="./stacked/color/xregistry-stacked-color.svg" width="50"></td>
-        <td><img src="./stacked/color-whitetext/xregistry-stacked-color-whitetext.svg" width="50"></td>
-        <td><img src="./stacked/white/xregistry-stacked-white.svg" width="50"></td>
+        <td style="background-color: gray"><img src="./stacked/black/xregistry-stacked-black.svg" width="50"></td>
+        <td style="background-color: gray"><img src="./stacked/color/xregistry-stacked-color.svg" width="50"></td>
+        <td style="background-color: gray"><img src="./stacked/color-whitetext/xregistry-stacked-color-whitetext.svg" width="50"></td>
+        <td style="background-color: gray"><img src="./stacked/white/xregistry-stacked-white.svg" width="50"></td>
     </tr>
 </table>
