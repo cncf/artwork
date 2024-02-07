@@ -5,7 +5,7 @@ This directory contains artwork in standard formats for XRegistry. We've prepare
 
 - horizontal (also known as landscape format),
 - stacked (which is closer to square), and
-- icon (which does not include the name and is square).
+- icon (which has the simplified logo over of the project name).
 
 Inside each layout's directory, there are assets specifically prepared for light, dark, and sometimes black backgrounds.
 
