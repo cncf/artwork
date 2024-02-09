@@ -40,6 +40,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Chaos Mesh](examples/incubating.md#chaos-mesh-logos)
   * [Cloud Custodian](examples/incubating.md#cloud-custodian-logos)
   * [CloudEvents](examples/incubating.md#cloudevents-logos)
+    * [XRegistry](projects/xregistry/README.md)
   * [CNI](examples/incubating.md#cni-logos)
   * [Contour](examples/incubating.md#contour-logos)
   * [Cortex](examples/incubating.md#cortex-logos)
