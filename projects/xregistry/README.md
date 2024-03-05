@@ -1,7 +1,7 @@
 
-## XRegistry Artwork
+## xRegistry Artwork
 
-This directory contains artwork in standard formats for XRegistry. We've prepared artwork in 2 formats (PNG & SVG), 3 layouts:
+This directory contains artwork in standard formats for xRegistry. We've prepared artwork in 2 formats (PNG & SVG), 3 layouts:
 
 - horizontal (also known as landscape format),
 - stacked (which has the simplified logo over the project name), and
@@ -11,7 +11,7 @@ Inside each layout's directory, there are assets specifically prepared for light
 
 With many browsers, you can right click and copy the logo of your choice below. Please note that although PNG is more common, SVG files sizes are smaller, supported in all common web browsers, and a high resolution format also suitable for high-resolution screens on web or print.
 
-### XRegistry Logos in PNG format
+### xRegistry Logos in PNG format
 
 <table width="100%">
     <tr>
@@ -44,7 +44,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
     </tr>
 </table>
 
-### XRegistry Logos in SVG format
+### xRegistry Logos in SVG format
 
 <table width="100%">
     <tr>
