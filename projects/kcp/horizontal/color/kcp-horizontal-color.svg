@@ -1,95 +1,135 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg x="158.6pt" y="152.313pt" width="265.186pt" height="302.244pt" viewBox="158.6 152.313 265.186 302.244" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="1">
-    <title>Group</title>
-    <g id="2">
-      <title>Group</title>
-      <linearGradient x1="419.787" y1="379.981" x2="295.191" y2="302.451" gradientUnits="userSpaceOnUse" id="5">
-        <stop offset="0.527429" style="stop-color:#3cd3f6;stop-opacity:1;"/>
-        <stop offset="1" style="stop-color:#aaedff;stop-opacity:1;"/>
-      </linearGradient>
-      <defs>
-        <title>Shape 27</title>
-        <g id="3">
-          <defs>
-            <path id="4" d="M423.785,227.874 C423.785,227.874,291.192,303.435,291.192,303.435 C291.192,303.435,291.192,454.557,291.192,454.557 C291.192,454.557,423.785,378.854,423.785,378.854 C423.785,378.854,423.785,227.874,423.785,227.874"/>
-          </defs>
-          <use xlink:href="#4" style="fill:url(#5);fill-opacity:1;fill-rule:evenodd;opacity:1;stroke:none;"/>
-        </g>
-      </defs>
-      <use xlink:href="#3"/>
-      <linearGradient x1="158.6" y1="341.216" x2="291.192" y2="341.216" gradientUnits="userSpaceOnUse" id="8">
-        <stop style="stop-color:#54ff85;stop-opacity:1;"/>
-        <stop offset="1" style="stop-color:#aff456;stop-opacity:1;"/>
-      </linearGradient>
-      <defs>
-        <title>Shape 28</title>
-        <g id="6">
-          <defs>
-            <path id="7" d="M291.192,303.435 C291.192,303.435,158.6,227.874,158.6,227.874 C158.6,227.874,158.6,378.996,158.6,378.996 C158.6,378.996,291.192,454.557,291.192,454.557 C291.192,454.557,291.192,303.435,291.192,303.435"/>
-          </defs>
-          <use xlink:href="#7" style="fill:url(#8);fill-opacity:1;fill-rule:evenodd;opacity:1;stroke:none;"/>
-        </g>
-      </defs>
-      <use xlink:href="#6"/>
-      <linearGradient x1="293.506" y1="152.325" x2="288.878" y2="303.424" gradientUnits="userSpaceOnUse" id="11">
-        <stop offset="0.0024966" style="stop-color:#3d50ff;stop-opacity:1;"/>
-        <stop offset="0.40625" style="stop-color:#3d97ff;stop-opacity:1;"/>
-        <stop offset="1" style="stop-color:#e1d2ff;stop-opacity:1;"/>
-      </linearGradient>
-      <defs>
-        <title>Shape 29</title>
-        <g id="9">
-          <defs>
-            <path id="10" d="M291.192,303.435 C291.192,303.435,158.6,227.874,158.6,227.874 C158.6,227.874,291.192,152.313,291.192,152.313 C291.192,152.313,423.785,227.874,423.785,227.874 C423.785,227.874,291.192,303.435,291.192,303.435"/>
-          </defs>
-          <use xlink:href="#10" style="fill:url(#11);fill-opacity:1;fill-rule:evenodd;opacity:1;stroke:none;"/>
-        </g>
-      </defs>
-      <use xlink:href="#9"/>
-    </g>
-    <g id="12">
-      <title>White Overlay</title>
-      <defs>
-        <title>Smart Polygon Copy Copy</title>
-        <g id="13">
-          <defs>
-            <path id="14" d="M291.192,227.874 C291.192,227.874,357.489,265.655,357.489,265.655 C357.489,265.655,357.489,341.216,357.489,341.216 C357.489,341.216,291.192,378.996,291.192,378.996 C291.192,378.996,224.896,341.216,224.896,341.216 C224.896,341.216,224.896,265.655,224.896,265.655 C224.896,265.655,291.192,227.874,291.192,227.874 z"/>
-          </defs>
-          <use xlink:href="#14" style="fill:#ffffff;fill-opacity:0.853805;fill-rule:nonzero;opacity:1;stroke:none;"/>
-        </g>
-      </defs>
-      <use xlink:href="#13"/>
-      <defs>
-        <title>Shape 49</title>
-        <g id="15">
-          <defs>
-            <path id="16" d="M224.896,341.216 C224.896,341.216,224.896,331.877,224.896,331.877 C224.896,331.877,158.6,369.349,158.6,369.349 C158.6,369.349,158.6,378.996,158.6,378.996 C158.6,378.996,166.82,383.681,166.82,383.681 C166.82,383.681,233.817,346.3,233.817,346.3 C233.817,346.3,224.896,341.216,224.896,341.216 z"/>
-          </defs>
-          <use xlink:href="#16" style="fill:#ffffff;fill-opacity:0.895489;fill-rule:evenodd;opacity:1;stroke:none;"/>
-        </g>
-      </defs>
-      <use xlink:href="#15"/>
-      <defs>
-        <title>Shape 49 Copy</title>
-        <g id="17">
-          <defs>
-            <path id="18" d="M291.192,227.874 C291.192,227.874,299.714,232.713,299.714,232.713 C299.714,232.713,299.714,157.169,299.714,157.169 C299.714,157.169,291.192,152.313,291.192,152.313 C291.192,152.313,282.672,157.169,282.672,157.169 C282.672,157.169,282.702,232.713,282.702,232.713 C282.702,232.713,291.192,227.874,291.192,227.874 z"/>
-          </defs>
-          <use xlink:href="#18" style="fill:#ffffff;fill-opacity:0.895489;fill-rule:evenodd;opacity:1;stroke:none;"/>
-        </g>
-      </defs>
-      <use xlink:href="#17"/>
-      <defs>
-        <title>Shape 49 Copy</title>
-        <g id="19">
-          <defs>
-            <path id="20" d="M357.489,341.216 C357.489,341.216,357.489,331.877,357.489,331.877 C357.489,331.877,423.785,369.689,423.785,369.689 C423.785,369.689,423.785,378.854,423.785,378.854 C423.785,378.854,415.368,383.66,415.368,383.66 C415.368,383.66,349.048,346.026,349.048,346.026 C349.048,346.026,357.489,341.216,357.489,341.216 z"/>
-          </defs>
-          <use xlink:href="#20" style="fill:#ffffff;fill-opacity:0.895489;fill-rule:evenodd;opacity:1;stroke:none;"/>
-        </g>
-      </defs>
-      <use xlink:href="#19"/>
-    </g>
-  </g>
+<!-- Generator: Adobe Illustrator 28.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="800px" height="404.3px" viewBox="0 0 800 404.3" style="enable-background:new 0 0 800 404.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000149373236756157178430000017402151521517197469_);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000069357747878357867250000006810487302734509485_);}
+	.st3{fill:#FFFFFF;fill-opacity:0.85;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;fill-opacity:0.9;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:url(#_x34__00000159436644832540992330000011585765707269173174_);}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:url(#_x37__00000147935181428155883710000016094804910975083169_);}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:url(#_x31_0_00000162311713499000510410000010367583727710280863_);}
+	.st8{fill:#FFFFFF;fill-opacity:0.8538;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;fill-opacity:0.8955;}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:url(#_x34__00000142867022240937592500000009500256475656284036_);}
+	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:url(#_x37__00000000905937878606633230000003930922234818846372_);}
+	.st12{fill-rule:evenodd;clip-rule:evenodd;fill:url(#_x31_0_00000017509095588736688620000009173780969915660446_);}
+	.st13{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000162321959834315438990000009286425104917748352_);}
+	.st14{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000056391331274081885200000018385065976869591198_);}
+	.st15{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000111877672336696064440000007839367362641622703_);}
+	.st16{fill-rule:evenodd;clip-rule:evenodd;fill:url(#_x34__00000127746690381213049850000007240920966532766093_);}
+	.st17{fill-rule:evenodd;clip-rule:evenodd;fill:url(#_x37__00000093161946513850227660000007023742598683861935_);}
+	.st18{fill-rule:evenodd;clip-rule:evenodd;fill:url(#_x31_0_00000048485127594309849530000017678731558560036766_);}
+	.st19{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000045591443260687125240000008063947308025733280_);}
+	.st20{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000181047478869046281170000014022656540333852832_);}
+	.st21{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000071533668316466447350000015872671258948768136_);}
+	.st22{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000109751039189002701820000006947308420800678561_);}
+	.st23{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000029763021253697181150000000219829561291348875_);}
+	.st24{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000144321783607353394650000002394602643195957376_);}
+	.st25{fill:#FFFFFF;}
+	.st26{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000131350361862810877270000003177714086277824428_);}
+	.st27{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000097491107267607422250000008471114478430829756_);}
+	.st28{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000021813616022200747580000016694623651196197049_);}
+	.st29{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000080927360561081044610000003354658214227952513_);}
+	.st30{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000095296829893510410820000017898555354403000754_);}
+	.st31{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000068678151415324431800000006032167317167943063_);}
+</style>
+<g>
+	<g id="_x31_">
+		<g id="_x32_">
+			<g>
+				<g id="_x33_">
+					<g>
+						
+							<linearGradient id="_x34__00000019643133209773885770000016197392115581986739_" gradientUnits="userSpaceOnUse" x1="350.1525" y1="3447.1343" x2="183.4745" y2="3550.8501" gradientTransform="matrix(1 0 0 -1 0 3751.6968)">
+							<stop  offset="0.5274" style="stop-color:#52C8EB"/>
+							<stop  offset="1" style="stop-color:#B1E2F5"/>
+						</linearGradient>
+						
+							<path id="_x34_" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#_x34__00000019643133209773885770000016197392115581986739_);" d="
+							M355.5,101.1L178.1,202.2v202.2l177.4-101.3V101.1"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g id="_x36_">
+					<g>
+						
+							<linearGradient id="_x37__00000037692273614890206880000013991885526776984483_" gradientUnits="userSpaceOnUse" x1="0.75" y1="3498.9927" x2="178.1247" y2="3498.9927" gradientTransform="matrix(1 0 0 -1 0 3751.6968)">
+							<stop  offset="0" style="stop-color:#82C674"/>
+							<stop  offset="1" style="stop-color:#B4D452"/>
+						</linearGradient>
+						
+							<path id="_x37_" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#_x37__00000037692273614890206880000013991885526776984483_);" d="
+							M178.1,202.2L0.8,101.1v202.2l177.4,101.1V202.2"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g id="_x39_">
+					<g>
+						
+							<linearGradient id="_x31_0_00000144320095198701769490000006120020649993507496_" gradientUnits="userSpaceOnUse" x1="181.2185" y1="3751.6018" x2="175.0323" y2="3549.6282" gradientTransform="matrix(1 0 0 -1 0 3751.6968)">
+							<stop  offset="2.496600e-03" style="stop-color:#4E5FAB"/>
+							<stop  offset="0.4062" style="stop-color:#5A8ECB"/>
+							<stop  offset="1" style="stop-color:#DED1E7"/>
+						</linearGradient>
+						
+							<path id="_x31_0" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#_x31_0_00000144320095198701769490000006120020649993507496_);" d="
+							M178.1,202.2L0.8,101.1L178.1,0l177.4,101.1L178.1,202.2"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="_x31_2">
+			<g>
+				<g id="_x31_3">
+					<g>
+						<path id="_x31_4" class="st8" d="M178.1,101.1l88.7,50.5v101.1l-88.7,50.5l-88.7-50.5V151.6L178.1,101.1z"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g id="_x31_5">
+					<g>
+						<path id="_x31_6" class="st9" d="M89.4,252.7v-12.5L0.8,290.3v12.9l11,6.3l89.6-50L89.4,252.7z"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g id="_x31_7">
+					<g>
+						<path id="_x31_8" class="st9" d="M178.1,101.1l11.4,6.5V6.5L178.1,0l-11.4,6.5l0,101.1L178.1,101.1z"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g id="_x31_9">
+					<g>
+						<path id="_x32_0" class="st9" d="M266.8,252.7v-12.5l88.7,50.6v12.3l-11.3,6.4l-88.7-50.3L266.8,252.7z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path d="M435.3,214.5c3.9-4.2,7.8-8.5,12-13.1c4.1-4.5,8.1-9,12-13.5c3.9-4.4,7.5-8.7,10.9-12.7c3.4-4,6.4-7.5,8.8-10.5h46.6
+			c-9.3,10.7-18.4,20.9-27.2,30.6c-8.9,9.7-18.6,19.7-29.1,30.1c5.3,4.7,10.7,10.4,16.3,17c5.6,6.6,11.1,13.4,16.3,20.4
+			c5.3,7,10.1,14.1,14.5,21.1c4.4,7,8.1,13.4,11.1,19.2h-45.1c-2.8-4.6-6-9.6-9.6-15.2c-3.6-5.5-7.4-11.1-11.4-16.6
+			c-4-5.5-8.3-10.9-12.7-16c-4.5-5.1-8.9-9.4-13.3-12.9v60.7h-39.2V105.4l39.2-6.3V214.5z"/>
+		<path d="M532.4,234c0-10,1.6-19.4,4.9-28.3c3.2-8.9,7.9-16.6,14.1-23.2c6.1-6.6,13.6-11.8,22.4-15.7c8.8-3.9,18.8-5.8,30-5.8
+			c7.4,0,14.1,0.7,20.3,2c6.1,1.3,12.1,3.2,17.9,5.7l-8.2,31.3c-3.7-1.4-7.7-2.6-12.1-3.7c-4.4-1.1-9.3-1.6-14.7-1.6
+			c-11.6,0-20.2,3.6-25.9,10.8c-5.7,7.2-8.6,16.7-8.6,28.4c0,12.5,2.7,22.1,8,28.9c5.3,6.8,14.7,10.3,28,10.3
+			c4.7,0,9.8-0.4,15.3-1.3c5.4-0.9,10.4-2.3,15-4.2l5.5,32.1c-4.6,1.9-10.3,3.6-17.1,5c-6.8,1.4-14.4,2.1-22.6,2.1
+			c-12.6,0-23.5-1.9-32.6-5.7c-9.1-3.8-16.6-8.9-22.5-15.4c-5.9-6.5-10.2-14.2-12.9-23C533.8,254,532.4,244.4,532.4,234z"/>
+		<path d="M799.2,234c0,10.7-1.3,20.4-3.9,29.2c-2.6,8.8-6.5,16.3-11.6,22.6c-5.1,6.3-11.4,11.2-18.9,14.7c-7.5,3.5-16.2,5.3-26,5.3
+			c-5.4,0-10.5-0.5-15.3-1.6c-4.7-1.1-9.3-2.5-13.7-4.5v52.1h-39.2V169.6c3.5-1.1,7.5-2.1,12.1-3c4.6-1,9.3-1.8,14.3-2.5
+			c5-0.7,10.1-1.3,15.3-1.7c5.2-0.4,10.1-0.7,14.9-0.7c11.4,0,21.6,1.7,30.5,5.1c8.9,3.4,16.5,8.2,22.6,14.5
+			c6.1,6.2,10.8,13.8,14.1,22.8C797.6,213,799.2,223,799.2,234z M759.3,235.1c0-12.1-2.7-21.8-8.2-29.1
+			c-5.4-7.3-13.5-10.9-24.2-10.9c-3.5,0-6.8,0.1-9.7,0.4c-3,0.3-5.4,0.6-7.4,0.9v70.8c2.5,1.6,5.7,2.9,9.6,3.9s7.9,1.6,12,1.6
+			C750,272.7,759.3,260.2,759.3,235.1z"/>
+	</g>
+</g>
 </svg>
