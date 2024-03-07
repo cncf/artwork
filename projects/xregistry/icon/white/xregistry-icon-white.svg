@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="662.2px" height="800px" viewBox="0 0 662.2 800" style="enable-background:new 0 0 662.2 800;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#0066FF;}
-	.st1{fill:#FFFFFF;}
-</style>
-<g>
-	<path class="st1" d="M490.6,800h171.6l-168-338.4c68-23.4,154.4-81.1,154.4-222.8C648.6,5.3,413.9,0,413.9,0H3.4v155.3h388.4
-		c0,0,100.5-1.5,100.5,83.6c0,85-100.5,83.6-100.5,83.6h-1.2l-74.4,126.5L490.6,800z"/>
-	<polygon class="st1" points="392.7,322.4 281,322.4 266.7,346.6 196.4,466.2 111.7,322.4 0,322.4 140.5,561.2 0,800 111.7,800 
-		196.4,656.2 281,800 392.7,800 252.2,561.2 317.9,449.6 	"/>
+<svg width="663" height="800" viewBox="0 0 663 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_150)">
+<path d="M490.6 800H662.2L494.2 461.6C562.2 438.2 648.6 380.5 648.6 238.8C648.6 5.3 413.9 0 413.9 0H3.40002L80.39 155.3H391.8C391.8 155.3 492.3 153.8 492.3 238.9C492.3 323.9 391.8 322.5 391.8 322.5H390.6L316.2 449L490.6 800Z" fill="white"/>
+<path d="M392.7 322.4H281L266.7 346.6L196.4 466.2L111.7 322.4H0L140.5 561.2L0 800H111.7L196.4 656.2L281 800H392.7L252.2 561.2L317.9 449.6L392.7 322.4Z" fill="white"/>
 </g>
+<defs>
+<clipPath id="clip0_1_150">
+<rect width="662.2" height="800" fill="white"/>
+</clipPath>
+</defs>
 </svg>
