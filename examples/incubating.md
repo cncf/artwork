@@ -1292,7 +1292,7 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
-#### NotaryProject Logos
+#### Notary Project Logos
 
 <table>
     <tr>
@@ -1314,12 +1314,12 @@ displayed on the light grey of tables.*
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/notary/horizontal/color/notary-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/notary/stacked/color/notary-stacked-color.png" width="95"></td>
-        <td><img src="/projects/notary/icon/color/notary-icon-color.png" width="75"></td>
-        <td><img src="/projects/notary/horizontal/color/notary-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/notary/stacked/color/notary-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/notary/icon/color/notary-icon-color.svg" width="75"></td>
+        <td><img src="/projects/notary/horizontal/color/notary-project-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/notary/stacked/color/notary-project-stacked-color.png" width="95"></td>
+        <td><img src="/projects/notary/icon/color/notary-project-icon-color.png" width="75"></td>
+        <td><img src="/projects/notary/horizontal/color/notary-project-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/notary/stacked/color/notary-project-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/notary/icon/color/notary-project-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
