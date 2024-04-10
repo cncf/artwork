@@ -997,6 +997,55 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
+#### Kubeflow Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubeflow/horizontal/color/kubeflow-horizontal.png" width="200"></td>
+        <td><img src="/projects/kubeflow/stacked/color/kubeflow-stacked.png" width="95"></td>
+        <td><img src="/projects/kubeflow/icon/color/kubeflow-icon.png" width="75"></td>
+        <td><img src="/projects/kubeflow/horizontal/color/kubeflow-horizontal.svg" width="200"></td>
+        <td><img src="/projects/kubeflow/stacked/color/kubeflow-stacked.svg" width="95"></td>
+        <td><img src="/projects/kubeflow/icon/color/kubeflow-icon.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubeflow/horizontal/black/kubeflow-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubeflow/stacked/black/kubeflow-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubeflow/icon/black/kubeflow-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubeflow/horizontal/black/kubeflow-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubeflow/stacked/black/kubeflow-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubeflow/icon/black/kubeflow-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubeflow/horizontal/white/kubeflow-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubeflow/stacked/white/kubeflow-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubeflow/icon/white/kubeflow-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubeflow/horizontal/white/kubeflow-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubeflow/stacked/white/kubeflow-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubeflow/icon/white/kubeflow-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### KubeVela Logos
 
 <table>
