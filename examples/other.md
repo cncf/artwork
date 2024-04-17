@@ -293,7 +293,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
 </table>
 
-#### CNCF Kubestronaut Logos
+#### Kubestronaut Logos
 
 <table>
     <tr>
