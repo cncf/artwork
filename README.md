@@ -61,7 +61,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Litmus](examples/incubating.md#litmus-logos)
   * [Longhorn](examples/incubating.md#longhorn-logos)
   * [NATS](examples/incubating.md#nats-logos)
-  * [Notary](examples/incubating.md#notary-logos)
+  * [Notary Project](examples/incubating.md#notary-logos)
   * [OpenKruise](examples/incubating.md#openkruise-logos)
   * [OpenMetrics](examples/incubating.md#openmetrics-logos)
   * [OpenTelemetry](examples/incubating.md#opentelemetry-logos)
