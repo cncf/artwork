@@ -112,6 +112,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Kepler](examples/sandbox.md#kepler-logos)
   * [Keylime](examples/sandbox.md#keylime-logos)
   * [Konveyor](examples/sandbox.md#konveyor-logos)
+  * [Koordinator](examples/sandbox.md#koordinator-logos)
   * [Krator](examples/sandbox.md#krator-logos)
   * [krkn](examples/sandbox.md#krkn)
   * [Krustlet](examples/sandbox.md#ckrustlet-logos)
