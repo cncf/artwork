@@ -2410,6 +2410,64 @@
     </tr>
 </table>
 
+#### Kubean Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color-dark</th>
+        <td><img src="/projects/kubean/horizontal/color/kubean-horizontal-colordark.png" width="200"></td>
+        <td><img src="/projects/kubean/stacked/color/kubean-stacked-colordark.png" width="95"></td>
+        <td><img src="/projects/kubean/icon/color/kubean-icon-colordark.png" width="75"></td>
+        <td><img src="/projects/kubean/horizontal/color/kubean-horizontal-colordark.png" width="200"></td>
+        <td><img src="/projects/kubean/stacked/color/kubean-stacked-colordark.svg" width="95"></td>
+        <td><img src="/projects/kubean/icon/color/kubean-icon-colordark.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>color-light</th>
+        <td><img src="/projects/kubean/horizontal/color/kubean-horizontal-colorlight.png" width="200"></td>
+        <td><img src="/projects/kubean/stacked/color/kubean-stacked-colorlight.png" width="95"></td>
+        <td><img src="/projects/kubean/icon/color/kubean-icon-colorlight.png" width="75"></td>
+        <td><img src="/projects/kubean/horizontal/color/kubean-horizontal-colorlight.svg" width="200"></td>
+        <td><img src="/projects/kubean/stacked/color/kubean-stacked-colorlight.svg" width="95"></td>
+        <td><img src="/projects/kubean/icon/color/kubean-icon-colorlight.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubean/horizontal/black/kubean-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubean/stacked/black/kubean-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubean/icon/black/kubean-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubean/horizontal/black/kubean-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubean/stacked/black/kubean-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubean/icon/black/kubean-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubean/horizontal/white/kubean-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubean/stacked/white/kubean-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubean/icon/white/kubean-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubean/horizontal/white/kubean-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubean/stacked/white/kubean-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubean/icon/white/kubean-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### kubearmor Logos
 
 <table>
