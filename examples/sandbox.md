@@ -2620,29 +2620,29 @@
     <tr>
         <th>color</th>
         <td><img src="/projects/kubesslice/horizontal/color/kubeslice-horizontal-colored.png" width="200"></td>
-        <td><img src="/projects/kubestellar/stacked/color/kubeslice-stacked-colored.png" width="95"></td>
-        <td><img src="/projects/kubestellar/icon/color/kubeslice-icon-colored.png" width="75"></td>
-        <td><img src="/projects/kubestellar/horizontal/color/kubeslice-horizontal-colored.svg" width="200"></td>
-        <td><img src="/projects/kubestellar/stacked/color/kubeslice-stacked-colored.svg" width="95"></td>
-        <td><img src="/projects/kubestellar/icon/color/kubeslice-icon-colored.svg" width="75"></td>
+        <td><img src="/projects/kubeslice/stacked/color/kubeslice-stacked-colored.png" width="95"></td>
+        <td><img src="/projects/kubeslice/icon/color/kubeslice-icon-colored.png" width="75"></td>
+        <td><img src="/projects/kubeslice/horizontal/color/kubeslice-horizontal-colored.svg" width="200"></td>
+        <td><img src="/projects/kubeslice/stacked/color/kubeslice-stacked-colored.svg" width="95"></td>
+        <td><img src="/projects/kubeslice/icon/color/kubeslice-icon-colored.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
         <td><img src="/projects/kubesslice/horizontal/black/kubeslice-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/kubestellar/stacked/black/kubeslice-stacked-black.png" width="95"></td>
-        <td><img src="/projects/kubestellar/icon/black/kubeslice-icon-black.png" width="75"></td>
-        <td><img src="/projects/kubestellar/horizontal/black/kubeslice-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/kubestellar/stacked/black/kubeslice-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/kubestellar/icon/black/kubeslice-icon-black.svg" width="75"></td>
+        <td><img src="/projects/kubeslice/stacked/black/kubeslice-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubeslice/icon/black/kubeslice-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubeslice/horizontal/black/kubeslice-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubeslice/stacked/black/kubeslice-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubeslice/icon/black/kubeslice-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/projects/kubesslice/horizontal/white/kubeslice-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/kubestellar/stacked/white/kubeslice-stacked-white.png" width="95"></td>
-        <td><img src="/projects/kubestellar/icon/white/kubeslice-icon-white.png" width="75"></td>
-        <td><img src="/projects/kubestellar/horizontal/white/kubeslice-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/kubestellar/stacked/white/kubeslice-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/kubestellar/icon/white/kubeslice-icon-white.svg" width="75"></td>
+        <td><img src="/projects/kubeslice/stacked/white/kubeslice-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubeslice/icon/white/kubeslice-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubeslice/horizontal/white/kubeslice-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubeslice/stacked/white/kubeslice-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubeslice/icon/white/kubeslice-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
