@@ -2026,6 +2026,55 @@
     </tr>
 </table>
 
+#### Koordinator Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/koordinator/horizontal/color/koordinator-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/koordinator/stacked/color/koordinator-stacked-color.png" width="95"></td>
+        <td><img src="/projects/koordinator/icon/color/koordinator-icon-color.png" width="75"></td>
+        <td><img src="/projects/koordinator/horizontal/color/koordinator-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/koordinator/stacked/color/koordinator-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/koordinator/icon/color/koordinator-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/koordinator/horizontal/black/koordinator-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/koordinator/stacked/black/koordinator-stacked-black.png" width="95"></td>
+        <td><img src="/projects/koordinator/icon/black/koordinator-icon-black.png" width="75"></td>
+        <td><img src="/projects/koordinator/horizontal/black/koordinator-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/koordinator/stacked/black/koordinator-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/koordinator/icon/black/koordinator-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/koordinator/horizontal/white/koordinator-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/koordinator/stacked/white/koordinator-stacked-white.png" width="95"></td>
+        <td><img src="/projects/koordinator/icon/white/koordinator-icon-white.png" width="75"></td>
+        <td><img src="/projects/koordinator/horizontal/white/koordinator-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/koordinator/stacked/white/koordinator-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/koordinator/icon/white/koordinator-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Krator Logos
 
 <table>
