@@ -1741,6 +1741,55 @@
 
 </table>
 
+#### Kairos Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kairos/horizontal/color/kairos-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kairos/stacked/color/kairos-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kairos/icon/color/kairos-icon-color.png" width="75"></td>
+        <td><img src="/projects/kairos/horizontal/color/kairos-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kairos/stacked/color/kairos-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kairos/icon/color/kairos-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kairos/horizontal/black/kairos-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kairos/stacked/black/kairos-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kairos/icon/black/kairos-icon-black.png" width="75"></td>
+        <td><img src="/projects/kairos/horizontal/black/kairos-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kairos/stacked/black/kairos-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kairos/icon/black/kairos-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kairos/horizontal/white/kairos-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kairos/stacked/white/kairos-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kairos/icon/white/kairos-icon-white.png" width="75"></td>
+        <td><img src="/projects/kairos/horizontal/white/kairos-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kairos/stacked/white/kairos-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kairos/icon/white/kairos-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Karmada Logos
 
 <table>
