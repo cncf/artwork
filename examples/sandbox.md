@@ -4227,8 +4227,8 @@
     </tr>
         <tr>
         <th>color</th>
-        <td><img src="/projects/radius/horizontal/color/radius-horizontal-color.png width="200"></td>
-        <td><img src="/projects/radius/stacked/color/radius-stacked-color.png width="95"></td>
+        <td><img src="/projects/radius/horizontal/color/radius-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/radius/stacked/color/radius-stacked-color.png" width="95"></td>
         <td><img src="/projects/radius/icon/color/radius-icon-color.png" width="75"></td>
         <td><img src="/projects/radius/horizontal/color/radius-horizontal-color.svg" width="200"></td>
         <td><img src="/projects/radius/stacked/color/radius-stacked-color.svg" width="95"></td>
