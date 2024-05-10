@@ -2704,6 +2704,55 @@
     </tr>
 </table>
 
+#### KubeSlice Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubesslice/horizontal/color/kubeslice-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubeslice/stacked/color/kubeslice-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubeslice/icon/color/kubeslice-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubeslice/horizontal/color/kubeslice-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubeslice/stacked/color/kubeslice-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubeslice/icon/color/kubeslice-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubesslice/horizontal/black/kubeslice-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubeslice/stacked/black/kubeslice-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubeslice/icon/black/kubeslice-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubeslice/horizontal/black/kubeslice-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubeslice/stacked/black/kubeslice-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubeslice/icon/black/kubeslice-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubesslice/horizontal/white/kubeslice-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubeslice/stacked/white/kubeslice-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubeslice/icon/white/kubeslice-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubeslice/horizontal/white/kubeslice-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubeslice/stacked/white/kubeslice-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubeslice/icon/white/kubeslice-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### KubeStellar Logos
 
 <table>
