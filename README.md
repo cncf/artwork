@@ -84,6 +84,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Clusternet](examples/sandbox.md#clusternet-logos)
   * [Clusterpedia](examples/sandbox.md#clusterpedia-logos)
   * [Confidential Containers](examples/sandbox.md#confidential-containers-logos)
+  * [Connect RPC](examples/sandbox.md#connect-rpc-logos)
   * [ContainerSSH](examples/sandbox.md#containerssh-logos)
   * [Curiefense](examples/sandbox.md#curiefense-logos)
   * [Curve](examples/sandbox.md#curve-logos)
