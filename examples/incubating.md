@@ -3,6 +3,56 @@
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are
 displayed on the light grey of tables.*
 
+
+#### Artifact Hub Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/artifacthub/horizontal/color/artifacthub-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/artifacthub/stacked/color/artifacthub-stacked-color.png" width="95"></td>
+        <td><img src="/projects/artifacthub/icon/color/artifacthub-icon-color.png" width="75"></td>
+        <td><img src="/projects/artifacthub/horizontal/color/artifacthub-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/artifacthub/stacked/color/artifacthub-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/artifacthub/icon/color/artifacthub-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/artifacthub/horizontal/black/artifacthub-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/artifacthub/stacked/black/artifacthub-stacked-black.png" width="95"></td>
+        <td><img src="/projects/artifacthub/icon/black/artifacthub-icon-black.png" width="75"></td>
+        <td><img src="/projects/artifacthub/horizontal/black/artifacthub-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/artifacthub/stacked/black/artifacthub-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/artifacthub/icon/black/artifacthub-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/artifacthub/horizontal/white/artifacthub-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/artifacthub/stacked/white/artifacthub-stacked-white.png" width="95"></td>
+        <td><img src="/projects/artifacthub/icon/white/artifacthub-icon-white.png" width="75"></td>
+        <td><img src="/projects/artifacthub/horizontal/white/artifacthub-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/artifacthub/stacked/white/artifacthub-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/artifacthub/icon/white/artifacthub-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Backstage Logos
 
 <table>
@@ -234,66 +284,6 @@ displayed on the light grey of tables.*
         </td>
         <td><img src="/projects/cloudcustodian/stacked/white/cloudcustodian-stacked-white.svg" width="95"></td>
         <td><img src="/projects/cloudcustodian/icon/white/cloudcustodian-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
-#### CloudEvents Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/cloudevents/horizontal/color/cloudevents-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/cloudevents/stacked/color/cloudevents-stacked-color.png" width="95"></td>
-        <td><img src="/projects/cloudevents/icon/color/cloudevents-icon-color.png" width="75"></td>
-        <td><img src="/projects/cloudevents/horizontal/color/cloudevents-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/cloudevents/stacked/color/cloudevents-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/cloudevents/icon/color/cloudevents-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/cloudevents/horizontal/black/cloudevents-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/cloudevents/stacked/black/cloudevents-stacked-black.png" width="95"></td>
-        <td><img src="/projects/cloudevents/icon/black/cloudevents-icon-black.png" width="75"></td>
-        <td><img src="/projects/cloudevents/horizontal/black/cloudevents-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/cloudevents/stacked/black/cloudevents-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/cloudevents/icon/black/cloudevents-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/cloudevents/horizontal/white/cloudevents-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/cloudevents/stacked/white/cloudevents-stacked-white.png" width="95"></td>
-        <td><img src="/projects/cloudevents/icon/white/cloudevents-icon-white.png" width="75"></td>
-        <td><img src="/projects/cloudevents/horizontal/white/cloudevents-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/cloudevents/stacked/white/cloudevents-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/cloudevents/icon/white/cloudevents-icon-white.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>reversed color</th>
-        <td><img src="/projects/cloudevents/horizontal/color/cloudevents-horizontal-color-reversed.png"
-                width="200"></td>
-        <td><img src="/projects/cloudevents/stacked/color/cloudevents-stacked-color-reversed.png" width="95"></td>
-        <td><img src="/projects/cloudevents/icon/color/cloudevents-icon-color-reversed.png" width="75"></td>
-        <td><img src="/projects/cloudevents/horizontal/color/cloudevents-horizontal-color-reversed.svg"
-                width="200"></td>
-        <td><img src="/projects/cloudevents/stacked/color/cloudevents-stacked-color-reversed.svg" width="95"></td>
-        <td><img src="/projects/cloudevents/icon/color/cloudevents-icon-color-reversed.svg" width="75"></td>
     </tr>
 </table>
 
@@ -693,55 +683,6 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
-#### Falco Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/falco/horizontal/color/falco-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/falco/stacked/color/falco-stacked-color.png" width="95"></td>
-        <td><img src="/projects/falco/icon/color/falco-icon-color.png" width="75"></td>
-        <td><img src="/projects/falco/horizontal/color/falco-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/falco/stacked/color/falco-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/falco/icon/color/falco-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/falco/horizontal/black/falco-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/falco/stacked/black/falco-stacked-black.png" width="95"></td>
-        <td><img src="/projects/falco/icon/black/falco-icon-black.png" width="75"></td>
-        <td><img src="/projects/falco/horizontal/black/falco-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/falco/stacked/black/falco-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/falco/icon/black/falco-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/falco/horizontal/white/falco-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/falco/stacked/white/falco-stacked-white.png" width="95"></td>
-        <td><img src="/projects/falco/icon/white/falco-icon-white.png" width="75"></td>
-        <td><img src="/projects/falco/horizontal/white/falco-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/falco/stacked/white/falco-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/falco/icon/white/falco-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### gRPC Logos
 
 <table>
@@ -868,6 +809,55 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
+#### Karmada Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/karmada/horizontal/color/karmada-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/karmada/stacked/color/karmada-stacked-color.png" width="95"></td>
+        <td><img src="/projects/karmada/icon/color/karmada-icon-color.png" width="75"></td>
+        <td><img src="/projects/karmada/horizontal/color/karmada-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/karmada/stacked/color/karmada-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/karmada/icon/color/karmada-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/karmada/horizontal/black/karmada-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/karmada/stacked/black/karmada-stacked-black.png" width="95"></td>
+        <td><img src="/projects/karmada/icon/black/karmada-icon-black.png" width="75"></td>
+        <td><img src="/projects/karmada/horizontal/black/karmada-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/karmada/stacked/black/karmada-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/karmada/icon/black/karmada-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/karmada/horizontal/white/karmada-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/karmada/stacked/white/karmada-stacked-white.png" width="95"></td>
+        <td><img src="/projects/karmada/icon/white/karmada-icon-white.png" width="75"></td>
+        <td><img src="/projects/karmada/horizontal/white/karmada-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/karmada/stacked/white/karmada-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/karmada/icon/white/karmada-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Keptn Logos
 
 <table>
@@ -914,6 +904,56 @@ displayed on the light grey of tables.*
         <td><img src="/projects/keptn/horizontal/white/keptn-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/keptn/stacked/white/keptn-stacked-white.svg" width="95"></td>
         <td><img src="/projects/keptn/icon/white/keptn-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+
+#### Keycloak Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/keycloak/horizontal/color/keycloak-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/keycloak/stacked/color/keycloak-stacked-color.png" width="95"></td>
+        <td><img src="/projects/keycloak/icon/color/keycloak-icon-color.png" width="75"></td>
+        <td><img src="/projects/keycloak/horizontal/color/keycloak-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/keycloak/stacked/color/keycloak-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/keycloak/icon/color/keycloak-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/keycloak/horizontal/black/keycloak-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/keycloak/stacked/black/keycloak-stacked-black.png" width="95"></td>
+        <td><img src="/projects/keycloak/icon/black/keycloak-icon-black.png" width="75"></td>
+        <td><img src="/projects/keycloak/horizontal/black/keycloak-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/keycloak/stacked/black/keycloak-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/keycloak/icon/black/keycloak-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/keycloak/horizontal/white/keycloak-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/keycloak/stacked/white/keycloak-stacked-white.png" width="95"></td>
+        <td><img src="/projects/keycloak/icon/white/keycloak-icon-white.png" width="75"></td>
+        <td><img src="/projects/keycloak/horizontal/white/keycloak-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/keycloak/stacked/white/keycloak-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/keycloak/icon/white/keycloak-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
@@ -1291,7 +1331,6 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
-
 #### NATS Logos
 
 <table>
@@ -1387,6 +1426,46 @@ displayed on the light grey of tables.*
         <td><img src="/projects/notary/horizontal/white/notary-project-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/notary/stacked/white/notary-project-stacked-white.svg" width="95"></td>
         <td><img src="/projects/notary/icon/white/notary-project-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### OpenFeature Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/openfeature/horizontal/black/openfeature-horizontal-black.png" width="250"></td>
+        <td><img src="/projects/openfeature/stacked/black/openfeature-stacked-black.png" width="150"></td>
+        <td><img src="/projects/openfeature/icon/black/openfeature-icon-black.png" width="150"></td>
+        <td><img src="/projects/openfeature/horizontal/black/openfeature-horizontal-black.svg" width="250"></td>
+        <td><img src="/projects/openfeature/stacked/black/openfeature-stacked-black.svg" width="150"></td>
+        <td><img src="/projects/openfeature/icon/black/openfeature-icon-black.svg" width="150"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/openfeature/horizontal/white/openfeature-horizontal-white.png" width="250"></td>
+        <td><img src="/projects/openfeature/stacked/white/openfeature-stacked-white.png" width="150"></td>
+        <td><img src="/projects/openfeature/icon/white/openfeature-icon-white.png" width="150"></td>
+        <td><img src="/projects/openfeature/horizontal/white/openfeature-horizontal-white.svg" width="250"></td>
+        <td><img src="/projects/openfeature/stacked/white/openfeature-stacked-white.svg" width="150"></td>
+        <td><img src="/projects/openfeature/icon/white/openfeature-icon-white.svg" width="150"></td>
     </tr>
 </table>
 
@@ -1601,6 +1680,55 @@ displayed on the light grey of tables.*
         <td><img src="/projects/operatorframework/stacked/white/operatorframework-stacked-white.svg" width="95">
         </td>
         <td><img src="/projects/operatorframework/icon/white/operatorframework-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### Strimzi Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/strimzi/horizontal/color/strimzi-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/strimzi/stacked/color/strimzi-stacked-color.png" width="95"></td>
+        <td><img src="/projects/strimzi/icon/color/strimzi-icon-color.png" width="75"></td>
+        <td><img src="/projects/strimzi/horizontal/color/strimzi-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/strimzi/stacked/color/strimzi-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/strimzi/icon/color/strimzi-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/strimzi/horizontal/black/strimzi-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/strimzi/stacked/black/strimzi-stacked-black.png" width="95"></td>
+        <td><img src="/projects/strimzi/icon/black/strimzi-icon-black.png" width="75"></td>
+        <td><img src="/projects/strimzi/horizontal/black/strimzi-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/strimzi/stacked/black/strimzi-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/strimzi/icon/black/strimzi-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/strimzi/horizontal/white/strimzi-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/strimzi/stacked/white/strimzi-stacked-white.png" width="95"></td>
+        <td><img src="/projects/strimzi/icon/white/strimzi-icon-white.png" width="75"></td>
+        <td><img src="/projects/strimzi/horizontal/white/strimzi-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/strimzi/stacked/white/strimzi-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/strimzi/icon/white/strimzi-icon-white.svg" width="75"></td>
     </tr>
 </table>
 

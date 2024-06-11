@@ -101,6 +101,67 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
+
+#### CloudEvents Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/cloudevents/horizontal/color/cloudevents-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/cloudevents/stacked/color/cloudevents-stacked-color.png" width="95"></td>
+        <td><img src="/projects/cloudevents/icon/color/cloudevents-icon-color.png" width="75"></td>
+        <td><img src="/projects/cloudevents/horizontal/color/cloudevents-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/cloudevents/stacked/color/cloudevents-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/cloudevents/icon/color/cloudevents-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/cloudevents/horizontal/black/cloudevents-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/cloudevents/stacked/black/cloudevents-stacked-black.png" width="95"></td>
+        <td><img src="/projects/cloudevents/icon/black/cloudevents-icon-black.png" width="75"></td>
+        <td><img src="/projects/cloudevents/horizontal/black/cloudevents-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/cloudevents/stacked/black/cloudevents-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/cloudevents/icon/black/cloudevents-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/cloudevents/horizontal/white/cloudevents-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/cloudevents/stacked/white/cloudevents-stacked-white.png" width="95"></td>
+        <td><img src="/projects/cloudevents/icon/white/cloudevents-icon-white.png" width="75"></td>
+        <td><img src="/projects/cloudevents/horizontal/white/cloudevents-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/cloudevents/stacked/white/cloudevents-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/cloudevents/icon/white/cloudevents-icon-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>reversed color</th>
+        <td><img src="/projects/cloudevents/horizontal/color/cloudevents-horizontal-color-reversed.png"
+                width="200"></td>
+        <td><img src="/projects/cloudevents/stacked/color/cloudevents-stacked-color-reversed.png" width="95"></td>
+        <td><img src="/projects/cloudevents/icon/color/cloudevents-icon-color-reversed.png" width="75"></td>
+        <td><img src="/projects/cloudevents/horizontal/color/cloudevents-horizontal-color-reversed.svg"
+                width="200"></td>
+        <td><img src="/projects/cloudevents/stacked/color/cloudevents-stacked-color-reversed.svg" width="95"></td>
+        <td><img src="/projects/cloudevents/icon/color/cloudevents-icon-color-reversed.svg" width="75"></td>
+    </tr>
+</table>
+
 #### containerd Logos
 
 <table>
@@ -363,6 +424,55 @@ displayed on the light grey of tables.*
         <td><img src="/projects/etcd/horizontal/white/etcd-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/etcd/stacked/white/etcd-stacked-white.svg" width="95"></td>
         <td><img src="/projects/etcd/icon/white/etcd-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### Falco Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/falco/horizontal/color/falco-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/falco/stacked/color/falco-stacked-color.png" width="95"></td>
+        <td><img src="/projects/falco/icon/color/falco-icon-color.png" width="75"></td>
+        <td><img src="/projects/falco/horizontal/color/falco-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/falco/stacked/color/falco-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/falco/icon/color/falco-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/falco/horizontal/black/falco-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/falco/stacked/black/falco-stacked-black.png" width="95"></td>
+        <td><img src="/projects/falco/icon/black/falco-icon-black.png" width="75"></td>
+        <td><img src="/projects/falco/horizontal/black/falco-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/falco/stacked/black/falco-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/falco/icon/black/falco-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/falco/horizontal/white/falco-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/falco/stacked/white/falco-stacked-white.png" width="95"></td>
+        <td><img src="/projects/falco/icon/white/falco-icon-white.png" width="75"></td>
+        <td><img src="/projects/falco/horizontal/white/falco-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/falco/stacked/white/falco-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/falco/icon/white/falco-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
