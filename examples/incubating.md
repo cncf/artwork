@@ -907,6 +907,56 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
+
+#### Keycloak Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/keycloak/horizontal/color/keycloak-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/keycloak/stacked/color/keycloak-stacked-color.png" width="95"></td>
+        <td><img src="/projects/keycloak/icon/color/keycloak-icon-color.png" width="75"></td>
+        <td><img src="/projects/keycloak/horizontal/color/keycloak-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/keycloak/stacked/color/keycloak-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/keycloak/icon/color/keycloak-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/keycloak/horizontal/black/keycloak-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/keycloak/stacked/black/keycloak-stacked-black.png" width="95"></td>
+        <td><img src="/projects/keycloak/icon/black/keycloak-icon-black.png" width="75"></td>
+        <td><img src="/projects/keycloak/horizontal/black/keycloak-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/keycloak/stacked/black/keycloak-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/keycloak/icon/black/keycloak-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/keycloak/horizontal/white/keycloak-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/keycloak/stacked/white/keycloak-stacked-white.png" width="95"></td>
+        <td><img src="/projects/keycloak/icon/white/keycloak-icon-white.png" width="75"></td>
+        <td><img src="/projects/keycloak/horizontal/white/keycloak-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/keycloak/stacked/white/keycloak-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/keycloak/icon/white/keycloak-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Knative Logos
 
 <table>
