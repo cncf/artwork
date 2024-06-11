@@ -198,57 +198,6 @@
     </tr>
 </table>
 
-
-#### Artifact Hub Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/artifacthub/horizontal/color/artifacthub-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/artifacthub/stacked/color/artifacthub-stacked-color.png" width="95"></td>
-        <td><img src="/projects/artifacthub/icon/color/artifacthub-icon-color.png" width="75"></td>
-        <td><img src="/projects/artifacthub/horizontal/color/artifacthub-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/artifacthub/stacked/color/artifacthub-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/artifacthub/icon/color/artifacthub-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/artifacthub/horizontal/black/artifacthub-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/artifacthub/stacked/black/artifacthub-stacked-black.png" width="95"></td>
-        <td><img src="/projects/artifacthub/icon/black/artifacthub-icon-black.png" width="75"></td>
-        <td><img src="/projects/artifacthub/horizontal/black/artifacthub-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/artifacthub/stacked/black/artifacthub-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/artifacthub/icon/black/artifacthub-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/artifacthub/horizontal/white/artifacthub-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/artifacthub/stacked/white/artifacthub-stacked-white.png" width="95"></td>
-        <td><img src="/projects/artifacthub/icon/white/artifacthub-icon-white.png" width="75"></td>
-        <td><img src="/projects/artifacthub/horizontal/white/artifacthub-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/artifacthub/stacked/white/artifacthub-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/artifacthub/icon/white/artifacthub-icon-white.svg" width="75"></td>
-    </tr>
-    </table>
-
-
 #### Athenz Logos
 
 <table>
@@ -1787,55 +1736,6 @@
         <td><img src="/projects/kairos/horizontal/white/kairos-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/kairos/stacked/white/kairos-stacked-white.svg" width="95"></td>
         <td><img src="/projects/kairos/icon/white/kairos-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
-#### Karmada Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/karmada/horizontal/color/karmada-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/karmada/stacked/color/karmada-stacked-color.png" width="95"></td>
-        <td><img src="/projects/karmada/icon/color/karmada-icon-color.png" width="75"></td>
-        <td><img src="/projects/karmada/horizontal/color/karmada-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/karmada/stacked/color/karmada-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/karmada/icon/color/karmada-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/karmada/horizontal/black/karmada-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/karmada/stacked/black/karmada-stacked-black.png" width="95"></td>
-        <td><img src="/projects/karmada/icon/black/karmada-icon-black.png" width="75"></td>
-        <td><img src="/projects/karmada/horizontal/black/karmada-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/karmada/stacked/black/karmada-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/karmada/icon/black/karmada-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/karmada/horizontal/white/karmada-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/karmada/stacked/white/karmada-stacked-white.png" width="95"></td>
-        <td><img src="/projects/karmada/icon/white/karmada-icon-white.png" width="75"></td>
-        <td><img src="/projects/karmada/horizontal/white/karmada-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/karmada/stacked/white/karmada-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/karmada/icon/white/karmada-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
@@ -3663,46 +3563,6 @@
     </tr>
 </table>
 
-#### OpenFeature Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/openfeature/horizontal/black/openfeature-horizontal-black.png" width="250"></td>
-        <td><img src="/projects/openfeature/stacked/black/openfeature-stacked-black.png" width="150"></td>
-        <td><img src="/projects/openfeature/icon/black/openfeature-icon-black.png" width="150"></td>
-        <td><img src="/projects/openfeature/horizontal/black/openfeature-horizontal-black.svg" width="250"></td>
-        <td><img src="/projects/openfeature/stacked/black/openfeature-stacked-black.svg" width="150"></td>
-        <td><img src="/projects/openfeature/icon/black/openfeature-icon-black.svg" width="150"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/openfeature/horizontal/white/openfeature-horizontal-white.png" width="250"></td>
-        <td><img src="/projects/openfeature/stacked/white/openfeature-stacked-white.png" width="150"></td>
-        <td><img src="/projects/openfeature/icon/white/openfeature-icon-white.png" width="150"></td>
-        <td><img src="/projects/openfeature/horizontal/white/openfeature-horizontal-white.svg" width="250"></td>
-        <td><img src="/projects/openfeature/stacked/white/openfeature-stacked-white.svg" width="150"></td>
-        <td><img src="/projects/openfeature/icon/white/openfeature-icon-white.svg" width="150"></td>
-    </tr>
-</table>
-
 #### OpenFGA Logos
 
 <table>
@@ -4636,56 +4496,7 @@
         <td><img src="/projects/slimtoolkit/horizontal/white/slimtoolkit-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/slimtoolkit/icon/white/slimtoolkit-icon-white.svg" width="75"></td>
     </tr>
-    </table>
-
-#### Strimzi Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/strimzi/horizontal/color/strimzi-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/strimzi/stacked/color/strimzi-stacked-color.png" width="95"></td>
-        <td><img src="/projects/strimzi/icon/color/strimzi-icon-color.png" width="75"></td>
-        <td><img src="/projects/strimzi/horizontal/color/strimzi-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/strimzi/stacked/color/strimzi-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/strimzi/icon/color/strimzi-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/strimzi/horizontal/black/strimzi-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/strimzi/stacked/black/strimzi-stacked-black.png" width="95"></td>
-        <td><img src="/projects/strimzi/icon/black/strimzi-icon-black.png" width="75"></td>
-        <td><img src="/projects/strimzi/horizontal/black/strimzi-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/strimzi/stacked/black/strimzi-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/strimzi/icon/black/strimzi-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/strimzi/horizontal/white/strimzi-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/strimzi/stacked/white/strimzi-stacked-white.png" width="95"></td>
-        <td><img src="/projects/strimzi/icon/white/strimzi-icon-white.png" width="75"></td>
-        <td><img src="/projects/strimzi/horizontal/white/strimzi-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/strimzi/stacked/white/strimzi-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/strimzi/icon/white/strimzi-icon-white.svg" width="75"></td>
-    </tr>
-    </table>
+</table>
 
 #### Spiderpool Logos
 
