@@ -125,6 +125,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [kube-burner](examples/sandbox.md#kube-burner-logos)
   * [Kube-OVN](examples/sandbox.md#kube-ovn-logos)
   * [Logging-Operator](examples/sandbox.md/#logging-operator-logos)
+  * [Kuadrant](examples/sandbox.md/#kuadrant-logos)
   * [kube-rs](examples/sandbox.md/#kube-rs-logos)
   * [kubearmor](examples/sandbox.md#kubearmor-logos)
   * [KubeDL](examples/sandbox.md#KubeDL-logos)
