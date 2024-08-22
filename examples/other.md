@@ -166,22 +166,22 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>black</th>
         <td><img src="/other/prometheus-certified-associate/black/PrometheusCertifiedAssociate-black.png" width="125"></td>
         <td><img src="/other/capa/black/capa-icon-black.png" width="125"></td>
-        <td>Soon</td>
+        <td><img src="/other/cca/black/cca-icon-black.png" width="125"></td>
         <td>Soon</td>
         <td><img src="/other/prometheus-certified-associate/black/PrometheusCertifiedAssociate-black.svg" width="125"></td>
         <td><img src="/other/capa/black/capa-icon-black.svg" width="125"></td>
-        <td>Soon</td>
+        <td><img src="/other/cca/black/cca-icon-black.svg" width="125"></td>
         <td>Soon</td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/other/prometheus-certified-associate/white/PrometheusCertifiedAssociate-white.png" width="125"></td>
         <td><img src="/other/capa/white/capa-icon-white.png" width="125"></td>
-        <td>Soon</td>
+        <td><img src="/other/cca/white/cca-icon-white.png" width="125"></td>
         <td>Soon</td>
         <td><img src="/other/prometheus-certified-associate/white/PrometheusCertifiedAssociate-white.svg" width="125"></td>
         <td><img src="/other/capa/white/capa-icon-white.svg" width="125"></td>
-        <td>Soon</td>
+        <td><img src="/other/cca/white/cca-icon-white.svg" width="125"></td>
         <td>Soon</td>
     </tr>
 </table>
