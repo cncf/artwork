@@ -147,20 +147,24 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>CAPA</th>
         <th>CCA</th>
         <th>ICA</th>
+        <th>CGOA</th>
         <th>PCA</th>
         <th>CAPA</th>
         <th>CCA</th>
         <th>ICA</th>
+        <th>CGOA</th>
     <tr>
         <th>color</th>
         <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-color.png" width="125"></td>
         <td><img src="/other/capa/color/capa-icon-color.png" width="125"></td>
         <td><img src="/other/cca/color/cca-icon-color.png" width="125"></td>
         <td><img src="/other/ica/color/ica-icon-color.png" width="125"></td>
+        <td><img src="/other/cgoa/color/cgoa-icon-color.png" width="125"></td>
         <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-color.svg" width="125"></td>
         <td><img src="/other/capa/color/capa-icon-color.svg" width="125"></td>
         <td><img src="/other/cca/color/cca-icon-color.svg" width="125"></td>
         <td><img src="/other/ica/color/ica-icon-color.svg" width="125"></td>
+        <td><img src="/other/cgoa/color/cgoa-icon-color.svg" width="125"></td>
     </tr>
     <tr>
         <th>black</th>
@@ -168,10 +172,12 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/capa/black/capa-icon-black.png" width="125"></td>
         <td><img src="/other/cca/black/cca-icon-black.png" width="125"></td>
         <td><img src="/other/ica/black/ica-icon-black.png" width="125"></td>
+        <td><img src="/other/cgoa/black/cgoa-icon-black.png" width="125"></td>
         <td><img src="/other/prometheus-certified-associate/black/PrometheusCertifiedAssociate-black.svg" width="125"></td>
         <td><img src="/other/capa/black/capa-icon-black.svg" width="125"></td>
         <td><img src="/other/cca/black/cca-icon-black.svg" width="125"></td>
         <td><img src="/other/ica/black/ica-icon-black.svg" width="125"></td>
+        <td><img src="/other/cgoa/black/cgoa-icon-black.svg" width="125"></td>
     </tr>
     <tr>
         <th>white</th>
@@ -179,9 +185,11 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/capa/white/capa-icon-white.png" width="125"></td>
         <td><img src="/other/cca/white/cca-icon-white.png" width="125"></td>
         <td><img src="/other/ica/white/ica-icon-white.png" width="125"></td>
+        <td><img src="/other/cgoa/white/cgoa-icon-white.png" width="125"></td>
         <td><img src="/other/prometheus-certified-associate/white/PrometheusCertifiedAssociate-white.svg" width="125"></td>
         <td><img src="/other/capa/white/capa-icon-white.svg" width="125"></td>
         <td><img src="/other/cca/white/cca-icon-white.svg" width="125"></td>
+        <td><img src="/other/cgoa/white/cgoa-icon-white.svg" width="125"></td>
         <td><img src="/other/ica/white/ica-icon-white.svg" width="125"></td>
     </tr>
 </table>
