@@ -104,14 +104,14 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/ktp/black/kubernetes-ktp-black.png" width="95"></td>
         <td><img src="/other/kss/black/kubernetes-security-specialist-black.png" width="95"></td>
         <td><img src="/other/kcna/black/kubernetes-kcna-black.png" width="85"></td>
-        <td>Soon</td>
+        <td><img src="/other/kcsa/black/kubernetes-kcsa-black.png" width="85"></td>
         <td><img src="/other/cka/black/kubernetes-cka-black.svg" width="95"></td>
         <td><img src="/other/ckad/black/kubernetes-ckad-black.svg" width="95"></td>
         <td><img src="/other/kcsp/black/kubernetes-kcsp-black.svg" width="95"></td>
         <td><img src="/other/ktp/black/kubernetes-ktp-black.svg" width="95"></td>
         <td><img src="/other/kss/black/kubernetes-security-specialist-black.svg" width="95"></td>
         <td><img src="/other/kcna/black/kubernetes-kcna-black.svg" width="85"></td>
-        <td>Soon</td>
+        <td><img src="/other/kcsa/black/kubernetes-kcsa-black.svg" width="85"></td>
         </tr>
         <tr>
         <th>white</th>
@@ -121,14 +121,14 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/ktp/white/kubernetes-ktp-white.png" width="95"></td>
         <td><img src="/other/kss/white/kubernetes-security-specialist-white.png" width="95"></td>
         <td><img src="/other/kcna/white/kubernetes-kcna-white.png" width="85"></td>
-        <td>Soon</td>
+        <td><img src="/other/kcsa/white/kubernetes-kcsa-white.png" width="85"></td>
         <td><img src="/other/cka/white/kubernetes-cka-white.svg" width="95"></td>
         <td><img src="/other/ckad/white/kubernetes-ckad-white.svg" width="95"></td>
         <td><img src="/other/kcsp/white/kubernetes-kcsp-white.svg" width="95"></td>
         <td><img src="/other/ktp/white/kubernetes-ktp-white.svg" width="95"></td>
         <td><img src="/other/kss/white/kubernetes-security-specialist-white.svg" width="95"></td>
         <td><img src="/other/kcna/white/kubernetes-kcna-white.svg" width="85"></td>
-        <td>Soon</td>
+        <td><img src="/other/kcsa/white/kubernetes-kcsa-white.svg" width="85"></td>
     </tr>
 </table>
 
@@ -147,42 +147,50 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>CAPA</th>
         <th>CCA</th>
         <th>ICA</th>
+        <th>CGOA</th>
         <th>PCA</th>
         <th>CAPA</th>
         <th>CCA</th>
         <th>ICA</th>
+        <th>CGOA</th>
     <tr>
         <th>color</th>
         <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-color.png" width="125"></td>
         <td><img src="/other/capa/color/capa-icon-color.png" width="125"></td>
         <td><img src="/other/cca/color/cca-icon-color.png" width="125"></td>
         <td><img src="/other/ica/color/ica-icon-color.png" width="125"></td>
+        <td><img src="/other/cgoa/color/cgoa-icon-color.png" width="125"></td>
         <td><img src="/other/prometheus-certified-associate/color/PrometheusCertifiedAssociate-color.svg" width="125"></td>
         <td><img src="/other/capa/color/capa-icon-color.svg" width="125"></td>
         <td><img src="/other/cca/color/cca-icon-color.svg" width="125"></td>
         <td><img src="/other/ica/color/ica-icon-color.svg" width="125"></td>
+        <td><img src="/other/cgoa/color/cgoa-icon-color.svg" width="125"></td>
     </tr>
     <tr>
         <th>black</th>
         <td><img src="/other/prometheus-certified-associate/black/PrometheusCertifiedAssociate-black.png" width="125"></td>
-        <td>Soon</td>
-        <td>Soon</td>
-        <td>Soon</td>
+        <td><img src="/other/capa/black/capa-icon-black.png" width="125"></td>
+        <td><img src="/other/cca/black/cca-icon-black.png" width="125"></td>
+        <td><img src="/other/ica/black/ica-icon-black.png" width="125"></td>
+        <td><img src="/other/cgoa/black/cgoa-icon-black.png" width="125"></td>
         <td><img src="/other/prometheus-certified-associate/black/PrometheusCertifiedAssociate-black.svg" width="125"></td>
-        <td>Soon</td>
-        <td>Soon</td>
-        <td>Soon</td>
+        <td><img src="/other/capa/black/capa-icon-black.svg" width="125"></td>
+        <td><img src="/other/cca/black/cca-icon-black.svg" width="125"></td>
+        <td><img src="/other/ica/black/ica-icon-black.svg" width="125"></td>
+        <td><img src="/other/cgoa/black/cgoa-icon-black.svg" width="125"></td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/other/prometheus-certified-associate/white/PrometheusCertifiedAssociate-white.png" width="125"></td>
-        <td>Soon</td>
-        <td>Soon</td>
-        <td>Soon</td>
+        <td><img src="/other/capa/white/capa-icon-white.png" width="125"></td>
+        <td><img src="/other/cca/white/cca-icon-white.png" width="125"></td>
+        <td><img src="/other/ica/white/ica-icon-white.png" width="125"></td>
+        <td><img src="/other/cgoa/white/cgoa-icon-white.png" width="125"></td>
         <td><img src="/other/prometheus-certified-associate/white/PrometheusCertifiedAssociate-white.svg" width="125"></td>
-        <td>Soon</td>
-        <td>Soon</td>
-        <td>Soon</td>
+        <td><img src="/other/capa/white/capa-icon-white.svg" width="125"></td>
+        <td><img src="/other/cca/white/cca-icon-white.svg" width="125"></td>
+        <td><img src="/other/cgoa/white/cgoa-icon-white.svg" width="125"></td>
+        <td><img src="/other/ica/white/ica-icon-white.svg" width="125"></td>
     </tr>
 </table>
 
