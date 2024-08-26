@@ -5433,8 +5433,58 @@
         <td><img src="/projects/capsule/stacked/white/capsule-stacked-white.svg" height="75"></td>
         <td><img src="/projects/capsule/icon/white/capsule-icon-white.svg" height="75"></td>
     </tr>
-
 </table>
+
+#### openGemini Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/openGemini/horizontal/color/openGemini-horizontal-color.png" height="75"></td>
+        <td><img src="/projects/openGemini/stacked/color/openGemini-stacked-color.png" height="75"></td>
+        <td><img src="/projects/openGemini/icon/color/openGemini-icon-color.png" height="75"></td>
+        <td><img src="/projects/openGemini/horizontal/color/openGemini-horizontal-color.svg" height="75"></td>
+        <td><img src="/projects/openGemini/stacked/color/openGemini-stacked-color.svg" height="75"></td>
+        <td><img src="/projects/openGemini/icon/color/openGemini-icon-color.svg" height="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/openGemini/horizontal/black/openGemini-horizontal-black.png" height="75"></td>
+        <td><img src="/projects/openGemini/stacked/black/openGemini-stacked-black.png" height="75"></td>
+        <td><img src="/projects/openGemini/icon/black/openGemini-icon-black.png" height="75"></td>
+        <td><img src="/projects/openGemini/horizontal/black/openGemini-horizontal-black.svg" height="75"></td>
+        <td><img src="/projects/openGemini/stacked/black/openGemini-stacked-black.svg" height="75"></td>
+        <td><img src="/projects/openGemini/icon/black/openGemini-icon-black.svg" height="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/openGemini/horizontal/white/openGemini-horizontal-white.png" height="75"></td>
+        <td><img src="/projects/openGemini/stacked/white/openGemini-stacked-white.png" height="75"></td>
+        <td><img src="/projects/openGemini/icon/white/openGemini-icon-white.png" height="75"></td>
+        <td><img src="/projects/openGemini/horizontal/white/openGemini-horizontal-white.svg" height="75"></td>
+        <td><img src="/projects/openGemini/stacked/white/openGemini-stacked-white.svg" height="75"></td>
+        <td><img src="/projects/openGemini/icon/white/openGemini-icon-white.svg" height="75"></td>
+    </tr>
+</table>
+
+
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
