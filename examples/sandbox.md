@@ -5457,30 +5457,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/openGemini/horizontal/color/openGemini-horizontal-color.png" height="75"></td>
-        <td><img src="/projects/openGemini/stacked/color/openGemini-stacked-color.png" height="75"></td>
-        <td><img src="/projects/openGemini/icon/color/openGemini-icon-color.png" height="75"></td>
-        <td><img src="/projects/openGemini/horizontal/color/openGemini-horizontal-color.svg" height="75"></td>
-        <td><img src="/projects/openGemini/stacked/color/openGemini-stacked-color.svg" height="75"></td>
-        <td><img src="/projects/openGemini/icon/color/openGemini-icon-color.svg" height="75"></td>
+        <td><img src="/projects/openGemini/horizontal/color/openGemini_horizontal_color.png" height="75"></td>
+        <td><img src="/projects/openGemini/stacked/color/openGemini_stacked_color.png" height="75"></td>
+        <td><img src="/projects/openGemini/icon/color/openGemini_icon_color.png" height="75"></td>
+        <td><img src="/projects/openGemini/horizontal/color/openGemini_horizontal_color.svg" height="75"></td>
+        <td><img src="/projects/openGemini/stacked/color/openGemini_stacked_color.svg" height="75"></td>
+        <td><img src="/projects/openGemini/icon/color/openGemini_icon_color.svg" height="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/openGemini/horizontal/black/openGemini-horizontal-black.png" height="75"></td>
-        <td><img src="/projects/openGemini/stacked/black/openGemini-stacked-black.png" height="75"></td>
-        <td><img src="/projects/openGemini/icon/black/openGemini-icon-black.png" height="75"></td>
-        <td><img src="/projects/openGemini/horizontal/black/openGemini-horizontal-black.svg" height="75"></td>
-        <td><img src="/projects/openGemini/stacked/black/openGemini-stacked-black.svg" height="75"></td>
-        <td><img src="/projects/openGemini/icon/black/openGemini-icon-black.svg" height="75"></td>
+        <td><img src="/projects/openGemini/horizontal/black/openGemini_horizontal_black.png" height="75"></td>
+        <td><img src="/projects/openGemini/stacked/black/openGemini_stacked_black.png" height="75"></td>
+        <td><img src="/projects/openGemini/icon/black/openGemini_icon_black.png" height="75"></td>
+        <td><img src="/projects/openGemini/horizontal/black/openGemini_horizontal_black.svg" height="75"></td>
+        <td><img src="/projects/openGemini/stacked/black/openGemini_stacked_black.svg" height="75"></td>
+        <td><img src="/projects/openGemini/icon/black/openGemini_icon_black.svg" height="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/openGemini/horizontal/white/openGemini-horizontal-white.png" height="75"></td>
-        <td><img src="/projects/openGemini/stacked/white/openGemini-stacked-white.png" height="75"></td>
-        <td><img src="/projects/openGemini/icon/white/openGemini-icon-white.png" height="75"></td>
-        <td><img src="/projects/openGemini/horizontal/white/openGemini-horizontal-white.svg" height="75"></td>
-        <td><img src="/projects/openGemini/stacked/white/openGemini-stacked-white.svg" height="75"></td>
-        <td><img src="/projects/openGemini/icon/white/openGemini-icon-white.svg" height="75"></td>
+        <td><img src="/projects/openGemini/horizontal/white/openGemini_horizontal_white.png" height="75"></td>
+        <td><img src="/projects/openGemini/stacked/white/openGemini_stacked_white.png" height="75"></td>
+        <td><img src="/projects/openGemini/icon/white/openGemini_icon_white.png" height="75"></td>
+        <td><img src="/projects/openGemini/horizontal/white/openGemini_horizontal_white.svg" height="75"></td>
+        <td><img src="/projects/openGemini/stacked/white/openGemini_stacked_white.svg" height="75"></td>
+        <td><img src="/projects/openGemini/icon/white/openGemini_icon_white.svg" height="75"></td>
     </tr>
 </table>
 
