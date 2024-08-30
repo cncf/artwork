@@ -3916,6 +3916,37 @@
     </tr>
 </table>
 
+#### OSCAL Compass Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/oscal-compass/horizontal/color/oscal-compass-color-horizontal.png" width="150"></td>
+        <td><img src="/projects/oscal-compass/stacked/color/oscal-compass-color-stacked.png" width="80"></td>
+        <td><img src="/projects/oscal-compass/icon/color/oscal-compass-color.png" width="100"></td>
+        <td><img src="/projects/oscal-compass/horizontal/color/oscal-compass-color-horizontal.svg" width="150"></td>
+        <td><img src="/projects/oscal-compass/stacked/color/oscal-compass-color-stacked.svg" width="80"></td>
+        <td><img src="/projects/oscal-compass/icon/color/oscal-compass-color.svg" width="100"></td>
+    </tr>
+</table>
+
 #### Paralus Logos
 
 <table>
