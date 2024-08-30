@@ -1428,6 +1428,24 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
     </tr>
     </table>
 
+#### Artificial Intelligence Working Group Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/aiwg/aiwg.png" width="200"></td>
+        <td><img src="/other/aiwg/aiwg.svg" width="200"></td>
+    </tr>
+    </table>
+
 
 #### Descheduler Logos
 
