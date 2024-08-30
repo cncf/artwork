@@ -3916,7 +3916,7 @@
     </tr>
 </table>
 
-#### OSCAL-Compass Logos
+#### OSCAL Compass Logos
 
 <table>
     <tr>
