@@ -4046,6 +4046,55 @@
     </tr>
     </table>
 
+#### Perses Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/perses/horizontal/color/perses-horizontal-color-black.png" width="200"></td>
+        <td><img src="/projects/perses/stacked/color/perses-stacked-color-black.png" width="95"></td>
+        <td><img src="/projects/perses/icon/color/perses-icon-color.png" width="75"></td>
+        <td><img src="/projects/perses/horizontal/color/perses-horizontal-color-black.svg" width="200"></td>
+        <td><img src="/projects/perses/stacked/color/perses-stacked-color-black.svg" width="95"></td>
+        <td><img src="/projects/perses/icon/color/perses-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/perses/horizontal/black/perses-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/perses/stacked/black/perses-stacked-black.png" width="95"></td>
+        <td><img src="/projects/perses/icon/black/perses-icon-black.png" width="75"></td>
+        <td><img src="/projects/perses/horizontal/black/perses-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/perses/stacked/black/perses-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/perses/icon/black/perses-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/perses/horizontal/white/perses-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/perses/stacked/white/perses-stacked-white.png" width="95"></td>
+        <td><img src="/projects/perses/icon/white/perses-icon-white.png" width="75"></td>
+        <td><img src="/projects/perses/horizontal/white/perses-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/perses/stacked/white/perses-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/perses/icon/white/perses-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
 #### PipeCD Logos
 
 <table>
