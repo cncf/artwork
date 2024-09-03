@@ -156,6 +156,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [OSCAL Compass](examples/sandbox.md#oscal-compass-logos)
   * [Paralus](examples/sandbox.md#paralus-logos)
   * [Parsec](examples/sandbox.md#parsec-logos)
+  * [Perses](examples/sandbox.md#perses-logos)
   * [PipeCD](examples/sandbox.md#pipecd-logos)
   * [Piraeus](examples/sandbox.md#piraeus-logos)
   * [Pixie](examples/sandbox.md#pixie-logos)
