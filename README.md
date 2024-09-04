@@ -1,4 +1,4 @@
-## CNCF Logos
+# CNCF Logos
 
 In this repo, we have artwork in standard formats for the CNCF [projects](https://www.cncf.io/projects/) and programs. We prepare artwork in 2 formats (PNG & SVG), 3 layouts -- horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square), and at least 3 versions (color/black/white). So, that's at least 18 versions of most logos.
 
@@ -216,7 +216,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [CNF Testbed](examples/other.md#cnf-testbed-logos)
   * [GitOps Working Group](examples/other.md#gitops-working-group-logos)
   * [Cartografos Working Group](examples/other.md#cartografosWG-logos)
-  * [AI Working Group](examples/other.md#aiwg-logos)
+  * [Artificial Intelligence Working Group](examples/other.md#artificial-intelligence-working-group-logos)
   * [Cloud Native Community Groups](examples/other.md#cloud-native-community-groups)
 * [Archived Projects](examples/archived.md)
   * [Brigade](examples/archived.md#brigade-logos)
@@ -225,16 +225,15 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [rkt](examples/archived.md#rkt-logos)
   * [Service Mesh Interface](examples/archived.md#service-mesh-interface-logos)
 
-
 ## CNCF Brand Guidelines
 
 These guidelines are both for people in CNCF who design CNCF-branded web properties and also for people external to CNCF who want to use CNCF’s brand assets.
 
-https://www.cncf.io/brand-guidelines/
+<https://www.cncf.io/brand-guidelines/>
 
 ## Trademark and Logo Policy
 
-Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage with the key excepts available at https://github.com/cncf/artwork/blob/master/LICENSE.md.
+Use of any trademark or logo is subject to the trademark policy available at <https://www.linuxfoundation.org/trademark-usage> with the key excepts available at <https://github.com/cncf/artwork/blob/master/LICENSE.md>.
 
 The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are only available for use with [conformant](https://www.cncf.io/certification/software-conformance/) implementations and must comply with the [brand guidelines](/projects/kubernetes/certified-kubernetes/certified-kubernetes-brand-guide.pdf).
 
