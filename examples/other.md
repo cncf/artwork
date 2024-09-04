@@ -1471,7 +1471,7 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <th>white</th>
         <td><img src="/other/aiwg/horizontal/white/aiwg-horizontal-white.png" width="200"></td>
         <td><img src="/other/aiwg/stacked/white/aiwg-stacked-white.png" width="95"></td>
-        <td></td>
+        <td><img src="/other/aiwg/icon/white/aiwg-icon-white.png" width="75"></td>
         <td><img src="/other/aiwg/horizontal/white/aiwg-horizontal-white.svg" width="200"></td>
         <td><img src="/other/aiwg/stacked/white/aiwg-stacked-white.svg" width="95"></td>
         <td><img src="/other/aiwg/icon/white/aiwg-icon-white.svg" width="75"></td>
