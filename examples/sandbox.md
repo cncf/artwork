@@ -247,6 +247,54 @@
     </tr>
 </table>
 
+#### Bank-Vaults Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/bank-vaults/horizontal/color/bank-vaults-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/bank-vaults/stacked/color/bank-vaults-stacked-color.png" width="95"></td>
+        <td><img src="/projects/bank-vaults/icon/color/bank-vaults-icon-color.png" width="75"></td>
+        <td><img src="/projects/bank-vaults/horizontal/color/bank-vaults-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/bank-vaults/stacked/color/bank-vaults-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/bank-vaults/icon/color/bank-vaults-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/bank-vaults/horizontal/black/bank-vaults-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/bank-vaults/stacked/black/bank-vaults-stacked-black.png" width="95"></td>
+        <td><img src="/projects/bank-vaults/icon/black/bank-vaults-icon-black.png" width="75"></td>
+        <td><img src="/projects/bank-vaults/horizontal/black/bank-vaults-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/bank-vaults/stacked/black/bank-vaults-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/bank-vaults/icon/black/bank-vaults-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/bank-vaults/horizontal/white/bank-vaults-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/bank-vaults/stacked/white/bank-vaults-stacked-white.png" width="95"></td>
+        <td><img src="/projects/bank-vaults/icon/white/bank-vaults-icon-white.png" width="75"></td>
+        <td><img src="/projects/bank-vaults/horizontal/white/bank-vaults-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/bank-vaults/stacked/white/bank-vaults-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/bank-vaults/icon/white/bank-vaults-icon-white.svg" width="75"></td>
+    </tr>
+</table>
 
 #### BFE Logos
 
