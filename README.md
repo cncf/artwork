@@ -80,6 +80,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Antrea](examples/sandbox.md#antrea-logos)
   * [Armada](examples/sandbox.md#armada-logos)
   * [Athenz](examples/sandbox.md#athenz-logos)
+  * [Bank-Vaults](examples/sandbox.md#bank-vaults-logos)
   * [BFE](examples/sandbox.md#bfe-logos)
   * [Carina](examples/sandbox.md#carina-logos)
   * [Carvel](examples/sandbox.md#carvel-logos)
