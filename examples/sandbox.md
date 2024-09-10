@@ -1307,6 +1307,56 @@
     </tr>
 </table>
 
+#### HAMi Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/hami/horizontal/color/hami-horizontal-color-black.png" width="200"></td>
+        <td><img src="/projects/hami/stacked/color/hami-stacked-color-black.png" width="95"></td>
+        <td><img src="/projects/hami/icon/color/hami-icon-color.png" width="75"></td>
+        <td><img src="/projects/hami/horizontal/color/hami-horizontal-color-black.svg" width="200"></td>
+        <td><img src="/projects/hami/stacked/color/hami-stacked-color-black.svg" width="95"></td>
+        <td><img src="/projects/hami/icon/color/hami-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/hami/horizontal/black/hami-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/hami/stacked/black/hami-stacked-black.png" width="95"></td>
+        <td><img src="/projects/hami/icon/black/hami-icon-black.png" width="75"></td>
+        <td><img src="/projects/hami/horizontal/black/hami-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/hami/stacked/black/hami-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/hami/icon/black/hami-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/hami/horizontal/white/hami-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/hami/stacked/white/hami-stacked-white.png" width="95"></td>
+        <td><img src="/projects/hami/icon/white/hami-icon-white.png" width="75"></td>
+        <td><img src="/projects/hami/horizontal/white/hami-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/hami/stacked/white/hami-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/hami/icon/white/hami-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
+
 #### Headlamp Logos
 
 <table>

@@ -102,6 +102,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [FabEdge](examples/sandbox.md#fabedge-logos)
   * [Fluid](examples/sandbox.md#fluid-logos)
   * [Fonio](examples/sandbox.md#fonio-logos)
+  * [HAMi](examples/sandbox.md#hami-logos)
   * [Headlamp](examples/sandbox.md#headlamp-logos)
   * [Hexa](examples/sandbox.md#hexa-policy-orchestrator-logos)
   * [Hwameistor](examples/sandbox.md#hwameistor-logos)
