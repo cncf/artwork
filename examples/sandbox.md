@@ -3241,6 +3241,55 @@
     </tr>
 </table>
 
+#### LoxiLB Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/loxilb/horizontal/color/loxilb-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/loxilb/stacked/color/loxilb-stacked-color.png" width="95"></td>
+        <td><img src="/projects/loxilb/icon/color/loxilb-icon-color.png" width="75"></td>
+        <td><img src="/projects/loxilb/horizontal/color/loxilb-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/loxilb/stacked/color/loxilb-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/loxilb/icon/color/loxilb-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/loxilb/horizontal/black/loxilb-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/loxilb/stacked/black/loxilb-stacked-black.png" width="95"></td>
+        <td><img src="/projects/loxilb/icon/black/loxilb-icon-black.png" width="75"></td>
+        <td><img src="/projects/loxilb/horizontal/black/loxilb-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/loxilb/stacked/black/loxilb-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/loxilb/icon/black/loxilb-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/loxilb/horizontal/white/loxilb-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/loxilb/stacked/white/loxilb-stacked-white.png" width="95"></td>
+        <td><img src="/projects/loxilb/icon/white/loxilb-icon-white.png" width="75"></td>
+        <td><img src="/projects/loxilb/horizontal/white/loxilb-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/loxilb/stacked/white/loxilb-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/loxilb/icon/white/loxilb-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Merbridge Logos
 
 <table>

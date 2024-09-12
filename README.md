@@ -140,6 +140,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Kuma](examples/sandbox.md#kuma-logos)
   * [Kured](examples/sandbox.md#kured-logos)
   * [Lima](examples/sandbox.md#lima-logos)
+  * [LoxiLB](examples/sandbox.md#loxilb-logos)
   * [Merbridge](examples/sandbox.md#merbridge-logos)
   * [meshery](examples/sandbox.md#meshery-logos)
   * [metal3](examples/sandbox.md#metal3-logos)
