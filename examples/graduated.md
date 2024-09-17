@@ -378,6 +378,55 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
+#### Envoy Gateway Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/envoy/envoy-gateway/horizontal/color/envoy-gateway-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/envoy/envoy-gateway/stacked/color/envoy-gateway-stacked-color.png" width="95"></td>
+        <td><img src="/projects/envoy/envoy-gateway/icon/color/envoy-gateway-icon-color.png" width="75"></td>
+        <td><img src="/projects/envoy/envoy-gateway/horizontal/color/envoy-gateway-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/envoy/envoy-gateway/stacked/color/envoy-gateway-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/envoy/envoy-gateway/icon/color/envoy-gateway-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/envoy/envoy-gateway/horizontal/black/envoy-gateway-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/envoy/envoy-gateway/stacked/black/envoy-gateway-stacked-black.png" width="95"></td>
+        <td><img src="/projects/envoy/envoy-gateway/icon/black/envoy-gateway-icon-black.png" width="75"></td>
+        <td><img src="/projects/envoy/envoy-gateway/horizontal/black/envoy-gateway-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/envoy/envoy-gateway/stacked/black/envoy-gateway-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/envoy/envoy-gateway/icon/black/envoy-gateway-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/envoy/envoy-gateway/horizontal/white/envoy-gateway-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/envoy/envoy-gateway/stacked/white/envoy-gateway-stacked-white.png" width="95"></td>
+        <td><img src="/projects/envoy/envoy-gateway/icon/white/envoy-gateway-icon-white.png" width="75"></td>
+        <td><img src="/projects/envoy/envoy-gateway/horizontal/white/envoy-gateway-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/envoy/envoy-gateway/stacked/white/envoy-gateway-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/envoy/envoy-gateway/icon/white/envoy-gateway-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### etcd Logos
 
 <table>

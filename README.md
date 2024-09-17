@@ -15,6 +15,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [CoreDNS](examples/graduated.md#coredns-logos)
   * [CRI-O](examples/graduated.md#cri-o-logos)
   * [Envoy](examples/graduated.md#envoy-logos)
+    * [Envoy Gateway](examples/graduated.md#envoy-gateway-logos)
   * [etcd](examples/graduated.md#etcd-logos)
   * [Falco](examples/graduated.md#falco-logos)
   * [Fluentd](examples/graduated.md#fluentd-logos)
