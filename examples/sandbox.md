@@ -4830,6 +4830,55 @@
     </tr>
 </table>
 
+#### Shipwright Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/shipwright/horizontal/color/shipwright-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/shipwright/stacked/color/shipwright-stacked-color.png" width="95"></td>
+        <td><img src="/projects/shipwright/icon/color/shipwright-icon-color.png" width="75"></td>
+        <td><img src="/projects/shipwright/horizontal/color/shipwright-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/shipwright/stacked/color/shipwright-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/shipwright/icon/color/shipwright-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/shipwright/horizontal/black/shipwright-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/shipwright/stacked/black/shipwright-stacked-black.png" width="95"></td>
+        <td><img src="/projects/shipwright/icon/black/shipwright-icon-black.png" width="75"></td>
+        <td><img src="/projects/shipwright/horizontal/black/shipwright-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/shipwright/stacked/black/shipwright-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/shipwright/icon/black/shipwright-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/shipwright/horizontal/white/shipwright-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/shipwright/stacked/white/shipwright-stacked-white.png" width="95"></td>
+        <td><img src="/projects/shipwright/icon/white/shipwright-icon-white.png" width="75"></td>
+        <td><img src="/projects/shipwright/horizontal/white/shipwright-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/shipwright/stacked/white/shipwright-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/shipwright/icon/white/shipwright-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Skooner Logos
 
 <table>
