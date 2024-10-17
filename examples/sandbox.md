@@ -830,55 +830,6 @@
     </tr>
 </table>
 
-#### Curiefense Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/curiefense/horizontal/color/curiefense-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/curiefense/stacked/color/curiefense-stacked-color.png" width="95"></td>
-        <td><img src="/projects/curiefense/icon/color/curiefense-icon-color.png" width="75"></td>
-        <td><img src="/projects/curiefense/horizontal/color/curiefense-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/curiefense/stacked/color/curiefense-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/curiefense/icon/color/curiefense-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/curiefense/horizontal/black/curiefense-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/curiefense/stacked/black/curiefense-stacked-black.png" width="95"></td>
-        <td><img src="/projects/curiefense/icon/black/curiefense-icon-black.png" width="75"></td>
-        <td><img src="/projects/curiefense/horizontal/black/curiefense-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/curiefense/stacked/black/curiefense-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/curiefense/icon/black/curiefense-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/curiefense/horizontal/white/curiefense-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/curiefense/stacked/white/curiefense-stacked-white.png" width="95"></td>
-        <td><img src="/projects/curiefense/icon/white/curiefense-icon-white.png" width="75"></td>
-        <td><img src="/projects/curiefense/horizontal/white/curiefense-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/curiefense/stacked/white/curiefense-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/curiefense/icon/white/curiefense-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### Curve Logos
 
 <table>
@@ -1362,46 +1313,6 @@
 </table>
 
 
-#### Fonio Logos
-
-<table>
-    <tr>
-        <th colspan="5"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/fonio/stacked/color/fonio-stacked-color.png" width="150"></td>
-        <td><img src="/projects/fonio/icon/color/fonio-icon-color.png" width="150"></td>
-        <td><img src="/projects/fonio/stacked/color/fonio-stacked-color.svg" width="150"></td>
-        <td><img src="/projects/fonio/icon/color/fonio-icon-color.svg" width="150"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/fonio/stacked/black/fonio-stacked-black.png" width="150"></td>
-        <td><img src="/projects/fonio/icon/black/fonio-icon-black.png" width="150"></td>
-        <td><img src="/projects/fonio/stacked/black/fonio-stacked-black.svg" width="150"></td>
-        <td><img src="/projects/fonio/icon/black/fonio-icon-black.svg" width="150"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/fonio/stacked/white/fonio-stacked-white.png" width="150"></td>
-        <td><img src="/projects/fonio/icon/white/fonio-icon-white.png" width="150"></td>
-        <td><img src="/projects/fonio/stacked/white/fonio-stacked-white.svg" width="150"></td>
-        <td><img src="/projects/fonio/icon/white/fonio-icon-white.svg" width="150"></td>
-    </tr>
-</table>
 
 #### HAMi Logos
 
@@ -2219,47 +2130,6 @@
     </tr>
 </table>
 
-#### Krator Logos
-
-<table>
-    <tr>
-      <th colspan="5"></th>
-                </tr>
-                <tr>
-                    <th></th>
-                    <th colspan="2">PNG</th>
-                    <th colspan="2">SVG</th>
-                </tr>
-                <tr>
-                    <th></th>
-                    <th>stacked</th>
-                    <th>icon</th>
-                    <th>stacked</th>
-                    <th>icon</th>
-                </tr>
-                <tr>
-                    <th>color</th>
-                    <td><img src="/projects/krator/stacked/color/krator-stacked-color.png" width="150"></td>
-                    <td><img src="/projects/krator/icon/color/krator-icon-color.png" width="150"></td>
-                    <td><img src="/projects/krator/stacked/color/krator-stacked-color.svg" width="150"></td>
-                    <td><img src="/projects/krator/icon/color/krator-icon-color.svg" width="150"></td>
-                </tr>
-                <tr>
-                    <th>black</th>
-                    <td><img src="/projects/krator/stacked/black/krator-stacked-black.png" width="150"></td>
-                    <td><img src="/projects/krator/icon/black/krator-icon-black.png" width="150"></td>
-                    <td><img src="/projects/krator/stacked/black/krator-stacked-black.svg" width="150"></td>
-                    <td><img src="/projects/krator/icon/black/krator-icon-black.svg" width="150"></td>
-                </tr>
-                <tr>
-                    <th>white</th>
-                    <td><img src="/projects/krator/stacked/white/krator-stacked-white.png" width="150"></td>
-                    <td><img src="/projects/krator/icon/white/krator-icon-white.png" width="150"></td>
-                    <td><img src="/projects/krator/stacked/white/krator-stacked-white.svg" width="150"></td>
-                    <td><img src="/projects/krator/icon/white/krator-icon-white.svg" width="150"></td>
-                </tr>
-</table>
-
 #### Krkn Logos
 
 <table>
@@ -2365,55 +2235,6 @@
         <td><img src="/projects/kube-burner/horizontal/white-text/kube-burner-horizontal-white-text.svg" width="200"></td>
         <td><img src="/projects/kube-burner/stacked/white-text/kube-burner-stacked-white-text.svg" width="95"></td>
         <td><img src="/projects/kube-burner/icon/color/kube-burner-icon-color.svg" width="75"></td>
-    </tr>
-</table>
-
-#### Krustlet Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/krustlet/horizontal/color/krustlet-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/krustlet/stacked/color/krustlet-stacked-color.png" width="95"></td>
-        <td><img src="/projects/krustlet/icon/color/krustlet-icon-color.png" width="75"></td>
-        <td><img src="/projects/krustlet/horizontal/color/krustlet-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/krustlet/stacked/color/krustlet-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/krustlet/icon/color/krustlet-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/krustlet/horizontal/black/krustlet-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/krustlet/stacked/black/krustlet-stacked-black.png" width="95"></td>
-        <td><img src="/projects/krustlet/icon/black/krustlet-icon-black.png" width="75"></td>
-        <td><img src="/projects/krustlet/horizontal/black/krustlet-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/krustlet/stacked/black/krustlet-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/krustlet/icon/black/krustlet-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/krustlet/horizontal/white/krustlet-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/krustlet/stacked/white/krustlet-stacked-white.png" width="95"></td>
-        <td><img src="/projects/krustlet/icon/white/krustlet-icon-white.png" width="75"></td>
-        <td><img src="/projects/krustlet/horizontal/white/krustlet-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/krustlet/stacked/white/krustlet-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/krustlet/icon/white/krustlet-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
@@ -3804,55 +3625,6 @@
         <td><img src="/projects/opencost/horizontal/white/Opencost_Horizontal_White.svg" width="200"></td>
         <td><img src="/projects/opencost/stacked/white/Opencost_Stacked_White.svg" width="95"></td>
         <td><img src="/projects/opencost/icon/white/Opencost_Icon_White.svg" width="75"></td>
-    </tr>
-</table>
-
-#### OpenEBS Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/openebs/horizontal/color/openebs-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/openebs/stacked/color/openebs-stacked-color.png" width="95"></td>
-        <td><img src="/projects/openebs/icon/color/openebs-icon-color.png" width="75"></td>
-        <td><img src="/projects/openebs/horizontal/color/openebs-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/openebs/stacked/color/openebs-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/openebs/icon/color/openebs-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/openebs/horizontal/black/openebs-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/openebs/stacked/black/openebs-stacked-black.png" width="95"></td>
-        <td><img src="/projects/openebs/icon/black/openebs-icon-black.png" width="75"></td>
-        <td><img src="/projects/openebs/horizontal/black/openebs-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/openebs/stacked/black/openebs-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/openebs/icon/black/openebs-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/openebs/horizontal/white/openebs-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/openebs/stacked/white/openebs-stacked-white.png" width="95"></td>
-        <td><img src="/projects/openebs/icon/white/openebs-icon-white.png" width="75"></td>
-        <td><img src="/projects/openebs/horizontal/white/openebs-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/openebs/stacked/white/openebs-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/openebs/icon/white/openebs-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
