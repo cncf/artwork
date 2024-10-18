@@ -426,55 +426,6 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
 </table>
 
-#### Kubernetes Forum Logos
-
-<table>
-    <tr>
-    	<th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>general</th>
-        <th>seoul</th>
-        <th>sydney</th>
-        <th>general</th>
-        <th>seoul</th>
-        <th>sydney</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/other/kubernetes-forum/general/color/kubernetes-forum-general-color.png" width="200"></td>
-        <td><img src="/other/kubernetes-forum/seoul/color/kubernetes-forum-seoul-color.png" width="200"></td>
-        <td><img src="/other/kubernetes-forum/sydney/color/kubernetes-forum-sydney-color.png" width="200"></td>
-        <td><img src="/other/kubernetes-forum/general/color/kubernetes-forum-general-color.svg" width="200"></td>
-        <td><img src="/other/kubernetes-forum/seoul/color/kubernetes-forum-seoul-color.svg" width="200"></td>
-        <td><img src="/other/kubernetes-forum/sydney/color/kubernetes-forum-sydney-color.svg" width="200"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/kubernetes-forum/general/black/kubernetes-forum-general-black.png" width="200"></td>
-        <td><img src="/other/kubernetes-forum/seoul/black/kubernetes-forum-seoul-black.png" width="200"></td>
-        <td><img src="/other/kubernetes-forum/sydney/black/kubernetes-forum-sydney-black.png" width="200"></td>
-        <td><img src="/other/kubernetes-forum/general/black/kubernetes-forum-general-black.svg" width="200"></td>
-        <td><img src="/other/kubernetes-forum/seoul/black/kubernetes-forum-seoul-black.svg" width="200"></td>
-        <td><img src="/other/kubernetes-forum/sydney/black/kubernetes-forum-sydney-black.svg" width="200"></td>
-    </tr>
-    <tr>
-    <th>white</th>
-        <td><img src="/other/kubernetes-forum/general/white/kubernetes-forum-general-white.png" width="200"></td>
-        <td><img src="/other/kubernetes-forum/seoul/white/kubernetes-forum-seoul-white.png" width="200"></td>
-        <td><img src="/other/kubernetes-forum/sydney/white/kubernetes-forum-sydney-white.png" width="200"></td>
-        <td><img src="/other/kubernetes-forum/general/white/kubernetes-forum-general-white.svg" width="200"></td>
-        <td><img src="/other/kubernetes-forum/seoul/white/kubernetes-forum-seoul-white.svg" width="200"></td>
-        <td><img src="/other/kubernetes-forum/sydney/white/kubernetes-forum-sydney-white.svg" width="200"></td>
-</tr>
-</table>
-
 
 #### Kubernetes Community Days
 
@@ -897,16 +848,6 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <td><img src="/other/phippy-and-friends/group/color/group-color.png" width="420"></td>
         <td><img src="/other/phippy-and-friends/group/color/group-color.svg" width="420"></td>
     </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/phippy-and-friends/group/black/group-black.png" width="420"></td>
-        <td><img src="/other/phippy-and-friends/group/black/group-black.svg" width="420"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/other/phippy-and-friends/group/white/group-white.png" width="420"></td>
-        <td><img src="/other/phippy-and-friends/group/white/group-white.svg" width="420"></td>
-    </tr>
 </table>
 
 #### Phippy & Friends Individual Logos
@@ -949,36 +890,6 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <td><img src="/other/phippy-and-friends/captainkube/color/captainkube-color.svg" width="75"></td>
         <td><img src="/other/phippy-and-friends/hazel/color/hazel-color.svg" width="75"></td>
         <td><img src="/other/phippy-and-friends/linky/color/linky-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/phippy-and-friends/phippy/black/phippy-black.png"></td>
-        <td><img src="/other/phippy-and-friends/zee/black/zee-black.png"></td>
-        <td><img src="/other/phippy-and-friends/goldie/black/goldie-black.png"></td>
-        <td><img src="/other/phippy-and-friends/captainkube/black/captainkube-black.png"></td>
-        <td><img src="/other/phippy-and-friends/hazel/black/hazel-black.png"></td>
-        <td><img src="/other/phippy-and-friends/linky/black/linky-black.png"></td>
-        <td><img src="/other/phippy-and-friends/phippy/black/phippy-black.svg"></td>
-        <td><img src="/other/phippy-and-friends/zee/black/zee-black.svg"></td>
-        <td><img src="/other/phippy-and-friends/goldie/black/goldie-black.svg"></td>
-        <td><img src="/other/phippy-and-friends/captainkube/black/captainkube-black.svg"></td>
-        <td><img src="/other/phippy-and-friends/hazel/black/hazel-black.svg"></td>
-        <td><img src="/other/phippy-and-friends/linky/black/linky-black.svg"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/other/phippy-and-friends/phippy/white/phippy-white.png"></td>
-        <td><img src="/other/phippy-and-friends/zee/white/zee-white.png"></td>
-        <td><img src="/other/phippy-and-friends/goldie/white/goldie-white.png"></td>
-        <td><img src="/other/phippy-and-friends/captainkube/white/captainkube-white.png"></td>
-        <td><img src="/other/phippy-and-friends/hazel/white/hazel-white.png"></td>
-        <td><img src="/other/phippy-and-friends/linky/white/linky-white.png"></td>
-        <td><img src="/other/phippy-and-friends/phippy/white/phippy-white.svg"></td>
-        <td><img src="/other/phippy-and-friends/zee/white/zee-white.svg"></td>
-        <td><img src="/other/phippy-and-friends/goldie/white/goldie-white.svg"></td>
-        <td><img src="/other/phippy-and-friends/captainkube/white/captainkube-white.svg"></td>
-        <td><img src="/other/phippy-and-friends/hazel/white/hazel-white.svg"></td>
-        <td><img src="/other/phippy-and-friends/linky/white/linky-white.svg"></td>
     </tr>
 </table>
 
