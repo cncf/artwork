@@ -532,23 +532,23 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.23/color/certified-kubernetes-1.23-color.png" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.28/color/certified-kubernetes-1.28-color.png" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.png" width="130"></td>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.23/color/certified-kubernetes-1.23-color.svg" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.28/color/certified-kubernetes-1.28-color.svg" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.svg" width="130"></td>
     </tr>
     <tr>
         <th>pantone</th>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.23/pantone/certified-kubernetes-1.23-pantone.png" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.28/cmyk/certified-kubernetes-1.28-cmyk.png" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/pantone/certified-kubernetes-pantone.png" width="130"></td>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.23/pantone/certified-kubernetes-1.23-pantone.svg" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.28/cmyk/certified-kubernetes-1.28-cmyk.svg" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/pantone/certified-kubernetes-pantone.svg" width="130"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.23/white/certified-kubernetes-1.23-white.png" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.28/white/certified-kubernetes-1.28-white.png" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/white/certified-kubernetes-white.png" width="130"></td>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.23/white/certified-kubernetes-1.23-white.svg" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.28/white/certified-kubernetes-1.28-white.svg" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/white/certified-kubernetes-white.svg" width="130"></td>
     </tr>
 </table>
