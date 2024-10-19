@@ -3195,6 +3195,55 @@
       </tr>
 </table>
 
+#### KusionStack Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kusionstack/horizontal/color/kusionstack-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kusionstack/stacked/color/kusionstack-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kusionstack/icon/color/kusionstack-icon-color.png" width="75"></td>
+        <td><img src="/projects/kusionstack/horizontal/color/kusionstack-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kusionstack/stacked/color/kusionstack-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kusionstack/icon/color/kusionstack-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kusionstack/horizontal/black/kusionstack-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kusionstack/stacked/black/kusionstack-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kusionstack/icon/black/kusionstack-icon-black.png" width="75"></td>
+        <td><img src="/projects/kusionstack/horizontal/black/kusionstack-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kusionstack/stacked/black/kusionstack-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kusionstack/icon/black/kusionstack-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kusionstack/horizontal/white/kusionstack-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kusionstack/stacked/white/kusionstack-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kusionstack/icon/white/kusionstack-icon-white.png" width="75"></td>
+        <td><img src="/projects/kusionstack/horizontal/white/kusionstack-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kusionstack/stacked/white/kusionstack-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kusionstack/icon/white/kusionstack-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
 #### Lima Logos
 
 <table>
