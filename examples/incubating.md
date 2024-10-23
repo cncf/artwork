@@ -61,35 +61,43 @@ displayed on the light grey of tables.*
     </tr>
     <tr>
         <th></th>
-        <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
     </tr>
     <tr>
         <th></th>
         <th>horizontal</th>
+        <th>stacked</th>
         <th>icon</th>
         <th>horizontal</th>
+        <th>stacked</th>
         <th>icon</th>
     </tr>
     <tr>
         <th>color</th>
         <td><img src="/projects/backstage/horizontal/color/backstage-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/backstage/stacked/color/backstage-stacked-color.png" width="95"></td>
         <td><img src="/projects/backstage/icon/color/backstage-icon-color.png" width="75"></td>
         <td><img src="/projects/backstage/horizontal/color/backstage-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/backstage/stacked/color/backstage-stacked-color.svg" width="95"></td>
         <td><img src="/projects/backstage/icon/color/backstage-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
         <td><img src="/projects/backstage/horizontal/black/backstage-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/backstage/stacked/black/backstage-stacked-black.png" width="95"></td>
         <td><img src="/projects/backstage/icon/black/backstage-icon-black.png" width="75"></td>
         <td><img src="/projects/backstage/horizontal/black/backstage-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/backstage/stacked/black/backstage-stacked-black.svg" width="95"></td>
         <td><img src="/projects/backstage/icon/black/backstage-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/projects/backstage/horizontal/white/backstage-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/backstage/stacked/white/backstage-stacked-white.png" width="95"></td>
         <td><img src="/projects/backstage/icon/white/backstage-icon-white.png" width="75"></td>
         <td><img src="/projects/backstage/horizontal/white/backstage-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/backstage/stacked/white/backstage-stacked-white.svg" width="95"></td>
         <td><img src="/projects/backstage/icon/white/backstage-icon-white.svg" width="75"></td>
     </tr>
 </table>
@@ -906,7 +914,6 @@ displayed on the light grey of tables.*
         <td><img src="/projects/keptn/icon/white/keptn-icon-white.svg" width="75"></td>
     </tr>
 </table>
-
 
 #### Keycloak Logos
 
