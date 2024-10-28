@@ -233,56 +233,6 @@
     </tr>
 </table>
 
-#### OpenEBS Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/archived/openebs/horizontal/color/openebs-horizontal-color.png" width="200"></td>
-        <td><img src="/archived/openebs/stacked/color/openebs-stacked-color.png" width="95"></td>
-        <td><img src="/archived/openebs/icon/color/openebs-icon-color.png" width="75"></td>
-        <td><img src="/archived/openebs/horizontal/color/openebs-horizontal-color.svg" width="200"></td>
-        <td><img src="/archived/openebs/stacked/color/openebs-stacked-color.svg" width="95"></td>
-        <td><img src="/archived/openebs/icon/color/openebs-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/archived/openebs/horizontal/black/openebs-horizontal-black.png" width="200"></td>
-        <td><img src="/archived/openebs/stacked/black/openebs-stacked-black.png" width="95"></td>
-        <td><img src="/archived/openebs/icon/black/openebs-icon-black.png" width="75"></td>
-        <td><img src="/archived/openebs/horizontal/black/openebs-horizontal-black.svg" width="200"></td>
-        <td><img src="/archived/openebs/stacked/black/openebs-stacked-black.svg" width="95"></td>
-        <td><img src="/archived/openebs/icon/black/openebs-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/archived/openebs/horizontal/white/openebs-horizontal-white.png" width="200"></td>
-        <td><img src="/archived/openebs/stacked/white/openebs-stacked-white.png" width="95"></td>
-        <td><img src="/archived/openebs/icon/white/openebs-icon-white.png" width="75"></td>
-        <td><img src="/archived/openebs/horizontal/white/openebs-horizontal-white.svg" width="200"></td>
-        <td><img src="/archived/openebs/stacked/white/openebs-stacked-white.svg" width="95"></td>
-        <td><img src="/archived/openebs/icon/white/openebs-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
-
 #### OpenMetrics Logos
 
 <table>
