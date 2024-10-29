@@ -523,6 +523,57 @@
     </table>
 
 
+#### Cartography Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/cartography/horizontal/color/cartography-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/cartography/stacked/color/cartography-stacked-color.png" width="95"></td>
+        <td><img src="/projects/cartography/icon/color/cartography-icon-color.png" width="75"></td>
+        <td><img src="/projects/cartography/horizontal/color/cartography-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/cartography/stacked/color/cartography-stacked-color.svg" width="95"></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/cartography/horizontal/black/cartography-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/cartography/stacked/black/cartography-stacked-black.png" width="95"></td>
+        <td></td>
+        <td><img src="/projects/cartography/horizontal/black/cartography-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/cartography/stacked/black/cartography-stacked-black.svg" width="95"></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/cartography/horizontal/white/cartography-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/cartography/stacked/white/cartography-stacked-white.png" width="95"></td>
+        <td></td>
+        <td><img src="/projects/cartography/horizontal/white/cartography-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/cartography/stacked/white/cartography-stacked-white.svg" width="95"></td>
+        <td></td>
+    </tr>
+    </table>
+
+
+
 #### Carvel Logos
 
 <table>
