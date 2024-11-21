@@ -266,14 +266,32 @@
         <th>stacked</th>
         <th>icon</th>
     </tr>
-	    <tr>
+    <tr>
         <th>color</th>
-        <td></td>
-        <td></td>
-        <td><img src="/projects/atlantis/icon/color/atlantis-icon-color.png" width="200" /></td>
-        <td></td>
-        <td></td>
-        <td><img src="/projects/atlantis/icon/color/atlantis-icon-color.svg" width="200" /></td>
+        <td><img src="/projects/atlantis/horizontal/color/atlantis-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/atlantis/stacked/color/atlantis-stacked-color.png" width="95"></td>
+        <td><img src="/projects/atlantis/icon/color/atlantis-icon-color.png" width="75"></td>
+        <td><img src="/projects/atlantis/horizontal/color/atlantis-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/atlantis/stacked/color/atlantis-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/atlantis/icon/color/atlantis-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/atlantis/horizontal/black/atlantis-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/atlantis/stacked/black/atlantis-stacked-black.png" width="95"></td>
+        <td><img src="/projects/atlantis/icon/black/atlantis-icon-black.png" width="75"></td>
+        <td><img src="/projects/atlantis/horizontal/black/atlantis-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/atlantis/stacked/black/atlantis-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/atlantis/icon/black/atlantis-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/atlantis/horizontal/white/atlantis-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/atlantis/stacked/white/atlantis-stacked-white.png" width="95"></td>
+        <td><img src="/projects/atlantis/icon/white/atlantis-icon-white.png" width="75"></td>
+        <td><img src="/projects/atlantis/horizontal/white/atlantis-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/atlantis/stacked/white/atlantis-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/atlantis/icon/white/atlantis-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
