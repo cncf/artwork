@@ -1018,55 +1018,6 @@
     </tr>
 </table>
 
-#### Curve Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/curve/horizontal/color/curve_horizontal_color.png" width="250"></td>
-        <td><img src="/projects/curve/stacked/color/curve_stacked_color.png" width="150"></td>
-        <td><img src="/projects/curve/icon/color/curve_icon_color.png" width="150"></td>
-        <td><img src="/projects/curve/horizontal/color/curve_horizontal_color.svg" width="250"></td>
-        <td><img src="/projects/curve/stacked/color/curve_stacked_color.svg" width="150"></td>
-        <td><img src="/projects/curve/icon/color/curve_icon_color.svg" width="150"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/curve/horizontal/black/curve_horizontal_black.png" width="250"></td>
-        <td><img src="/projects/curve/stacked/black/curve_stacked_black.png" width="150"></td>
-        <td><img src="/projects/curve/icon/black/curve_icon_black.png" width="150"></td>
-        <td><img src="/projects/curve/horizontal/black/curve_horizontal_black.svg" width="250"></td>
-        <td><img src="/projects/curve/stacked/black/curve_stacked_black.svg" width="150"></td>
-        <td><img src="/projects/curve/icon/black/curve_icon_black.svg" width="150"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/curve/horizontal/white/curve_horizontal_white.png" width="250"></td>
-        <td><img src="/projects/curve/stacked/white/curve_stacked_white.png" width="150"></td>
-        <td><img src="/projects/curve/icon/white/curve_icon_white.png" width="150"></td>
-        <td><img src="/projects/curve/horizontal/white/curve_horizontal_white.svg" width="250"></td>
-        <td><img src="/projects/curve/stacked/white/curve_stacked_white.svg" width="150"></td>
-        <td><img src="/projects/curve/icon/white/curve_icon_white.svg" width="150"></td>
-    </tr>
-</table>
-
 #### Devfile Logos
 
 <table>
@@ -1391,55 +1342,6 @@
         <td><img src="/projects/external-secrets-operator/icon/white/eso-icon-white.svg" width="75"></td>
     </tr>
 </table>
-
-#### FabEdge Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/fabedge/horizontal/color/fabedge-color.png" width="200"></td>
-        <td><img src="/projects/fabedge/stacked/color/fabedge-stacked-color.png" width="95"></td>
-        <td><img src="/projects/fabedge/icon/color/fabedge-color.png" width="75"></td>
-        <td><img src="/projects/fabedge/horizontal/color/fabedge-color.svg" width="200"></td>
-        <td><img src="/projects/fabedge/stacked/color/fabedge-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/fabedge/icon/color/fabedge-color.svg" width="75"></td>
-    </tr>
-   <tr>
-        <th>black</th>
-        <td><img src="/projects/fabedge/horizontal/black/fabedge-black.png" width="200"></td>
-        <td><img src="/projects/fabedge/stacked/black/fabedge-stacked-black.png" width="95"></td>
-        <td><img src="/projects/fabedge/icon/black/fabedge-black.png" width="75"></td>
-        <td><img src="/projects/fabedge/horizontal/black/fabedge-black.svg" width="200"></td>
-        <td><img src="/projects/fabedge/stacked/black/fabedge-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/fabedge/icon/black/fabedge-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/fabedge/horizontal/white/fabedge-white.png" width="200"></td>
-        <td><img src="/projects/fabedge/stacked/white/fabedge-stacked-white.png" width="95"></td>
-        <td><img src="/projects/fabedge/icon/white/fabedge-white.png" width="75"></td>
-        <td><img src="/projects/fabedge/horizontal/white/fabedge-white.svg" width="200"></td>
-        <td><img src="/projects/fabedge/stacked/white/fabedge-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/fabedge/icon/white/fabedge-white.svg" width="75"></td>
-    </tr>
-  </table>
 
 #### Fluid Logos
 
@@ -3929,55 +3831,6 @@
     </tr>
 </table>
 
-#### OpenCost Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/opencost/horizontal/color/Opencost_Horizontal_Color.png" width="200"></td>
-        <td><img src="/projects/opencost/stacked/color/Opencost_Stacked_Color.png" width="95"></td>
-        <td><img src="/projects/opencost/icon/color/Opencost_Icon_Color.png" width="75"></td>
-        <td><img src="/projects/opencost/horizontal/color/Opencost_Horizontal_Color.svg" width="200"></td>
-        <td><img src="/projects/opencost/stacked/color/Opencost_Stacked_Color.svg" width="95"></td>
-        <td><img src="/projects/opencost/icon/color/Opencost_Icon_Color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/opencost/horizontal/black/Opencost_Horizontal_Black.png" width="200"></td>
-        <td><img src="/projects/opencost/stacked/black/Opencost_Stacked_Black.png" width="95"></td>
-        <td><img src="/projects/opencost/icon/black/Opencost_Icon_Black.png" width="75"></td>
-        <td><img src="/projects/opencost/horizontal/black/Opencost_Horizontal_Black.svg" width="200"></td>
-        <td><img src="/projects/opencost/stacked/black/Opencost_Stacked_Black.svg" width="95"></td>
-        <td><img src="/projects/opencost/icon/black/Opencost_Icon_Black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/opencost/horizontal/white/Opencost_Horizontal_White.png" width="200"></td>
-        <td><img src="/projects/opencost/stacked/white/Opencost_Stacked_White.png" width="95"></td>
-        <td><img src="/projects/opencost/icon/white/Opencost_Icon_White.png" width="75"></td>
-        <td><img src="/projects/opencost/horizontal/white/Opencost_Horizontal_White.svg" width="200"></td>
-        <td><img src="/projects/opencost/stacked/white/Opencost_Stacked_White.svg" width="95"></td>
-        <td><img src="/projects/opencost/icon/white/Opencost_Icon_White.svg" width="75"></td>
-    </tr>
-</table>
-
 #### OpenEBS Logos
 
 <table>
@@ -5191,55 +5044,6 @@
     </tr>
 </table>
 
-#### Skooner Logos
-
-<table>
-  <tr>
-    <th colspan="7"></th>
-  </tr>
-  <tr>
-    <th></th>
-    <th colspan="3">PNG</th>
-    <th colspan="3">SVG</th>
-  </tr>
-  <tr>
-    <th></th>
-    <th>horizontal</th>
-    <th>stacked</th>
-    <th>icon</th>
-    <th>horizontal</th>
-    <th>stacked</th>
-    <th>icon</th>
-  </tr>
-  <tr>
-    <th>color</th>
-        <td><img src="/projects/skooner/horizontal/color/Skooner-horizontal-color.png" width="250"></td>
-        <td><img src="/projects/skooner/stacked/color/Skooner-stacked-color.png" width="150"></td>
-        <td><img src="/projects/skooner/icon/color/Skooner-icon-color.png" width="150"></td>
-        <td><img src="/projects/skooner/horizontal/color/Skooner-horizontal-color.svg" width="250"></td>
-        <td><img src="/projects/skooner/stacked/color/Skooner-stacked-color.svg" width="150"></td>
-        <td><img src="/projects/skooner/icon/color/Skooner-icon-color.svg" width="150"></td>
-  </tr>
-  <tr>
-    <th>black</th>
-        <td><img src="/projects/skooner/horizontal/black/Skooner-horizontal-black.png" width="250"></td>
-        <td><img src="/projects/skooner/stacked/black/Skooner-stacked-black.png" width="150"></td>
-        <td><img src="/projects/skooner/icon/black/Skooner-icon-black.png" width="150"></td>
-        <td><img src="/projects/skooner/horizontal/black/Skooner-horizontal-black.svg" width="250"></td>
-        <td><img src="/projects/skooner/stacked/black/Skooner-stacked-black.svg" width="150"></td>
-        <td><img src="/projects/skooner/icon/black/Skooner-icon-black.svg" width="150"></td>
-  </tr>
-  <tr>
-    <th>white</th>
-        <td><img src="/projects/skooner/horizontal/white/Skooner-horizontal-white.png" width="250"></td>
-        <td><img src="/projects/skooner/stacked/white/Skooner-stacked-white.png" width="150"></td>
-        <td><img src="/projects/skooner/icon/white/Skooner-icon-white.png" width="150"></td>
-        <td><img src="/projects/skooner/horizontal/white/Skooner-horizontal-white.svg" width="250"></td>
-        <td><img src="/projects/skooner/stacked/white/Skooner-stacked-white.svg" width="150"></td>
-        <td><img src="/projects/skooner/icon/white/Skooner-icon-white.svg" width="150"></td>
-  </tr>
-</table>
-
 #### SlimToolkit Logos
 
 <table>
@@ -5827,55 +5631,6 @@
         <td><img src="/projects/virtualkubelet/horizontal/white/virtualkubelet-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/virtualkubelet/stacked/white/virtualkubelet-stacked-white.svg" width="95"></td>
         <td><img src="/projects/virtualkubelet/icon/white/virtualkubelet-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
-#### wasmCloud Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/wasmcloud/horizontal/color/wasmcloud.logo-hrztl_color.png" width="200"></td>
-        <td><img src="/projects/wasmcloud/stacked/color/wasmcloud.logo_color.png" width="95"></td>
-        <td><img src="/projects/wasmcloud/icon/color/wasmcloud.icon_green.png" width="75"></td>
-        <td><img src="/projects/wasmcloud/horizontal/color/wasmcloud.logo-hrztl_color.svg" width="200"></td>
-        <td><img src="/projects/wasmcloud/stacked/color/wasmcloud.logo_color.svg" width="95"></td>
-        <td><img src="/projects/wasmcloud/icon/color/wasmcloud.icon_green.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/wasmcloud/horizontal/black/wasmcloud.logo-hrztl_black.png" width="200"></td>
-        <td><img src="/projects/wasmcloud/stacked/black/wasmcloud.logo_black.png" width="95"></td>
-        <td><img src="/projects/wasmcloud/icon/black/wasmcloud.icon_black.png" width="75"></td>
-        <td><img src="/projects/wasmcloud/horizontal/black/wasmcloud.logo-hrztl_black.svg" width="200"></td>
-        <td><img src="/projects/wasmcloud/stacked/black/wasmcloud.logo_black.svg" width="95"></td>
-        <td><img src="/projects/wasmcloud/icon/black/wasmcloud.icon_black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/wasmcloud/horizontal/white/wasmcloud.logo-hrztl_white.inversed.png" width="200"></td>
-        <td><img src="/projects/wasmcloud/stacked/white/wasmcloud.logo_color.inversed.png" width="95"></td>
-        <td><img src="/projects/wasmcloud/icon/white/wasmcloud.icon_inversed.png" width="75"></td>
-        <td><img src="/projects/wasmcloud/horizontal/white/wasmcloud.logo-hrztl_white.inversed.svg" width="200"></td>
-        <td><img src="/projects/wasmcloud/stacked/white/wasmcloud.logo_white.inversed.svg" width="95"></td>
-        <td><img src="/projects/wasmcloud/icon/white/wasmcloud.icon_inversed.svg" width="75"></td>
     </tr>
 </table>
 
