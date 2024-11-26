@@ -372,7 +372,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
 </table>
 
-#### Europe 2024 Logos
+#### Europe 2025 Logos
 
 <table>
     <tr>
@@ -382,20 +382,20 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr><tr></tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/kubecon-cloudnativecon/2024-eu/color/kccnc-eu-2024_color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2024-eu/color/kccnc-eu-2024_color.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2025-eu/color/kccnc-eu-2025_color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2025-eu/color/kccnc-eu-2025_color.svg" width="260"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/kubecon-cloudnativecon/2024-eu/black/kccnc-eu-2024_black.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2024-eu/black/kccnc-eu-2024_black.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2025-eu/black/kccnc-eu-2025_black.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2025-eu/black/kccnc-eu-2025_black.svg" width="260"></td>
     </tr>
     <tr>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/kubecon-cloudnativecon/2024-eu/white/kccnc-eu-2024_white.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2024-eu/white/kccnc-eu-2024_white.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2025-eu/white/kccnc-eu-2025_white.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2025-eu/white/kccnc-eu-2025_white.svg" width="260"></td>
     </tr>
 </table>
 
