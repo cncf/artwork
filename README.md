@@ -117,6 +117,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [k8sgpt](examples/sandbox.md#k8sgpt-logos)
   * [k8up](examples/sandbox.md#k8up-logos)
   * [Kairos](examples/sandbox.md#kairos-logos)
+  * [KAITO](examples/sandbox.md#kaito-logos)
   * [kanister](examples/sandbox.md#kanister-logos)
   * [KCL](examples/sandbox.md#kcl-logos)
   * [KCP](examples/sandbox.md#kcp-logos)
