@@ -1921,6 +1921,55 @@
     </tr>
 </table>
 
+#### KAITO Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+        <tr>
+        <th>color</th>
+        <td><img src="/projects/kaito/horizontal/color/kaito-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kaito/stacked/color/kaito-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kaito/icon/color/kaito-icon.png" width="75"></td>
+        <td><img src="/projects/kaito/horizontal/color/kaito-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kaito/stacked/color/kaito-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kaito/icon/color/kaito-icon.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kaito/horizontal/black/kaito-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kaito/stacked/black/kaito-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kaito/icon/black/kaito-icon-black.png" width="75"></td>
+        <td><img src="/projects/kaito/horizontal/black/kaito-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kaito/stacked/black/kaito-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kaito/icon/black/kaito-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
 #### Kanister Logos
 
 <table>
