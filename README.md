@@ -180,6 +180,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Schemahero](examples/sandbox.md#schemahero-logos)
   * [Score](examples/sandbox.md#score-logos)
   * [Sealer](examples/sandbox.md#sealer-logos)
+  * [Sermant](examples/sandbox.md#sermant-logos)
   * [Serverless Devs](examples/sandbox.md#serverless-devs-logos)
   * [Serverless Workflow Specification](examples/sandbox.md#serverless-workflow-specification-logos)
   * [Service Mesh Performance (SMP)](examples/sandbox.md#servicemeshperformance-logos)
