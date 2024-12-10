@@ -4897,6 +4897,55 @@
     </tr>
 </table>
 
+#### Sermant Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+        <tr>
+        <th>color</th>
+        <td><img src="/projects/sermant/horizontal/color/sermant-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/sermant/stacked/color/sermant-stacked-color.png" width="95"></td>
+        <td><img src="/projects/sermant/icon/color/sermant-icon-color.png" width="75"></td>
+        <td><img src="/projects/sermant/horizontal/color/sermant-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/sermant/stacked/color/sermant-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/sermant/icon/color/sermant-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/sermant/horizontal/black/sermant-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/sermant/stacked/black/sermant-stacked-black.png" width="95"></td>
+        <td><img src="/projects/sermant/icon/black/sermant-icon-black.png" width="75"></td>
+        <td><img src="/projects/sermant/horizontal/black/sermant-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/sermant/stacked/black/sermant-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/sermant/icon/black/sermant-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/sermant/horizontal/white/sermant-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/sermant/stacked/white/sermant-stacked-white.png" width="95"></td>
+        <td><img src="/projects/sermant/icon/white/sermant-icon-white.png" width="75"></td>
+        <td><img src="/projects/sermant/horizontal/white/sermant-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/sermant/stacked/white/sermant-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/sermant/icon/white/sermant-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
 #### Serverless Devs Logos
 
 <table>
