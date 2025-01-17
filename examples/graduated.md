@@ -56,12 +56,12 @@ displayed on the light grey of tables.*
 
 <table>
     <tr>
-        <th colspan="7"></th>
+        <th colspan="5"></th>
     </tr>
     <tr>
         <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
     </tr>
     <tr>
         <th></th>
