@@ -741,6 +741,55 @@
 </table>
 
 
+#### CloudNativePG Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/cloudnativepg/horizontal/color/cloudnativepg-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/cloudnativepg/stacked/color/cloudnativepg-stacked-color.png" width="95"></td>
+        <td><img src="/projects/cloudnativepg/icon/color/cloudnativepg-icon-color.png" width="75"></td>
+        <td><img src="/projects/cloudnativepg/horizontal/color/cloudnativepg-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/cloudnativepg/stacked/color/cloudnativepg-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/cloudnativepg/icon/color/cloudnativepg-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/cloudnativepg/horizontal/black/cloudnativepg-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/cloudnativepg/stacked/black/cloudnativepg-stacked-black.png" width="95"></td>
+        <td><img src="/projects/cloudnativepg/icon/black/cloudnativepg-icon-black.png" width="75"></td>
+        <td><img src="/projects/cloudnativepg/horizontal/black/cloudnativepg-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/cloudnativepg/stacked/black/cloudnativepg-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/cloudnativepg/icon/black/cloudnativepg-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/cloudnativepg/horizontal/white/cloudnativepg-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/cloudnativepg/stacked/white/cloudnativepg-stacked-white.png" width="95"></td>
+        <td><img src="/projects/cloudnativepg/icon/white/cloudnativepg-icon-white.png" width="75"></td>
+        <td><img src="/projects/cloudnativepg/horizontal/white/cloudnativepg-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/cloudnativepg/stacked/white/cloudnativepg-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/cloudnativepg/icon/white/cloudnativepg-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
 #### Clusternet Logos
 
 <table>
