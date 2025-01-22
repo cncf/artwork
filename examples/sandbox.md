@@ -2188,6 +2188,55 @@
     </tr>
 </table>
 
+#### Kmesh Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+        <tr>
+        <th>color</th>
+        <td><img src="/projects/kmesh/horizontal/color/KMESH-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kmesh/stacked/color/KMESH-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kmesh/icon/color/KMESH-icon-color.png" width="75"></td>
+        <td><img src="/projects/kmesh/horizontal/color/KMESH-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kmesh/stacked/color/KMESH-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kmesh/icon/color/KMESH-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kmesh/horizontal/black/KMESH-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kmesh/stacked/black/KMESH-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kmesh/icon/black/KMESH-icon-black.png" width="75"></td>
+        <td><img src="/projects/kmesh/horizontal/black/KMESH-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kmesh/stacked/black/KMESH-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kmesh/icon/black/KMESH-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kmesh/horizontal/white/KMESH-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kmesh/stacked/white/KMESH-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kmesh/icon/white/KMESH-icon-white.png" width="75"></td>
+        <td><img src="/projects/kmesh/horizontal/white/KMESH-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kmesh/stacked/white/KMESH-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kmesh/icon/white/KMESH-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Ko Logos
 
 <table>
