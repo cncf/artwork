@@ -123,6 +123,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [KCP](examples/sandbox.md#kcp-logos)
   * [Kepler](examples/sandbox.md#kepler-logos)
   * [Keylime](examples/sandbox.md#keylime-logos)
+  * [Kmesh](examples/sandbox.md#kmesh-logos)
   * [ko](examples/sandbox.md#ko-logos)
   * [Konveyor](examples/sandbox.md#konveyor-logos)
   * [Koordinator](examples/sandbox.md#koordinator-logos)
