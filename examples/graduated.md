@@ -1620,15 +1620,6 @@ displayed on the light grey of tables._
         <td><img src="/projects/vitess/icon/black/vitess-icon-black.svg" width="75"></td>
     </tr>
     <tr>
-        <th>white</th>
-        <td><img src="/projects/vitess/horizontal/white/vitess-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/vitess/stacked/white/vitess-stacked-white.png" width="95"></td>
-        <td><img src="/projects/vitess/icon/white/vitess-icon-white.png" width="75"></td>
-        <td><img src="/projects/vitess/horizontal/white/vitess-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/vitess/stacked/white/vitess-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/vitess/icon/white/vitess-icon-white.svg" width="75"></td>
-    </tr>
-    <tr>
         <th>grey</th>
         <td><img src="/projects/vitess/horizontal/grey/vitess-horizontal-grey.png" width="200"></td>
         <td><img src="/projects/vitess/stacked/grey/vitess-stacked-grey.png" width="95"></td>
@@ -1636,6 +1627,15 @@ displayed on the light grey of tables._
         <td><img src="/projects/vitess/horizontal/grey/vitess-horizontal-grey.svg" width="200"></td>
         <td><img src="/projects/vitess/stacked/grey/vitess-stacked-grey.svg" width="95"></td>
         <td><img src="/projects/vitess/icon/grey/vitess-icon-grey.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/vitess/horizontal/white/vitess-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/vitess/stacked/white/vitess-stacked-white.png" width="95"></td>
+        <td><img src="/projects/vitess/icon/white/vitess-icon-white.png" width="75"></td>
+        <td><img src="/projects/vitess/horizontal/white/vitess-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/vitess/stacked/white/vitess-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/vitess/icon/white/vitess-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
