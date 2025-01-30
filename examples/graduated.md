@@ -1,7 +1,7 @@
 ## CNCF Graduated Project Logos
 
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are
-displayed on the light grey of tables.*
+_Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are
+displayed on the light grey of tables._
 
 #### Argo Logos
 
@@ -140,7 +140,6 @@ displayed on the light grey of tables.*
         <td><img src="/projects/cilium/icon/white/cilium_icon-white.svg" width="75"></td>
     </tr>
 </table>
-
 
 #### CloudEvents Logos
 
@@ -734,7 +733,6 @@ displayed on the light grey of tables.*
         <td><img src="/projects/fluentd/fluentbit/icon/fluentbit-icon-color.svg" width="75"></td>
     </tr>
 </table>
-
 
 #### Flux Logos
 
@@ -1525,7 +1523,6 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
-
 #### TUF Logos
 
 <table>
@@ -1596,6 +1593,15 @@ displayed on the light grey of tables.*
         <th>icon</th>
     </tr>
     <tr>
+        <th>color-white</th>
+        <td><img src="/projects/vitess/horizontal/color-white/vitess-horizontal-color-white.png" width="200"></td>
+        <td><img src="/projects/vitess/stacked/color-white/vitess-stacked-color-white.png" width="95"></td>
+        <td></td>
+        <td><img src="/projects/vitess/horizontal/color-white/vitess-horizontal-color-white.svg" width="200"></td>
+        <td><img src="/projects/vitess/stacked/color-white/vitess-stacked-color-white.svg" width="95"></td>
+        <td></td>
+    </tr>
+    <tr>
         <th>color</th>
         <td><img src="/projects/vitess/horizontal/color/vitess-horizontal-color.png" width="200"></td>
         <td><img src="/projects/vitess/stacked/color/vitess-stacked-color.png" width="95"></td>
@@ -1614,15 +1620,6 @@ displayed on the light grey of tables.*
         <td><img src="/projects/vitess/icon/black/vitess-icon-black.svg" width="75"></td>
     </tr>
     <tr>
-        <th>white</th>
-        <td><img src="/projects/vitess/horizontal/white/vitess-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/vitess/stacked/white/vitess-stacked-white.png" width="95"></td>
-        <td><img src="/projects/vitess/icon/white/vitess-icon-white.png" width="75"></td>
-        <td><img src="/projects/vitess/horizontal/white/vitess-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/vitess/stacked/white/vitess-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/vitess/icon/white/vitess-icon-white.svg" width="75"></td>
-    </tr>
-    <tr>
         <th>grey</th>
         <td><img src="/projects/vitess/horizontal/grey/vitess-horizontal-grey.png" width="200"></td>
         <td><img src="/projects/vitess/stacked/grey/vitess-stacked-grey.png" width="95"></td>
@@ -1630,6 +1627,15 @@ displayed on the light grey of tables.*
         <td><img src="/projects/vitess/horizontal/grey/vitess-horizontal-grey.svg" width="200"></td>
         <td><img src="/projects/vitess/stacked/grey/vitess-stacked-grey.svg" width="95"></td>
         <td><img src="/projects/vitess/icon/grey/vitess-icon-grey.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/vitess/horizontal/white/vitess-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/vitess/stacked/white/vitess-stacked-white.png" width="95"></td>
+        <td><img src="/projects/vitess/icon/white/vitess-icon-white.png" width="75"></td>
+        <td><img src="/projects/vitess/horizontal/white/vitess-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/vitess/stacked/white/vitess-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/vitess/icon/white/vitess-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
