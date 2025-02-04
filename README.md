@@ -27,6 +27,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Harbor](examples/graduated.md#harbor-logos)
   * [Helm](examples/graduated.md#helm-logos)
   * [Istio](examples/graduated.md#istio-logos)
+    * [ztunnel](examples/graduated.md#ztunnel-logos)
   * [Jaeger](examples/graduated.md#jaeger-logos)
   * [KEDA](examples/graduated.md#keda-logos)
   * [KubeEdge](examples/graduated.md#kubeedge-logos)
