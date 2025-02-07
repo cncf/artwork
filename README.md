@@ -53,6 +53,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [CubeFS](examples/incubating.md#cubefs-logos)
   * [Dragonfly](examples/incubating.md#dragonfly-logos)
   * [Emissary-Ingress](examples/incubating.md#emissary-ingress-logos)
+  * [Flatcar](examples/incubating.md#flatcar-logos)
   * [gRPC](examples/incubating.md#grpc-logos)
   * [in-toto](examples/incubating.md#in-toto-logos)
   * [Karmada](examples/incubating.md#karmada-logos)
