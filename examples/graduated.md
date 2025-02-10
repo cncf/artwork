@@ -1639,6 +1639,44 @@ displayed on the light grey of tables._
     </tr>
 </table>
 
+#### ztunnel Logos
+
+<table>
+    <tr>
+        <th colspan="3"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>icon</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/istio/ztunnel/icon/color/ztunnel-icon-color.png" width="75"></td>
+        <td><img src="/projects/istio/ztunnel/icon/color/ztunnel-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/istio/ztunnel/icon/black/ztunnel-icon-black.png" width="75"></td>
+        <td><img src="/projects/istio/ztunnel/icon/black/ztunnel-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/istio/ztunnel/icon/white/ztunnel-icon-white.png" width="75"></td>
+        <td><img src="/projects/istio/ztunnel/icon/white/ztunnel-icon-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>grey</th>
+        <td><img src="/projects/istio/ztunnel/icon/grey/ztunnel-icon-grey.png" width="75"></td>
+        <td><img src="/projects/istio/ztunnel/icon/grey/ztunnel-icon-grey.svg" width="75"></td>
+    </tr>
+</table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
