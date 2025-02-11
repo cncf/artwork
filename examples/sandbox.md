@@ -2010,12 +2010,12 @@
     </tr>
     <tr>
         <th>white</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><img src="/projects/kaito/horizontal/white/kaito-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kaito/stacked/white/kaito-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kaito/icon/white/kaito-icon-white.png" width="75"></td>
+        <td><img src="/projects/kaito/horizontal/white/kaito-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kaito/stacked/white/kaito-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kaito/icon/white/kaito-icon-white.svg" width="75"></td><td></td>
     </tr>
 </table>
 
