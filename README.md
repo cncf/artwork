@@ -191,6 +191,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Serverless Workflow Specification](examples/sandbox.md#serverless-workflow-specification-logos)
   * [Service Mesh Performance (SMP)](examples/sandbox.md#servicemeshperformance-logos)
   * [Shipwright](examples/sandbox.md#shipwright-logos)
+  * [SlimFaas](examples/sandbox.md#SlimFaas-logos)
   * [SlimToolkit](examples/sandbox.md#slimtoolkit-logos)
   * [SOPS](examples/sandbox.md#sops-logos)
   * [Spiderpool](examples/sandbox.md#spiderpool-logos)

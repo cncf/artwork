@@ -5313,6 +5313,65 @@
     </tr>
 </table>
 
+
+#### SlimFaas Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/slimfaas/horizontal/color/slimfaas-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/slimfaas/stacked/color/slimfaas-stacked-color.png" width="95"></td>
+        <td><img src="/projects/slimfaas/icon/color/slimfaas-icon-color.png" width="75"></td>
+        <td><img src="/projects/slimfaas/horizontal/color/slimfaas-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/slimfaas/stacked/color/slimfaas-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/slimfaas/icon/color/slimfaas-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/slimfaas/horizontal/black/slimfaas-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/slimfaas/stacked/black/slimfaas-stacked-black.png" width="95"></td>
+        <td><img src="/projects/slimfaas/icon/black/slimfaas-icon-black.png" width="75"></td>
+        <td><img src="/projects/slimfaas/horizontal/black/slimfaas-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/slimfaas/stacked/black/slimfaas-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/slimfaas/icon/black/slimfaas-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/slimfaas/horizontal/white/slimfaas-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/slimfaas/stacked/white/slimfaas-stacked-white.png" width="95"></td>
+        <td><img src="/projects/slimfaas/icon/white/slimfaas-icon-white.png" width="75"></td>
+        <td><img src="/projects/slimfaas/horizontal/white/slimfaas-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/slimfaas/stacked/white/slimfaas-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/slimfaas/icon/white/slimfaas-icon-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>print</th>
+        <td><img src="/projects/slimfaas/horizontal/print/slimfaas-horizontal-print.png" width="200"></td>
+        <td><img src="/projects/slimfaas/stacked/print/slimfaas-stacked-print.png" width="95"></td>
+        <td><img src="/projects/slimfaas/icon/print/slimfaas-icon-print.png" width="75"></td>
+        <td><img src="/projects/slimfaas/horizontal/print/slimfaas-horizontal-print.svg" width="200"></td>
+        <td><img src="/projects/slimfaas/stacked/print/slimfaas-stacked-print.svg" width="95"></td>
+        <td><img src="/projects/slimfaas/icon/print/slimfaas-icon-print.svg" width="75"></td>
+    </tr>
+</table>
+
 #### SlimToolkit Logos
 
 <table>
