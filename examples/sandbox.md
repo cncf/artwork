@@ -5502,6 +5502,107 @@
     </tr>
 </table>
 
+<!-- spin + spinkube -->
+#### Spin Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/spin/horizontal/color/spin-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/spin/stacked/color/spin-stacked-color.png" width="95"></td>
+        <td><img src="/projects/spin/icon/color/spin-icon-color.png" width="75"></td>
+        <td><img src="/projects/spin/horizontal/color/spin-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/spin/stacked/color/spin-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/spin/icon/color/spin-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/spin/horizontal/black/spin-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/spin/stacked/black/spin-stacked-black.png" width="95"></td>
+        <td><img src="/projects/spin/icon/black/spin-icon-black.png" width="75"></td>
+        <td><img src="/projects/spin/horizontal/black/spin-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/spin/stacked/black/spin-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/spin/icon/black/spin-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/spin/horizontal/white/spin-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/spin/stacked/white/spin-stacked-white.png" width="95"></td>
+        <td><img src="/projects/spin/icon/white/spin-icon-white.png" width="75"></td>
+        <td><img src="/projects/spin/horizontal/white/spin-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/spin/stacked/white/spin-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/spin/icon/white/spin-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+<!-- / spin -->
+
+#### SpinKube Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/spinkube/horizontal/color/spinkube-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/spinkube/stacked/color/spinkube-stacked-color.png" width="95"></td>
+        <td><img src="/projects/spinkube/icon/color/spinkube-icon-color.png" width="75"></td>
+        <td><img src="/projects/spinkube/horizontal/color/spinkube-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/spinkube/stacked/color/spinkube-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/spinkube/icon/color/spinkube-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/spinkube/horizontal/black/spinkube-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/spinkube/stacked/black/spinkube-stacked-black.png" width="95"></td>
+        <td><img src="/projects/spinkube/icon/black/spinkube-icon-black.png" width="75"></td>
+        <td><img src="/projects/spinkube/horizontal/black/spinkube-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/spinkube/stacked/black/spinkube-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/spinkube/icon/black/spinkube-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/spinkube/horizontal/white/spinkube-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/spinkube/stacked/white/spinkube-stacked-white.png" width="95"></td>
+        <td><img src="/projects/spinkube/icon/white/spinkube-icon-white.png" width="75"></td>
+        <td><img src="/projects/spinkube/horizontal/white/spinkube-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/spinkube/stacked/white/spinkube-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/spinkube/icon/white/spinkube-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+<!-- / spinkube -->
+
 #### Stacker Logos
 
 <table>
