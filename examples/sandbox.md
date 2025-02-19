@@ -4928,7 +4928,7 @@
         <th>stacked</th>
         <th>icon</th>
     </tr>
-	    <tr>
+    <tr>
         <th>color</th>
         <td></td>
         <td></td>
@@ -4936,6 +4936,24 @@
         <td></td>
         <td></td>
         <td><img src="/projects/ratify/icon/color/ratify-icon-color.svg" width="75" /></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td></td>
+        <td></td>
+        <td><img src="/projects/ratify/icon/black/ratify-icon-black.png" width="75" /></td>
+        <td></td>
+        <td></td>
+        <td><img src="/projects/ratify/icon/black/ratify-icon-black.svg" width="75" /></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td></td>
+        <td></td>
+        <td><img src="/projects/ratify/icon/white/ratify-icon-white.png" width="75" /></td>
+        <td></td>
+        <td></td>
+        <td><img src="/projects/ratify/icon/white/ratify-icon-white.svg" width="75" /></td>
     </tr>
 </table>
 
