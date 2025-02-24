@@ -1245,6 +1245,55 @@
     </tr>
     </table>
 
+#### Drasi Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+        <tr>
+        <th>color</th>
+        <td><img src="/projects/drasi/horizontal/color/drasi-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/drasi/stacked/color/drasi-stacked-color.png" width="95"></td>
+        <td><img src="/projects/drasi/icon/color/drasi-icon-color.png" width="75"></td>
+        <td><img src="/projects/drasi/horizontal/color/drasi-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/drasi/stacked/color/drasi-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/drasi/icon/color/drasi-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/drasi/horizontal/black/drasi-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/drasi/stacked/black/drasi-stacked-black.png" width="95"></td>
+        <td><img src="/projects/drasi/icon/black/drasi-icon-black.png" width="75"></td>
+        <td><img src="/projects/drasi/horizontal/black/drasi-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/drasi/stacked/black/drasi-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/drasi/icon/black/drasi-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/drasi/horizontal/white/drasi-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/drasi/stacked/white/drasi-stacked-white.png" width="95"></td>
+        <td><img src="/projects/drasi/icon/white/drasi-icon-white.png" width="75"></td>
+        <td><img src="/projects/drasi/horizontal/white/drasi-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/drasi/stacked/white/drasi-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/drasi/icon/white/drasi-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Easegress Logos
 
 <table>
