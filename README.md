@@ -106,6 +106,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [devspace](examples/sandbox.md#devspace-logos)
   * [DevStream](examples/sandbox.md#devstream-logos)
   * [Dex](examples/sandbox.md#dex-logos)
+  * [Drasi](examples/sandbox.md#drasi-logos)
   * [Easegress](examples/sandbox.md#easegress-logos)
   * [Eraser](examples/sandbox.md#eraser-logos)
   * [external-secrets](examples/sandbox.md#external-secrets-operator-logos)
