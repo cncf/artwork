@@ -4930,29 +4930,29 @@
     </tr>
     <tr>
         <th>color</th>
-        <td></td>
-        <td></td>
+        <td><img src="/projects/ratify/horizontal/color/ratify-horizontal-color.png" width="75" /></td>
+        <td><img src="/projects/ratify/stacked/color/ratify-stacked-color.png" width="75" /></td>
         <td><img src="/projects/ratify/icon/color/ratify-icon-color.png" width="75" /></td>
-        <td></td>
-        <td></td>
+        <td><img src="/projects/ratify/horizontal/color/ratify-horizontal-color.svg" width="75" /></td>
+        <td><img src="/projects/ratify/stacked/color/ratify-stacked-color.svg" width="75" /></td>
         <td><img src="/projects/ratify/icon/color/ratify-icon-color.svg" width="75" /></td>
     </tr>
     <tr>
         <th>black</th>
-        <td></td>
-        <td></td>
+        <td><img src="/projects/ratify/horizontal/black/ratify-horizontal-black.png" width="75" /></td>
+        <td><img src="/projects/ratify/stacked/black/ratify-stacked-black.png" width="75" /></td>
         <td><img src="/projects/ratify/icon/black/ratify-icon-black.png" width="75" /></td>
-        <td></td>
-        <td></td>
+        <td><img src="/projects/ratify/horizontal/black/ratify-horizontal-black.svg" width="75" /></td>
+        <td><img src="/projects/ratify/stacked/black/ratify-stacked-black.svg" width="75" /></td>
         <td><img src="/projects/ratify/icon/black/ratify-icon-black.svg" width="75" /></td>
     </tr>
     <tr>
         <th>white</th>
-        <td></td>
-        <td></td>
+        <td><img src="/projects/ratify/horizontal/white/ratify-horizontal-white.png" width="75" /></td>
+        <td><img src="/projects/ratify/stacked/white/ratify-stacked-white.png" width="75" /></td>
         <td><img src="/projects/ratify/icon/white/ratify-icon-white.png" width="75" /></td>
-        <td></td>
-        <td></td>
+        <td><img src="/projects/ratify/horizontal/white/ratify-horizontal-white.svg" width="75" /></td>
+        <td><img src="/projects/ratify/stacked/white/ratify-stacked-white.svg" width="75" /></td>
         <td><img src="/projects/ratify/icon/white/ratify-icon-white.svg" width="75" /></td>
     </tr>
 </table>
