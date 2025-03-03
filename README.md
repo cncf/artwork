@@ -276,4 +276,4 @@ Questions? Please email [info@cncf.io](mailto:info@cncf.io).
 
 ## Updates to this repo
 
-Updates to this repo require two approvals to be merged in. One from a CNCF staff member, and the other from a project maintainer whose project's artwork is being updated. (Note: we can bypass branch protections for PRs made by maintainers)
+Updates to this repo require two approvals to be merged in. One from a CNCF staff member, and the other from a project maintainer whose project's artwork is being updated. (Note: we can bypass branch protections for PRs made by maintainers.)
