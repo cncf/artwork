@@ -9,3 +9,5 @@ _If you're adding a new project to the repo, please confirm each of these action
 - [ ] Files follow the existing repo folder and naming conventions.
 - [ ] The correct examples/file.md is updated with a section for the logos added, in A-Z order.
 - [ ] A link to the new logo section is added to the main README.md, in A-Z order.
+
+_Note_: Updates to this repo require two approvals to be merged in. One from a CNCF staff member, and the other from a project maintainer whose project's artwork is being updated. We can bypass branch protections for PRs made by maintainers.
