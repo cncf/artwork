@@ -1245,7 +1245,7 @@
     </tr>
     </table>
 
-    #### Drasi Logos
+#### Drasi Logos
 
 <table>
     <tr>
