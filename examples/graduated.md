@@ -1171,6 +1171,58 @@ displayed on the light grey of tables._
     </tr>
 </table>
 
+##### Kubernetes Sub-projects
+
+###### Kueue Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/horizontal/color/kueue-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/stacked/color/kueue-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/icon/color/kueue-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/horizontal/color/kueue-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/stacked/color/kueue-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/icon/color/kueue-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/horizontal/black/kueue-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/stacked/black/kueue-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/icon/black/kueue-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/horizontal/black/kueue-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/stacked/black/kueue-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/icon/black/kueue-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/horizontal/white/kueue-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/stacked/white/kueue-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/icon/white/kueue-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/horizontal/white/kueue-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/stacked/white/kueue-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueue/icon/white/kueue-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+
 #### Linkerd Logos
 
 <table>
