@@ -1793,15 +1793,6 @@
         <td><img src="/projects/hyperlight/stacked/white/hyperlight-stacked-white.svg" width="95"></td>
         <td><img src="/projects/hyperlight/icon/white/hyperlight-icon-white.svg" width="75"></td>
     </tr>
-	<tr>
-        <th>color-light</th>
-        <td><img src="/projects/hyperlight/horizontal/color/hyperlight-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/hyperlight/stacked/color/hyperlight-stacked-color.png" width="95"></td>
-        <td><img src="/projects/hyperlight/icon/color/hyperlight-icon-color.png" width="75"></td>
-        <td><img src="/projects/hyperlight/horizontal/color/hyperlight-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/hyperlight/stacked/color/hyperlight-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/hyperlight/icon/color/hyperlight-icon-color.svg" width="75"></td>
-    </tr>
 </table>
 
 #### Inclavare Containers Logos
