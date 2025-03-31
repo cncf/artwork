@@ -991,6 +991,55 @@ displayed on the light grey of tables._
     </tr>
 </table>
 
+#### JobSet Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/horizontal/color/JobSet-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/stacked/color/JobSet-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/icon/color/JobSet-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/horizontal/color/JobSet-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/stacked/color/JobSet-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/icon/color/JobSet-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/horizontal/black/JobSet-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/stacked/black/JobSet-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/icon/black/JobSet-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/horizontal/black/JobSet-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/stacked/black/JobSet-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/icon/black/JobSet-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/horizontal/white/JobSet-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/stacked/white/JobSet-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/icon/white/JobSet-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/horizontal/white/JobSet-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/stacked/white/JobSet-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/icon/white/JobSet-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### KEDA Logos
 
 <table>
