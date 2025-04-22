@@ -205,6 +205,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Telepresence](examples/sandbox.md#telepresence-logos)
   * [Teller](examples/sandbox.md#teller-logos)
   * [Tinkerbell](examples/sandbox.md#tinkerbell-logos)
+  * [Tokenetes](examples/sandbox.md#tokenetes-logos)
   * [Tremor](examples/sandbox.md#tremor-logos)
   * [Trickster](examples/sandbox.md#trickster-logos)
   * [Vineyard](examples/sandbox.md#vineyard-logos)
