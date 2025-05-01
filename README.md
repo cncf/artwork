@@ -185,7 +185,6 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Porter](examples/sandbox.md#porter-logos)
   * [Pravega](examples/sandbox.md#pravega-logos)
   * [Radius](examples/sandbox.md#radius-logos)
-  * [Runme](examples/sandbox.md#runme-logos)
   * [Ratify](examples/sandbox.md#ratify-logos)
   * [Schemahero](examples/sandbox.md#schemahero-logos)
   * [Score](examples/sandbox.md#score-logos)
@@ -266,7 +265,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
 
 ## CNCF Brand Guidelines
 
-These guidelines are both for people in CNCF who design CNCF-branded web properties and also for people external to CNCF who want to use CNCF's brand assets.
+These guidelines are both for people in CNCF who design CNCF-branded web properties and also for people external to CNCF who want to use CNCF’s brand assets.
 
 <https://www.cncf.io/brand-guidelines/>
 
