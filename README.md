@@ -185,6 +185,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Porter](examples/sandbox.md#porter-logos)
   * [Pravega](examples/sandbox.md#pravega-logos)
   * [Radius](examples/sandbox.md#radius-logos)
+  * [Runme](examples/sandbox.md#runme-logos)
   * [Ratify](examples/sandbox.md#ratify-logos)
   * [Schemahero](examples/sandbox.md#schemahero-logos)
   * [Score](examples/sandbox.md#score-logos)
