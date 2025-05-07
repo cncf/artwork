@@ -114,7 +114,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     <tr>
         <th>black</th>
         <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-black.png" width="200"></td>
-        <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-blackr.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-black.svg" width="200"></td>
             </tr>
     </tr>
     <tr>
