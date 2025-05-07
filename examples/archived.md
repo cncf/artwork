@@ -802,7 +802,7 @@
     </tr>
 </table>
 
-#### TAG Storage
+#### TAG Network
 
 <table>
     <tr>
