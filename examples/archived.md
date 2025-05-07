@@ -653,12 +653,12 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/archived/tag-security/horizontal/color/cloud-native-security-horizontal-color.png" width="200"></td>
-        <td><img src="/archived/tag-security/stacked/color/cloud-native-security-stacked-color.png" width="95"></td>
-        <td><img src="/archived/tag-security/icon/color/cloud-native-security-icon-color.png" width="95"></td>
-        <td><img src="/archived/tag-security/horizontal/color/cloud-native-security-horizontal-color.svg" width="200"></td>
-        <td><img src="/archived/tag-security/stacked/color/cloud-native-security-stacked-color.svg" width="95"></td>
-        <td><img src="/archived/tag-security/icon/color/cloud-native-security-icon-color.svg" width="95"></td>
+        <td><img src="/archived/tag-security/horizontal/color/tag-security-horizontal-color.png" width="200"></td>
+        <td><img src="/archived/tag-security/stacked/color/tag-security-stacked-color.png" width="95"></td>
+        <td><img src="/archived/tag-security/icon/color/tag-security-icon-color.png" width="95"></td>
+        <td><img src="/archived/tag-security/horizontal/color/tag-security-horizontal-color.svg" width="200"></td>
+        <td><img src="/archived/tag-security/stacked/color/tag-security-stacked-color.svg" width="95"></td>
+        <td><img src="/archived/tag-security/icon/color/tag-security-icon-color.svg" width="95"></td>
     </tr>
 </table>
 
