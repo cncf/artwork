@@ -109,18 +109,18 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     <tr>
         <th>color</th>
         <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-color.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-color.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-color.svg" width="200"></td>
             </tr>
     <tr>
         <th>black</th>
         <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-black.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-blackr.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-blackr.svg" width="200"></td>
             </tr>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-whiter.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-white.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-white.svg" width="200"></td>
             </tr>
     </tr>
 </table>
@@ -144,18 +144,18 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     <tr>
         <th>color</th>
         <td><img src="/other/toc_tags_and_subprojects/project-reviews-subproject/CNCF_TAG_logos_Project-Reviews-Subproject-color.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/project-reviews-subproject/CNCF_TAG_logos_Project-Reviews-Subproject-color.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/project-reviews-subproject/CNCF_TAG_logos_Project-Reviews-Subproject-color.svg" width="200"></td>
             </tr>
     <tr>
         <th>black</th>
         <td><img src="/other/toc_tags_and_subprojects/project-reviews-subproject/CNCF_TAG_logos_Project-Reviews-Subproject-color.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/project-reviews-subproject//CNCF_TAG_logos_Project-Reviews-Subproject-black.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/project-reviews-subproject//CNCF_TAG_logos_Project-Reviews-Subproject-black.svg" width="200"></td>
             </tr>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/other/toc_tags_and_subprojects/project-reviews-subproject/CNCF_TAG_logos_Project-Reviews-Subproject-white.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/project-reviews-subproject/CNCF_TAG_logos_Project-Reviews-Subproject-white.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/project-reviews-subproject/CNCF_TAG_logos_Project-Reviews-Subproject-white.svg" width="200"></td>
             </tr>
     </tr>
 </table>
@@ -179,18 +179,18 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     <tr>
         <th>color</th>
         <td><img src="/other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-color .png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-color .svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-color .svg" width="200"></td>
             </tr>
     <tr>
         <th>black</th>
         <td><img src="/other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-black.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-black.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-black.svg" width="200"></td>
             </tr>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-white.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-white.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-white.svg" width="200"></td>
             </tr>
     </tr>
 </table>
@@ -214,18 +214,18 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     <tr>
         <th>color</th>
         <td><img src="/other/toc_tags_and_subprojects/tag-infrastructure/CNCF_TAG_logos_TAG-Infrastructure-color.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/tag-infrastructure/CNCF_TAG_logos_TAG-Infrastructure-color.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-infrastructure/CNCF_TAG_logos_TAG-Infrastructure-color.svg" width="200"></td>
             </tr>
     <tr>
         <th>black</th>
         <td><img src="/other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-black.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-black.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-black.svg" width="200"></td>
             </tr>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/other/toc_tags_and_subprojects/tag-infrastructure/CNCF_TAG_logos_TAG-Infrastructure-white.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/tag-infrastructure/CNCF_TAG_logos_TAG-Infrastructure-white.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-infrastructure/CNCF_TAG_logos_TAG-Infrastructure-white.svg" width="200"></td>
             </tr>
     </tr>
 </table>
@@ -249,18 +249,18 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     <tr>
         <th>color</th>
         <td><img src="/other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-color.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-color.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-color.svg" width="200"></td>
             </tr>
     <tr>
         <th>black</th>
         <td><img src="/other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-black.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-black.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-black.svg" width="200"></td>
             </tr>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-white.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-white.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-white.svg" width="200"></td>
             </tr>
     </tr>
 </table>
@@ -284,18 +284,18 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     <tr>
         <th>color</th>
         <td><img src="/other/toc_tags_and_subprojects/tag-security-and-compliance/CNCF_TAG_logos_TAG-Security-and-Compliance-color.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/tag-security-and-compliance/CNCF_TAG_logos_TAG-Security-and-Compliance-color.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-security-and-compliance/CNCF_TAG_logos_TAG-Security-and-Compliance-color.svg" width="200"></td>
             </tr>
     <tr>
         <th>black</th>
         <td><img src="/other/toc_tags_and_subprojects/tag-security-and-compliance/CNCF_TAG_logos_TAG-Security-and-Compliance-black.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-black.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-black.svg" width="200"></td>
             </tr>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/other/toc_tags_and_subprojects/tag-security-and-compliance/CNCF_TAG_logos_TAG-Security-and-Compliance-white.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/tag-security-and-compliance/CNCF_TAG_logos_TAG-Security-and-Compliance-white.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-security-and-compliance/CNCF_TAG_logos_TAG-Security-and-Compliance-white.svg" width="200"></td>
             </tr>
     </tr>
 </table>
@@ -319,18 +319,18 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     <tr>
         <th>color</th>
         <td><img src="/other/toc_tags_and_subprojects/tag-workloads-foundation/CNCF_TAG_logos_TAG-Workloads-Foundation-color.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/tag-workloads-foundation/CNCF_TAG_logos_TAG-Workloads-Foundation-color.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-workloads-foundation/CNCF_TAG_logos_TAG-Workloads-Foundation-color.svg" width="200"></td>
             </tr>
     <tr>
         <th>black</th>
         <td><img src="/other/toc_tags_and_subprojects/tag-workloads-foundation/CNCF_TAG_logos_TAG-Workloads-Foundation-black.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/tag-workloads-foundation/CNCF_TAG_logos_TAG-Workloads-Foundation-black.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-workloads-foundation/CNCF_TAG_logos_TAG-Workloads-Foundation-black.svg" width="200"></td>
             </tr>
     </tr>
     <tr>
         <th>white</th>
         <td><img src="/other/toc_tags_and_subprojects/tag-workloads-foundation/CNCF_TAG_logos_TAG-Workloads-Foundation-white.png" width="200"></td>
-        <td><img src="//other/toc_tags_and_subprojects/tag-workloads-foundation/CNCF_TAG_logos_TAG-Workloads-Foundation-white.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-workloads-foundation/CNCF_TAG_logos_TAG-Workloads-Foundation-white.svg" width="200"></td>
             </tr>
     </tr>
 </table>
