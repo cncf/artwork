@@ -1001,6 +1001,36 @@
     </table>
 
 
+#### Kubernetes Training Partner KTP
+
+
+<table>
+    <tr>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/archived/ktp/color/kubernetes-ktp-color.png" width="75"></td>
+        <td><img src="/archived/ktp/color/kubernetes-ktp-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/archived/ktp/black/kubernetes-ktp-black.png" width="75"></td>
+        <td><img src="/archived/ktp/black/kubernetes-ktp-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/archived/ktp/white/kubernetes-ktp-white.png" width="75"></td>
+        <td><img src="/archived/ktp/white/kubernetes-ktp-white.svg" width="75"></td>
+    </tr>
+</table>
+
+
+
+
+
+other/kcntp/color/kubernetes-kcntp-color.svg
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
