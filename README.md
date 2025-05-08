@@ -217,6 +217,14 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [zot](examples/sandbox.md#zot-logos)
 * [Other CNCF Logos](examples/other.md)
   * [CNCF](examples/other.md#cncf-logos)
+  * [CNCF TOC TAG and SubProject Logos](examples/other.md#cncf-toc-tag-and-subproject-logos)
+    * [Contributor Strategy and Advocacy Subproject](examples/other.md#contributor-strategy-and-advocacy-subproject)
+    * [Mentoring Subproject](examples/other.md#mentoring-subproject)
+    * [TAG Developer Experience](examples/other.md#tag-developer-experience)
+    * [TAG Infrastructure](examples/other.md#tag-infrastructure)
+    * [TAG Operational Resilience](examples/other.md#tag-operational-resilience)
+    * [TAG Security and Compliance](examples/other.md#tag-security-and-compliance)
+    * [TAG Workloads Foundation](examples/other.md#tag-workloads-foundation)
   * [Kubernetes Certifications](examples/other.md#kubernetes-certification-logos) (CKA, CKAD, KCSP, KTP, KSS, KCNA)
   * [Cloud Native Certifications](examples/other.md#cloud-native-certification-logos) (PCA, ICA, CAPA, CCA)
   * [CNCF Member](examples/other.md#cncf-member-logos)
@@ -264,6 +272,15 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [rkt](examples/archived.md#rkt-logos)
   * [Service Mesh Interface](examples/archived.md#service-mesh-interface-logos)
   * [Skooner](examples/archived.md#skooner-logos)
+  * TAGS
+    * [TAG Security](examples/archived.md#tag-security)
+    * [TAG App Delivery](examples/archived.md#tag-app-delivery)
+    * [TAG Storage](examples/archived.md#tag-storage)
+    * [TAG Contributor Strategy](examples/archived.md#tag-contributor-strategy)
+    * [TAG Network](examples/archived.md#tag-network)
+    * [TAG Obeservability](examples/archived.md#tag-observability)
+    * [TAG Runtime](examples/archived.md#tag-runtime)
+    * [Artificial Intelligence Working Group](examples/archived.md#artificial-intelligence-working-group-logos)
 
 ## CNCF Brand Guidelines
 

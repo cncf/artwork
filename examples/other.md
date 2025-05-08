@@ -53,6 +53,289 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
 </table>
 
+#### CNCF TOC TAG and SubProject Logos
+
+##### Contributor Strategy and Advocacy Subproject
+
+<table>
+    <tr>
+    	<th colspan="3"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>horizontal</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/toc_tags_and_subprojects/contributor-strategy-and-advocacy-Subproject/CNCF_TAG_logos_Contributor-Strategy-and-Advocacy-Subproject-color.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/contributor-strategy-and-advocacy-Subproject/CNCF_TAG_logos_Contributor-Strategy-and-Advocacy-Subproject-color.svg" width="200"></td>
+            </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/toc_tags_and_subprojects/contributor-strategy-and-advocacy-Subproject/CNCF_TAG_logos_Contributor-Strategy-and-Advocacy-Subproject-black.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/contributor-strategy-and-advocacy-Subproject/CNCF_TAG_logos_Contributor-Strategy-and-Advocacy-Subproject-black.svg" width="200"></td>
+            </tr>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/toc_tags_and_subprojects/contributor-strategy-and-advocacy-Subproject/CNCF_TAG_logos_Contributor-Strategy-and-Advocacy-Subproject-white.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/contributor-strategy-and-advocacy-Subproject/CNCF_TAG_logos_Contributor-Strategy-and-Advocacy-Subproject-white.svg" width="200"></td>
+            </tr>
+    </tr>
+</table>
+
+##### Mentoring Subproject
+
+<table>
+    <tr>
+    	<th colspan="3"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>horizontal</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-color.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-color.svg" width="200"></td>
+            </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-black.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-black.svg" width="200"></td>
+            </tr>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-white.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-white.svg" width="200"></td>
+            </tr>
+    </tr>
+</table>
+
+##### Project Review Subproject
+
+<table>
+    <tr>
+    	<th colspan="3"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>horizontal</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/toc_tags_and_subprojects/project-reviews-subproject/CNCF_TAG_logos_Project-Reviews-Subproject-color.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/project-reviews-subproject/CNCF_TAG_logos_Project-Reviews-Subproject-color.svg" width="200"></td>
+            </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/toc_tags_and_subprojects/project-reviews-subproject/CNCF_TAG_logos_Project-Reviews-Subproject-color.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/project-reviews-subproject//CNCF_TAG_logos_Project-Reviews-Subproject-black.svg" width="200"></td>
+            </tr>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/toc_tags_and_subprojects/project-reviews-subproject/CNCF_TAG_logos_Project-Reviews-Subproject-white.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/project-reviews-subproject/CNCF_TAG_logos_Project-Reviews-Subproject-white.svg" width="200"></td>
+            </tr>
+    </tr>
+</table>
+
+##### TAG Developer Experience
+
+<table>
+    <tr>
+    	<th colspan="3"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>horizontal</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-color .png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-color .svg" width="200"></td>
+            </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-black.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-black.svg" width="200"></td>
+            </tr>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-white.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-white.svg" width="200"></td>
+            </tr>
+    </tr>
+</table>
+
+##### TAG Infrastructure
+
+<table>
+    <tr>
+    	<th colspan="3"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>horizontal</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/toc_tags_and_subprojects/tag-infrastructure/CNCF_TAG_logos_TAG-Infrastructure-color.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-infrastructure/CNCF_TAG_logos_TAG-Infrastructure-color.svg" width="200"></td>
+            </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/toc_tags_and_subprojects/tag-infrastructure/CNCF_TAG_logos_TAG-Infrastructure-black.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-infrastructure/CNCF_TAG_logos_TAG-Infrastructure-black.svg" width="200"></td>
+            </tr>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/toc_tags_and_subprojects/tag-infrastructure/CNCF_TAG_logos_TAG-Infrastructure-white.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-infrastructure/CNCF_TAG_logos_TAG-Infrastructure-white.svg" width="200"></td>
+            </tr>
+    </tr>
+</table>
+
+##### TAG Operational Resilience
+
+<table>
+    <tr>
+    	<th colspan="3"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>horizontal</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-color.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-color.svg" width="200"></td>
+            </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-black.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-black.svg" width="200"></td>
+            </tr>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-white.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-white.svg" width="200"></td>
+            </tr>
+    </tr>
+</table>
+
+##### TAG Security and Compliance
+
+<table>
+    <tr>
+    	<th colspan="3"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>horizontal</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/toc_tags_and_subprojects/tag-security-and-compliance/CNCF_TAG_logos_TAG-Security-and-Compliance-color.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-security-and-compliance/CNCF_TAG_logos_TAG-Security-and-Compliance-color.svg" width="200"></td>
+            </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/toc_tags_and_subprojects/tag-security-and-compliance/CNCF_TAG_logos_TAG-Security-and-Compliance-black.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-operational-resilience/CNCF_TAG_logos_TAG-Operational-Resilience-black.svg" width="200"></td>
+            </tr>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/toc_tags_and_subprojects/tag-security-and-compliance/CNCF_TAG_logos_TAG-Security-and-Compliance-white.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-security-and-compliance/CNCF_TAG_logos_TAG-Security-and-Compliance-white.svg" width="200"></td>
+            </tr>
+    </tr>
+</table>
+
+##### TAG Workloads Foundation
+
+<table>
+    <tr>
+    	<th colspan="3"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>horizontal</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/toc_tags_and_subprojects/tag-workloads-foundation/CNCF_TAG_logos_TAG-Workloads-Foundation-color.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-workloads-foundation/CNCF_TAG_logos_TAG-Workloads-Foundation-color.svg" width="200"></td>
+            </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/toc_tags_and_subprojects/tag-workloads-foundation/CNCF_TAG_logos_TAG-Workloads-Foundation-black.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-workloads-foundation/CNCF_TAG_logos_TAG-Workloads-Foundation-black.svg" width="200"></td>
+            </tr>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/toc_tags_and_subprojects/tag-workloads-foundation/CNCF_TAG_logos_TAG-Workloads-Foundation-white.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-workloads-foundation/CNCF_TAG_logos_TAG-Workloads-Foundation-white.svg" width="200"></td>
+            </tr>
+    </tr>
+</table>
+
+
 #### Kubernetes Certification Logos
 
 <table>
@@ -976,324 +1259,6 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
     </tr>
 </table>
 
-#### TAG Security
-
-<table>
-    <tr>
-    	<th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/other/tag-security/horizontal/color/cloud-native-security-horizontal-color.png" width="200"></td>
-        <td><img src="/other/tag-security/stacked/color/cloud-native-security-stacked-color.png" width="95"></td>
-        <td><img src="/other/tag-security/icon/color/cloud-native-security-icon-color.png" width="95"></td>
-        <td><img src="/other/tag-security/horizontal/color/cloud-native-security-horizontal-color.svg" width="200"></td>
-        <td><img src="/other/tag-security/stacked/color/cloud-native-security-stacked-color.svg" width="95"></td>
-        <td><img src="/other/tag-security/icon/color/cloud-native-security-icon-color.svg" width="95"></td>
-    </tr>
-</table>
-
-
-#### TAG App Delivery
-
-<table>
-    <tr>
-    	<th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/other/tag-app-delivery/horizontal/color/tag-app-delivery-horizontal-color.png" width="200"></td>
-        <td><img src="/other/tag-app-delivery/stacked/color/tag-app-delivery-stacked-color.png" width="95"></td>
-        <td><img src="/other/tag-app-delivery/icon/color/tag-app-delivery-icon-color.png" width="95"></td>
-        <td><img src="/other/tag-app-delivery/horizontal/color/tag-app-delivery-horizontal-color.svg" width="200"></td>
-        <td><img src="/other/tag-app-delivery/stacked/color/tag-app-delivery-stacked-color.svg" width="95"></td>
-        <td><img src="/other/tag-app-delivery/icon/color/tag-app-delivery-icon-color.svg" width="95"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/tag-app-delivery/horizontal/black/tag-app-delivery-horizontal-black.png" width="200"></td>
-        <td><img src="/other/tag-app-delivery/stacked/black/tag-app-delivery-stacked-black.png" width="95"></td>
-        <td><img src="/other/tag-app-delivery/icon/black/tag-app-delivery-icon-black.png" width="95"></td>
-        <td><img src="/other/tag-app-delivery/horizontal/black/tag-app-delivery-horizontal-black.svg" width="200"></td>
-        <td><img src="/other/tag-app-delivery/stacked/black/tag-app-delivery-stacked-black.svg" width="95"></td>
-        <td><img src="/other/tag-app-delivery/icon/black/tag-app-delivery-icon-black.svg" width="95"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/other/tag-app-delivery/horizontal/white/tag-app-delivery-horizontal-white.png" width="200"></td>
-        <td><img src="/other/tag-app-delivery/stacked/white/tag-app-delivery-stacked-white.png" width="95"></td>
-        <td><img src="/other/tag-app-delivery/icon/white/tag-app-delivery-icon-white.png" width="95"></td>
-        <td><img src="/other/tag-app-delivery/horizontal/white/tag-app-delivery-horizontal-white.svg" width="200"></td>
-        <td><img src="/other/tag-app-delivery/stacked/white/tag-app-delivery-stacked-white.svg" width="95"></td>
-        <td><img src="/other/tag-app-delivery/icon/white/tag-app-delivery-icon-white.svg" width="95"></td>
-    </tr>
-</table>
-
-#### TAG Storage
-
-<table>
-    <tr>
-    	<th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/other/tag-storage/horizontal/color/tag-storage-horizontal-color.png" width="200"></td>
-        <td><img src="/other/tag-storage/stacked/color/tag-storage-stacked-color.png" width="95"></td>
-        <td><img src="/other/tag-storage/icon/color/tag-storage-icon-color.png" width="95"></td>
-        <td><img src="/other/tag-storage/horizontal/color/tag-storage-horizontal-color.svg" width="200"></td>
-        <td><img src="/other/tag-storage/stacked/color/tag-storage-stacked-color.svg" width="95"></td>
-        <td><img src="/other/tag-storage/icon/color/tag-storage-icon-color.svg" width="95"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/tag-storage/horizontal/black/tag-storage-horizontal-black.png" width="200"></td>
-        <td><img src="/other/tag-storage/stacked/black/tag-storage-stacked-black.png" width="95"></td>
-        <td><img src="/other/tag-storage/icon/black/tag-storage-icon-black.png" width="95"></td>
-        <td><img src="/other/tag-storage/horizontal/black/tag-storage-horizontal-black.svg" width="200"></td>
-        <td><img src="/other/tag-storage/stacked/black/tag-storage-stacked-black.svg" width="95"></td>
-        <td><img src="/other/tag-storage/icon/black/tag-storage-icon-black.svg" width="95"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/other/tag-storage/horizontal/white/tag-storage-horizontal-white.png" width="200"></td>
-        <td><img src="/other/tag-storage/stacked/white/tag-storage-stacked-white.png" width="95"></td>
-        <td><img src="/other/tag-storage/icon/white/tag-storage-icon-white.png" width="95"></td>
-        <td><img src="/other/tag-storage/horizontal/white/tag-storage-horizontal-white.svg" width="200"></td>
-        <td><img src="/other/tag-storage/stacked/white/tag-storage-stacked-white.svg" width="95"></td>
-        <td><img src="/other/tag-storage/icon/white/tag-storage-icon-white.svg" width="95"></td>
-    </tr>
-</table>
-
-#### TAG Contributor Strategy
-
-<table>
-    <tr>
-    	<th colspan="5"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/other/tag-contributor-strategy/stacked/color/tag-contributor-strategy-stacked-color.png" width="95"></td>
-        <td><img src="/other/tag-contributor-strategy/icon/color/tag-contributor-strategy-icon-color.png" width="95"></td>
-        <td><img src="/other/tag-contributor-strategy/stacked/color/tag-contributor-strategy-stacked-color.svg" width="95"></td>
-        <td><img src="/other/tag-contributor-strategy/icon/color/tag-contributor-strategy-icon-color.svg" width="95"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/tag-contributor-strategy/stacked/black/tag-contributor-strategy-stacked-black.png" width="95"></td>
-        <td><img src="/other/tag-contributor-strategy/icon/black/tag-contributor-strategy-icon-black.png" width="95"></td>
-        <td><img src="/other/tag-contributor-strategy/stacked/black/tag-contributor-strategy-stacked-black.svg" width="95"></td>
-        <td><img src="/other/tag-contributor-strategy/icon/black/tag-contributor-strategy-icon-black.svg" width="95"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/other/tag-contributor-strategy/stacked/white/tag-contributor-strategy-stacked-white.png" width="95"></td>
-        <td><img src="/other/tag-contributor-strategy/icon/white/tag-contributor-strategy-icon-white.png" width="95"></td>
-        <td><img src="/other/tag-contributor-strategy/stacked/white/tag-contributor-strategy-stacked-white.svg" width="95"></td>
-        <td><img src="/other/tag-contributor-strategy/icon/white/tag-contributor-strategy-icon-white.svg" width="95"></td>
-    </tr>
-</table>
-
-#### TAG Storage
-
-<table>
-    <tr>
-    	<th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/other/tag-network/horizontal/color/tag-network_horizontal-color.png" width="200"></td>
-        <td><img src="/other/tag-network/stacked/color/tag-network_stacked-color.png" width="95"></td>
-        <td><img src="/other/tag-network/icon/color/tag-network_icon-color.png" width="95"></td>
-        <td><img src="/other/tag-network/horizontal/color/tag-network_horizontal-color.svg" width="200"></td>
-        <td><img src="/other/tag-network/stacked/color/tag-network_stacked-color.svg" width="95"></td>
-        <td><img src="/other/tag-network/icon/color/tag-network_icon-color.svg" width="95"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/tag-network/horizontal/black/tag-network_horizontal-black.png" width="200"></td>
-        <td><img src="/other/tag-network/stacked/black/tag-network_stacked-black.png" width="95"></td>
-        <td><img src="/other/tag-network/icon/black/tag-network_icon-black.png" width="95"></td>
-        <td><img src="/other/tag-network/horizontal/black/tag-network_horizontal-black.svg" width="200"></td>
-        <td><img src="/other/tag-network/stacked/black/tag-network_stacked-black.svg" width="95"></td>
-        <td><img src="/other/tag-network/icon/black/tag-network_icon-black.svg" width="95"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/other/tag-network/horizontal/white/tag-network_horizontal-white.png" width="200"></td>
-        <td><img src="/other/tag-network/stacked/white/tag-network_stacked-white.png" width="95"></td>
-        <td><img src="/other/tag-network/icon/white/tag-network_icon-white.png" width="95"></td>
-        <td><img src="/other/tag-network/horizontal/white/tag-network_horizontal-white.svg" width="200"></td>
-        <td><img src="/other/tag-network/stacked/white/tag-network_stacked-white.svg" width="95"></td>
-        <td><img src="/other/tag-network/icon/white/tag-network_icon-white.svg" width="95"></td>
-    </tr>
-</table>
-
-#### TAG Observability
-
-<table>
-    <tr>
-    	<th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/other/tag-observability/horizontal/color/tag-observability_horizontal-color.png" width="200"></td>
-        <td><img src="/other/tag-observability/stacked/color/tag-observability_stacked-color.png" width="95"></td>
-        <td><img src="/other/tag-observability/icon/color/tag-observability_icon-color.png" width="95"></td>
-        <td><img src="/other/tag-observability/horizontal/color/tag-observability_horizontal-color.svg" width="200"></td>
-        <td><img src="/other/tag-observability/stacked/color/tag-observability_stacked-color.svg" width="95"></td>
-        <td><img src="/other/tag-observability/icon/color/tag-observability_icon-color.svg" width="95"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/tag-observability/horizontal/black/tag-observability_horizontal-black.png" width="200"></td>
-        <td><img src="/other/tag-observability/stacked/black/tag-observability_stacked-black.png" width="95"></td>
-        <td><img src="/other/tag-observability/icon/black/tag-observability_icon-black.png" width="95"></td>
-        <td><img src="/other/tag-observability/horizontal/black/tag-observability_horizontal-black.svg" width="200"></td>
-        <td><img src="/other/tag-observability/stacked/black/tag-observability_stacked-black.svg" width="95"></td>
-        <td><img src="/other/tag-observability/icon/black/tag-observability_icon-black.svg" width="95"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/other/tag-observability/horizontal/white/tag-observability_horizontal-white.png" width="200"></td>
-        <td><img src="/other/tag-observability/stacked/white/tag-observability_stacked-white.png" width="95"></td>
-        <td><img src="/other/tag-observability/icon/white/tag-observability_icon-white.png" width="95"></td>
-        <td><img src="/other/tag-observability/horizontal/white/tag-observability_horizontal-white.svg" width="200"></td>
-        <td><img src="/other/tag-observability/stacked/white/tag-observability_stacked-white.svg" width="95"></td>
-        <td><img src="/other/tag-observability/icon/white/tag-observability_icon-white.svg" width="95"></td>
-    </tr>
-</table>
-
-
-#### TAG Runtime
-
-<table>
-    <tr>
-    	<th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/other/tag-runtime/horizontal/color/tag-runtime_horizontal-color.png" width="200"></td>
-        <td><img src="/other/tag-runtime/stacked/color/tag-runtime_stacked-color.png" width="95"></td>
-        <td><img src="/other/tag-runtime/icon/color/tag-runtime_icon-color.png" width="95"></td>
-        <td><img src="/other/tag-runtime/horizontal/color/tag-runtime_horizontal-color.svg" width="200"></td>
-        <td><img src="/other/tag-runtime/stacked/color/tag-runtime_stacked-color.svg" width="95"></td>
-        <td><img src="/other/tag-runtime/icon/color/tag-runtime_icon-color.svg" width="95"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/tag-runtime/horizontal/black/tag-runtime_horizontal-black.png" width="200"></td>
-        <td><img src="/other/tag-runtime/stacked/black/tag-runtime_stacked-black.png" width="95"></td>
-        <td><img src="/other/tag-runtime/icon/black/tag-runtime_icon-black.png" width="95"></td>
-        <td><img src="/other/tag-runtime/horizontal/black/tag-runtime_horizontal-black.svg" width="200"></td>
-        <td><img src="/other/tag-runtime/stacked/black/tag-runtime_stacked-black.svg" width="95"></td>
-        <td><img src="/other/tag-runtime/icon/black/tag-runtime_icon-black.svg" width="95"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/other/tag-runtime/horizontal/white/tag-runtime_horizontal-white.png" width="200"></td>
-        <td><img src="/other/tag-runtime/stacked/white/tag-runtime_stacked-white.png" width="95"></td>
-        <td><img src="/other/tag-runtime/icon/white/tag-runtime_icon-white.png" width="95"></td>
-        <td><img src="/other/tag-runtime/horizontal/white/tag-runtime_horizontal-white.svg" width="200"></td>
-        <td><img src="/other/tag-runtime/stacked/white/tag-runtime_stacked-white.svg" width="95"></td>
-        <td><img src="/other/tag-runtime/icon/white/tag-runtime_icon-white.svg" width="95"></td>
-    </tr>
-</table>
 
 #### CNF Testbed Logos
 
@@ -1390,56 +1355,6 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <td><img src="/other/gitopswg/horizontal/white/gitopswg-horizontal-white.svg" width="200"></td>
         <td><img src="/other/gitopswg/stacked/white/gitopswg-stacked-white.svg" width="95"></td>
         <td><img src="/other/gitopswg/icon/white/gitopswg-icon-white.svg" width="75"></td>
-    </tr>
-    </table>
-
-#### Artificial Intelligence Working Group Logos
-
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/other/aiwg/horizontal/color/aiwg-horizontal-color.png" width="200"></td>
-        <td><img src="/other/aiwg/stacked/color/aiwg-stacked-color.png" width="95"></td>
-        <td><img src="/other/aiwg/icon/color/aiwg-icon-color.png" width="75"></td>
-        <td><img src="/other/aiwg/horizontal/color/aiwg-horizontal-color.svg" width="200"></td>
-        <td><img src="/other/aiwg/stacked/color/aiwg-stacked-color.svg" width="95"></td>
-        <td><img src="/other/aiwg/icon/color/aiwg-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/aiwg/horizontal/black/aiwg-horizontal-black.png" width="200"></td>
-        <td><img src="/other/aiwg/stacked/black/aiwg-stacked-black.png" width="95"></td>
-        <td><img src="/other/aiwg/icon/black/aiwg-icon-black.png" width="75"></td>
-        <td><img src="/other/aiwg/horizontal/black/aiwg-horizontal-black.svg" width="200"></td>
-        <td><img src="/other/aiwg/stacked/black/aiwg-stacked-black.svg" width="95"></td>
-        <td><img src="/other/aiwg/icon/black/aiwg-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/other/aiwg/horizontal/white/aiwg-horizontal-white.png" width="200"></td>
-        <td><img src="/other/aiwg/stacked/white/aiwg-stacked-white.png" width="95"></td>
-        <td><img src="/other/aiwg/icon/white/aiwg-icon-white.png" width="75"></td>
-        <td><img src="/other/aiwg/horizontal/white/aiwg-horizontal-white.svg" width="200"></td>
-        <td><img src="/other/aiwg/stacked/white/aiwg-stacked-white.svg" width="95"></td>
-        <td><img src="/other/aiwg/icon/white/aiwg-icon-white.svg" width="75"></td>
     </tr>
     </table>
 
