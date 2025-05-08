@@ -274,9 +274,13 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Skooner](examples/archived.md#skooner-logos)
   * TAGS
     * [TAG Security](examples/archived.md#tag-security)
-    * [TAG Storage](examples/archived.md#tag-storage-logos)
-    * [TAG App Delivery](examples/archived.md#tag-app-delivery-logos)
-    * [TAG Contributor Strategy](examples/archived.md#tag-contributor-strategy-logos)
+    * [TAG App Delivery](examples/archived.md#tag-app-delivery)
+    * [TAG Storage](examples/archived.md#tag-storage)
+    * [TAG Contributor Strategy](examples/archived.md#tag-contributor-strategy)
+    * [TAG Network](examples/archived.md#tag-network)
+    * [TAG Obeservability](examples/archived.md#tag-observability)
+    * [TAG Runtime](examples/archived.md#tag-runtime)
+    * [Artificial Intelligence Working Group](examples/archived.md#artificial-intelligence-working-group-logos)
 
 ## CNCF Brand Guidelines
 

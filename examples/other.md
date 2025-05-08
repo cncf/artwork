@@ -68,8 +68,8 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
     <tr>
         <th></th>
-        <th>icon</th>
-        <th>icon</th>
+        <th>horizontal</th>
+        <th>horizontal</th>
     </tr>
     <tr>
         <th>color</th>
@@ -103,8 +103,8 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
     <tr>
         <th></th>
-        <th>icon</th>
-        <th>icon</th>
+        <th>horizontal</th>
+        <th>horizontal</th>
     </tr>
     <tr>
         <th>color</th>
@@ -119,7 +119,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-whiter.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-white.png" width="200"></td>
         <td><img src="/other/toc_tags_and_subprojects/mentoring-subproject/CNCF_TAG_logos_Mentoring-Subproject-white.svg" width="200"></td>
             </tr>
     </tr>
@@ -138,8 +138,8 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
     <tr>
         <th></th>
-        <th>icon</th>
-        <th>icon</th>
+        <th>horizontal</th>
+        <th>horizontal</th>
     </tr>
     <tr>
         <th>color</th>
@@ -173,8 +173,8 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
     <tr>
         <th></th>
-        <th>icon</th>
-        <th>icon</th>
+        <th>horizontal</th>
+        <th>horizontal</th>
     </tr>
     <tr>
         <th>color</th>
@@ -208,8 +208,8 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
     <tr>
         <th></th>
-        <th>icon</th>
-        <th>icon</th>
+        <th>horizontal</th>
+        <th>horizontal</th>
     </tr>
     <tr>
         <th>color</th>
@@ -218,8 +218,8 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
             </tr>
     <tr>
         <th>black</th>
-        <td><img src="/other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-black.png" width="200"></td>
-        <td><img src="/other/toc_tags_and_subprojects/tag-developer-experience/CNCF_TAG_logos_TAG-DeveloperExperience-black.svg" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-infrastructure/CNCF_TAG_logos_TAG-Infrastructure-black.png" width="200"></td>
+        <td><img src="/other/toc_tags_and_subprojects/tag-infrastructure/CNCF_TAG_logos_TAG-Infrastructure-black.svg" width="200"></td>
             </tr>
     </tr>
     <tr>
@@ -243,8 +243,8 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
     <tr>
         <th></th>
-        <th>icon</th>
-        <th>icon</th>
+        <th>horizontal</th>
+        <th>horizontal</th>
     </tr>
     <tr>
         <th>color</th>
@@ -278,8 +278,8 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
     <tr>
         <th></th>
-        <th>icon</th>
-        <th>icon</th>
+        <th>horizontal</th>
+        <th>horizontal</th>
     </tr>
     <tr>
         <th>color</th>
@@ -313,8 +313,8 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
     </tr>
     <tr>
         <th></th>
-        <th>icon</th>
-        <th>icon</th>
+        <th>horizontal</th>
+        <th>horizontal</th>
     </tr>
     <tr>
         <th>color</th>
