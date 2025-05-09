@@ -1293,30 +1293,30 @@ displayed on the light grey of tables._
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/horizontal/color/kueueviz-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/stacked/color/kueueviz-stacked-color.png" width="95"></td>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/icon/color/kueueviz-icon-color.png" width="75"></td>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/horizontal/color/kueueviz-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/stacked/color/kueueviz-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/icon/color/kueueviz-icon-color.svg" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/horizontal/color/kueueviz-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/stacked/color/kueueviz-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/icon/color/kueueviz-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/horizontal/color/kueueviz-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/stacked/color/kueueviz-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/icon/color/kueueviz-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/horizontal/black/kueueviz-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/stacked/black/kueueviz-stacked-black.png" width="95"></td>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/icon/black/kueueviz-icon-black.png" width="75"></td>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/horizontal/black/kueueviz-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/stacked/black/kueueviz-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/icon/black/kueueviz-icon-black.svg" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/horizontal/black/kueueviz-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/stacked/black/kueueviz-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/icon/black/kueueviz-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/horizontal/black/kueueviz-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/stacked/black/kueueviz-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/icon/black/kueueviz-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/horizontal/white/kueueviz-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/stacked/white/kueueviz-stacked-white.png" width="95"></td>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/icon/white/kueueviz-icon-white.png" width="75"></td>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/horizontal/white/kueueviz-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/stacked/white/kueueviz-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/kubernetes/sub-projects/Kueue/sub-projects/kueueviz/icon/white/kueueviz-icon-white.svg" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/horizontal/white/kueueviz-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/stacked/white/kueueviz-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/icon/white/kueueviz-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/horizontal/white/kueueviz-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/stacked/white/kueueviz-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/icon/white/kueueviz-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
