@@ -4478,6 +4478,55 @@
     </tr>
 </table>
 
+#### OpenTofu Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/opentofu/horizontal/color/opentofu-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/opentofu/stacked/color/opentofu-stacked-color.png" width="95"></td>
+        <td><img src="/projects/opentofu/icon/color/opentofu-icon-color.png" width="75"></td>
+        <td><img src="/projects/opentofu/horizontal/color/opentofu-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/opentofu/stacked/color/opentofu-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/opentofu/icon/color/opentofu-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/opentofu/horizontal/black/opentofu-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/opentofu/stacked/black/opentofu-stacked-black.png" width="95"></td>
+        <td><img src="/projects/opentofu/icon/black/opentofu-icon-black.png" width="75"></td>
+        <td><img src="/projects/opentofu/horizontal/black/opentofu-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/opentofu/stacked/black/opentofu-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/opentofu/icon/black/opentofu-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/opentofu/horizontal/white/opentofu-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/opentofu/stacked/white/opentofu-stacked-white.png" width="95"></td>
+        <td><img src="/projects/opentofu/icon/white/opentofu-icon-white.png" width="75"></td>
+        <td><img src="/projects/opentofu/horizontal/white/opentofu-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/opentofu/stacked/white/opentofu-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/opentofu/icon/white/opentofu-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
 #### OpenYurt Logos
 
 <table>
