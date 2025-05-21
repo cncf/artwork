@@ -173,6 +173,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [OpenFunction](examples/sandbox.md#openfunction-logos)
   * [OpenGemini](examples/sandbox.md#openGemini-logos)
   * [OpenGitOps](examples/sandbox.md#opengitops-logos)
+  * [OpenTofu](examples/sandbox.md#opentofu-logos)
   * [OpenYurt](examples/sandbox.md#openyurt-logos)
   * [ORAS](examples/sandbox.md#oras-logos)
   * [OSCAL Compass](examples/sandbox.md#oscal-compass-logos)
