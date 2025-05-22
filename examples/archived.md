@@ -427,6 +427,64 @@
     </tr>
 </table>
 
+#### Merbridge Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/archived/merbridge/horizontal/color/merbridge-horizontal-colordark.png" width="200"></td>
+        <td><img src="/archived/merbridge/stacked/color/merbridge-stacked-color.png" width="95"></td>
+        <td><img src="/archived/merbridge/icon/color/merbridge-icon-color.png" width="75"></td>
+        <td><img src="/archived/merbridge/horizontal/color/merbridge-horizontal-colordark.svg" width="200"></td>
+        <td><img src="/archived/merbridge/stacked/color/merbridge-stacked-color.svg" width="95"></td>
+        <td><img src="/archived/merbridge/icon/color/merbridge-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>color-light</th>
+        <td><img src="/archived/merbridge/horizontal/color/merbridge-horizontal-colorlight.png" width="200"></td>
+        <td><img src="/archived/merbridge/stacked/color/merbridge-stacked-colorlight.png" width="95"></td>
+        <td><img src="/archived/merbridge/icon/color/merbridge-icon-colorlight.png" width="75"></td>
+        <td><img src="/archived/merbridge/horizontal/color/merbridge-horizontal-colorlight.svg" width="200"></td>
+        <td><img src="/archived/merbridge/stacked/color/merbridge-stacked-colorlight.svg" width="95"></td>
+        <td><img src="/archived/merbridge/icon/color/merbridge-icon-colorlight.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/archived/merbridge/horizontal/black/merbridge-horizontal-black.png" width="200"></td>
+        <td><img src="/archived/merbridge/stacked/black/merbridge-stacked-black.png" width="95"></td>
+        <td><img src="/archived/merbridge/icon/black/merbridge-icon-black.png" width="75"></td>
+        <td><img src="/archived/merbridge/horizontal/black/merbridge-horizontal-black.svg" width="200"></td>
+        <td><img src="/archived/merbridge/stacked/black/merbridge-stacked-black.svg" width="95"></td>
+        <td><img src="/archived/merbridge/icon/black/merbridge-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/archived/merbridge/horizontal/white/merbridge-horizontal-white.png" width="200"></td>
+        <td><img src="/archived/merbridge/stacked/white/merbridge-stacked-white.png" width="95"></td>
+        <td><img src="/archived/merbridge/icon/white/merbridge-icon-white.png" width="75"></td>
+        <td><img src="/archived/merbridge/horizontal/white/merbridge-horizontal-white.svg" width="200"></td>
+        <td><img src="/archived/merbridge/stacked/white/merbridge-stacked-white.svg" width="95"></td>
+        <td><img src="/archived/merbridge/icon/white/merbridge-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Nocalhost Logos
 
 <table>
@@ -967,7 +1025,6 @@
         <td><img src="/archived/tag-security/icon/color/tag-security-icon-color.svg" width="95"></td>
     </tr>
 </table>
-
 
 #### TAG App Delivery
 
