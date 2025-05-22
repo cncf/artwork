@@ -1796,10 +1796,10 @@ displayed on the light grey of tables._
         <th>color-inverted</th>
         <td><img src="/projects/vitess/horizontal/color-inverted/vitess-horizontal-color-inverted.png" width="200"></td>
         <td><img src="/projects/vitess/stacked/color-inverted/vitess-stacked-color-inverted.png" width="95"></td>
-        <td><img src="/projects/vitess/icon/color-inverted/vitess-icon-color.png" width="75"></td>
+        <td><img src="/projects/vitess/icon/color-inverted/vitess-icon-color-inverted.png" width="75"></td>
         <td><img src="/projects/vitess/horizontal/color-inverted/vitess-horizontal-color-inverted.svg" width="200"></td>
         <td><img src="/projects/vitess/stacked/color-inverted/vitess-stacked-color-inverted.svg" width="95"></td>
-        <td><img src="/projects/vitess/icon/color-inverted/vitess-icon-color.svg" width="75"></td>
+        <td><img src="/projects/vitess/icon/color-inverted/vitess-icon-color-inverted.svg" width="75"></td>
     </tr>
     <tr>
         <th>color</th>
