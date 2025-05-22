@@ -1197,55 +1197,6 @@
     </tr>
 </table>
 
-#### DevStream Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/devstream/horizontal/color/devstream-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/devstream/stacked/color/devstream-stacked-color.png" width="95"></td>
-        <td><img src="/projects/devstream/icon/color/devstream-icon-color.png" width="75"></td>
-        <td><img src="/projects/devstream/horizontal/color/devstream-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/devstream/stacked/color/devstream-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/devstream/icon/color/devstream-icon-color.svg" width="75"></td>
-    </tr>
-   <tr>
-        <th>black</th>
-        <td><img src="/projects/devstream/horizontal/black/devstream-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/devstream/stacked/black/devstream-stacked-black.png" width="95"></td>
-        <td><img src="/projects/devstream/icon/black/devstream-icon-black.png" width="75"></td>
-        <td><img src="/projects/devstream/horizontal/black/devstream-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/devstream/stacked/black/devstream-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/devstream/icon/black/devstream-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/devstream/horizontal/white/devstream-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/devstream/stacked/white/devstream-stacked-white.png" width="95"></td>
-        <td><img src="/projects/devstream/icon/white/devstream-icon-white.png" width="75"></td>
-        <td><img src="/projects/devstream/horizontal/white/devstream-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/devstream/stacked/white/devstream-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/devstream/icon/white/devstream-icon-white.svg" width="75"></td>
-    </tr>
-  </table>
-
 #### Dex Logos
 
 <table>
@@ -3029,55 +2980,6 @@
     </tr>
 </table>
 
-#### KubeDL Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/kubedl/horizontal/color/kubedl-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/kubedl/stacked/color/kubedl-stacked-color.png" width="95"></td>
-        <td><img src="/projects/kubedl/icon/color/kubedl-icon-color.png" width="75"></td>
-        <td><img src="/projects/kubedl/horizontal/color/kubedl-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/kubedl/stacked/color/kubedl-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/kubedl/icon/color/kubedl-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/kubedl/horizontal/black/kubedl-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/kubedl/stacked/black/kubedl-stacked-black.png" width="95"></td>
-        <td><img src="/projects/kubedl/icon/black/kubedl-icon-black.png" width="75"></td>
-        <td><img src="/projects/kubedl/horizontal/black/kubedl-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/kubedl/stacked/black/kubedl-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/kubedl/icon/black/kubedl-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/kubedl/horizontal/white/kubedl-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/kubedl/stacked/white/kubedl-stacked-white.png" width="95"></td>
-        <td><img src="/projects/kubedl/icon/white/kubedl-icon-white.png" width="75"></td>
-        <td><img src="/projects/kubedl/horizontal/white/kubedl-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/kubedl/stacked/white/kubedl-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/kubedl/icon/white/kubedl-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### Kuberhealthy Logos
 
 <table>
@@ -4037,55 +3939,6 @@
     </tr>
 </table>
 
-#### Nocalhost Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/nocalhost/horizontal/color/nocalhost-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/nocalhost/stacked/color/nocalhost-stacked-color.png" width="95"></td>
-        <td><img src="/projects/nocalhost/icon/color/nocalhost-icon-color.png" width="75"></td>
-        <td><img src="/projects/nocalhost/horizontal/color/nocalhost-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/nocalhost/stacked/color/nocalhost-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/nocalhost/icon/color/nocalhost-icon-color.svg" width="75"></td>
-    </tr>
-   <tr>
-        <th>black</th>
-        <td><img src="/projects/nocalhost/horizontal/black/nocalhost-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/nocalhost/stacked/black/nocalhost-stacked-black.png" width="95"></td>
-        <td><img src="/projects/nocalhost/icon/black/nocalhost-icon-black.png" width="75"></td>
-        <td><img src="/projects/nocalhost/horizontal/black/nocalhost-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/nocalhost/stacked/black/nocalhost-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/nocalhost/icon/black/nocalhost-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/nocalhost/horizontal/white/nocalhost-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/nocalhost/stacked/white/nocalhost-stacked-white.png" width="95"></td>
-        <td><img src="/projects/nocalhost/icon/white/nocalhost-icon-white.png" width="75"></td>
-        <td><img src="/projects/nocalhost/horizontal/white/nocalhost-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/nocalhost/stacked/white/nocalhost-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/nocalhost/icon/white/nocalhost-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### Open Cluster Management Logos
 
 <table>
@@ -4221,37 +4074,6 @@
         <td><img src="/projects/openebs/horizontal/white/openebs-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/openebs/stacked/white/openebs-stacked-white.svg" width="95"></td>
         <td><img src="/projects/openebs/icon/white/openebs-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
-#### openelb Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-	    <tr>
-        <th>color</th>
-        <td></td>
-        <td><img src="/projects/openelb/stacked/color/openelb-stacked-color.png" width="95" /></td>
-        <td></td>
-        <td></td>
-        <td><img src="/projects/openelb/stacked/color/openelb-stacked-color.svg" width="95" /></td>
-        <td></td>
     </tr>
 </table>
 
@@ -5350,37 +5172,6 @@
     </tr>
 </table>
 
-#### Sealer Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td></td>
-        <td><img src="/projects/sealer/stacked/color/sealer-stacked-color.png" width="95" /></td>
-        <td></td>
-        <td></td>
-        <td><img src="/projects/sealer/stacked/color/sealer-stacked-color.svg" width="95" /></td>
-        <td></td>
-    </tr>
-</table>
-
 #### Sermant Logos
 
 <table>
@@ -5985,55 +5776,6 @@
         <td><img src="/projects/submariner/icon/white/submariner-icon-white.png" width="75"></td>
         <td><img src="/projects/submariner/horizontal/white/submariner-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/submariner/icon/white/submariner-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
-#### SuperEdge Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/superedge/horizontal/color/superedge-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/superedge/stacked/color/superedge-stacked-color.png" width="95"></td>
-        <td><img src="/projects/superedge/icon/color/superedge-icon-color.png" width="75"></td>
-        <td><img src="/projects/superedge/horizontal/color/superedge-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/superedge/stacked/color/superedge-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/superedge/icon/color/superedge-icon-color.svg" width="75"></td>
-    </tr>
-   <tr>
-        <th>black</th>
-        <td><img src="/projects/superedge/horizontal/black/superedge-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/superedge/stacked/black/superedge-stacked-black.png" width="95"></td>
-        <td><img src="/projects/superedge/icon/black/superedge-icon-black.png" width="75"></td>
-        <td><img src="/projects/superedge/horizontal/black/superedge-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/superedge/stacked/black/superedge-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/superedge/icon/black/superedge-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/superedge/horizontal/white/superedge-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/superedge/stacked/white/superedge-stacked-white.png" width="95"></td>
-        <td><img src="/projects/superedge/icon/white/superedge-icon-white.png" width="75"></td>
-        <td><img src="/projects/superedge/horizontal/white/superedge-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/superedge/stacked/white/superedge-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/superedge/icon/white/superedge-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
