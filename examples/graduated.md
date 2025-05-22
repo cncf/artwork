@@ -991,7 +991,6 @@ displayed on the light grey of tables._
     </tr>
 </table>
 
-
 #### KEDA Logos
 
 <table>
@@ -1172,8 +1171,10 @@ displayed on the light grey of tables._
     </tr>
 </table>
 
-##### Kubernetes Sub-projects 
+##### Kubernetes Sub-projects
+
 #### Jobset Logos
+
 <table>
     <tr>
         <th colspan="7"></th>
@@ -1270,9 +1271,10 @@ displayed on the light grey of tables._
     </tr>
 </table>
 
+###### Kueue Sub-projects
 
-###### Kueue Sub-projects 
 ##### KueueViz Logos
+
 <table>
     <tr>
         <th colspan="7"></th>
@@ -1319,8 +1321,6 @@ displayed on the light grey of tables._
         <td><img src="/projects/kubernetes/sub-projects/kueueviz/icon/white/kueueviz-icon-white.svg" width="75"></td>
     </tr>
 </table>
-
-
 
 ###### LWS Logos
 
@@ -1370,7 +1370,6 @@ displayed on the light grey of tables._
         <td><img src="/projects/kubernetes/sub-projects/lws/icon/white/lws-icon-white.svg" width="75"></td>
     </tr>
 </table>
-
 
 #### Linkerd Logos
 
@@ -1794,13 +1793,13 @@ displayed on the light grey of tables._
         <th>icon</th>
     </tr>
     <tr>
-        <th>color-white</th>
-        <td><img src="/projects/vitess/horizontal/color-white/vitess-horizontal-color-white.png" width="200"></td>
-        <td><img src="/projects/vitess/stacked/color-white/vitess-stacked-color-white.png" width="95"></td>
-        <td></td>
-        <td><img src="/projects/vitess/horizontal/color-white/vitess-horizontal-color-white.svg" width="200"></td>
-        <td><img src="/projects/vitess/stacked/color-white/vitess-stacked-color-white.svg" width="95"></td>
-        <td></td>
+        <th>color-inverted</th>
+        <td><img src="/projects/vitess/horizontal/color-inverted/vitess-horizontal-color-inverted.png" width="200"></td>
+        <td><img src="/projects/vitess/stacked/color-inverted/vitess-stacked-color-inverted.png" width="95"></td>
+        <td><img src="/projects/vitess/icon/color-inverted/vitess-icon-color.png" width="75"></td>
+        <td><img src="/projects/vitess/horizontal/color-inverted/vitess-horizontal-color-inverted.svg" width="200"></td>
+        <td><img src="/projects/vitess/stacked/color-inverted/vitess-stacked-color-inverted.svg" width="95"></td>
+        <td><img src="/projects/vitess/icon/color-inverted/vitess-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>color</th>
