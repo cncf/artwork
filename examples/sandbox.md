@@ -3609,65 +3609,7 @@
     </tr>
 </table>
 
-#### Merbridge Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/merbridge/horizontal/color/merbridge-horizontal-colordark.png" width="200"></td>
-        <td><img src="/projects/merbridge/stacked/color/merbridge-stacked-color.png" width="95"></td>
-        <td><img src="/projects/merbridge/icon/color/merbridge-icon-color.png" width="75"></td>
-        <td><img src="/projects/merbridge/horizontal/color/merbridge-horizontal-colordark.svg" width="200"></td>
-        <td><img src="/projects/merbridge/stacked/color/merbridge-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/merbridge/icon/color/merbridge-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>color-light</th>
-        <td><img src="/projects/merbridge/horizontal/color/merbridge-horizontal-colorlight.png" width="200"></td>
-        <td><img src="/projects/merbridge/stacked/color/merbridge-stacked-colorlight.png" width="95"></td>
-        <td><img src="/projects/merbridge/icon/color/merbridge-icon-colorlight.png" width="75"></td>
-        <td><img src="/projects/merbridge/horizontal/color/merbridge-horizontal-colorlight.svg" width="200"></td>
-        <td><img src="/projects/merbridge/stacked/color/merbridge-stacked-colorlight.svg" width="95"></td>
-        <td><img src="/projects/merbridge/icon/color/merbridge-icon-colorlight.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/merbridge/horizontal/black/merbridge-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/merbridge/stacked/black/merbridge-stacked-black.png" width="95"></td>
-        <td><img src="/projects/merbridge/icon/black/merbridge-icon-black.png" width="75"></td>
-        <td><img src="/projects/merbridge/horizontal/black/merbridge-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/merbridge/stacked/black/merbridge-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/merbridge/icon/black/merbridge-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/merbridge/horizontal/white/merbridge-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/merbridge/stacked/white/merbridge-stacked-white.png" width="95"></td>
-        <td><img src="/projects/merbridge/icon/white/merbridge-icon-white.png" width="75"></td>
-        <td><img src="/projects/merbridge/horizontal/white/merbridge-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/merbridge/stacked/white/merbridge-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/merbridge/icon/white/merbridge-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
-#### meshery Logos
+#### Meshery Logos
 
 <table>
     <tr>
@@ -5827,57 +5769,6 @@
         <td><img src="/projects/telepresence/icon/white/telepresence-icon-white.svg" width="75"></td>
     </tr>
 </table>
-
-
-#### Teller Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-        <tr>
-        <th>color</th>
-        <td><img src="/projects/teller/horizontal/color/teller-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/teller/stacked/color/teller-stacked-color.png" width="95"></td>
-        <td><img src="/projects/teller/icon/color/teller-icon-color.png" width="75"></td>
-        <td><img src="/projects/teller/horizontal/color/teller-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/teller/stacked/color/teller-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/teller/icon/color/teller-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/teller/horizontal/black/teller-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/teller/stacked/black/teller-stacked-black.png" width="95"></td>
-        <td><img src="/projects/teller/icon/black/teller-icon-black.png" width="75"></td>
-        <td><img src="/projects/teller/horizontal/black/teller-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/teller/stacked/black/teller-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/teller/icon/black/teller-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/teller/horizontal/white/teller-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/teller/stacked/white/teller-stacked-white.png" width="95"></td>
-        <td><img src="/projects/teller/icon/white/teller-icon-white.png" width="75"></td>
-        <td><img src="/projects/teller/horizontal/white/teller-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/teller/stacked/white/teller-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/teller/icon/white/teller-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 
 #### Tinkerbell Logos
 
