@@ -440,7 +440,7 @@
     </tr>
     <tr>
         <th></th>
-        <th>horizontal</th>Remove from CLOMonitor data
+        <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
         <th>horizontal</th>
