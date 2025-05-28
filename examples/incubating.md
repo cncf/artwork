@@ -1094,7 +1094,6 @@ displayed on the light grey of tables.*
         <th></th>
         <th>stacked</th>
         <th>stacked</th>
-        
     </tr>
     <tr>
         <th>color</th>
