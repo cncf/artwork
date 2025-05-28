@@ -1097,18 +1097,18 @@ displayed on the light grey of tables.*
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/Kubeflow-model-registery/Kubeflow-ModelRegistry-Logo_stacked-color.png" width="200"></td>
-        <td><img src="/projects/Kubeflow-model-registery/Kubeflow-ModelRegistry-Logo_stacked-color.svg" width="200"></td>       
+        <td><img src="/projects/kubeflow-model-registery/Kubeflow-ModelRegistry-Logo_stacked-color.png" width="200"></td>
+        <td><img src="/projects/kubeflow-model-registery/Kubeflow-ModelRegistry-Logo_stacked-color.svg" width="200"></td>       
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/Kubeflow-model-registery/Kubeflow-ModelRegistry-Logo_stacked-black.png" width="200"></td>
-        <td><img src="/projects/Kubeflow-model-registery/Kubeflow-ModelRegistry-Logo_stacked-black.svg" width="200"></td>
+        <td><img src="/projects/kubeflow-model-registery/Kubeflow-ModelRegistry-Logo_stacked-black.png" width="200"></td>
+        <td><img src="/projects/kubeflow-model-registery/Kubeflow-ModelRegistry-Logo_stacked-black.svg" width="200"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/Kubeflow-model-registery/Kubeflow-ModelRegistry-Logo_stacked-white.png" width="200"></td>
-        <td><img src="/projects/Kubeflow-model-registery/Kubeflow-ModelRegistry-Logo_stacked-white.svg" width="200"></td>
+        <td><img src="/projects/kubeflow-model-registery/Kubeflow-ModelRegistry-Logo_stacked-white.png" width="200"></td>
+        <td><img src="/projects/kubeflow-model-registery/Kubeflow-ModelRegistry-Logo_stacked-white.svg" width="200"></td>
     </tr>
 </table>
 
