@@ -4401,6 +4401,24 @@
         <td><img src="/projects/oscal-compass/stacked/color/oscal-compass-color-stacked.svg" width="80"></td>
         <td><img src="/projects/oscal-compass/icon/color/oscal-compass-color.svg" width="100"></td>
     </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/oscal-compass/horizontal/black/oscal-compass-black-horizontal.png" width="150"></td>
+        <td><img src="/projects/oscal-compass/stacked/black/oscal-compass-black-stacked.png" width="80"></td>
+        <td><img src="/projects/oscal-compass/icon/black/oscal-compass-black.png" width="100"></td>
+        <td><img src="/projects/oscal-compass/horizontal/black/oscal-compass-black-horizontal.svg" width="150"></td>
+        <td><img src="/projects/oscal-compass/stacked/black/oscal-compass-black-stacked.svg" width="80"></td>
+        <td><img src="/projects/oscal-compass/icon/black/oscal-compass-black.svg" width="100"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/oscal-compass/horizontal/white/oscal-compass-white-horizontal.png" width="150"></td>
+        <td><img src="/projects/oscal-compass/stacked/white/oscal-compass-white-stacked.png" width="80"></td>
+        <td><img src="/projects/oscal-compass/icon/white/oscal-compass-white.png" width="100"></td>
+        <td><img src="/projects/oscal-compass/horizontal/white/oscal-compass-white-horizontal.svg" width="150"></td>
+        <td><img src="/projects/oscal-compass/stacked/white/oscal-compass-white-stacked.svg" width="80"></td>
+        <td><img src="/projects/oscal-compass/icon/white/oscal-compass-white.svg" width="100"></td>
+    </tr>
 </table>
 
 #### ovn-kubernetes Logos
