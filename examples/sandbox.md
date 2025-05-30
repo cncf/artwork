@@ -442,6 +442,55 @@
     </tr>
 </table>
 
+#### bootc Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/bootc/horizontal/color/bootc-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/bootc/stacked/color/bootc-stacked-color.png" width="95"></td>
+        <td><img src="/projects/bootc/icon/color/bootc-icon-color.png" width="75"></td>
+        <td><img src="/projects/bootc/horizontal/color/bootc-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/bootc/stacked/color/bootc-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/bootc/icon/color/bootc-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/bootc/horizontal/black/bootc-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/bootc/stacked/black/bootc-stacked-black.png" width="95"></td>
+        <td><img src="/projects/bootc/icon/black/bootc-icon-black.png" width="75"></td>
+        <td><img src="/projects/bootc/horizontal/black/bootc-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/bootc/stacked/black/bootc-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/bootc/icon/black/bootc-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/bootc/horizontal/white/bootc-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/bootc/stacked/white/bootc-stacked-white.png" width="95"></td>
+        <td><img src="/projects/bootc/icon/white/bootc-icon-white.png" width="75"></td>
+        <td><img src="/projects/bootc/horizontal/white/bootc-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/bootc/stacked/white/bootc-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/bootc/icon/white/bootc-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Capsule Logos
 
 <table>
