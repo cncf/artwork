@@ -2385,6 +2385,48 @@
     </tr>
 </table>
 
+#### kgateway Logos
+
+<table>
+    <tr>
+        <th colspan="5"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kgateway/horizontal/color/kgateway-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kgateway/icon/color/kgateway-icon-color.png" width="75"></td>
+        <td><img src="/projects/kgateway/horizontal/color/kgateway-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kgateway/icon/color/kgateway-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kgateway/horizontal/black/kgateway-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kgateway/icon/black/kgateway-icon-black.png" width="75"></td>
+        <td><img src="/projects/kgateway/horizontal/black/kgateway-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kgateway/icon/black/kgateway-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kgateway/horizontal/white/kgateway-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kgateway/icon/white/kgateway-icon-white.png" width="75"></td>
+        <td><img src="/projects/kgateway/horizontal/white/kgateway-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kgateway/icon/white/kgateway-icon-white.svg" width="75"></td>
+    </tr>
+    </tr>
+</table>
+
 #### Kmesh Logos
 
 <table>
