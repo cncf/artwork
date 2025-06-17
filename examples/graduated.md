@@ -1173,6 +1173,55 @@ displayed on the light grey of tables._
 
 ##### Kubernetes Sub-projects
 
+#### Jobset Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/horizontal/color/JobSet-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/stacked/color/JobSet-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/icon/color/JobSet-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/horizontal/color/JobSet-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/stacked/color/JobSet-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/icon/color/JobSet-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/horizontal/black/JobSet-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/stacked/black/JobSet-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/icon/black/JobSet-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/horizontal/black/JobSet-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/stacked/black/JobSet-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/icon/black/JobSet-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/horizontal/white/JobSet-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/stacked/white/JobSet-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/icon/white/JobSet-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/horizontal/white/JobSet-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/stacked/white/JobSet-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/Jobset/icon/white/JobSet-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 ###### Kueue Logos
 
 <table>
@@ -1219,6 +1268,57 @@ displayed on the light grey of tables._
         <td><img src="/projects/kubernetes/sub-projects/kueue/horizontal/white/kueue-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/kubernetes/sub-projects/kueue/stacked/white/kueue-stacked-white.svg" width="95"></td>
         <td><img src="/projects/kubernetes/sub-projects/kueue/icon/white/kueue-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+###### Kueue Sub-projects
+
+##### KueueViz Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/horizontal/color/kueueviz-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/stacked/color/kueueviz-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/icon/color/kueueviz-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/horizontal/color/kueueviz-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/stacked/color/kueueviz-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/icon/color/kueueviz-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/horizontal/black/kueueviz-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/stacked/black/kueueviz-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/icon/black/kueueviz-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/horizontal/black/kueueviz-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/stacked/black/kueueviz-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/icon/black/kueueviz-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/horizontal/white/kueueviz-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/stacked/white/kueueviz-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/icon/white/kueueviz-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/horizontal/white/kueueviz-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/stacked/white/kueueviz-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubernetes/sub-projects/kueueviz/icon/white/kueueviz-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
@@ -1270,7 +1370,6 @@ displayed on the light grey of tables._
         <td><img src="/projects/kubernetes/sub-projects/lws/icon/white/lws-icon-white.svg" width="75"></td>
     </tr>
 </table>
-
 
 #### Linkerd Logos
 
@@ -1694,13 +1793,13 @@ displayed on the light grey of tables._
         <th>icon</th>
     </tr>
     <tr>
-        <th>color-white</th>
-        <td><img src="/projects/vitess/horizontal/color-white/vitess-horizontal-color-white.png" width="200"></td>
-        <td><img src="/projects/vitess/stacked/color-white/vitess-stacked-color-white.png" width="95"></td>
-        <td></td>
-        <td><img src="/projects/vitess/horizontal/color-white/vitess-horizontal-color-white.svg" width="200"></td>
-        <td><img src="/projects/vitess/stacked/color-white/vitess-stacked-color-white.svg" width="95"></td>
-        <td></td>
+        <th>color-inverted</th>
+        <td><img src="/projects/vitess/horizontal/color-inverted/vitess-horizontal-color-inverted.png" width="200"></td>
+        <td><img src="/projects/vitess/stacked/color-inverted/vitess-stacked-color-inverted.png" width="95"></td>
+        <td><img src="/projects/vitess/icon/color-inverted/vitess-icon-color-inverted.png" width="75"></td>
+        <td><img src="/projects/vitess/horizontal/color-inverted/vitess-horizontal-color-inverted.svg" width="200"></td>
+        <td><img src="/projects/vitess/stacked/color-inverted/vitess-stacked-color-inverted.svg" width="95"></td>
+        <td><img src="/projects/vitess/icon/color-inverted/vitess-icon-color-inverted.svg" width="75"></td>
     </tr>
     <tr>
         <th>color</th>
