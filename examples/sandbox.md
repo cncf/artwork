@@ -6377,12 +6377,12 @@
     </tr>
     <tr>
         <th>white-text</th>
-        <td><img src="/projects/xregistry/horizontal/color-whitetext/xregistry-horizontal-white-text.png" width="200"></td>
-        <td><img src="/projects/xregistry/stacked/color-whitetext/xregistry-stacked-white-text.png" width="95"></td>
-        <td><img src="/projects/xregistry/icon/color-whitetext/xregistry-icon-white-text.png" width="75"></td>
-        <td><img src="/projects/xregistry/horizontal/color-whitetext/xregistry-horizontal-white-text.svg" width="200"></td>
-        <td><img src="/projects/xregistry/stacked/color-whitetext/xregistry-stacked-white-text.svg" width="95"></td>
-        <td><img src="/projects/xregistry/icon/color-whitetext/xregistry-icon-white-text.svg" width="75"></td>
+        <td><img src="/projects/xregistry/horizontal/color-whitetext/xregistry-horizontal-color-whitetext.png" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/color-whitetext/xregistry-stacked-color-whitetext.png" width="95"></td>
+        <td><img src="/projects/xregistry/icon/color-whitetext/xregistry-icon-color-whitetext.png" width="75"></td>
+        <td><img src="/projects/xregistry/horizontal/color-whitetext/xregistry-horizontal-color-whitetext.svg" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/color-whitetext/xregistry-stacked-color-whitetext.svg" width="95"></td>
+        <td><img src="/projects/xregistry/icon/color-whitetext/xregistry-icon-color-whitetext.svg" width="75"></td>
     </tr>
 </table>
 
