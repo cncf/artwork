@@ -6330,6 +6330,63 @@
     </tr>
 </table>
 
+#### xRegistry Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/xregistry/horizontal/color/xregistry-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/color/xregistry-stacked-color.png" width="95"></td>
+        <td><img src="/projects/xregistry/icon/color/xregistry-icon-color.png" width="75"></td>
+        <td><img src="/projects/xregistry/horizontal/color/xregistry-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/color/xregistry-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/xregistry/icon/color/xregistry-icon-color.svg" width="75"></td>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/xregistry/horizontal/black/xregistry-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/black/xregistry-stacked-black.png" width="95"></td>
+        <td><img src="/projects/xregistry/icon/black/xregistry-icon-black.png" width="75"></td>
+        <td><img src="/projects/xregistry/horizontal/black/xregistry-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/black/xregistry-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/xregistry/icon/black/xregistry-icon-black.svg" width="75"></td>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/xregistry/horizontal/white/xregistry-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/white/xregistry-stacked-white.png" width="95"></td>
+        <td><img src="/projects/xregistry/icon/white/xregistry-icon-white.png" width="75"></td>
+        <td><img src="/projects/xregistry/horizontal/white/xregistry-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/white/xregistry-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/xregistry/icon/white/xregistry-icon-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white-text</th>
+        <td><img src="/projects/xregistry/horizontal/color-whitetext/xregistry-horizontal-white-text.png" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/color-whitetext/xregistry-stacked-white-text.png" width="95"></td>
+        <td><img src="/projects/xregistry/icon/color-whitetext/xregistry-icon-white-text.png" width="75"></td>
+        <td><img src="/projects/xregistry/horizontal/color-whitetext/xregistry-horizontal-white-text.svg" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/color-whitetext/xregistry-stacked-white-text.svg" width="95"></td>
+        <td><img src="/projects/xregistry/icon/color-whitetext/xregistry-icon-white-text.svg" width="75"></td>
+    </tr>
+</table>
+
+
 #### zot Logos
 
 <table>
