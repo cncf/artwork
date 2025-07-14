@@ -212,7 +212,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [WasmEdgeRuntime](examples/sandbox.md#wasedgeruntime-logos)
   * [werf](examples/sandbox.md#werf-logos)
   * [Xline](examples/sandbox.md#xline-logos)
-  * [XRegistry](examples/sandbox.md#xregistry-logos)
+  * [xRegistry](examples/sandbox.md#xregistry-logos)
   * [Youki](examples/sandbox.md#youki-logos)
   * [zot](examples/sandbox.md#zot-logos)
 * [Other CNCF Logos](examples/other.md)
