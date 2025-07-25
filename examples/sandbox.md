@@ -1893,6 +1893,55 @@
     </tr>
 </table>
 
+#### interlink Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/interlink/horizontal/color/interlink-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/interlink/stacked/color/interlink-stacked-color.png" width="95"></td>
+        <td><img src="/projects/interlink/icon/color/interlink-icon-color.png" width="75"></td>
+        <td><img src="/projects/interlink/horizontal/color/interlink-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/interlink/stacked/color/interlink-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/interlink/icon/color/interlink-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/interlink/horizontal/black/interlink-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/interlink/stacked/black/interlink-stacked-black.png" width="95"></td>
+        <td><img src="/projects/interlink/icon/black/interlink-icon-black.png" width="75"></td>
+        <td><img src="/projects/interlink/horizontal/black/interlink-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/interlink/stacked/black/interlink-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/interlink/icon/black/interlink-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/interlink/horizontal/white/interlink-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/interlink/stacked/white/interlink-stacked-white.png" width="95"></td>
+        <td><img src="/projects/interlink/icon/white/interlink-icon-white.png" width="75"></td>
+        <td><img src="/projects/interlink/horizontal/white/interlink-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/interlink/stacked/white/interlink-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/interlink/icon/white/interlink-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### k3s Logos
 
 <table>
@@ -4450,6 +4499,24 @@
         <td><img src="/projects/oscal-compass/stacked/color/oscal-compass-color-stacked.svg" width="80"></td>
         <td><img src="/projects/oscal-compass/icon/color/oscal-compass-color.svg" width="100"></td>
     </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/oscal-compass/horizontal/black/oscal-compass-black-horizontal.png" width="150"></td>
+        <td><img src="/projects/oscal-compass/stacked/black/oscal-compass-black-stacked.png" width="80"></td>
+        <td><img src="/projects/oscal-compass/icon/black/oscal-compass-black.png" width="100"></td>
+        <td><img src="/projects/oscal-compass/horizontal/black/oscal-compass-black-horizontal.svg" width="150"></td>
+        <td><img src="/projects/oscal-compass/stacked/black/oscal-compass-black-stacked.svg" width="80"></td>
+        <td><img src="/projects/oscal-compass/icon/black/oscal-compass-black.svg" width="100"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/oscal-compass/horizontal/white/oscal-compass-white-horizontal.png" width="150"></td>
+        <td><img src="/projects/oscal-compass/stacked/white/oscal-compass-white-stacked.png" width="80"></td>
+        <td><img src="/projects/oscal-compass/icon/white/oscal-compass-white.png" width="100"></td>
+        <td><img src="/projects/oscal-compass/horizontal/white/oscal-compass-white-horizontal.svg" width="150"></td>
+        <td><img src="/projects/oscal-compass/stacked/white/oscal-compass-white-stacked.svg" width="80"></td>
+        <td><img src="/projects/oscal-compass/icon/white/oscal-compass-white.svg" width="100"></td>
+    </tr>
 </table>
 
 #### ovn-kubernetes Logos
@@ -6311,6 +6378,114 @@
         <td><img src="/projects/xline/icon/white-text/xline-icon-white-text.svg" width="75"></td>
     </tr>
 </table>
+
+
+#### xRegistry Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>white-text</th>
+        <td><img src="/projects/xregistry/horizontal/color-whitetext/xregistry-horizontal-color-whitetext.png" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/color-whitetext/xregistry-stacked-color-whitetext.png" width="95"></td>
+        <td><img src="/projects/xregistry/icon/color-whitetext/xregistry-icon-color-whitetext.png" width="75"></td>
+        <td><img src="/projects/xregistry/horizontal/color-whitetext/xregistry-horizontal-color-whitetext.svg" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/color-whitetext/xregistry-stacked-color-whitetext.svg" width="95"></td>
+        <td><img src="/projects/xregistry/icon/color-whitetext/xregistry-icon-color-whitetext.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/xregistry/horizontal/color/xregistry-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/color/xregistry-stacked-color.png" width="95"></td>
+        <td><img src="/projects/xregistry/icon/color/xregistry-icon-color.png" width="75"></td>
+        <td><img src="/projects/xregistry/horizontal/color/xregistry-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/color/xregistry-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/xregistry/icon/color/xregistry-icon-color.svg" width="75"></td>
+    </tr> 
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/xregistry/horizontal/white/xregistry-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/white/xregistry-stacked-white.png" width="95"></td>
+        <td><img src="/projects/xregistry/icon/white/xregistry-icon-white.png" width="75"></td>
+        <td><img src="/projects/xregistry/horizontal/white/xregistry-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/white/xregistry-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/xregistry/icon/white/xregistry-icon-white.svg" width="75"></td>
+    </tr>    
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/xregistry/horizontal/black/xregistry-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/black/xregistry-stacked-black.png" width="95"></td>
+        <td><img src="/projects/xregistry/icon/black/xregistry-icon-black.png" width="75"></td>
+        <td><img src="/projects/xregistry/horizontal/black/xregistry-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/xregistry/stacked/black/xregistry-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/xregistry/icon/black/xregistry-icon-black.svg" width="75"></td>
+    </tr> 
+</table>
+
+
+#### Youki Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/youki/horizontal/color/youki-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/youki/stacked/color/youki-stacked-color.png" width="95"></td>
+        <td><img src="/projects/youki/icon/color/youki-icon-color.png" width="75"></td>
+        <td><img src="/projects/youki/horizontal/color/youki-horizontal-color.svg" width="150" height="60"></td>
+        <td><img src="/projects/youki/stacked/color/youki-stacked-color.svg" width="75" height="75"></td>
+        <td><img src="/projects/youki/icon/color/youki-icon-color.svg" width="75" height="60"></td>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/youki/horizontal/black/youki-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/youki/stacked/black/youki-stacked-black.png" width="95"></td>
+        <td><img src="/projects/youki/icon/black/youki-icon-black.png" width="75"></td>
+        <td><img src="/projects/youki/horizontal/black/youki-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/youki/stacked/black/youki-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/youki/icon/black/youki-icon-black.svg" width="75"></td>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/youki/horizontal/white/youki-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/youki/stacked/white/youki-stacked-white.png" width="95"></td>
+        <td><img src="/projects/youki/icon/white/youki-icon-white.png" width="75"></td>
+        <td><img src="/projects/youki/horizontal/white/youki-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/youki/stacked/white/youki-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/youki/icon/white/youki-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 
 #### zot Logos
 
