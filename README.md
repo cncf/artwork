@@ -182,6 +182,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [PipeCD](examples/sandbox.md#pipecd-logos)
   * [Piraeus](examples/sandbox.md#piraeus-logos)
   * [Pixie](examples/sandbox.md#pixie-logos)
+  * [Podman](examples/sandbox.md#podman-logos)
   * [Porter](examples/sandbox.md#porter-logos)
   * [Pravega](examples/sandbox.md#pravega-logos)
   * [Radius](examples/sandbox.md#radius-logos)
