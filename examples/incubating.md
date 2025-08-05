@@ -1162,6 +1162,55 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
+#### Kubeflow Notebook Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubeflow-notebooks/horizontal/color/horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubeflow-notebooks/stacked/color/stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubeflow-notebooks/icon/color/icon-color.png" width="75"></td>
+        <td><img src="/projects/kubeflow-notebooks/horizontal/color/horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubeflow-notebooks/stacked/color/stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubeflow-notebooks/icon/color/icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubeflow-notebooks/horizontal/black/horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubeflow-notebooks/stacked/black/stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubeflow-notebooks/icon/black/icon-black.png" width="75"></td>
+        <td><img src="/projects/kubeflow-notebooks/horizontal/black/horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubeflow-notebooks/stacked/black/stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubeflow-notebooks/icon/black/icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubeflow-notebooks/horizontal/white/horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubeflow-notebooks/stacked/white/stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubeflow-notebooks/icon/white/icon-white.png" width="75"></td>
+        <td><img src="/projects/kubeflow-notebooks/horizontal/white/horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubeflow-notebooks/stacked/white/stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubeflow-notebooks/icon/white/icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 
 #### KubeVela Logos
 
