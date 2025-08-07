@@ -4895,6 +4895,63 @@
     </tr>
 </table>
 
+#### Podman Logos
+
+<table>
+    <tr>
+        <th colspan="9"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="4">PNG</th>
+        <th colspan="4">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>favicon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>favicon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/podman/horizontal/color/podman-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/podman/stacked/color/podman-stacked-color.png" width="95"></td>
+        <td><img src="/projects/podman/icon/color/podman-icon-color.png" width="75"></td>
+        <td><img src="/projects/podman/favicon/color/podman-favicon-color.png" width="48"></td>
+        <td><img src="/projects/podman/horizontal/color/podman-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/podman/stacked/color/podman-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/podman/icon/color/podman-icon-color.svg" width="75"></td>
+        <td><img src="/projects/podman/favicon/color/podman-favicon-color.svg" width="48"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/podman/horizontal/black/podman-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/podman/stacked/black/podman-stacked-black.png" width="95"></td>
+        <td><img src="/projects/podman/icon/black/podman-icon-black.png" width="75"></td>
+        <td><img src="/projects/podman/favicon/black/podman-favicon-black.png" width="48"></td>
+        <td><img src="/projects/podman/horizontal/black/podman-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/podman/stacked/black/podman-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/podman/icon/black/podman-icon-black.svg" width="75"></td>
+        <td><img src="/projects/podman/favicon/black/podman-favicon-black.svg" width="48"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/podman/horizontal/white/podman-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/podman/stacked/white/podman-stacked-white.png" width="95"></td>
+        <td><img src="/projects/podman/icon/white/podman-icon-white.png" width="75"></td>
+        <td><img src="/projects/podman/favicon/white/podman-favicon-white.png" width="48"></td>
+        <td><img src="/projects/podman/horizontal/white/podman-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/podman/stacked/white/podman-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/podman/icon/white/podman-icon-white.svg" width="75"></td>
+        <td><img src="/projects/podman/favicon/white/podman-favicon-white.svg" width="48"></td>
+    </tr>
+</table>
+
 #### Porter Logos
 
 <table>
@@ -6417,7 +6474,7 @@
         <td><img src="/projects/xregistry/horizontal/color/xregistry-horizontal-color.svg" width="200"></td>
         <td><img src="/projects/xregistry/stacked/color/xregistry-stacked-color.svg" width="95"></td>
         <td><img src="/projects/xregistry/icon/color/xregistry-icon-color.svg" width="75"></td>
-    </tr> 
+    </tr>
     <tr>
         <th>white</th>
         <td><img src="/projects/xregistry/horizontal/white/xregistry-horizontal-white.png" width="200"></td>
@@ -6426,7 +6483,7 @@
         <td><img src="/projects/xregistry/horizontal/white/xregistry-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/xregistry/stacked/white/xregistry-stacked-white.svg" width="95"></td>
         <td><img src="/projects/xregistry/icon/white/xregistry-icon-white.svg" width="75"></td>
-    </tr>    
+    </tr>
     <tr>
         <th>black</th>
         <td><img src="/projects/xregistry/horizontal/black/xregistry-horizontal-black.png" width="200"></td>
@@ -6435,7 +6492,7 @@
         <td><img src="/projects/xregistry/horizontal/black/xregistry-horizontal-black.svg" width="200"></td>
         <td><img src="/projects/xregistry/stacked/black/xregistry-stacked-black.svg" width="95"></td>
         <td><img src="/projects/xregistry/icon/black/xregistry-icon-black.svg" width="75"></td>
-    </tr> 
+    </tr>
 </table>
 
 
