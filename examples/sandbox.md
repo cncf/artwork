@@ -1942,6 +1942,56 @@
     </tr>
 </table>
 
+#### k0s Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/k0s/horizontal/color/k0s-logo-2025-horizontal (2).png" width="200"></td>
+        <td><img src="/projects/k0s/stacked/color/k0s-logo-2025.png" width="95"></td>
+        <td><img src="/projects/k0s/icon/color/k0s-logo-2025-icon.png" width="75"></td>
+        <td><img src="/projects/k0s/horizontal/color/k0s-logo-2025-horizontal.svg" width="200"></td>
+        <td><img src="/projects/k0s/stacked/color/k0s-logo-2025 (1).svg" width="95"></td>
+        <td><img src="/projects/k0s/icon/color/k0s-logo-2025-icon.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/k0s/horizontal/black/k0s-logo-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/k0s/stacked/black/k0s-logo-stacked-black.png" width="95"></td>
+        <td><img src="/projects/k0s/icon/black/k0s-logo-2025-icon-black.png" width="75"></td>
+        <td><img src="/projects/k0s/horizontal/black/k0s-logo-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/k0s/stacked/black/k0s-logo-icon-black.svg" width="95"></td>
+        <td><img src="/projects/k0s/icon/black/k0s-logo-2025-icon-black..svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/k0s/horizontal/white/k0s-logo-horizontal-inverted-white.png" width="200"></td>
+        <td><img src="/projects/k0s/stacked/white/k0s-logo-2025-white.png" width="95"></td>
+        <td><img src="/projects/k0s/icon/white/k0s-logo-2025-white-icon.png" width="75"></td>
+        <td><img src="/projects/k0s/horizontal/white/k0s-logo-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/k0s/stacked/white/k0s-logo-2025-inverted-one-color.svg" width="95"></td>
+        <td><img src="/projects/k0s/icon/white/k0s-logo-2025-white-icon.svg" width="75"></td>
+    </tr>
+    </table>
+
+
 #### k3s Logos
 
 <table>
