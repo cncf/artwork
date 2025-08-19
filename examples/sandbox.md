@@ -2168,6 +2168,48 @@
 
 </table>
 
+#### kagent Logos
+
+<table>
+    <tr>
+        <th colspan="5"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kagent/horizontal/color/kagent-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kagent/icon/color/kagent-icon-color.png" width="75"></td>
+        <td><img src="/projects/kagent/horizontal/color/kagent-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kagent/icon/color/kagent-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kagent/horizontal/black/kagent-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kagent/icon/black/kagent-icon-black.png" width="75"></td>
+        <td><img src="/projects/kagent/horizontal/black/kagent-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kagent/icon/black/kagent-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kagent/horizontal/white/kagent-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kagent/icon/white/kagent-icon-white.png" width="75"></td>
+        <td><img src="/projects/kagent/horizontal/white/kagent-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kagent/icon/white/kagent-icon-white.svg" width="75"></td>
+    </tr>
+    </tr>
+</table>
+
 #### Kairos Logos
 
 <table>
