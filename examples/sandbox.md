@@ -5002,6 +5002,63 @@
     </tr>
 </table>
 
+#### Podman Desktop Logos
+
+<table>
+    <tr>
+        <th colspan="9"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="4">PNG</th>
+        <th colspan="4">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>favicon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>favicon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/podman-desktop/horizontal/color/podman-desktop-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/podman-desktop/stacked/color/podman-desktop-stacked-color.png" width="95"></td>
+        <td><img src="/projects/podman-desktop/icon/color/podman-desktop-icon-color.png" width="75"></td>
+        <td><img src="/projects/podman-desktop/favicon/color/podman-desktop-favicon-color.png" width="48"></td>
+        <td><img src="/projects/podman-desktop/horizontal/color/podman-desktop-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/podman-desktop/stacked/color/podman-desktop-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/podman-desktop/icon/color/podman-desktop-icon-color.svg" width="75"></td>
+        <td><img src="/projects/podman-desktop/favicon/color/podman-desktop-favicon-color.svg" width="48"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/podman-desktop/horizontal/black/podman-desktop-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/podman-desktop/stacked/black/podman-desktop-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/podman-desktop/icon/black/podman-desktop-icon-black.svg" width="75"></td>
+        <td><img src="/projects/podman-desktop/favicon/black/podman-desktop-favicon-black.svg" width="48"></td>
+        <td><img src="/projects/podman-desktop/horizontal/black/podman-desktop-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/podman-desktop/stacked/black/podman-desktop-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/podman-desktop/icon/black/podman-desktop-icon-black.svg" width="75"></td>
+        <td><img src="/projects/podman-desktop/favicon/black/podman-desktop-favicon-black.svg" width="48"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/podman-desktop/horizontal/white/podman-desktop-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/podman-desktop/stacked/white/podman-desktop-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/podman-desktop/icon/white/podman-desktop-icon-white.svg" width="75"></td>
+        <td><img src="/projects/podman-desktop/favicon/white/podman-desktop-favicon-white.svg" width="48"></td>
+        <td><img src="/projects/podman-desktop/horizontal/white/podman-desktop-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/podman-desktop/stacked/white/podman-desktop-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/podman-desktop/icon/white/podman-desktop-icon-white.svg" width="75"></td>
+        <td><img src="/projects/podman-desktop/favicon/white/podman-desktop-favicon-white.svg" width="48"></td>
+    </tr>
+</table>
+
 #### Porter Logos
 
 <table>
