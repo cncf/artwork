@@ -5541,55 +5541,6 @@
     </tr>
 </table>
 
-#### servicemeshperformance Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>dark</th>
-        <td><img src="/projects/servicemeshperformance/horizontal/smp-dark-text-side.png" width="200"></td>
-        <td><img src="/projects/servicemeshperformance/stacked/smp-dark-text.png" width="95"></td>
-        <td><img src="/projects/servicemeshperformance/icon/smp-dark.png" width="75"></td>
-        <td><img src="/projects/servicemeshperformance/horizontal/smp-dark-text-side.svg" width="200"></td>
-        <td><img src="/projects/servicemeshperformance/stacked/smp-dark-text.svg" width="95"></td>
-        <td><img src="/projects/servicemeshperformance/icon/smp-dark.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>light</th>
-        <td><img src="/projects/servicemeshperformance/horizontal/smp-light-text-side.png" width="200"></td>
-        <td><img src="/projects/servicemeshperformance/stacked/smp-light-text.png" width="95"></td>
-        <td><img src="/projects/servicemeshperformance/icon/smp-light.png" width="75"></td>
-        <td><img src="/projects/servicemeshperformance/horizontal/smp-light-text-side.svg" width="200"></td>
-        <td><img src="/projects/servicemeshperformance/stacked/smp-light-text.svg" width="95"></td>
-        <td><img src="/projects/servicemeshperformance/icon/smp-light.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/servicemeshperformance/horizontal/smp-white-text-side.png" width="200"></td>
-        <td><img src="/projects/servicemeshperformance/stacked/smp-white-text.png" width="95"></td>
-        <td><img src="/projects/servicemeshperformance/icon/smp-white.png" width="75"></td>
-        <td><img src="/projects/servicemeshperformance/horizontal/smp-white-text-side.svg" width="200"></td>
-        <td><img src="/projects/servicemeshperformance/stacked/smp-white-text.svg" width="95"></td>
-        <td><img src="/projects/servicemeshperformance/icon/smp-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### Shipwright Logos
 
 <table>
