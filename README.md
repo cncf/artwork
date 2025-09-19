@@ -213,7 +213,6 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Virtual Kubelet](examples/sandbox.md#virtual-kubelet-logos)
   * [WasmEdgeRuntime](examples/sandbox.md#wasedgeruntime-logos)
   * [werf](examples/sandbox.md#werf-logos)
-  * [Xline](examples/sandbox.md#xline-logos)
   * [xRegistry](examples/sandbox.md#xregistry-logos)
   * [Youki](examples/sandbox.md#youki-logos)
   * [zot](examples/sandbox.md#zot-logos)
@@ -285,6 +284,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Skooner](examples/archived.md#skooner-logos)
   * [SuperEdge](examples/archived.md#superedge-logos)
   * [Teller](examples/archived.md#teller-logos)
+  * [Xline](examples/archived.md#xline-logos)
   * TAGS
     * [TAG Security](examples/archived.md#tag-security)
     * [TAG App Delivery](examples/archived.md#tag-app-delivery)
