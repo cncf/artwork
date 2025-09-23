@@ -760,6 +760,47 @@
     </tr>
 </table>
 
+#### Pravega Logos
+
+<table>
+    <tr>
+        <th colspan="5"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/archived/pravega/horizontal/color/pravega-horizontal-color.png" width="200"></td>
+        <td><img src="/archived/pravega/icon/color/pravega-icon-color.png" width="75"></td>
+        <td><img src="/archived/pravega/horizontal/color/pravega-horizontal-color.svg" width="200"></td>
+        <td><img src="/archived/pravega/icon/color/pravega-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/archived/pravega/horizontal/black/pravega-horizontal-black.png" width="200"></td>
+        <td><img src="/archived/pravega/icon/black/pravega-icon-black.png" width="75"></td>
+        <td><img src="/archived/pravega/horizontal/black/pravega-horizontal-black.svg" width="200"></td>
+        <td><img src="/archived/pravega/icon/black/pravega-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/archived/pravega/horizontal/white/pravega-horizontal-white.png" width="200"></td>
+        <td><img src="/archived/pravega/icon/white/pravega-icon-white.png" width="75"></td>
+        <td><img src="/archived/pravega/horizontal/white/pravega-horizontal-white.svg" width="200"></td>
+        <td><img src="/archived/pravega/icon/white/pravega-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### rkt Logos
 
 <table>
