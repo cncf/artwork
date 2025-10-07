@@ -1,10 +1,6 @@
 ## Cloud Native Sandbox Project Logos
 
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
-## Cloud Native Sandbox Project Logos
-
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
-#### Lima Logos
 
 <table>
     <tr>
@@ -1698,3 +1694,7 @@
         <td><img src="/projects/ratify/icon/white/ratify-icon-white.svg" width="75" /></td>
     </tr>
 </table>
+
+Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
+
+Questions? Please email [info@cncf.io](mailto:info@cncf.io).
