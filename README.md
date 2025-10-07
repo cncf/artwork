@@ -81,7 +81,6 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Thanos](examples/incubating.md#thanos-logos)
   * [Volcano](examples/incubating.md#volcano-logos)
   * [wasmCloud](examples/incubating.md#wasmcloud-logos)
-* [Sandbox Projects](examples/sandbox.md)
 * Sandbox Projects
   * [Sandbox Projects A-J](examples/sandbox_a-j.md)
     * [Aeraki Mesh](examples/sandbox_a-j.md#aeraki-mesh-logos)
