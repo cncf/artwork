@@ -3212,6 +3212,55 @@
     </tr>
 </table>
 
+#### KubeFleet Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubefleet/horizontal/color/kubefleet-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubefleet/stacked/color/kubefleet-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubefleet/icon/color/kubefleet-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubefleet/horizontal/color/kubefleet-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubefleet/stacked/color/kubefleet-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubefleet/icon/color/kubefleet-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubefleet/horizontal/black/kubefleet-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubefleet/stacked/black/kubefleet-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubefleet/icon/black/kubefleet-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubefleet/horizontal/black/kubefleet-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubefleet/stacked/black/kubefleet-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubefleet/icon/black/kubefleet-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubefleet/horizontal/white/kubefleet-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubefleet/stacked/white/kubefleet-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubefleet/icon/white/kubefleet-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubefleet/horizontal/white/kubefleet-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubefleet/stacked/white/kubefleet-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubefleet/icon/white/kubefleet-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Kuberhealthy Logos
 
 <table>

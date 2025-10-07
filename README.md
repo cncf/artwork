@@ -150,6 +150,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Kubean](examples/sandbox.md#kubean-logos)
   * [kubearmor](examples/sandbox.md#kubearmor-logos)
   * [kubeclipper](examples/sandbox.md#kubeclipper-logos)
+  * [KubeFleet](examples/sandbox.md#KubeFleet-logos) 
   * [Kuberhealthy](examples/sandbox.md#kuberhealthy-logos)
   * [Kubernetes Extension for VS Code](examples/sandbox.md#kubernetes-extension-for-vs-code-logos)
   * [Kubescape](examples/sandbox.md#kubescape-logos)
