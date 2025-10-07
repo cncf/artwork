@@ -4162,6 +4162,55 @@
     </tr>
 </table>
 
+#### OAuth2-Proxy Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="../projects/oauth2-proxy/horizontal/color/oauth2-proxy-horizontal-color.png" width="200"></td>
+        <td><img src="../projects/oauth2-proxy/stacked/color/oauth2-proxy-stacked-color.png" width="95"></td>
+        <td><img src="../projects/oauth2-proxy/icon/color/oauth2-proxy-icon-color.png" width="75"></td>
+        <td><img src="../projects/oauth2-proxy/horizontal/color/oauth2-proxy-horizontal-color.svg" width="200"></td>
+        <td><img src="../projects/oauth2-proxy/stacked/color/oauth2-proxy-stacked-color.svg" width="95"></td>
+        <td><img src="../projects/oauth2-proxy/icon/color/oauth2-proxy-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="../projects/oauth2-proxy/horizontal/black/oauth2-proxy-horizontal-black.png" width="200"></td>
+        <td><img src="../projects/oauth2-proxy/stacked/black/oauth2-proxy-stacked-black.png" width="95"></td>
+        <td><img src="../projects/oauth2-proxy/icon/black/oauth2-proxy-icon-black.png" width="75"></td>
+        <td><img src="../projects/oauth2-proxy/horizontal/black/oauth2-proxy-horizontal-black.svg" width="200"></td>
+        <td><img src="../projects/oauth2-proxy/stacked/black/oauth2-proxy-stacked-black.svg" width="95"></td>
+        <td><img src="../projects/oauth2-proxy/icon/black/oauth2-proxy-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="../projects/oauth2-proxy/horizontal/white/oauth2-proxy-horizontal-white.png" width="200"></td>
+        <td><img src="../projects/oauth2-proxy/stacked/white/oauth2-proxy-stacked-white.png" width="95"></td>
+        <td><img src="../projects/oauth2-proxy/icon/white/oauth2-proxy-icon-white.png" width="75"></td>
+        <td><img src="../projects/oauth2-proxy/horizontal/white/oauth2-proxy-horizontal-white.svg" width="200"></td>
+        <td><img src="../projects/oauth2-proxy/stacked/white/oauth2-proxy-stacked-white.svg" width="95"></td>
+        <td><img src="../projects/oauth2-proxy/icon/white/oauth2-proxy-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Open Cluster Management Logos
 
 <table>
