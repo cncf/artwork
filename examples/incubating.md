@@ -1359,6 +1359,55 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
+#### Lima Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>dark</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/lima/horizontal/color/lima-horizontal-color.png" width="200" /></td>
+        <td></td>
+        <td></td>
+        <td><img src="/projects/lima/horizontal/color/lima-horizontal-color.svg" width="200" /></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>light</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
 #### Litmus Logos
 
 <table>
