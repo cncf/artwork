@@ -372,7 +372,7 @@
     </tr>
 </table>
 
-#### OAuth2-Proxy Logos
+#### OAuth2 Proxy Logos
 
 <table>
     <tr>
