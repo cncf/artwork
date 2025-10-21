@@ -1211,6 +1211,55 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
+#### Kubeflow Spark Operator Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubeflow-spark-operator/horizontal/color/kubeflow-spark-operator-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubeflow-spark-operator/stacked/color/kubeflow-spark-operator-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubeflow-spark-operator/icon/color/kubeflow-spark-operator-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubeflow-spark-operator/horizontal/color/kubeflow-spark-operator-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubeflow-spark-operator/stacked/color/kubeflow-spark-operator-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubeflow-spark-operator/icon/color/kubeflow-spark-operator-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubeflow-spark-operator/horizontal/black/kubeflow-spark-operator-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubeflow-spark-operator/stacked/black/kubeflow-spark-operator-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubeflow-spark-operator/icon/black/kubeflow-spark-operator-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubeflow-spark-operator/horizontal/black/kubeflow-spark-operator-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubeflow-spark-operator/stacked/black/kubeflow-spark-operator-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubeflow-spark-operator/icon/black/kubeflow-spark-operator-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubeflow-spark-operator/horizontal/white/kubeflow-spark-operator-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubeflow-spark-operator/stacked/white/kubeflow-spark-operator-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubeflow-spark-operator/icon/white/kubeflow-spark-operator-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubeflow-spark-operator/horizontal/white/kubeflow-spark-operator-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubeflow-spark-operator/stacked/white/kubeflow-spark-operator-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubeflow-spark-operator/icon/white/kubeflow-spark-operator-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 
 #### KubeVela Logos
 
