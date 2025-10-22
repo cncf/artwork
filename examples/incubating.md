@@ -1211,6 +1211,55 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
+#### Kubeflow Spark Operator Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubeflow-spark-operator/horizontal/png/horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubeflow-spark-operator/stacked/png/stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubeflow-spark-operator/icon/png/icon-color.png" width="75"></td>
+        <td><img src="/projects/kubeflow-spark-operator/horizontal/svg/horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubeflow-spark-operator/stacked/svg/stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubeflow-spark-operator/icon/svg/icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubeflow-spark-operator/horizontal/png/horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubeflow-spark-operator/stacked/png/stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubeflow-spark-operator/icon/png/icon-black.png" width="75"></td>
+        <td><img src="/projects/kubeflow-spark-operator/horizontal/svg/horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubeflow-spark-operator/stacked/svg/stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubeflow-spark-operator/icon/svg/icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubeflow-spark-operator/horizontal/png/horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubeflow-spark-operator/stacked/png/stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubeflow-spark-operator/icon/png/icon-white.png" width="75"></td>
+        <td><img src="/projects/kubeflow-spark-operator/horizontal/svg/horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubeflow-spark-operator/stacked/svg/stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubeflow-spark-operator/icon/svg/icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 
 #### KubeVela Logos
 
