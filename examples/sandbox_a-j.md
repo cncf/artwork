@@ -491,6 +491,55 @@
     </tr>
 </table>
 
+#### Cadence Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/cadence/horizontal/color/cadence-horizontal-color.png" height="75"></td>
+        <td><img src="/projects/cadence/stacked/color/cadence-stacked-color.png" height="75"></td>
+        <td><img src="/projects/cadence/icon/color/cadence-icon-color.png" height="75"></td>
+        <td><img src="/projects/cadence/horizontal/color/cadence-horizontal-color.svg" height="75"></td>
+        <td><img src="/projects/cadence/stacked/color/cadence-stacked-color.svg" height="75"></td>
+        <td><img src="/projects/cadence/icon/color/cadence-icon-color.svg" height="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/cadence/horizontal/black/cadence-horizontal-black.png" height="75"></td>
+        <td><img src="/projects/cadence/stacked/black/cadence-stacked-black.png" height="75"></td>
+        <td><img src="/projects/cadence/icon/black/cadence-icon-black.png" height="75"></td>
+        <td><img src="/projects/cadence/horizontal/black/cadence-horizontal-black.svg" height="75"></td>
+        <td><img src="/projects/cadence/stacked/black/cadence-stacked-black.svg" height="75"></td>
+        <td><img src="/projects/cadence/icon/black/cadence-icon-black.svg" height="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/cadence/horizontal/white/cadence-horizontal-white.png" height="75"></td>
+        <td><img src="/projects/cadence/stacked/white/cadence-stacked-white.png" height="75"></td>
+        <td><img src="/projects/cadence/icon/white/cadence-icon-white.png" height="75"></td>
+        <td><img src="/projects/cadence/horizontal/white/cadence-horizontal-white.svg" height="75"></td>
+        <td><img src="/projects/cadence/stacked/white/cadence-stacked-white.svg" height="75"></td>
+        <td><img src="/projects/cadence/icon/white/cadence-icon-white.svg" height="75"></td>
+    </tr>
+</table>
+
 #### Capsule Logos
 
 <table>
