@@ -368,6 +368,55 @@ displayed on the light grey of tables._
     </tr>
 </table>
 
+#### Crossplane Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/crossplane/horizontal/color/crossplane-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/crossplane/stacked/color/crossplane-stacked-color.png" width="95"></td>
+        <td><img src="/projects/crossplane/icon/color/crossplane-icon-color.png" width="75"></td>
+        <td><img src="/projects/crossplane/horizontal/color/crossplane-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/crossplane/stacked/color/crossplane-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/crossplane/icon/color/crossplane-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/crossplane/horizontal/black/crossplane-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/crossplane/stacked/black/crossplane-stacked-black.png" width="95"></td>
+        <td><img src="/projects/crossplane/icon/black/crossplane-icon-black.png" width="75"></td>
+        <td><img src="/projects/crossplane/horizontal/black/crossplane-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/crossplane/stacked/black/crossplane-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/crossplane/icon/black/crossplane-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/crossplane/horizontal/white/crossplane-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/crossplane/stacked/white/crossplane-stacked-white.png" width="95"></td>
+        <td><img src="/projects/crossplane/icon/white/crossplane-icon-white.png" width="75"></td>
+        <td><img src="/projects/crossplane/horizontal/white/crossplane-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/crossplane/stacked/white/crossplane-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/crossplane/icon/white/crossplane-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Dapr Logos
 
 <table>
@@ -406,6 +455,55 @@ displayed on the light grey of tables._
         <td><img src="/projects/dapr/icon/white/dapr-icon-white.png" width="150"></td>
         <td><img src="/projects/dapr/stacked/white/dapr-stacked-white.svg" width="150"></td>
         <td><img src="/projects/dapr/icon/white/dapr-icon-white.svg" width="150"></td>
+    </tr>
+</table>
+
+#### Dragonfly Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/dragonfly/horizontal/color/dragonfly-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/dragonfly/stacked/color/dragonfly-stacked-color.png" width="95"></td>
+        <td><img src="/projects/dragonfly/icon/color/dragonfly-icon-color.png" width="75"></td>
+        <td><img src="/projects/dragonfly/horizontal/color/dragonfly-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/dragonfly/stacked/color/dragonfly-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/dragonfly/icon/color/dragonfly-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/dragonfly/horizontal/black/dragonfly-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/dragonfly/stacked/black/dragonfly-stacked-black.png" width="95"></td>
+        <td><img src="/projects/dragonfly/icon/black/dragonfly-icon-black.png" width="75"></td>
+        <td><img src="/projects/dragonfly/horizontal/black/dragonfly-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/dragonfly/stacked/black/dragonfly-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/dragonfly/icon/black/dragonfly-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/dragonfly/horizontal/white/dragonfly-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/dragonfly/stacked/white/dragonfly-stacked-white.png" width="95"></td>
+        <td><img src="/projects/dragonfly/icon/white/dragonfly-icon-white.png" width="75"></td>
+        <td><img src="/projects/dragonfly/horizontal/white/dragonfly-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/dragonfly/stacked/white/dragonfly-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/dragonfly/icon/white/dragonfly-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
