@@ -1147,6 +1147,37 @@ displayed on the light grey of tables._
     </tr>
 </table>
 
+#### Knative Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/knative/horizontal/color/knative-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/knative/stacked/color/knative-stacked-color.png" width="95"></td>
+        <td><img src="/projects/knative/icon/color/knative-icon-color.png" width="75"></td>
+        <td><img src="/projects/knative/horizontal/color/knative-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/knative/stacked/color/knative-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/knative/icon/color/knative-icon-color.svg" width="75"></td>
+    </tr>
+</table>
+
 #### KubeEdge Logos
 
 <table>
