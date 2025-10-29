@@ -401,56 +401,6 @@ displayed on the light grey of tables.*
         <td><img src="/projects/cortex/icon/white/cortex-icon-white.svg" width="75"></td>
     </tr>
 </table>
-
-#### Crossplane Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/crossplane/horizontal/color/crossplane-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/crossplane/stacked/color/crossplane-stacked-color.png" width="95"></td>
-        <td><img src="/projects/crossplane/icon/color/crossplane-icon-color.png" width="75"></td>
-        <td><img src="/projects/crossplane/horizontal/color/crossplane-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/crossplane/stacked/color/crossplane-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/crossplane/icon/color/crossplane-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/crossplane/horizontal/black/crossplane-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/crossplane/stacked/black/crossplane-stacked-black.png" width="95"></td>
-        <td><img src="/projects/crossplane/icon/black/crossplane-icon-black.png" width="75"></td>
-        <td><img src="/projects/crossplane/horizontal/black/crossplane-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/crossplane/stacked/black/crossplane-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/crossplane/icon/black/crossplane-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/crossplane/horizontal/white/crossplane-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/crossplane/stacked/white/crossplane-stacked-white.png" width="95"></td>
-        <td><img src="/projects/crossplane/icon/white/crossplane-icon-white.png" width="75"></td>
-        <td><img src="/projects/crossplane/horizontal/white/crossplane-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/crossplane/stacked/white/crossplane-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/crossplane/icon/white/crossplane-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### CubeFS Logos
 
 <table>
@@ -499,56 +449,6 @@ displayed on the light grey of tables.*
         <td><img src="/projects/cubefs/icon/white/cubefs-icon-white.svg" width="75"></td>
     </tr>
 </table>
-
-#### Dragonfly Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/dragonfly/horizontal/color/dragonfly-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/dragonfly/stacked/color/dragonfly-stacked-color.png" width="95"></td>
-        <td><img src="/projects/dragonfly/icon/color/dragonfly-icon-color.png" width="75"></td>
-        <td><img src="/projects/dragonfly/horizontal/color/dragonfly-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/dragonfly/stacked/color/dragonfly-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/dragonfly/icon/color/dragonfly-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/dragonfly/horizontal/black/dragonfly-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/dragonfly/stacked/black/dragonfly-stacked-black.png" width="95"></td>
-        <td><img src="/projects/dragonfly/icon/black/dragonfly-icon-black.png" width="75"></td>
-        <td><img src="/projects/dragonfly/horizontal/black/dragonfly-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/dragonfly/stacked/black/dragonfly-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/dragonfly/icon/black/dragonfly-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/dragonfly/horizontal/white/dragonfly-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/dragonfly/stacked/white/dragonfly-stacked-white.png" width="95"></td>
-        <td><img src="/projects/dragonfly/icon/white/dragonfly-icon-white.png" width="75"></td>
-        <td><img src="/projects/dragonfly/horizontal/white/dragonfly-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/dragonfly/stacked/white/dragonfly-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/dragonfly/icon/white/dragonfly-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### Emissary-Ingress Logos
 
 <table>
@@ -1739,6 +1639,82 @@ displayed on the light grey of tables.*
         <td><img src="/projects/openfeature/horizontal/white/openfeature-horizontal-white.svg" width="250"></td>
         <td><img src="/projects/openfeature/stacked/white/openfeature-stacked-white.svg" width="150"></td>
         <td><img src="/projects/openfeature/icon/white/openfeature-icon-white.svg" width="150"></td>
+    </tr>
+</table>
+
+#### OpenFGA Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td></td>
+        <td></td>
+        <td><img src="/projects/openfga/icon/color/openfga-icon-color.png" width="75"></td>
+        <td></td>
+        <td></td>
+        <td><img src="/projects/openfga/icon/color/openfga-icon-color.svg" width="75"></td>
+    </tr>
+   <tr>
+        <th>black</th>
+        <td><img src="/projects/openfga/horizontal/color/black/openfga-horizontal-color_black.png" width="200"></td>
+        <td><img src="/projects/openfga/stacked/color/black/openfga-stacked-color_black.png" width="95"></td>
+        <td></td>
+        <td><img src="/projects/openfga/horizontal/color/black/openfga-horizontal-color_black.svg" width="200"></td>
+        <td><img src="/projects/openfga/stacked/color/black/openfga-stacked-color_black.svg" width="95"></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/openfga/horizontal/color/white/openfga-horizontal-color_white.png" width="200"></td>
+        <td><img src="/projects/openfga/stacked/color/white/openfga-stacked-color_white.png" width="95"></td>
+        <td></td>
+        <td><img src="/projects/openfga/horizontal/color/white/openfga-horizontal-color_white.svg" width="200"></td>
+        <td><img src="/projects/openfga/stacked/color/white/openfga-stacked-color_white.svg" width="95"></td>
+        <td></td>
+    </tr>
+     <tr>
+        <th>monochrome black</th>
+        <td><img src="/projects/openfga/horizontal/monochrome/black/openfga-horizontal-monochrome_black.png" width="200"></td>
+        <td><img src="/projects/openfga/stacked/monochrome/black/openfga-stacked-monochrome_black.png" width="95"></td>
+        <td><img src="/projects/openfga/icon/monochrome/black/openfga-icon-monochrome_black.png" width="75"></td>
+        <td><img src="/projects/openfga/horizontal/monochrome/black/openfga-horizontal-monochrome_black.svg" width="200"></td>
+        <td><img src="/projects/openfga/stacked/monochrome/black/openfga-stacked-monochrome_black.svg" width="95"></td>
+        <td><img src="/projects/openfga/icon/monochrome/black/openfga-icon-monochrome_black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>inverse</th>
+        <td><img src="/projects/openfga/horizontal/monochrome/inverse/openfga-horizontal-monochrome_inverse.png" width="200"></td>
+        <td><img src="/projects/openfga/stacked/monochrome/inverse/openfga-stacked-monochrome_inverse.png" width="95"></td>
+        <td><img src="/projects/openfga/icon/monochrome/inverse/openfga-icon-monochrome_inverse.png" width="75"></td>
+        <td><img src="/projects/openfga/horizontal/monochrome/inverse/openfga-horizontal-monochrome_inverse.svg" width="200"></td>
+        <td><img src="/projects/openfga/stacked/monochrome/inverse/openfga-stacked-monochrome_inverse.svg" width="95"></td>
+        <td><img src="/projects/openfga/icon/monochrome/inverse/openfga-icon-monochrome_inverse.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>monochrome white</th>
+        <td><img src="/projects/openfga/horizontal/monochrome/white/openfga-horizontal-monochrome_white.png" width="200"></td>
+        <td><img src="/projects/openfga/stacked/monochrome/white/openfga-stacked-monochrome_white.png" width="95"></td>
+        <td></td>
+        <td><img src="/projects/openfga/horizontal/monochrome/white/openfga-horizontal-monochrome_white.svg" width="200"></td>
+        <td><img src="/projects/openfga/stacked/monochrome/white/openfga-stacked-monochrome_white.svg" width="95"></td>
+        <td></td>
     </tr>
 </table>
 
