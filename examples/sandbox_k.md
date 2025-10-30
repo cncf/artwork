@@ -844,10 +844,10 @@
     <tr>
         <th>white</th>
         <td><img src="/projects/kpt/horizontal/white/kpt_horizontal_white.png" width="200"></td>
-        <td><img src="/projects/kpt/stacked/white/PNG/kpt_stacked_white.png" width="95"></td>
+        <td><img src="/projects/kpt/stacked/white/kpt_stacked_white.png" width="95"></td>
         <td><img src="/projects/kpt/icon/white/kpt_icon_white.png" width="75"></td>
         <td><img src="/projects/kpt/horizontal/white/kpt_horizontal_white.svg" width="200"></td>
-        <td><img src="/projects/kpt/stacked/white/SVG/kpt_stacked_white.svg" width="95"></td>
+        <td><img src="/projects/kpt/stacked/white/kpt_stacked_white.svg" width="95"></td>
         <td><img src="/projects/kpt/icon/white/kpt_icon_white.svg" width="75"></td>
     </tr>
 </table>
