@@ -274,6 +274,64 @@
     </tr>
 </table>
 
+#### ModelPack Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color negative</th>
+        <td><img src="/projects/modelpack/horizontal/color/ModelPack_Logo_Horizontal_Color_Negative.png" width="200"></td>
+        <td><img src="/projects/modelpack/stacked/color/ModelPack_Logo_Stacked_Color_Negative.png" width="95"></td>
+        <td><img src="/projects/modelpack/icon/color/ModelPack_Logo_Icon_Color.png" width="75"></td>
+        <td><img src="/projects/modelpack/horizontal/color/ModelPack_Logo_Horizontal_Color_Negative.svg" width="200"></td>
+        <td><img src="/projects/modelpack/stacked/color/ModelPack_Logo_Stacked_Color_Negative.svg" width="95"></td>
+        <td><img src="/projects/modelpack/icon/color/ModelPack_Logo_Icon_Color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>color positive</th>
+        <td><img src="/projects/modelpack/horizontal/color/ModelPack_Logo_Horizontal_Color_Positive.png" width="200"></td>
+        <td><img src="/projects/modelpack/stacked/color/ModelPack_Logo_Stacked_Color_Positive.png" width="95"></td>
+        <td><img src="/projects/modelpack/icon/color/ModelPack_Logo_Icon_Color.png" width="75"></td>
+        <td><img src="/projects/modelpack/horizontal/color/ModelPack_Logo_Horizontal_Color_Positive.svg" width="200"></td>
+        <td><img src="/projects/modelpack/stacked/color/ModelPack_Logo_Stacked_Color_Positive.svg" width="95"></td>
+        <td><img src="/projects/modelpack/icon/color/ModelPack_Logo_Icon_Color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/modelpack/horizontal/white/ModelPack_Logo_Horizontal_White.png" width="200"></td>
+        <td><img src="/projects/modelpack/stacked/white/ModelPack_Logo_Stacked_White.png" width="95"></td>
+        <td><img src="/projects/modelpack/icon/white/ModelPack_Logo_Icon_White.png" width="75"></td>
+        <td><img src="/projects/modelpack/horizontal/white/ModelPack_Logo_Horizontal_White.svg" width="200"></td>
+        <td><img src="/projects/modelpack/stacked/white/ModelPack_Logo_Stacked_White.svg" width="95"></td>
+        <td><img src="/projects/modelpack/icon/white/ModelPack_Logo_Icon_White.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/modelpack/horizontal/black/ModelPack_Logo_Horizontal_Black.png" width="200"></td>
+        <td><img src="/projects/modelpack/stacked/black/ModelPack_Logo_Stacked_Black.jpg" width="95"></td>
+        <td><img src="/projects/modelpack/icon/black/ModelPack_Logo_Icon_Black.png" width="75"></td>
+        <td><img src="/projects/modelpack/horizontal/black/ModelPack_Logo_Horizontal_Black.svg" width="200"></td>
+        <td><img src="/projects/modelpack/stacked/black/ModelPack_Logo_Stacked_Black.svg" width="95"></td>
+        <td><img src="/projects/modelpack/icon/black/ModelPack_Logo_Icon_Black.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Network Service Mesh Logos
 
 <table>
