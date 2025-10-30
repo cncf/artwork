@@ -174,6 +174,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [meshery](examples/sandbox_l-r.md#meshery-logos)
     * [MetalLB](examples/sandbox_l-r.md#metallb-logos)
     * [Microcks](examples/sandbox_l-r.md#microcks-logos)
+    * [ModelPack](examples/sandbox_l-r.md#modelpack-logos)
     * [Network Service Mesh](examples/sandbox_l-r.md#network-service-mesh-logos)
     * [Open Cluster Management](examples/sandbox_l-r.md#open-cluster-management-logos)
     * [Open Policy Containers (OPCR)](examples/sandbox_l-r.md#open-policy-containers-logos)
