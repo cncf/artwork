@@ -823,14 +823,32 @@
         <th>stacked</th>
         <th>icon</th>
     </tr>
-	    <tr>
+    <tr>
         <th>color</th>
-        <td></td>
-        <td></td>
-        <td><img src="/projects/kpt/icon/color/kpt-icon-color.png" width="75" /></td>
-        <td></td>
-        <td></td>
-        <td><img src="/projects/kpt/icon/color/kpt-icon-color.svg" width="75" /></td>
+        <td><img src="/projects/kpt/horizontal/color/kpt_horizontal_color.png" width="200"></td>
+        <td><img src="/projects/kpt/stacked/color/kpt_stacked_color.png" width="95"></td>
+        <td><img src="/projects/kpt/icon/color/kpt_icon_color.png" width="75"></td>
+        <td><img src="/projects/kpt/horizontal/color/kpt_horizontal_color.svg" width="200"></td>
+        <td><img src="/projects/kpt/stacked/color/kpt_stacked_color.svg" width="95"></td>
+        <td><img src="/projects/kpt/icon/color/kpt_icon_color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kpt/horizontal/black/kpt_horizontal_black.png" width="200"></td>
+        <td><img src="/projects/kpt/stacked/black/kpt_stacked_black.png" width="95"></td>
+        <td><img src="/projects/kpt/icon/black/kpt_icon_black.png" width="75"></td>
+        <td><img src="/projects/kpt/horizontal/black/kpt_horizontal_black.svg" width="200"></td>
+        <td><img src="/projects/kpt/stacked/black/kpt_stacked_black.svg" width="95"></td>
+        <td><img src="/projects/kpt/icon/black/kpt_icon_black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kpt/horizontal/white/kpt_horizontal_white.png" width="200"></td>
+        <td><img src="/projects/kpt/stacked/white/kpt_stacked_white.png" width="95"></td>
+        <td><img src="/projects/kpt/icon/white/kpt_icon_white.png" width="75"></td>
+        <td><img src="/projects/kpt/horizontal/white/kpt_horizontal_white.svg" width="200"></td>
+        <td><img src="/projects/kpt/stacked/white/kpt_stacked_white.svg" width="95"></td>
+        <td><img src="/projects/kpt/icon/white/kpt_icon_white.svg" width="75"></td>
     </tr>
 </table>
 
