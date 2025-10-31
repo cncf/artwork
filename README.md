@@ -97,6 +97,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [BFE](examples/sandbox_a-j.md#bfe-logos)
     * [bpfman](examples/sandbox_a-j.md#bpfman-logos)
     * [bootc](examples/sandbox_a-j.md#bootc-logos)
+    * [Cadence](examples/sandbox_a-j.md#cadence-logos)
     * [Capsule](examples/sandbox_a-j.md#capsule-logos)
     * [Carina](examples/sandbox_a-j.md#carina-logos)
     * [Cartography](examples/sandbox_a-j.md#cartography-logos)
