@@ -872,28 +872,28 @@ displayed on the light grey of tables.*
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/kserve/color/k-serve-color.png" width="200"></td>
+        <td><img src="/projects/kserve/color/k-serve-color-horiz.png" width="200"></td>
         <td><img src="/projects/kserve/color/k-serve-color.png" width="95"></td>
         <td><img src="/projects/kserve/icon/color/k-serve-icon-color.png" width="75"></td>
-        <td><img src="/projects/kserve/color/k-serve-color.svg" width="200"></td>
+        <td><img src="/projects/kserve/color/k-serve-color-horiz.svg" width="200"></td>
         <td><img src="/projects/kserve/color/k-serve-color.svg" width="95"></td>
         <td><img src="/projects/kserve/icon/color/k-serve-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/kserve/black/k-serve-black.png" width="200"></td>
+        <td><img src="/projects/kserve/black/k-serve-black-horiz.png" width="200"></td>
         <td><img src="/projects/kserve/black/k-serve-black.png" width="95"></td>
         <td><img src="/projects/kserve/icon/black/k-serve-icon-black.png" width="75"></td>
-        <td><img src="/projects/kserve/black/k-serve-black.svg" width="200"></td>
+        <td><img src="/projects/kserve/black/k-serve-black-horiz.svg" width="200"></td>
         <td><img src="/projects/kserve/black/k-serve-black.svg" width="95"></td>
         <td><img src="/projects/kserve/icon/black/k-serve-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/kserve/white/k-serve-white.png" width="200"></td>
+        <td><img src="/projects/kserve/white/k-serve-white-horiz.png" width="200"></td>
         <td><img src="/projects/kserve/white/k-serve-white.png" width="95"></td>
         <td><img src="/projects/kserve/icon/white/k-serve-icon-white.png" width="75"></td>
-        <td><img src="/projects/kserve/white/k-serve-white.svg" width="200"></td>
+        <td><img src="/projects/kserve/white/k-serve-white-horiz.svg" width="200"></td>
         <td><img src="/projects/kserve/white/k-serve-white.svg" width="95"></td>
         <td><img src="/projects/kserve/icon/white/k-serve-icon-white.svg" width="75"></td>
     </tr>
