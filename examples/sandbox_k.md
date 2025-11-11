@@ -625,6 +625,73 @@
     </tr>
 </table>
 
+#### KitOps Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kitops/horizontal/color/kitops-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kitops/stacked/color/kitops-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kitops/icon/color/kitops-icon-color.png" width="75"></td>
+        <td><img src="/projects/kitops/horizontal/color/kitops-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kitops/stacked/color/kitops-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kitops/icon/color/kitops-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kitops/horizontal/black/kitops-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kitops/stacked/black/kitops-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kitops/icon/black/kitops-icon-black.png" width="75"></td>
+        <td><img src="/projects/kitops/horizontal/black/kitops-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kitops/stacked/black/kitops-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kitops/icon/black/kitops-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kitops/horizontal/white/kitops-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kitops/stacked/white/kitops-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kitops/icon/white/kitops-icon-white.png" width="75"></td>
+        <td><img src="/projects/kitops/horizontal/white/kitops-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kitops/stacked/white/kitops-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kitops/icon/white/kitops-icon-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black + white</th>
+        <td><img src="/projects/kitops/horizontal/black-and-white/kitops-horizontal-black-and-white.png" width="200"></td>
+        <td><img src="/projects/kitops/stacked/black-and-white/kitops-stacked-black-and-white.png" width="95"></td>
+        <td><img src="/projects/kitops/icon/black-and-white/kitops-icon-black-and-white.png" width="75"></td>
+        <td><img src="/projects/kitops/horizontal/black-and-white/kitops-horizontal-black-and-white.svg" width="200"></td>
+        <td><img src="/projects/kitops/stacked/black-and-white/kitops-stacked-black-and-white.svg" width="95"></td>
+        <td><img src="/projects/kitops/icon/black-and-white/kitops-icon-black-and-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>gold + white</th>
+        <td><img src="/projects/kitops/horizontal/gold-and-white/kitops-horizontal-gold-and-white.png" width="200"></td>
+        <td><img src="/projects/kitops/stacked/gold-and-white/kitops-stacked-gold-and-white.png" width="95"></td>
+        <td><img src="/projects/kitops/icon/gold-and-white/kitops-icon-gold-and-white.png" width="75"></td>
+        <td><img src="/projects/kitops/horizontal/gold-and-white/kitops-horizontal-gold-and-white.svg" width="200"></td>
+        <td><img src="/projects/kitops/stacked/gold-and-white/kitops-stacked-gold-and-white.svg" width="95"></td>
+        <td><img src="/projects/kitops/icon/gold-and-white/kitops-icon-gold-and-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Kmesh Logos
 
 <table>
