@@ -636,55 +636,6 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
-#### in-toto Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/in-toto/horizontal/color/in-toto-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/in-toto/stacked/color/in-toto-stacked-color.png" width="95"></td>
-        <td><img src="/projects/in-toto/icon/color/in-toto-icon-color.png" width="75"></td>
-        <td><img src="/projects/in-toto/horizontal/color/in-toto-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/in-toto/stacked/color/in-toto-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/in-toto/icon/color/in-toto-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/in-toto/horizontal/black/in-toto-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/in-toto/stacked/black/in-toto-stacked-black.png" width="95"></td>
-        <td><img src="/projects/in-toto/icon/black/in-toto-icon-black.png" width="75"></td>
-        <td><img src="/projects/in-toto/horizontal/black/in-toto-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/in-toto/stacked/black/in-toto-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/in-toto/icon/black/in-toto-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/in-toto/horizontal/white/in-toto-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/in-toto/stacked/white/in-toto-stacked-white.png" width="95"></td>
-        <td><img src="/projects/in-toto/icon/white/in-toto-icon-white.png" width="75"></td>
-        <td><img src="/projects/in-toto/horizontal/white/in-toto-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/in-toto/stacked/white/in-toto-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/in-toto/icon/white/in-toto-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### Karmada Logos
 
 <table>
@@ -1129,6 +1080,55 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
+
+#### Kubescape Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubescape/horizontal/color/kubescape-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubescape/stacked/color/kubescape-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubescape/icon/color/kubescape-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubescape/horizontal/color/kubescape-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubescape/stacked/color/kubescape-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubescape/icon/color/kubescape-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubescape/horizontal/black/kubescape-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubescape/stacked/black/kubescape-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubescape/icon/black/kubescape-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubescape/horizontal/black/kubescape-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubescape/stacked/black/kubescape-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubescape/icon/black/kubescape-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubescape/horizontal/white/kubescape-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubescape/stacked/white/kubescape-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubescape/icon/white/kubescape-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubescape/horizontal/white/kubescape-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubescape/stacked/white/kubescape-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubescape/icon/white/kubescape-icon-white.svg" width="75"></td>
+    </tr>
+</table>
 
 #### KubeVela Logos
 
@@ -1727,6 +1727,55 @@ displayed on the light grey of tables.*
         <td></td>
     </tr>
 </table>
+
+#### OpenYurt Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/openyurt/horizontal/color/openyurt-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/openyurt/stacked/color/openyurt-stacked-color.png" width="95"></td>
+        <td><img src="/projects/openyurt/icon/color/openyurt-icon-color.png" width="75"></td>
+        <td><img src="/projects/openyurt/horizontal/color/openyurt-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/openyurt/stacked/color/openyurt-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/openyurt/icon/color/openyurt-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/openyurt/horizontal/black/openyurt-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/openyurt/stacked/black/openyurt-stacked-black.png" width="95"></td>
+        <td><img src="/projects/openyurt/icon/black/openyurt-icon-black.png" width="75"></td>
+        <td><img src="/projects/openyurt/horizontal/black/openyurt-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/openyurt/stacked/black/openyurt-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/openyurt/icon/black/openyurt-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/openyurt/horizontal/white/openyurt-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/openyurt/stacked/white/openyurt-stacked-white.png" width="95"></td>
+        <td><img src="/projects/openyurt/icon/white/openyurt-icon-white.png" width="75"></td>
+        <td><img src="/projects/openyurt/horizontal/white/openyurt-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/openyurt/stacked/white/openyurt-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/openyurt/icon/white/openyurt-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
 
 #### OpenKruise Logos
 
