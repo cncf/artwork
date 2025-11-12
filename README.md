@@ -125,6 +125,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [HAMi](examples/sandbox_a-j.md#hami-logos)
     * [Headlamp](examples/sandbox_a-j.md#headlamp-logos)
     * [Hexa](examples/sandbox_a-j.md#hexa-policy-orchestrator-logos)
+    * [HolmesGPT](examples/sandbox_a-j.md#holmesgpt-logos)
     * [Hwameistor](examples/sandbox_a-j.md#hwameistor-logos)
     * [Hyperlight](examples/sandbox_a-j.md#hyperlight-logos)
     * [Inclavare Containers](examples/sandbox_a-j.md#inclavare-containers-logos)
