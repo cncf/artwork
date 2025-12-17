@@ -1340,7 +1340,7 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
     </tr>
 </table>
 
-#### Updated Phippy & Friends Characters
+#### Updated Phippy & Friends Individual Logos
 
 <table>
     <tr>
