@@ -1618,18 +1618,18 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/archived/phippy-and-friends/phippy/color/phippy-color.png" width="75"></td>
-        <td><img src="/archived/phippy-and-friends/zee/color/zee-color.png" width="75"></td>
-        <td><img src="/archived/phippy-and-friends/goldie/color/goldie-color.png" width="75"></td>
-        <td><img src="/archived/phippy-and-friends/captainkube/color/captainkube-color.png" width="75"></td>
-        <td><img src="/archived/phippy-and-friends/hazel/color/hazel-color.png" width="75"></td>
-        <td><img src="/archived/phippy-and-friends/linky/color/linky-color.png" width="75"></td>
-        <td><img src="/archived/phippy-and-friends/phippy/color/phippy-color.svg" width="75"></td>
-        <td><img src="/archived/phippy-and-friends/zee/color/zee-color.svg" width="75"></td>
-        <td><img src="/archived/phippy-and-friends/goldie/color/goldie-color.svg" width="75"></td>
-        <td><img src="/archived/phippy-and-friends/captainkube/color/captainkube-color.svg" width="75"></td>
-        <td><img src="/archived/phippy-and-friends/hazel/color/hazel-color.svg" width="75"></td>
-        <td><img src="/archived/phippy-and-friends/linky/color/linky-color.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/phippy/color/phippy-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/zee/color/zee-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/goldie/color/goldie-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/captainkube/color/captainkube-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/hazel/color/hazel-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/linky/color/linky-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/phippy/color/phippy-color.svg" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/zee/color/zee-color.svg" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/goldie/color/goldie-color.svg" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/captainkube/color/captainkube-color.svg" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/hazel/color/hazel-color.svg" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/linky/color/linky-color.svg" width="75" /></td>
     </tr>
     <tr>
         <th>black</th>
