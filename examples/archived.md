@@ -1590,6 +1590,79 @@
 </table>
 
 
+#### Original Phippy & Friends Individual Logos
+
+<table>
+    <tr>
+    	<th colspan="13"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="6">PNG</th>
+        <th colspan="6">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>Phippy</th>
+        <th>Zee</th>
+        <th>Goldie</th>
+        <th>Captain Kube</th>
+        <th>Hazel</th>
+        <th>Linky</th>
+        <th>Phippy</th>
+        <th>Zee</th>
+        <th>Goldie</th>
+        <th>Captain Kube</th>
+        <th>Hazel</th>
+        <th>Linky</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/archived/phippy-and-friends/phippy/color/phippy-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/zee/color/zee-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/goldie/color/goldie-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/captainkube/color/captainkube-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/hazel/color/hazel-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/linky/color/linky-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/phippy/color/phippy-color.svg" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/zee/color/zee-color.svg" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/goldie/color/goldie-color.svg" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/captainkube/color/captainkube-color.svg" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/hazel/color/hazel-color.svg" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/linky/color/linky-color.svg" width="75" /></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/archived/phippy-and-friends/phippy/black/phippy-black.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/zee/black/zee-black.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/goldie/black/goldie-black.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/captainkube/black/captainkube-black.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/hazel/black/hazel-black.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/linky/black/linky-black.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/phippy/black/phippy-black.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/zee/black/zee-black.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/goldie/black/goldie-black.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/captainkube/black/captainkube-black.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/hazel/black/hazel-black.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/linky/black/linky-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/archived/phippy-and-friends/phippy/white/phippy-white.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/zee/white/zee-white.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/goldie/white/goldie-white.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/captainkube/white/captainkube-white.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/hazel/white/hazel-white.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/linky/white/linky-white.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/phippy/white/phippy-white.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/zee/white/zee-white.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/goldie/white/goldie-white.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/captainkube/white/captainkube-white.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/hazel/white/hazel-white.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/linky/white/linky-white.svg" width="75"></td>
+    </tr>
+</table>
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).

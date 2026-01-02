@@ -1244,56 +1244,94 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
 <table>
     <tr>
         <th></th>
-        <th>PNG</th>
-        <th>SVG</th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
     </tr>
     <tr>
+        <th></th>
         <th>color</th>
+        <th>black</th>
+        <th>white</th>
+        <th>color</th>
+        <th>black</th>
+        <th>white</th>
+    </tr>
+    <tr>
+        <th>group</th>
         <td><img src="/other/phippy-and-friends/group/color/group-color.png" width="420"></td>
+        <td><img src="/other/phippy-and-friends/group/black/group-black.png" width="420"></td>
+        <td><img src="/other/phippy-and-friends/group/white/group-white.png" width="420"></td>
         <td><img src="/other/phippy-and-friends/group/color/group-color.svg" width="420"></td>
+        <td><img src="/other/phippy-and-friends/group/black/group-black.svg" width="420"></td>
+        <td><img src="/other/phippy-and-friends/group/white/group-white.svg" width="420"></td>
     </tr>
 </table>
 
-#### Phippy & Friends Individual Logos
+#### Updated Phippy & Friends Individual Logos
 
 <table>
     <tr>
-    	<th colspan="13"></th>
+    	<th colspan="18"></th>
     </tr>
     <tr>
         <th></th>
-        <th colspan="6">PNG</th>
-        <th colspan="6">SVG</th>
+        <th>Argi</th>
+        <th>Bitzy</th>
+        <th>Cappy</th>
+        <th>Captain Kube</th>
+        <th>Goldie</th>
+        <th>Hazel</th>
+        <th>Indigo</th>
+        <th>Izzy</th>
+        <th>Keddy</th>
+        <th>Kuack</th>
+        <th>Linky</th>
+        <th>Obee</th>
+        <th>Owlina</th>
+        <th>Phippy</th>
+        <th>Tai</th>
+        <th>Tiago</th>
+        <th>Zee</th>
     </tr>
     <tr>
-        <th></th>
-        <th>Phippy</th>
-        <th>Zee</th>
-        <th>Goldie</th>
-        <th>Captain Kube</th>
-        <th>Hazel</th>
-        <th>Linky</th>
-        <th>Phippy</th>
-        <th>Zee</th>
-        <th>Goldie</th>
-        <th>Captain Kube</th>
-        <th>Hazel</th>
-        <th>Linky</th>
+        <th>PNG</th>
+        <td><img src="/other/phippy-and-friends/argi_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/bitzy_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/cappy_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/captain_kube_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/goldie_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/hazel_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/indigo_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/izzy_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/keddy_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/kuack_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/linky_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/obee_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/owlina_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/phippy_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/tai_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/tiago_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/zee_full.png" width="150"></td>
     </tr>
     <tr>
-        <th>color</th>
-        <td><img src="/other/phippy-and-friends/phippy/color/phippy-color.png" width="75"></td>
-        <td><img src="/other/phippy-and-friends/zee/color/zee-color.png" width="75"></td>
-        <td><img src="/other/phippy-and-friends/goldie/color/goldie-color.png" width="75"></td>
-        <td><img src="/other/phippy-and-friends/captainkube/color/captainkube-color.png" width="75"></td>
-        <td><img src="/other/phippy-and-friends/hazel/color/hazel-color.png" width="75"></td>
-        <td><img src="/other/phippy-and-friends/linky/color/linky-color.png" width="75"></td>
-        <td><img src="/other/phippy-and-friends/phippy/color/phippy-color.svg" width="75"></td>
-        <td><img src="/other/phippy-and-friends/zee/color/zee-color.svg" width="75"></td>
-        <td><img src="/other/phippy-and-friends/goldie/color/goldie-color.svg" width="75"></td>
-        <td><img src="/other/phippy-and-friends/captainkube/color/captainkube-color.svg" width="75"></td>
-        <td><img src="/other/phippy-and-friends/hazel/color/hazel-color.svg" width="75"></td>
-        <td><img src="/other/phippy-and-friends/linky/color/linky-color.svg" width="75"></td>
+        <th>SVG</th>
+        <td><img src="/other/phippy-and-friends/argi_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/bitzy_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/cappy_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/captain_kube_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/goldie_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/hazel_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/indigo_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/izzy_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/keddy_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/kuack_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/linky_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/obee_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/owlina_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/phippy_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/tai_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/tiago_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/zee_full.svg" width="150"></td>
     </tr>
 </table>
 
