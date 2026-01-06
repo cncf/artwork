@@ -677,11 +677,6 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>SVG</th>
     </tr>
     <tr>
-        <th>color</th>
-        <td><img src="/other/kubecon-cloudnativecon/2026-na/color/kccnc-na-2026-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2026-na/color/kccnc-na-2026-color.svg" width="260"></td>
-    </tr>
-    <tr>
         <th>white</th>
         <td><img src="/other/kubecon-cloudnativecon/2026-na/white/kccnc-na-2026-white.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2026-na/white/kccnc-na-2026-white.svg" width="260"></td>
@@ -690,6 +685,11 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>black</th>
         <td><img src="/other/kubecon-cloudnativecon/2026-na/black/kccnc-na-2026-black.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2026-na/black/kccnc-na-2026-black.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/kubecon-cloudnativecon/2026-na/color/kccnc-na-2026-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-na/color/kccnc-na-2026-color.svg" width="260"></td>
     </tr>
 </table>
 
@@ -702,11 +702,6 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>SVG</th>
     </tr>
     <tr>
-        <th>color</th>
-        <td><img src="/other/kubecon-cloudnativecon/2026-eu/color/kccnc-eu-2026-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2026-eu/color/kccnc-eu-2026-color.svg" width="260"></td>
-    </tr>
-    <tr>
         <th>white</th>
         <td><img src="/other/kubecon-cloudnativecon/2026-eu/white/kccnc-eu-2026-white.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2026-eu/white/kccnc-eu-2026-white.svg" width="260"></td>
@@ -715,6 +710,11 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>black</th>
         <td><img src="/other/kubecon-cloudnativecon/2026-eu/black/kccnc-eu-2026-black.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2026-eu/black/kccnc-eu-2026-black.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/kubecon-cloudnativecon/2026-eu/color/kccnc-eu-2026-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-eu/color/kccnc-eu-2026-color.svg" width="260"></td>
     </tr>
 </table>
 
@@ -727,11 +727,6 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>SVG</th>
     </tr>
     <tr>
-        <th>color</th>
-        <td><img src="/other/kubecon-cloudnativecon/2026-india/color/kccnc-india-2026-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2026-india/color/kccnc-india-2026-color.svg" width="260"></td>
-    </tr>
-    <tr>
         <th>white</th>
         <td><img src="/other/kubecon-cloudnativecon/2026-india/white/kccnc-india-2026-white.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2026-india/white/kccnc-india-2026-white.svg" width="260"></td>
@@ -740,6 +735,11 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>black</th>
         <td><img src="/other/kubecon-cloudnativecon/2026-india/black/kccnc-india-2026-black.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2026-india/black/kccnc-india-2026-black.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/kubecon-cloudnativecon/2026-india/color/kccnc-india-2026-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-india/color/kccnc-india-2026-color.svg" width="260"></td>
     </tr>
 </table>
 
@@ -752,11 +752,6 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>SVG</th>
     </tr>
     <tr>
-        <th>color</th>
-        <td><img src="/other/kubecon-cloudnativecon/2026-japan/color/kccnc-japan-2026-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2026-japan/color/kccnc-japan-2026-color.svg" width="260"></td>
-    </tr>
-    <tr>
         <th>white</th>
         <td><img src="/other/kubecon-cloudnativecon/2026-japan/white/kccnc-japan-2026-white.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2026-japan/white/kccnc-japan-2026-white.svg" width="260"></td>
@@ -765,6 +760,11 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>black</th>
         <td><img src="/other/kubecon-cloudnativecon/2026-japan/black/kccnc-japan-2026-black.png" width="260"></td>
         <td><img src="/other/kubecon-cloudnativecon/2026-japan/black/kccnc-japan-2026-black.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/kubecon-cloudnativecon/2026-japan/color/kccnc-japan-2026-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-japan/color/kccnc-japan-2026-color.svg" width="260"></td>
     </tr>
 </table>
 
@@ -788,13 +788,6 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <th>stacked</th>
     </tr>
     <tr>
-        <th>color</th>
-        <td><img src="/other/kubecon-cloudnativecon/2026-china/horizontal/color/kccnc-china-2026-horizontal-color.png" width="200"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2026-china/stacked/color/kccnc-china-2026-stacked-color.png" width="95"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2026-china/horizontal/color/kccnc-china-2026-horizontal-color.svg" width="200"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2026-china/stacked/color/kccnc-china-2026-stacked-color.svg" width="95"></td>
-    </tr>
-    <tr>
         <th>white</th>
         <td><img src="/other/kubecon-cloudnativecon/2026-china/horizontal/white/kccnc-china-2026-horizontal-white.png" width="200"></td>
         <td><img src="/other/kubecon-cloudnativecon/2026-china/stacked/white/kccnc-china-2026-stacked-white.png" width="95"></td>
@@ -807,6 +800,13 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
         <td><img src="/other/kubecon-cloudnativecon/2026-china/stacked/black/kccnc-china-2026-stacked-black.png" width="95"></td>
         <td><img src="/other/kubecon-cloudnativecon/2026-china/horizontal/black/kccnc-china-2026-horizontal-black.svg" width="200"></td>
         <td><img src="/other/kubecon-cloudnativecon/2026-china/stacked/black/kccnc-china-2026-stacked-black.svg" width="95"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/kubecon-cloudnativecon/2026-china/horizontal/color/kccnc-china-2026-horizontal-color.png" width="200"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-china/stacked/color/kccnc-china-2026-stacked-color.png" width="95"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-china/horizontal/color/kccnc-china-2026-horizontal-color.svg" width="200"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-china/stacked/color/kccnc-china-2026-stacked-color.svg" width="95"></td>
     </tr>
 </table>
 
