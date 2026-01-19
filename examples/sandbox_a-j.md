@@ -1125,6 +1125,55 @@
     </tr>
   </table>
 
+#### container2wasm Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/container2wasm/horizontal/color/container2wasm-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/container2wasm/stacked/color/container2wasm-stacked-color.png" width="95"></td>
+        <td><img src="/projects/container2wasm/icon/color/container2wasm-icon-color.png" width="75"></td>
+        <td><img src="/projects/container2wasm/horizontal/color/container2wasm-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/container2wasm/stacked/color/container2wasm-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/container2wasm/icon/color/container2wasm-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/container2wasm/horizontal/black/container2wasm-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/container2wasm/stacked/black/container2wasm-stacked-black.png" width="95"></td>
+        <td><img src="/projects/container2wasm/icon/black/container2wasm-icon-black.png" width="75"></td>
+        <td><img src="/projects/container2wasm/horizontal/black/container2wasm-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/container2wasm/stacked/black/container2wasm-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/container2wasm/icon/black/container2wasm-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/container2wasm/horizontal/white/container2wasm-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/container2wasm/stacked/white/container2wasm-stacked-white.png" width="95"></td>
+        <td><img src="/projects/container2wasm/icon/white/container2wasm-icon-white.png" width="75"></td>
+        <td><img src="/projects/container2wasm/horizontal/white/container2wasm-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/container2wasm/stacked/white/container2wasm-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/container2wasm/icon/white/container2wasm-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### ContainerSSH Logos
 
 <table>
