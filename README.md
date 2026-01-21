@@ -112,6 +112,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [CNCF Distribution](examples/sandbox_a-j.md#cncf-distribution-logos)
     * [Confidential Containers](examples/sandbox_a-j.md#confidential-containers-logos)
     * [Connect RPC](examples/sandbox_a-j.md#connect-rpc-logos)
+    * [container2wasm](examples/sandbox_a-j.md#container2wasm-logos)
     * [ContainerSSH](examples/sandbox_a-j.md#containerssh-logos)
     * [Cozystack](examples/sandbox_a-j.md#cozystack-logos)
     * [Dalec](examples/sandbox_a-j.md#dalec-logos)
