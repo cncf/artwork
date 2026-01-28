@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .cohdi-text { font-family: 'Arial', sans-serif; font-weight: bold; font-size: 48px; fill: #326CE5; }
+      .cohdi-icon-color { fill: #326CE5; }
+    </style>
+  </defs>
+  
+  <!-- Icon: Abstract representation of composable hardware (connected nodes) -->
+  <g transform="translate(10, 20)">
+    <!-- Central node -->
+    <circle cx="30" cy="30" r="8" class="cohdi-icon-color"/>
+    <!-- Surrounding nodes -->
+    <circle cx="15" cy="15" r="6" class="cohdi-icon-color"/>
+    <circle cx="45" cy="15" r="6" class="cohdi-icon-color"/>
+    <circle cx="15" cy="45" r="6" class="cohdi-icon-color"/>
+    <circle cx="45" cy="45" r="6" class="cohdi-icon-color"/>
+    <!-- Connecting lines -->
+    <line x1="30" y1="30" x2="15" y2="15" stroke="#326CE5" stroke-width="2"/>
+    <line x1="30" y1="30" x2="45" y2="15" stroke="#326CE5" stroke-width="2"/>
+    <line x1="30" y1="30" x2="15" y2="45" stroke="#326CE5" stroke-width="2"/>
+    <line x1="30" y1="30" x2="45" y2="45" stroke="#326CE5" stroke-width="2"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="90" y="65" class="cohdi-text">CoHDI</text>
+</svg>

@@ -109,6 +109,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [CloudNativePG](examples/sandbox_a-j.md#cloudnativepg-logos)
     * [Clusternet](examples/sandbox_a-j.md#clusternet-logos)
     * [Clusterpedia](examples/sandbox_a-j.md#clusterpedia-logos)
+    * [CoHDI](examples/sandbox_a-j.md#cohdi-logos)
     * [CNCF Distribution](examples/sandbox_a-j.md#cncf-distribution-logos)
     * [Confidential Containers](examples/sandbox_a-j.md#confidential-containers-logos)
     * [Connect RPC](examples/sandbox_a-j.md#connect-rpc-logos)
