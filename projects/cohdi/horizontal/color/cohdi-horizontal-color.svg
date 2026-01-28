@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .cohdi-text { font-family: 'Arial', sans-serif; font-weight: bold; font-size: 48px; fill: #326CE5; }
-      .cohdi-icon-color { fill: #326CE5; }
+      .cohdi-text { font-family: 'Arial', sans-serif; font-weight: 700; font-size: 140px; fill: #3B7CE2; }
+      .cohdi-icon { fill: #3B7CE2; }
+      .cohdi-line { stroke: #3B7CE2; stroke-width: 10; stroke-linecap: round; }
     </style>
   </defs>
   
-  <!-- Icon: Abstract representation of composable hardware (connected nodes) -->
-  <g transform="translate(10, 20)">
-    <!-- Central node -->
-    <circle cx="30" cy="30" r="8" class="cohdi-icon-color"/>
-    <!-- Surrounding nodes -->
-    <circle cx="15" cy="15" r="6" class="cohdi-icon-color"/>
-    <circle cx="45" cy="15" r="6" class="cohdi-icon-color"/>
-    <circle cx="15" cy="45" r="6" class="cohdi-icon-color"/>
-    <circle cx="45" cy="45" r="6" class="cohdi-icon-color"/>
-    <!-- Connecting lines -->
-    <line x1="30" y1="30" x2="15" y2="15" stroke="#326CE5" stroke-width="2"/>
-    <line x1="30" y1="30" x2="45" y2="15" stroke="#326CE5" stroke-width="2"/>
-    <line x1="30" y1="30" x2="15" y2="45" stroke="#326CE5" stroke-width="2"/>
-    <line x1="30" y1="30" x2="45" y2="45" stroke="#326CE5" stroke-width="2"/>
+  <!-- Icon: Hub-and-spoke with 4 nodes in cross pattern -->
+  <g transform="translate(40, 60)">
+    <!-- Central hub (larger) -->
+    <circle cx="70" cy="65" r="28" class="cohdi-icon"/>
+    <!-- Peripheral nodes in cross pattern -->
+    <circle cx="70" cy="15" r="20" class="cohdi-icon"/>      <!-- Top -->
+    <circle cx="125" cy="65" r="20" class="cohdi-icon"/>     <!-- Right -->
+    <circle cx="70" cy="115" r="20" class="cohdi-icon"/>     <!-- Bottom -->
+    <circle cx="15" cy="65" r="20" class="cohdi-icon"/>      <!-- Left -->
+    <!-- Connecting lines from center to each node -->
+    <line x1="70" y1="65" x2="70" y2="35" class="cohdi-line"/>      <!-- To top -->
+    <line x1="70" y1="65" x2="105" y2="65" class="cohdi-line"/>     <!-- To right -->
+    <line x1="70" y1="65" x2="70" y2="95" class="cohdi-line"/>      <!-- To bottom -->
+    <line x1="70" y1="65" x2="35" y2="65" class="cohdi-line"/>      <!-- To left -->
   </g>
   
-  <!-- Text -->
-  <text x="90" y="65" class="cohdi-text">CoHDI</text>
+  <!-- Text: CoHDI -->
+  <text x="230" y="165" class="cohdi-text">CoHDI</text>
 </svg>

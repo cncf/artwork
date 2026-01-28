@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="400" height="450" viewBox="0 0 400 450" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .cohdi-text { font-family: 'Arial', sans-serif; font-weight: bold; font-size: 48px; fill: #326CE5; }
-      .cohdi-icon-color { fill: #326CE5; }
+      .cohdi-text { font-family: 'Arial', sans-serif; font-weight: 700; font-size: 100px; fill: #3B7CE2; }
+      .cohdi-icon { fill: #3B7CE2; }
+      .cohdi-line { stroke: #3B7CE2; stroke-width: 10; stroke-linecap: round; }
     </style>
   </defs>
   
-  <!-- Icon centered -->
-  <g transform="translate(70, 30)">
-    <circle cx="30" cy="30" r="8" class="cohdi-icon-color"/>
-    <circle cx="15" cy="15" r="6" class="cohdi-icon-color"/>
-    <circle cx="45" cy="15" r="6" class="cohdi-icon-color"/>
-    <circle cx="15" cy="45" r="6" class="cohdi-icon-color"/>
-    <circle cx="45" cy="45" r="6" class="cohdi-icon-color"/>
-    <line x1="30" y1="30" x2="15" y2="15" stroke="#326CE5" stroke-width="2"/>
-    <line x1="30" y1="30" x2="45" y2="15" stroke="#326CE5" stroke-width="2"/>
-    <line x1="30" y1="30" x2="15" y2="45" stroke="#326CE5" stroke-width="2"/>
-    <line x1="30" y1="30" x2="45" y2="45" stroke="#326CE5" stroke-width="2"/>
+  <!-- Icon centered at top -->
+  <g transform="translate(130, 40)">
+    <circle cx="70" cy="65" r="28" class="cohdi-icon"/>
+    <circle cx="70" cy="15" r="20" class="cohdi-icon"/>
+    <circle cx="125" cy="65" r="20" class="cohdi-icon"/>
+    <circle cx="70" cy="115" r="20" class="cohdi-icon"/>
+    <circle cx="15" cy="65" r="20" class="cohdi-icon"/>
+    <line x1="70" y1="65" x2="70" y2="35" class="cohdi-line"/>
+    <line x1="70" y1="65" x2="105" y2="65" class="cohdi-line"/>
+    <line x1="70" y1="65" x2="70" y2="95" class="cohdi-line"/>
+    <line x1="70" y1="65" x2="35" y2="65" class="cohdi-line"/>
   </g>
   
   <!-- Text centered below -->
-  <text x="100" y="150" text-anchor="middle" class="cohdi-text">CoHDI</text>
+  <text x="200" y="340" text-anchor="middle" class="cohdi-text">CoHDI</text>
 </svg>
