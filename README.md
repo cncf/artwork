@@ -182,6 +182,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [Network Service Mesh](examples/sandbox_l-r.md#network-service-mesh-logos)
     * [Open Cluster Management](examples/sandbox_l-r.md#open-cluster-management-logos)
     * [Open Policy Containers (OPCR)](examples/sandbox_l-r.md#open-policy-containers-logos)
+    * [OpenChoreo](examples/sandbox_l-r.md#openchoreo-logos)
     * [OpenEBS](examples/sandbox_l-r.md#openebs-logos)
     * [OpenFunction](examples/sandbox_l-r.md#openfunction-logos)
     * [OpenGemini](examples/sandbox_l-r.md#openGemini-logos)
