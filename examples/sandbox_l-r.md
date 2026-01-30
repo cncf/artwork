@@ -528,6 +528,55 @@
     </tr>
 </table>
 
+#### OpenChoreo Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/openchoreo/horizontal/color/openchoreo-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/openchoreo/stacked/color/openchoreo-stacked-color.png" width="95"></td>
+        <td><img src="/projects/openchoreo/icon/color/openchoreo-icon-color.png" width="75"></td>
+        <td><img src="/projects/openchoreo/horizontal/color/openchoreo-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/openchoreo/stacked/color/openchoreo-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/openchoreo/icon/color/openchoreo-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/openchoreo/horizontal/black/openchoreo-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/openchoreo/stacked/black/openchoreo-stacked-black.png" width="95"></td>
+        <td><img src="/projects/openchoreo/icon/black/openchoreo-icon-black.png" width="75"></td>
+        <td><img src="/projects/openchoreo/horizontal/black/openchoreo-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/openchoreo/stacked/black/openchoreo-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/openchoreo/icon/black/openchoreo-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/openchoreo/horizontal/white/openchoreo-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/openchoreo/stacked/white/openchoreo-stacked-white.png" width="95"></td>
+        <td><img src="/projects/openchoreo/icon/white/openchoreo-icon-white.png" width="75"></td>
+        <td><img src="/projects/openchoreo/horizontal/white/openchoreo-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/openchoreo/stacked/white/openchoreo-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/openchoreo/icon/white/openchoreo-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### OpenEBS Logos
 
 <table>
