@@ -1261,7 +1261,7 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
-#### Litmus Logos
+#### LitmusChaos Logos
 
 <table>
     <tr>

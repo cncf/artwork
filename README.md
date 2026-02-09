@@ -71,7 +71,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [KubeVirt](examples/incubating.md#kubevirt-logos)
   * [Kyverno](examples/incubating.md#kyverno-logos)
   * [Lima](examples/incubating.md#lima-logos)
-  * [Litmus](examples/incubating.md#litmus-logos)
+  * [LitmusChaos](examples/incubating.md#litmuschaos-logos)
   * [Longhorn](examples/incubating.md#longhorn-logos)
   * [Metal³](examples/incubating.md#metal³-logos)
   * [NATS](examples/incubating.md#nats-logos)
