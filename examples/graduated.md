@@ -1656,7 +1656,7 @@ displayed on the light grey of tables._
     </tr>
 </table>
 
-#### OPA Logos
+#### Open Policy Agent Logos
 
 <table>
     <tr>
@@ -1678,30 +1678,30 @@ displayed on the light grey of tables._
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/opa/horizontal/color/opa-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/opa/stacked/color/opa-stacked-color.png" width="95"></td>
-        <td><img src="/projects/opa/icon/color/opa-icon-color.png" width="75"></td>
-        <td><img src="/projects/opa/horizontal/color/opa-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/opa/stacked/color/opa-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/opa/icon/color/opa-icon-color.svg" width="75"></td>
+        <td><img src="/projects/open-policy-agent/horizontal/color/opa-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/open-policy-agent/stacked/color/opa-stacked-color.png" width="95"></td>
+        <td><img src="/projects/open-policy-agent/icon/color/opa-icon-color.png" width="75"></td>
+        <td><img src="/projects/open-policy-agent/horizontal/color/opa-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/open-policy-agent/stacked/color/opa-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/open-policy-agent/icon/color/opa-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/opa/horizontal/black/opa-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/opa/stacked/black/opa-stacked-black.png" width="95"></td>
-        <td><img src="/projects/opa/icon/black/opa-icon-black.png" width="75"></td>
-        <td><img src="/projects/opa/horizontal/black/opa-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/opa/stacked/black/opa-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/opa/icon/black/opa-icon-black.svg" width="75"></td>
+        <td><img src="/projects/open-policy-agent/horizontal/black/opa-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/open-policy-agent/stacked/black/opa-stacked-black.png" width="95"></td>
+        <td><img src="/projects/open-policy-agent/icon/black/opa-icon-black.png" width="75"></td>
+        <td><img src="/projects/open-policy-agent/horizontal/black/opa-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/open-policy-agent/stacked/black/opa-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/open-policy-agent/icon/black/opa-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/opa/horizontal/white/opa-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/opa/stacked/white/opa-stacked-white.png" width="95"></td>
-        <td><img src="/projects/opa/icon/white/opa-icon-white.png" width="75"></td>
-        <td><img src="/projects/opa/horizontal/white/opa-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/opa/stacked/white/opa-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/opa/icon/white/opa-icon-white.svg" width="75"></td>
+        <td><img src="/projects/open-policy-agent/horizontal/white/opa-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/open-policy-agent/stacked/white/opa-stacked-white.png" width="95"></td>
+        <td><img src="/projects/open-policy-agent/icon/white/opa-icon-white.png" width="75"></td>
+        <td><img src="/projects/open-policy-agent/horizontal/white/opa-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/open-policy-agent/stacked/white/opa-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/open-policy-agent/icon/white/opa-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
