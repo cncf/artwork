@@ -986,7 +986,7 @@
     </tr>
 </table>
 
-#### Distribution logos
+#### Distribution Logos
 
 <table>
     <tr>
