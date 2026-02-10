@@ -1,6 +1,5 @@
 ## Cloud Native Sandbox Project Logos (K)
 
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 #### k0s Logos
 
 <table>

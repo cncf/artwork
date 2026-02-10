@@ -2,8 +2,6 @@
 
 Please note that CNCF prefers the horizontal form of our logo to the stacked version when feasible.
 
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
-
 #### CNCF Logos
 
 <table>
