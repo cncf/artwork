@@ -1,7 +1,5 @@
 ## Cloud Native Sandbox Project Logos (L-R)
 
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
-
 #### Logging-Operator Logos
 
 <table>
@@ -1180,7 +1178,7 @@
     </tr>
 </table>
 
-#### Piraeus Logos
+#### Piraeus-Datastore Logos
 
 <table>
     <tr>
@@ -1202,30 +1200,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/piraeus/horizontal/color/piraeus-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/piraeus/stacked/color/piraeus-stacked-color.png" width="95"></td>
-        <td><img src="/projects/piraeus/icon/color/piraeus-icon-color.png" width="75"></td>
-        <td><img src="/projects/piraeus/horizontal/color/piraeus-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/piraeus/stacked/color/piraeus-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/piraeus/icon/color/piraeus-icon-color.svg" width="75"></td>
+        <td><img src="/projects/piraeus-datastore/horizontal/color/piraeus-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/piraeus-datastore/stacked/color/piraeus-stacked-color.png" width="95"></td>
+        <td><img src="/projects/piraeus-datastore/icon/color/piraeus-icon-color.png" width="75"></td>
+        <td><img src="/projects/piraeus-datastore/horizontal/color/piraeus-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/piraeus-datastore/stacked/color/piraeus-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/piraeus-datastore/icon/color/piraeus-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/piraeus/horizontal/black/piraeus-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/piraeus/stacked/black/piraeus-stacked-black.png" width="95"></td>
-        <td><img src="/projects/piraeus/icon/black/piraeus-icon-black.png" width="75"></td>
-        <td><img src="/projects/piraeus/horizontal/black/piraeus-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/piraeus/stacked/black/piraeus-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/piraeus/icon/black/piraeus-icon-black.svg" width="75"></td>
+        <td><img src="/projects/piraeus-datastore/horizontal/black/piraeus-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/piraeus-datastore/stacked/black/piraeus-stacked-black.png" width="95"></td>
+        <td><img src="/projects/piraeus-datastore/icon/black/piraeus-icon-black.png" width="75"></td>
+        <td><img src="/projects/piraeus-datastore/horizontal/black/piraeus-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/piraeus-datastore/stacked/black/piraeus-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/piraeus-datastore/icon/black/piraeus-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/piraeus/horizontal/white/piraeus-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/piraeus/stacked/white/piraeus-stacked-white.png" width="95"></td>
-        <td><img src="/projects/piraeus/icon/white/piraeus-icon-white.png" width="75"></td>
-        <td><img src="/projects/piraeus/horizontal/white/piraeus-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/piraeus/stacked/white/piraeus-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/piraeus/icon/white/piraeus-icon-white.svg" width="75"></td>
+        <td><img src="/projects/piraeus-datastore/horizontal/white/piraeus-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/piraeus-datastore/stacked/white/piraeus-stacked-white.png" width="95"></td>
+        <td><img src="/projects/piraeus-datastore/icon/white/piraeus-icon-white.png" width="75"></td>
+        <td><img src="/projects/piraeus-datastore/horizontal/white/piraeus-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/piraeus-datastore/stacked/white/piraeus-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/piraeus-datastore/icon/white/piraeus-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
@@ -1278,7 +1276,7 @@
     </tr>
 </table>
 
-#### Podman Logos
+#### Podman Container Tools Logos
 
 <table>
     <tr>
@@ -1302,36 +1300,36 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/podman/horizontal/color/podman-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/podman/stacked/color/podman-stacked-color.png" width="95"></td>
-        <td><img src="/projects/podman/icon/color/podman-icon-color.png" width="75"></td>
-        <td><img src="/projects/podman/favicon/color/podman-favicon-color.png" width="48"></td>
-        <td><img src="/projects/podman/horizontal/color/podman-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/podman/stacked/color/podman-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/podman/icon/color/podman-icon-color.svg" width="75"></td>
-        <td><img src="/projects/podman/favicon/color/podman-favicon-color.svg" width="48"></td>
+        <td><img src="/projects/podman-container-tools/horizontal/color/podman-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/podman-container-tools/stacked/color/podman-stacked-color.png" width="95"></td>
+        <td><img src="/projects/podman-container-tools/icon/color/podman-icon-color.png" width="75"></td>
+        <td><img src="/projects/podman-container-tools/favicon/color/podman-favicon-color.png" width="48"></td>
+        <td><img src="/projects/podman-container-tools/horizontal/color/podman-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/podman-container-tools/stacked/color/podman-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/podman-container-tools/icon/color/podman-icon-color.svg" width="75"></td>
+        <td><img src="/projects/podman-container-tools/favicon/color/podman-favicon-color.svg" width="48"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/podman/horizontal/black/podman-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/podman/stacked/black/podman-stacked-black.png" width="95"></td>
-        <td><img src="/projects/podman/icon/black/podman-icon-black.png" width="75"></td>
-        <td><img src="/projects/podman/favicon/black/podman-favicon-black.png" width="48"></td>
-        <td><img src="/projects/podman/horizontal/black/podman-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/podman/stacked/black/podman-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/podman/icon/black/podman-icon-black.svg" width="75"></td>
-        <td><img src="/projects/podman/favicon/black/podman-favicon-black.svg" width="48"></td>
+        <td><img src="/projects/podman-container-tools/horizontal/black/podman-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/podman-container-tools/stacked/black/podman-stacked-black.png" width="95"></td>
+        <td><img src="/projects/podman-container-tools/icon/black/podman-icon-black.png" width="75"></td>
+        <td><img src="/projects/podman-container-tools/favicon/black/podman-favicon-black.png" width="48"></td>
+        <td><img src="/projects/podman-container-tools/horizontal/black/podman-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/podman-container-tools/stacked/black/podman-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/podman-container-tools/icon/black/podman-icon-black.svg" width="75"></td>
+        <td><img src="/projects/podman-container-tools/favicon/black/podman-favicon-black.svg" width="48"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/podman/horizontal/white/podman-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/podman/stacked/white/podman-stacked-white.png" width="95"></td>
-        <td><img src="/projects/podman/icon/white/podman-icon-white.png" width="75"></td>
-        <td><img src="/projects/podman/favicon/white/podman-favicon-white.png" width="48"></td>
-        <td><img src="/projects/podman/horizontal/white/podman-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/podman/stacked/white/podman-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/podman/icon/white/podman-icon-white.svg" width="75"></td>
-        <td><img src="/projects/podman/favicon/white/podman-favicon-white.svg" width="48"></td>
+        <td><img src="/projects/podman-container-tools/horizontal/white/podman-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/podman-container-tools/stacked/white/podman-stacked-white.png" width="95"></td>
+        <td><img src="/projects/podman-container-tools/icon/white/podman-icon-white.png" width="75"></td>
+        <td><img src="/projects/podman-container-tools/favicon/white/podman-favicon-white.png" width="48"></td>
+        <td><img src="/projects/podman-container-tools/horizontal/white/podman-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/podman-container-tools/stacked/white/podman-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/podman-container-tools/icon/white/podman-icon-white.svg" width="75"></td>
+        <td><img src="/projects/podman-container-tools/favicon/white/podman-favicon-white.svg" width="48"></td>
     </tr>
 </table>
 
@@ -1490,55 +1488,6 @@
     </tr>
 </table>
 
-#### Runme Logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/runme/horizontal/color/runme-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/runme/stacked/color/runme-stacked-color.png" width="95"></td>
-        <td><img src="/projects/runme/icon/color/runme-icon-color.png" width="75"></td>
-        <td><img src="/projects/runme/horizontal/color/runme-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/runme/stacked/color/runme-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/runme/icon/color/runme-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/runme/horizontal/black/runme-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/runme/stacked/black/runme-stacked-black.png" width="95"></td>
-        <td><img src="/projects/runme/icon/black/runme-icon-black.png" width="75"></td>
-        <td><img src="/projects/runme/horizontal/black/runme-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/runme/stacked/black/runme-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/runme/icon/black/runme-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/runme/horizontal/white/runme-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/runme/stacked/white/runme-stacked-white.png" width="95"></td>
-        <td><img src="/projects/runme/icon/white/runme-icon-white.png" width="75"></td>
-        <td><img src="/projects/runme/horizontal/white/runme-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/runme/stacked/white/runme-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/runme/icon/white/runme-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### Ratify Logos
 
 <table>
@@ -1585,6 +1534,55 @@
         <td><img src="/projects/ratify/horizontal/white/ratify-horizontal-white.svg" width="75" /></td>
         <td><img src="/projects/ratify/stacked/white/ratify-stacked-white.svg" width="75" /></td>
         <td><img src="/projects/ratify/icon/white/ratify-icon-white.svg" width="75" /></td>
+    </tr>
+</table>
+
+#### Runme Notebooks Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/runme-notebooks/horizontal/color/runme-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/runme-notebooks/stacked/color/runme-stacked-color.png" width="95"></td>
+        <td><img src="/projects/runme-notebooks/icon/color/runme-icon-color.png" width="75"></td>
+        <td><img src="/projects/runme-notebooks/horizontal/color/runme-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/runme-notebooks/stacked/color/runme-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/runme-notebooks/icon/color/runme-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/runme-notebooks/horizontal/black/runme-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/runme-notebooks/stacked/black/runme-stacked-black.png" width="95"></td>
+        <td><img src="/projects/runme-notebooks/icon/black/runme-icon-black.png" width="75"></td>
+        <td><img src="/projects/runme-notebooks/horizontal/black/runme-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/runme-notebooks/stacked/black/runme-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/runme-notebooks/icon/black/runme-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/runme-notebooks/horizontal/white/runme-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/runme-notebooks/stacked/white/runme-stacked-white.png" width="95"></td>
+        <td><img src="/projects/runme-notebooks/icon/white/runme-icon-white.png" width="75"></td>
+        <td><img src="/projects/runme-notebooks/horizontal/white/runme-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/runme-notebooks/stacked/white/runme-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/runme-notebooks/icon/white/runme-icon-white.svg" width="75"></td>
     </tr>
 </table>
 

@@ -1,54 +1,5 @@
 ## Cloud Native Sandbox Project Logos (S-Z)
 
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/runme/horizontal/color/runme-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/runme/stacked/color/runme-stacked-color.png" width="95"></td>
-        <td><img src="/projects/runme/icon/color/runme-icon-color.png" width="75"></td>
-        <td><img src="/projects/runme/horizontal/color/runme-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/runme/stacked/color/runme-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/runme/icon/color/runme-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/runme/horizontal/black/runme-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/runme/stacked/black/runme-stacked-black.png" width="95"></td>
-        <td><img src="/projects/runme/icon/black/runme-icon-black.png" width="75"></td>
-        <td><img src="/projects/runme/horizontal/black/runme-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/runme/stacked/black/runme-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/runme/icon/black/runme-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/runme/horizontal/white/runme-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/runme/stacked/white/runme-stacked-white.png" width="95"></td>
-        <td><img src="/projects/runme/icon/white/runme-icon-white.png" width="75"></td>
-        <td><img src="/projects/runme/horizontal/white/runme-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/runme/stacked/white/runme-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/runme/icon/white/runme-icon-white.svg" width="75"></td>
-    </tr>
-</table>
-
 #### Schemahero Logos
 
 <table>
@@ -1088,6 +1039,55 @@
         <td><img src="/projects/virtualkubelet/horizontal/white/virtualkubelet-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/virtualkubelet/stacked/white/virtualkubelet-stacked-white.svg" width="95"></td>
         <td><img src="/projects/virtualkubelet/icon/white/virtualkubelet-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### VS Code Kubernetes Tools Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/vs-code-kubernetes-tools/horizontal/color/kefvsc-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/vs-code-kubernetes-tools/stacked/color/kefvsc-stacked-color.png" width="95"></td>
+        <td><img src="/projects/vs-code-kubernetes-tools/icon/color/kefvsc-icon-color.png" width="75"></td>
+        <td><img src="/projects/vs-code-kubernetes-tools/horizontal/color/kefvsc-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/vs-code-kubernetes-tools/stacked/color/kefvsc-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/vs-code-kubernetes-tools/icon/color/kefvsc-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/vs-code-kubernetes-tools/horizontal/black/kefvsc-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/vs-code-kubernetes-tools/stacked/black/kefvsc-stacked-black.png" width="95"></td>
+        <td><img src="/projects/vs-code-kubernetes-tools/icon/black/kefvsc-icon-black.png" width="75"></td>
+        <td><img src="/projects/vs-code-kubernetes-tools/horizontal/black/kefvsc-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/vs-code-kubernetes-tools/stacked/black/kefvsc-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/vs-code-kubernetes-tools/icon/black/kefvsc-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/vs-code-kubernetes-tools/horizontal/white/kefvsc-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/vs-code-kubernetes-tools/stacked/white/kefvsc-stacked-white.png" width="95"></td>
+        <td><img src="/projects/vs-code-kubernetes-tools/icon/white/kefvsc-icon-white.png" width="75"></td>
+        <td><img src="/projects/vs-code-kubernetes-tools/horizontal/white/kefvsc-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/vs-code-kubernetes-tools/stacked/white/kefvsc-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/vs-code-kubernetes-tools/icon/white/kefvsc-icon-white.svg" width="75"></td>
     </tr>
 </table>
 

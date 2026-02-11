@@ -1,7 +1,5 @@
 ## Cloud Native Sandbox Project Logos (A-J)
 
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
-
 #### Aeraki Mesh Logos
 
 <table>
@@ -986,7 +984,7 @@
     </tr>
 </table>
 
-#### CNCF Distribution logos
+#### Distribution Logos
 
 <table>
     <tr>
@@ -1006,24 +1004,24 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/cncf-distribution/stacked/color/cncf-distribution-stacked-color.png" width="150"></td>
-        <td><img src="/projects/cncf-distribution/icon/color/cncf-distribution-icon-color.png" width="150"></td>
-        <td><img src="/projects/cncf-distribution/stacked/color/cncf-distribution-stacked-color.svg" width="150"></td>
-        <td><img src="/projects/cncf-distribution/icon/color/cncf-distribution-icon-color.svg" width="150"></td>
+        <td><img src="/projects/distribution/stacked/color/cncf-distribution-stacked-color.png" width="150"></td>
+        <td><img src="/projects/distribution/icon/color/cncf-distribution-icon-color.png" width="150"></td>
+        <td><img src="/projects/distribution/stacked/color/cncf-distribution-stacked-color.svg" width="150"></td>
+        <td><img src="/projects/distribution/icon/color/cncf-distribution-icon-color.svg" width="150"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/cncf-distribution/stacked/black/cncf-distribution-stacked-black.png" width="150"></td>
-        <td><img src="/projects/cncf-distribution/icon/black/cncf-distribution-icon-black.png" width="150"></td>
-        <td><img src="/projects/cncf-distribution/stacked/black/cncf-distribution-stacked-black.svg" width="150"></td>
-        <td><img src="/projects/cncf-distribution/icon/black/cncf-distribution-icon-black.svg" width="150"></td>
+        <td><img src="/projects/distribution/stacked/black/cncf-distribution-stacked-black.png" width="150"></td>
+        <td><img src="/projects/distribution/icon/black/cncf-distribution-icon-black.png" width="150"></td>
+        <td><img src="/projects/distribution/stacked/black/cncf-distribution-stacked-black.svg" width="150"></td>
+        <td><img src="/projects/distribution/icon/black/cncf-distribution-icon-black.svg" width="150"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/cncf-distribution/stacked/white/cncf-distribution-stacked-white.png" width="150"></td>
-        <td><img src="/projects/cncf-distribution/icon/white/cncf-distribution-icon-white.png" width="150"></td>
-        <td><img src="/projects/cncf-distribution/stacked/white/cncf-distribution-stacked-white.svg" width="150"></td>
-        <td><img src="/projects/cncf-distribution/icon/white/cncf-distribution-icon-white.svg" width="150"></td>
+        <td><img src="/projects/distribution/stacked/white/cncf-distribution-stacked-white.png" width="150"></td>
+        <td><img src="/projects/distribution/icon/white/cncf-distribution-icon-white.png" width="150"></td>
+        <td><img src="/projects/distribution/stacked/white/cncf-distribution-stacked-white.svg" width="150"></td>
+        <td><img src="/projects/distribution/icon/white/cncf-distribution-icon-white.svg" width="150"></td>
     </tr>
 </table>
 
