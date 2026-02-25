@@ -319,7 +319,7 @@ These guidelines are both for people in CNCF who design CNCF-branded web propert
 
 ## Trademark and Logo Policy
 
-Use of any trademark or logo is subject to the trademark policy available at <https://www.linuxfoundation.org/trademark-usage> with the key excepts available at <https://github.com/cncf/artwork/blob/master/LICENSE.md>.
+Use of any trademark or logo is subject to the trademark policy available at <https://www.linuxfoundation.org/trademark-usage> with the key excerpts available at <https://github.com/cncf/artwork/blob/master/LICENSE.md>.
 
 The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are only available for use with [conformant](https://www.cncf.io/certification/software-conformance/) implementations and must comply with the [brand guidelines](/projects/kubernetes/certified-kubernetes/certified-kubernetes-brand-guide.pdf).
 
