@@ -37,7 +37,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [KubeEdge](examples/graduated.md#kubeedge-logos)
   * [Kubernetes](examples/graduated.md#kubernetes-logos)
   * [Linkerd](examples/graduated.md#linkerd-logos)
-  * [OPA](examples/graduated.md#opa-logos)
+  * [Open Policy Agent](examples/graduated.md#open-policy-agent-logos)
   * [Prometheus](examples/graduated.md#prometheus-logos)
   * [Rook](examples/graduated.md#rook-logos)
   * [SPIFFE](examples/graduated.md#spiffe-logos)
@@ -71,9 +71,9 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [KubeVirt](examples/incubating.md#kubevirt-logos)
   * [Kyverno](examples/incubating.md#kyverno-logos)
   * [Lima](examples/incubating.md#lima-logos)
-  * [Litmus](examples/incubating.md#litmus-logos)
+  * [LitmusChaos](examples/incubating.md#litmuschaos-logos)
   * [Longhorn](examples/incubating.md#longhorn-logos)
-  * [Metal³](examples/incubating.md#metal³-logos)
+  * [metal3-io](examples/incubating.md#metal3-io-logos)
   * [NATS](examples/incubating.md#nats-logos)
   * [Notary Project](examples/incubating.md#notary-logos)
   * [OpenCost](examples/incubating.md#opencost-logos)
@@ -111,6 +111,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [Clusterpedia](examples/sandbox_a-j.md#clusterpedia-logos)
     * [CoHDI](examples/sandbox_a-j.md#cohdi-logos)
     * [CNCF Distribution](examples/sandbox_a-j.md#cncf-distribution-logos)
+    * [Distribution](examples/sandbox_a-j.md#distribution-logos)
     * [Confidential Containers](examples/sandbox_a-j.md#confidential-containers-logos)
     * [Connect RPC](examples/sandbox_a-j.md#connect-rpc-logos)
     * [container2wasm](examples/sandbox_a-j.md#container2wasm-logos)
@@ -165,7 +166,6 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [kubeclipper](examples/sandbox_k.md#kubeclipper-logos)
     * [KubeFleet](examples/sandbox_k.md#kubefleet-logos)
     * [Kuberhealthy](examples/sandbox_k.md#kuberhealthy-logos)
-    * [Kubernetes Extension for VS Code](examples/sandbox_k.md#kubernetes-extension-for-vs-code-logos)
     * [KubeSlice](examples/sandbox_k.md#kubeslice-logos)
     * [KubeStellar](examples/sandbox_k.md#kubestellar-logos)
     * [Kubewarden](examples/sandbox_k.md#kubewarden-logos)
@@ -183,6 +183,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [Network Service Mesh](examples/sandbox_l-r.md#network-service-mesh-logos)
     * [Open Cluster Management](examples/sandbox_l-r.md#open-cluster-management-logos)
     * [Open Policy Containers (OPCR)](examples/sandbox_l-r.md#open-policy-containers-logos)
+    * [OpenChoreo](examples/sandbox_l-r.md#openchoreo-logos)
     * [OpenEBS](examples/sandbox_l-r.md#openebs-logos)
     * [OpenFunction](examples/sandbox_l-r.md#openfunction-logos)
     * [OpenGemini](examples/sandbox_l-r.md#openGemini-logos)
@@ -196,14 +197,14 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [Parsec](examples/sandbox_l-r.md#parsec-logos)
     * [Perses](examples/sandbox_l-r.md#perses-logos)
     * [PipeCD](examples/sandbox_l-r.md#pipecd-logos)
-    * [Piraeus](examples/sandbox_l-r.md#piraeus-logos)
+    * [Piraeus-Datastore](examples/sandbox_l-r.md#piraeus-datastore-logos)
     * [Pixie](examples/sandbox_l-r.md#pixie-logos)
-    * [Podman](examples/sandbox_l-r.md#podman-logos)
+    * [Podman Container Tools](examples/sandbox_l-r.md#podman-container-tools-logos)
     * [Podman Desktop](examples/sandbox_l-r.md#podman-desktop-logos)
     * [Porter](examples/sandbox_l-r.md#porter-logos)
     * [Radius](examples/sandbox_l-r.md#radius-logos)
-    * [Runme](examples/sandbox_l-r.md#runme-logos)
     * [Ratify](examples/sandbox_l-r.md#ratify-logos)
+    * [Runme Notebooks](examples/sandbox_l-r.md#runme-notebooks-logos)
   * [Sandbox Projects S-Z](examples/sandbox_s-z.md)
     * [Schemahero](examples/sandbox_s-z.md#schemahero-logos)
     * [Score](examples/sandbox_s-z.md#score-logos)
@@ -226,6 +227,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [urunc](examples/sandbox_s-z.md#urunc-logos)
     * [Vineyard](examples/sandbox_s-z.md#vineyard-logos)
     * [Virtual Kubelet](examples/sandbox_s-z.md#virtual-kubelet-logos)
+    * [VS Code Kubernetes Tools](examples/sandbox_s-z.md#vs-code-kubernetes-tools-logos)
     * [WasmEdgeRuntime](examples/sandbox_s-z.md#wasedgeruntime-logos)
     * [werf](examples/sandbox_s-z.md#werf-logos)
     * [xRegistry](examples/sandbox_s-z.md#xregistry-logos)
@@ -319,7 +321,7 @@ These guidelines are both for people in CNCF who design CNCF-branded web propert
 
 ## Trademark and Logo Policy
 
-Use of any trademark or logo is subject to the trademark policy available at <https://www.linuxfoundation.org/trademark-usage> with the key excepts available at <https://github.com/cncf/artwork/blob/master/LICENSE.md>.
+Use of any trademark or logo is subject to the trademark policy available at <https://www.linuxfoundation.org/trademark-usage> with the key excerpts available at <https://github.com/cncf/artwork/blob/master/LICENSE.md>.
 
 The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are only available for use with [conformant](https://www.cncf.io/certification/software-conformance/) implementations and must comply with the [brand guidelines](/projects/kubernetes/certified-kubernetes/certified-kubernetes-brand-guide.pdf).
 
