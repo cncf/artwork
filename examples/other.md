@@ -1264,23 +1264,23 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
     </tr>
     <tr>
         <th></th>
-        <th>Argi</th>
-        <th>Bitzy</th>
-        <th>Cappy</th>
-        <th>Captain Kube</th>
+        <th>Argi (Argo)</th>
+        <th>Bitzy (Fluent Bit)</th>
+        <th>Cappy (Cluster API)</th>
+        <th>Captain Kube (Kubernetes)</th>
         <th>Goldie</th>
-        <th>Hazel</th>
-        <th>Indigo</th>
-        <th>Izzy</th>
-        <th>Keddy</th>
-        <th>Kuack</th>
-        <th>Linky</th>
-        <th>Obee</th>
-        <th>Owlina</th>
+        <th>Hazel (Helm)</th>
+        <th>Indigo (in-toto)</th>
+        <th>Izzy (Istio)</th>
+        <th>Keddy (KEDA)</th>
+        <th>Kuack (Knative)</th>
+        <th>Linky (Linkerd)</th>
+        <th>Obee (Cilium)</th>
+        <th>Owlina (OPA)</th>
         <th>Phippy</th>
-        <th>Tai</th>
-        <th>Tiago</th>
-        <th>Zee</th>
+        <th>Tai (TUF)</th>
+        <th>Tiago (TiKV)</th>
+        <th>Zee (etcd)</th>
     </tr>
     <tr>
         <th>PNG</th>
