@@ -1247,27 +1247,12 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
 
 <table>
     <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
+        <th>PNG</th>
+        <th>SVG</th>
     </tr>
     <tr>
-        <th></th>
-        <th>color</th>
-        <th>black</th>
-        <th>white</th>
-        <th>color</th>
-        <th>black</th>
-        <th>white</th>
-    </tr>
-    <tr>
-        <th>group</th>
         <td><img src="/other/phippy-and-friends/group/color/group-color.png" width="420"></td>
-        <td><img src="/other/phippy-and-friends/group/black/group-black.png" width="420"></td>
-        <td><img src="/other/phippy-and-friends/group/white/group-white.png" width="420"></td>
         <td><img src="/other/phippy-and-friends/group/color/group-color.svg" width="420"></td>
-        <td><img src="/other/phippy-and-friends/group/black/group-black.svg" width="420"></td>
-        <td><img src="/other/phippy-and-friends/group/white/group-white.svg" width="420"></td>
     </tr>
 </table>
 
