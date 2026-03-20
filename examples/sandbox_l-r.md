@@ -623,6 +623,47 @@
         <td><img src="/projects/openebs/icon/white/openebs-icon-white.svg" width="75"></td>
     </tr>
 </table>
+
+#### OpenEverest Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>light</th>
+        <td><img src="/projects/openeverest/horizontal/light/openeverest-horizontal-light.png" width="200"></td>
+        <td><img src="/projects/openeverest/stacked/light/openeverest-stacked-light.png" width="95"></td>
+        <td><img src="/projects/openeverest/icon/light/openeverest-icon-light.png" width="75"></td>
+        <td><img src="/projects/openeverest/horizontal/light/openeverest-horizontal-light.svg" width="200"></td>
+        <td><img src="/projects/openeverest/stacked/light/openeverest-stacked-light.svg" width="95"></td>
+        <td><img src="/projects/openeverest/icon/light/openeverest-icon-light.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>dark</th>
+        <td><img src="/projects/openeverest/horizontal/dark/openeverest-horizontal-dark.png" width="200"></td>
+        <td><img src="/projects/openeverest/stacked/dark/openeverest-stacked-dark.png" width="95"></td>
+        <td><img src="/projects/openeverest/icon/dark/openeverest-icon-dark.png" width="75"></td>
+        <td><img src="/projects/openeverest/horizontal/dark/openeverest-horizontal-dark.svg" width="200"></td>
+        <td><img src="/projects/openeverest/stacked/dark/openeverest-stacked-dark.svg" width="95"></td>
+        <td><img src="/projects/openeverest/icon/dark/openeverest-icon-dark.svg" width="75"></td>
+    </tr>
+</table>
+
 #### OpenFunction Logos
 
 <table>
