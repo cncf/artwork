@@ -388,6 +388,55 @@
     </tr>
 </table>
 
+#### NMstate Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/nmstate/horizontal/color/nmstate-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/nmstate/stacked/color/nmstate-stacked-color.png" width="95"></td>
+        <td><img src="/projects/nmstate/icon/color/nmstate-icon-color.png" width="75"></td>
+        <td><img src="/projects/nmstate/horizontal/color/nmstate-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/nmstate/stacked/color/nmstate-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/nmstate/icon/color/nmstate-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/nmstate/horizontal/black/nmstate-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/nmstate/stacked/black/nmstate-stacked-black.png" width="95"></td>
+        <td><img src="/projects/nmstate/icon/black/nmstate-icon-black.png" width="75"></td>
+        <td><img src="/projects/nmstate/horizontal/black/nmstate-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/nmstate/stacked/black/nmstate-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/nmstate/icon/black/nmstate-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/nmstate/horizontal/white/nmstate-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/nmstate/stacked/white/nmstate-stacked-white.png" width="95"></td>
+        <td><img src="/projects/nmstate/icon/white/nmstate-icon-white.png" width="75"></td>
+        <td><img src="/projects/nmstate/horizontal/white/nmstate-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/nmstate/stacked/white/nmstate-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/nmstate/icon/white/nmstate-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### OAuth2 Proxy Logos
 
 <table>
