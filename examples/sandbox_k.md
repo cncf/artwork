@@ -1214,6 +1214,55 @@
     </tr>
 </table>
 
+#### kube-vip Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kube-vip/horizontal/color/kube-vip-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kube-vip/stacked/color/kube-vip-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kube-vip/icon/color/kube-vip-icon-color.png" width="75"></td>
+        <td><img src="/projects/kube-vip/horizontal/color/kube-vip-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kube-vip/stacked/color/kube-vip-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kube-vip/icon/color/kube-vip-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kube-vip/horizontal/black/kube-vip-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kube-vip/stacked/black/kube-vip-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kube-vip/icon/black/kube-vip-icon-black.png" width="75"></td>
+        <td><img src="/projects/kube-vip/horizontal/black/kube-vip-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kube-vip/stacked/black/kube-vip-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kube-vip/icon/black/kube-vip-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kube-vip/horizontal/white/kube-vip-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kube-vip/stacked/white/kube-vip-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kube-vip/icon/white/kube-vip-icon-white.png" width="75"></td>
+        <td><img src="/projects/kube-vip/horizontal/white/kube-vip-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kube-vip/stacked/white/kube-vip-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kube-vip/icon/white/kube-vip-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 
 #### Kubean Logos
 
