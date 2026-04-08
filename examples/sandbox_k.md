@@ -1146,6 +1146,15 @@
         <th>icon</th>
     </tr>
     <tr>
+        <th>color</th>
+        <td><img src="/projects/kubeelasti/horizontal/color/kubeelasti-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubeelasti/color/kubeelasti-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubeelasti/icon/color/kubeelasti-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubeelasti/horizontal/color/kubeelasti-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubeelasti/stacked/color/kubeelasti-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubeelasti/icon/color/kubeelasti-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
         <th>black</th>
         <td><img src="/projects/kubeelasti/horizontal/black/kubeelasti-horizontal-black.png" width="200"></td>
         <td><img src="/projects/kubeelasti/stacked/black/kubeelasti-stacked-black.png" width="95"></td>
