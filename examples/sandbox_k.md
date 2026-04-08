@@ -1243,24 +1243,6 @@
         <td><img src="/projects/kube-vip/stacked/color/kube-vip-stacked-color.svg" width="95"></td>
         <td><img src="/projects/kube-vip/icon/color/kube-vip-icon-color.svg" width="75"></td>
     </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/kube-vip/horizontal/black/kube-vip-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/kube-vip/stacked/black/kube-vip-stacked-black.png" width="95"></td>
-        <td><img src="/projects/kube-vip/icon/black/kube-vip-icon-black.png" width="75"></td>
-        <td><img src="/projects/kube-vip/horizontal/black/kube-vip-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/kube-vip/stacked/black/kube-vip-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/kube-vip/icon/black/kube-vip-icon-black.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/projects/kube-vip/horizontal/white/kube-vip-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/kube-vip/stacked/white/kube-vip-stacked-white.png" width="95"></td>
-        <td><img src="/projects/kube-vip/icon/white/kube-vip-icon-white.png" width="75"></td>
-        <td><img src="/projects/kube-vip/horizontal/white/kube-vip-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/kube-vip/stacked/white/kube-vip-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/kube-vip/icon/white/kube-vip-icon-white.svg" width="75"></td>
-    </tr>
 </table>
 
 
