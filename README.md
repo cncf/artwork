@@ -157,6 +157,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [Kuadrant](examples/sandbox_i-o.md/#kuadrant-logos)
     * [Kuasar](examples/sandbox_k.md#kuasar-logos)
     * [kube-burner](examples/sandbox_k.md#kube-burner-logos)
+    * [KubeElasti](examples/sandbox_k.md#kubeelasti-logos)
     * [Kube-OVN](examples/sandbox_k.md#kube-ovn-logos)
     * [kube-rs](examples/sandbox_i-o.md/#kube-rs-logos)
     * [Kubean](examples/sandbox_k.md#kubean-logos)
