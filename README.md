@@ -86,6 +86,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [OpenTelemetry](examples/incubating.md#opentelemetry-logos)
   * [Operator Framework](examples/incubating.md#operator-framework-logos)
   * [Strimzi](examples/incubating.md#strimzi-logos)
+  * [Tekton](examples/incubating.md#tekton-logos)
   * [Thanos](examples/incubating.md#thanos-logos)
   * [Volcano](examples/incubating.md#volcano-logos)
   * [wasmCloud](examples/incubating.md#wasmcloud-logos)
