@@ -834,6 +834,39 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
+#### Kubeflow Hub
+
+<table>
+    <tr>
+        <th colspan="3"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>stacked</th>
+        <th>stacked</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubeflow-hub/kubeflow_hubstacked-color.png" width="200"></td>
+        <td><img src="/projects/kubeflow-hub/kubeflow_hub_stacked-color.svg" width="200"></td>       
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubeflow-hub/kubeflow_hubstacked-black.png" width="200"></td>
+        <td><img src="/projects/kubeflow-hub/kubeflow_hub_stacked-black.svg" width="200"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubeflow-hub/kubeflow_hubstacked-white.png" width="200"></td>
+        <td><img src="/projects/kubeflow-hub/kubeflow_hub_stacked-white.svg" width="200"></td>
+    </tr>
+</table>
+
 #### Kubeflow Model Registry
 
 <table>
@@ -866,7 +899,6 @@ displayed on the light grey of tables.*
         <td><img src="/projects/kubeflow-model-registery/Kubeflow-ModelRegistry-Logo_stacked-white.svg" width="200"></td>
     </tr>
 </table>
-
 
 #### Kubeflow Trainer Logos
 

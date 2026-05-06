@@ -63,6 +63,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Keycloak](examples/incubating.md#keycloak-logos)
   * [KServe](examples/incubating.md#kserve-logos)
   * [Kubeflow](examples/incubating.md#kubeflow-logos)
+    * [Kubeflow Hub](examples/incubating.md#kubeflow-hub)
     * [Kubeflow Model Registry](examples/incubating.md#kubeflow-model-registry)
     * [Kubeflow Trainer](examples/incubating.md#kubeflow-trainer-logos)
     * [Kubeflow Notebook](examples/incubating.md#kubeflow-notebook-logos)
