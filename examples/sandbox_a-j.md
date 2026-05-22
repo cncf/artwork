@@ -1782,6 +1782,47 @@
     </tr>
 </table>
 
+#### Higress Logos
+
+<table>
+    <tr>
+        <th colspan="5"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/higress/horizontal/color/higress-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/higress/icon/color/higress-icon-color.png" width="75"></td>
+        <td><img src="/projects/higress/horizontal/color/higress-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/higress/icon/color/higress-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/higress/horizontal/black/higress-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/higress/icon/black/higress-icon-black.png" width="75"></td>
+        <td><img src="/projects/higress/horizontal/black/higress-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/higress/icon/black/higress-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/higress/horizontal/white/higress-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/higress/icon/white/higress-icon-white.png" width="75"></td>
+        <td><img src="/projects/higress/horizontal/white/higress-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/higress/icon/white/higress-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### HolmesGPT Logos
 
 <table>
