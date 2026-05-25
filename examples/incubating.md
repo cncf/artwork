@@ -998,6 +998,55 @@ displayed on the light grey of tables.*
     </tr>
 </table>
 
+#### Kubeflow Pipelines Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kubeflow-pipelines/horizontal/color/kubeflow-pipelines-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubeflow-pipelines/stacked/color/kubeflow-pipelines-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubeflow-pipelines/icon/color/kubeflow-pipelines-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubeflow-pipelines/horizontal/color/kubeflow-pipelines-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubeflow-pipelines/stacked/color/kubeflow-pipelines-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubeflow-pipelines/icon/color/kubeflow-pipelines-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kubeflow-pipelines/horizontal/black/kubeflow-pipelines-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kubeflow-pipelines/stacked/black/kubeflow-pipelines-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kubeflow-pipelines/icon/black/kubeflow-pipelines-icon-black.png" width="75"></td>
+        <td><img src="/projects/kubeflow-pipelines/horizontal/black/kubeflow-pipelines-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kubeflow-pipelines/stacked/black/kubeflow-pipelines-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kubeflow-pipelines/icon/black/kubeflow-pipelines-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kubeflow-pipelines/horizontal/white/kubeflow-pipelines-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kubeflow-pipelines/stacked/white/kubeflow-pipelines-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kubeflow-pipelines/icon/white/kubeflow-pipelines-icon-white.png" width="75"></td>
+        <td><img src="/projects/kubeflow-pipelines/horizontal/white/kubeflow-pipelines-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kubeflow-pipelines/stacked/white/kubeflow-pipelines-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kubeflow-pipelines/icon/white/kubeflow-pipelines-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Kubeflow Spark Operator Logos
 
 <table>
