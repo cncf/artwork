@@ -267,6 +267,55 @@
     </tr>
 </table>
 
+#### KAI Scheduler Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kai-scheduler/horizontal/color/kai-scheduler-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kai-scheduler/stacked/color/kai-scheduler-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kai-scheduler/icon/color/kai-scheduler-icon-color.png" width="75"></td>
+        <td><img src="/projects/kai-scheduler/horizontal/color/kai-scheduler-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kai-scheduler/stacked/color/kai-scheduler-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kai-scheduler/icon/color/kai-scheduler-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kai-scheduler/horizontal/black/kai-scheduler-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kai-scheduler/stacked/black/kai-scheduler-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kai-scheduler/icon/black/kai-scheduler-icon-black.png" width="75"></td>
+        <td><img src="/projects/kai-scheduler/horizontal/black/kai-scheduler-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kai-scheduler/stacked/black/kai-scheduler-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kai-scheduler/icon/black/kai-scheduler-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kai-scheduler/horizontal/white/kai-scheduler-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kai-scheduler/stacked/white/kai-scheduler-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kai-scheduler/icon/white/kai-scheduler-icon-white.png" width="75"></td>
+        <td><img src="/projects/kai-scheduler/horizontal/white/kai-scheduler-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kai-scheduler/stacked/white/kai-scheduler-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kai-scheduler/icon/white/kai-scheduler-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Kairos Logos
 
 <table>
