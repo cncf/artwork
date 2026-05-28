@@ -984,6 +984,39 @@
     </tr>
 </table>
 
+#### Cohdi Logos
+
+<table>
+    <tr>
+        <th colspan="3"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>PNG</th>
+        <th>SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>icon</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/cohdi/icon/color/cohdi-icon-color.png" width="75"></td>
+        <td><img src="/projects/cohdi/icon/color/cohdi-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/cohdi/icon/black/cohdi-icon-black.png" width="75"></td>
+        <td><img src="/projects/cohdi/icon/black/cohdi-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/cohdi/icon/white/cohdi-icon-white.png" width="75"></td>
+        <td><img src="/projects/cohdi/icon/white/cohdi-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Distribution Logos
 
 <table>
