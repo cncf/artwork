@@ -230,6 +230,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [Tremor](examples/sandbox_s-z.md#tremor-logos)
     * [Trickster](examples/sandbox_s-z.md#trickster-logos)
     * [urunc](examples/sandbox_s-z.md#urunc-logos)
+    * [Velero](examples/sandbox_s-z.md#velero-logos)
     * [Vineyard](examples/sandbox_s-z.md#vineyard-logos)
     * [Virtual Kubelet](examples/sandbox_s-z.md#virtual-kubelet-logos)
     * [VS Code Kubernetes Tools](examples/sandbox_s-z.md#vs-code-kubernetes-tools-logos)
