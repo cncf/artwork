@@ -984,7 +984,7 @@
     </tr>
 </table>
 
-#### Cohdi Logos
+#### CoHDI Logos
 
 <table>
     <tr>
