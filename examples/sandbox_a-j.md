@@ -146,6 +146,55 @@
     </tr>
 </table>
 
+#### Apicurio Registry Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/apicurio-registry/horizontal/color/apicurio-registry-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/apicurio-registry/stacked/color/apicurio-registry-stacked-color.png" width="95"></td>
+        <td><img src="/projects/apicurio-registry/icon/color/apicurio-registry-icon-color.png" width="75"></td>
+        <td><img src="/projects/apicurio-registry/horizontal/color/apicurio-registry-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/apicurio-registry/stacked/color/apicurio-registry-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/apicurio-registry/icon/color/apicurio-registry-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/apicurio-registry/horizontal/black/apicurio-registry-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/apicurio-registry/stacked/black/apicurio-registry-stacked-black.png" width="95"></td>
+        <td><img src="/projects/apicurio-registry/icon/black/apicurio-registry-icon-black.png" width="75"></td>
+        <td><img src="/projects/apicurio-registry/horizontal/black/apicurio-registry-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/apicurio-registry/stacked/black/apicurio-registry-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/apicurio-registry/icon/black/apicurio-registry-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/apicurio-registry/horizontal/white/apicurio-registry-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/apicurio-registry/stacked/white/apicurio-registry-stacked-white.png" width="95"></td>
+        <td><img src="/projects/apicurio-registry/icon/white/apicurio-registry-icon-white.png" width="75"></td>
+        <td><img src="/projects/apicurio-registry/horizontal/white/apicurio-registry-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/apicurio-registry/stacked/white/apicurio-registry-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/apicurio-registry/icon/white/apicurio-registry-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Armada Logos
 
 <table>
