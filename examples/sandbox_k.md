@@ -557,30 +557,30 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/kbind/horizontal/color/kube-bind-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/kbind/stacked/color/kube-bind-stacked-color.png" width="95"></td>
-        <td><img src="/projects/kbind/icon/color/kube-bind-icon-color.png" width="75"></td>
-        <td><img src="/projects/kbind/horizontal/color/kube-bind-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/kbind/stacked/color/kube-bind-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/kbind/icon/color/kube-bind-icon-color.svg" width="75"></td>
+        <td><img src="/projects/kbind/horizontal/color/kbind-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kbind/stacked/color/kbind-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kbind/icon/color/kbind-icon-color.png" width="75"></td>
+        <td><img src="/projects/kbind/horizontal/color/kbind-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kbind/stacked/color/kbind-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kbind/icon/color/kbind-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/kbind/horizontal/black/kube-bind-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/kbind/stacked/black/kube-bind-stacked-black.png" width="95"></td>
-        <td><img src="/projects/kbind/icon/black/kube-bind-icon-black.png" width="75"></td>
-        <td><img src="/projects/kbind/horizontal/black/kube-bind-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/kbind/stacked/black/kube-bind-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/kbind/icon/black/kube-bind-icon-black.svg" width="75"></td>
+        <td><img src="/projects/kbind/horizontal/black/kbind-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kbind/stacked/black/kbind-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kbind/icon/black/kbind-icon-black.png" width="75"></td>
+        <td><img src="/projects/kbind/horizontal/black/kbind-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kbind/stacked/black/kbind-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kbind/icon/black/kbind-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/kbind/horizontal/white/kube-bind-horizontal-white.png" width="200"></td>
-        <td><img src="/projects/kbind/stacked/white/kube-bind-stacked-white.png" width="95"></td>
-        <td><img src="/projects/kbind/icon/white/kube-bind-icon-white.png" width="75"></td>
-        <td><img src="/projects/kbind/horizontal/white/kube-bind-horizontal-white.svg" width="200"></td>
-        <td><img src="/projects/kbind/stacked/white/kube-bind-stacked-white.svg" width="95"></td>
-        <td><img src="/projects/kbind/icon/white/kube-bind-icon-white.svg" width="75"></td>
+        <td><img src="/projects/kbind/horizontal/white/kbind-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kbind/stacked/white/kbind-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kbind/icon/white/kbind-icon-white.png" width="75"></td>
+        <td><img src="/projects/kbind/horizontal/white/kbind-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kbind/stacked/white/kbind-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kbind/icon/white/kbind-icon-white.svg" width="75"></td>
     </tr>
     </table>
 
