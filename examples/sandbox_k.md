@@ -445,6 +445,55 @@
     </tr>
 </table>
 
+#### kbind Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kbind/horizontal/color/kbind-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kbind/stacked/color/kbind-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kbind/icon/color/kbind-icon-color.png" width="75"></td>
+        <td><img src="/projects/kbind/horizontal/color/kbind-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kbind/stacked/color/kbind-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kbind/icon/color/kbind-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kbind/horizontal/black/kbind-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/kbind/stacked/black/kbind-stacked-black.png" width="95"></td>
+        <td><img src="/projects/kbind/icon/black/kbind-icon-black.png" width="75"></td>
+        <td><img src="/projects/kbind/horizontal/black/kbind-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/kbind/stacked/black/kbind-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/kbind/icon/black/kbind-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kbind/horizontal/white/kbind-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/kbind/stacked/white/kbind-stacked-white.png" width="95"></td>
+        <td><img src="/projects/kbind/icon/white/kbind-icon-white.png" width="75"></td>
+        <td><img src="/projects/kbind/horizontal/white/kbind-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/kbind/stacked/white/kbind-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/kbind/icon/white/kbind-icon-white.svg" width="75"></td>
+    </tr>
+    </table>
+
 #### KCL Logos
 
 <table>
