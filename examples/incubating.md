@@ -326,28 +326,28 @@ displayed on the light grey of tables.*
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/confidential-containers/horizontal/color/confidential-containers-color.png" width="200"></td>
+        <td><img src="/projects/confidential-containers/horizontal/color/confidential-containers-horizontal-color.png" width="200"></td>
         <td><img src="/projects/confidential-containers/stacked/color/confidential-containers-stacked-color.png" width="95"></td>
-        <td><img src="/projects/confidential-containers/icon/color/confidential-containers-icon.png" width="75"></td>
-        <td><img src="/projects/confidential-containers/horizontal/color/confidential-containers-color.svg" width="200"></td>
+        <td><img src="/projects/confidential-containers/icon/color/confidential-containers-icon-color.png" width="75"></td>
+        <td><img src="/projects/confidential-containers/horizontal/color/confidential-containers-horizontal-color.svg" width="200"></td>
         <td><img src="/projects/confidential-containers/stacked/color/confidential-containers-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/confidential-containers/icon/color/confidential-containers-icon.svg" width="75"></td>
+        <td><img src="/projects/confidential-containers/icon/color/confidential-containers-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="/projects/confidential-containers/horizontal/black/confidential-containers-black.png" width="200"></td>
+        <td><img src="/projects/confidential-containers/horizontal/black/confidential-containers-horizontal-black.png" width="200"></td>
         <td><img src="/projects/confidential-containers/stacked/black/confidential-containers-stacked-black.png" width="95"></td>
         <td><img src="/projects/confidential-containers/icon/black/confidential-containers-icon-black.png" width="75"></td>
-        <td><img src="/projects/confidential-containers/horizontal/black/confidential-containers-black.svg" width="200"></td>
+        <td><img src="/projects/confidential-containers/horizontal/black/confidential-containers-horizontal-black.svg" width="200"></td>
         <td><img src="/projects/confidential-containers/stacked/black/confidential-containers-stacked-black.svg" width="95"></td>
         <td><img src="/projects/confidential-containers/icon/black/confidential-containers-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/confidential-containers/horizontal/white/confidential-containers-white.png" width="200"></td>
+        <td><img src="/projects/confidential-containers/horizontal/white/confidential-containers-horizontal-white.png" width="200"></td>
         <td><img src="/projects/confidential-containers/stacked/white/confidential-containers-stacked-white.png" width="95"></td>
         <td><img src="/projects/confidential-containers/icon/white/confidential-containers-icon-white.png" width="75"></td>
-        <td><img src="/projects/confidential-containers/horizontal/white/confidential-containers-white.svg" width="200"></td>
+        <td><img src="/projects/confidential-containers/horizontal/white/confidential-containers-horizontal-white.svg" width="200"></td>
         <td><img src="/projects/confidential-containers/stacked/white/confidential-containers-stacked-white.svg" width="95"></td>
         <td><img src="/projects/confidential-containers/icon/white/confidential-containers-icon-white.svg" width="75"></td>
     </tr>
