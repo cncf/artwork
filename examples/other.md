@@ -1247,12 +1247,40 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
 
 <table>
     <tr>
-        <th>PNG</th>
-        <th>SVG</th>
+        <th colspan="5"></th>
     </tr>
     <tr>
-        <td><img src="/other/phippy-and-friends/group/color/group-color.png" width="420"></td>
-        <td><img src="/other/phippy-and-friends/group/color/group-color.svg" width="420"></td>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>square</th>
+        <th>horizontal</th>
+        <th>square</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/phippy-and-friends/group/color/group-color.png" width="300"></td>
+        <td><img src="/other/phippy-and-friends/group/square/color/group-square-color.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/group/color/group-color.svg" width="300"></td>
+        <td><img src="/other/phippy-and-friends/group/square/color/group-square-color.svg" width="150"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/phippy-and-friends/group/black/group-black.png" width="300"></td>
+        <td></td>
+        <td><img src="/other/phippy-and-friends/group/black/group-black.svg" width="300"></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/phippy-and-friends/group/white/group-white.png" width="300"></td>
+        <td></td>
+        <td><img src="/other/phippy-and-friends/group/white/group-white.svg" width="300"></td>
+        <td></td>
     </tr>
 </table>
 
