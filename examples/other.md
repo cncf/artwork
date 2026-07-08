@@ -920,7 +920,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 
 #### Certified Kubernetes Logos
 
-The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are only available for use with [conformant](https://www.cncf.io/certification/software-conformance/) implementations and must comply with the [brand guidelines](/projects/kubernetes/certified-kubernetes/certified-kubernetes-brand-guide.pdf).
+The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are only available for use with [conformant](https://www.cncf.io/certification/software-conformance/) implementations and must comply with the [brand guidelines](/projects/kubernetes/certified-kubernetes/certified-kubernetes-brand-guide.pdf). Badges for previous versions are available [here](https://github.com/cncf/artwork/tree/main/projects/kubernetes/certified-kubernetes).
 
 <table>
     <tr>
@@ -940,23 +940,23 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.31/color/certified-kubernetes-1.31-color.png" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.36/color/certified-kubernetes-1.36-color.png" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.png" width="130"></td>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.31/color/certified-kubernetes-1.31-color.svg" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.36/color/certified-kubernetes-1.36-color.svg" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.svg" width="130"></td>
     </tr>
     <tr>
         <th>pantone</th>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.31/cmyk/certified-kubernetes-1.31-cmyk.png" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.36/cmyk/certified-kubernetes-1.36-cmyk.png" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/pantone/certified-kubernetes-pantone.png" width="130"></td>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.31/cmyk/certified-kubernetes-1.31-cmyk.svg" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.36/cmyk/certified-kubernetes-1.36-cmyk.svg" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/pantone/certified-kubernetes-pantone.svg" width="130"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.31/white/certified-kubernetes-1.31-white.png" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.36/white/certified-kubernetes-1.36-white.png" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/white/certified-kubernetes-white.png" width="130"></td>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.31/white/certified-kubernetes-1.31-white.svg" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.36/white/certified-kubernetes-1.36-white.svg" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/white/certified-kubernetes-white.svg" width="130"></td>
     </tr>
 </table>
