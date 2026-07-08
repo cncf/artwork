@@ -333,7 +333,7 @@ displayed on the light grey of tables.*
         <td><img src="/projects/confidential-containers/stacked/color/confidential-containers-stacked-color.svg" width="95"></td>
         <td><img src="/projects/confidential-containers/icon/color/confidential-containers-icon.svg" width="75"></td>
     </tr>
-   <tr>
+    <tr>
         <th>black</th>
         <td><img src="/projects/confidential-containers/horizontal/black/confidential-containers-black.png" width="200"></td>
         <td><img src="/projects/confidential-containers/stacked/black/confidential-containers-stacked-black.png" width="95"></td>
