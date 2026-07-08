@@ -920,7 +920,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 
 #### Certified Kubernetes Logos
 
-The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are only available for use with [conformant](https://www.cncf.io/certification/software-conformance/) implementations and must comply with the [brand guidelines](/projects/kubernetes/certified-kubernetes/certified-kubernetes-brand-guide.pdf).
+The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are only available for use with [conformant](https://www.cncf.io/certification/software-conformance/) implementations and must comply with the [brand guidelines](/projects/kubernetes/certified-kubernetes/certified-kubernetes-brand-guide.pdf). Badges for previous versions are available [here](https://github.com/cncf/artwork/tree/main/projects/kubernetes/certified-kubernetes).
 
 <table>
     <tr>
