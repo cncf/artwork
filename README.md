@@ -181,6 +181,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [Kured](examples/sandbox_k.md#kured-logos)
     * [KusionStack](examples/sandbox_k.md#kusionstack-logos)
   * [Sandbox Projects L-R](examples/sandbox_l-r.md)
+    * [llm-d](examples/sandbox_l-r.md#llm-d-logos)
     * [Logging-Operator](examples/sandbox_i-o.md/#logging-operator-logos)
     * [LoxiLB](examples/sandbox_l-r.md#loxilb-logos)
     * [meshery](examples/sandbox_l-r.md#meshery-logos)
