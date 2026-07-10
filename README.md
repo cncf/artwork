@@ -234,7 +234,6 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [Trickster](examples/sandbox_s-z.md#trickster-logos)
     * [urunc](examples/sandbox_s-z.md#urunc-logos)
     * [Velero](examples/sandbox_s-z.md#velero-logos)
-    * [Vineyard](examples/sandbox_s-z.md#vineyard-logos)
     * [Virtual Kubelet](examples/sandbox_s-z.md#virtual-kubelet-logos)
     * [VS Code Kubernetes Tools](examples/sandbox_s-z.md#vs-code-kubernetes-tools-logos)
     * [WasmEdgeRuntime](examples/sandbox_s-z.md#wasedgeruntime-logos)
@@ -312,6 +311,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Skooner](examples/archived.md#skooner-logos)
   * [SuperEdge](examples/archived.md#superedge-logos)
   * [Teller](examples/archived.md#teller-logos)
+  * [Vineyard](examples/archived.md#vineyard-logos)
   * [Xline](examples/archived.md#xline-logos)
   * TAGS
     * [TAG Security](examples/archived.md#tag-security)
