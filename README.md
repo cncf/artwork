@@ -8,6 +8,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
 
 * [Graduated Projects](examples/graduated.md)
   * [Argo](examples/graduated.md#argo-logos)
+  * [Buildpacks](examples/graduated.md#buildpacks-logos)
   * [Cert-Manager](examples/graduated.md#cert-manager-logos)
   * [Cilium](examples/graduated.md#cilium-logos)
   * [CloudEvents](examples/graduated.md#cloudevents-logos)
@@ -50,7 +51,6 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
 * [Incubating Projects](examples/incubating.md)
   * [Artifact Hub](examples/incubating.md#artifact-hub-logos)
   * [Backstage](examples/incubating.md#backstage-logos)
-  * [Buildpacks](examples/incubating.md#buildpacks-logos)
   * [Chaos Mesh](examples/incubating.md#chaos-mesh-logos)
   * [Cloud Custodian](examples/incubating.md#cloud-custodian-logos)
   * [CNI](examples/incubating.md#cni-logos)

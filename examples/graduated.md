@@ -52,6 +52,55 @@ displayed on the light grey of tables._
     </tr>
 </table>
 
+#### Buildpacks Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/buildpacks/horizontal/color/buildpacks-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/buildpacks/stacked/color/buildpacks-stacked-color.png" width="95"></td>
+        <td><img src="/projects/buildpacks/icon/color/buildpacks-icon-color.png" width="75"></td>
+        <td><img src="/projects/buildpacks/horizontal/color/buildpacks-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/buildpacks/stacked/color/buildpacks-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/buildpacks/icon/color/buildpacks-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/buildpacks/horizontal/black/buildpacks-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/buildpacks/stacked/black/buildpacks-stacked-black.png" width="95"></td>
+        <td><img src="/projects/buildpacks/icon/black/buildpacks-icon-black.png" width="75"></td>
+        <td><img src="/projects/buildpacks/horizontal/black/buildpacks-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/buildpacks/stacked/black/buildpacks-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/buildpacks/icon/black/buildpacks-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/buildpacks/horizontal/white/buildpacks-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/buildpacks/stacked/white/buildpacks-stacked-white.png" width="95"></td>
+        <td><img src="/projects/buildpacks/icon/white/buildpacks-icon-white.png" width="75"></td>
+        <td><img src="/projects/buildpacks/horizontal/white/buildpacks-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/buildpacks/stacked/white/buildpacks-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/buildpacks/icon/white/buildpacks-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Cert-Manager Logos
 
 <table>
