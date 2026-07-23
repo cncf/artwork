@@ -113,6 +113,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [Cartography](examples/sandbox_a-j.md#cartography-logos)
     * [Carvel](examples/sandbox_a-j.md#carvel-logos)
     * [cdk8s](examples/sandbox_a-j.md#cdk8s-logos)
+    * [Cedar](examples/sandbox_a-j.md#cedar-logos)
     * [ChaosBlade](examples/sandbox_a-j.md#chaosblade-logos)
     * [CloudNativePG](examples/sandbox_a-j.md#cloudnativepg-logos)
     * [Clusternet](examples/sandbox_a-j.md#clusternet-logos)
