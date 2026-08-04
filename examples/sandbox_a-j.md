@@ -49,6 +49,55 @@
     </tr>
 </table>
 
+#### Agones Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/agones/horizontal/color/agones-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/agones/stacked/color/agones-stacked-color.png" width="95"></td>
+        <td><img src="/projects/agones/icon/color/agones-icon-color.png" width="75"></td>
+        <td><img src="/projects/agones/horizontal/color/agones-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/agones/stacked/color/agones-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/agones/icon/color/agones-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/agones/horizontal/black/agones-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/agones/stacked/black/agones-stacked-black.png" width="95"></td>
+        <td><img src="/projects/agones/icon/black/agones-icon-black.png" width="75"></td>
+        <td><img src="/projects/agones/horizontal/black/agones-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/agones/stacked/black/agones-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/agones/icon/black/agones-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/agones/horizontal/white/agones-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/agones/stacked/white/agones-stacked-white.png" width="95"></td>
+        <td><img src="/projects/agones/icon/white/agones-icon-white.png" width="75"></td>
+        <td><img src="/projects/agones/horizontal/white/agones-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/agones/stacked/white/agones-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/agones/icon/white/agones-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Akri Logos
 
 <table>

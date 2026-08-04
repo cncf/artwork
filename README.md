@@ -97,6 +97,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
 * Sandbox Projects
   * [Sandbox Projects A-J](examples/sandbox_a-j.md)
     * [Aeraki Mesh](examples/sandbox_a-j.md#aeraki-mesh-logos)
+    * [Agones](examples/sandbox_a-j.md#agones-logos)
     * [Akri](examples/sandbox_a-j.md#akri-logos)
     * [Antrea](examples/sandbox_a-j.md#antrea-logos)
     * [Apicurio Registry](examples/sandbox_a-j.md#apicurio-registry-logos)
