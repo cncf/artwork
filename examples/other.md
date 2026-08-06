@@ -1288,7 +1288,7 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
 
 <table>
     <tr>
-    	<th colspan="18"></th>
+    	<th colspan="19"></th>
     </tr>
     <tr>
         <th></th>
@@ -1309,6 +1309,7 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <th>Tai (TUF)</th>
         <th>Tiago (TiKV)</th>
         <th>Zee (etcd)</th>
+        <th>Falkey (Falco)</th>
     </tr>
     <tr>
         <th>PNG</th>
@@ -1329,6 +1330,7 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <td><img src="/other/phippy-and-friends/tai_full.png" width="150"></td>
         <td><img src="/other/phippy-and-friends/tiago_full.png" width="150"></td>
         <td><img src="/other/phippy-and-friends/zee_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/falkey_full.png" width="150"></td>
     </tr>
     <tr>
         <th>SVG</th>
@@ -1349,6 +1351,7 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <td><img src="/other/phippy-and-friends/tai_full.svg" width="150"></td>
         <td><img src="/other/phippy-and-friends/tiago_full.svg" width="150"></td>
         <td><img src="/other/phippy-and-friends/zee_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/falkey_full.svg" width="150"></td>
     </tr>
 </table>
 
