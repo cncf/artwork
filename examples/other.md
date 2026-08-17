@@ -1250,7 +1250,6 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <th colspan="5"></th>
     </tr>
     <tr>
-        <th></th>
         <th colspan="2">PNG</th>
         <th colspan="2">SVG</th>
     </tr>
