@@ -1273,6 +1273,7 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
 
 <table>
     <tr>
+		<th></th>
     	<th colspan="19"></th>
     </tr>
     <tr>
