@@ -1310,6 +1310,7 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <th>Tiago (TiKV)</th>
         <th>Zee (etcd)</th>
         <th>Falkey (Falco)</th>
+		<th>Great Pyrenees (Kyverno)</th>
     </tr>
     <tr>
         <th>PNG</th>
