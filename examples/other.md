@@ -1251,8 +1251,8 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
     </tr>
     <tr>
         <th></th>
-        <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th>
+        <th colspan="1">PNG</th>
+        <th colspan="1">SVG</th>
     </tr>
     <tr>
         <th></th>
@@ -1267,20 +1267,6 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <td><img src="/other/phippy-and-friends/group/square/color/group-square-color.png" width="150"></td>
         <td><img src="/other/phippy-and-friends/group/color/group-color.svg" width="300"></td>
         <td><img src="/other/phippy-and-friends/group/square/color/group-square-color.svg" width="150"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/phippy-and-friends/group/black/group-black.png" width="300"></td>
-        <td></td>
-        <td><img src="/other/phippy-and-friends/group/black/group-black.svg" width="300"></td>
-        <td></td>
-    </tr>
-    <tr>
-        <th>white</th>
-        <td><img src="/other/phippy-and-friends/group/white/group-white.png" width="300"></td>
-        <td></td>
-        <td><img src="/other/phippy-and-friends/group/white/group-white.svg" width="300"></td>
-        <td></td>
     </tr>
 </table>
 
@@ -1332,7 +1318,7 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <td><img src="/other/phippy-and-friends/tiago_full.png" width="50"></td>
         <td><img src="/other/phippy-and-friends/zee_full.png" width="50"></td>
         <td><img src="/other/phippy-and-friends/falkey_full.png" width="50"></td>
-        <td><img src="/other/phippy-and-friends/GreatPyrenees_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/GreatPyrenees_full.png" width="100"></td>
     </tr>
     <tr>
         <th>SVG</th>
@@ -1354,7 +1340,7 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <td><img src="/other/phippy-and-friends/tiago_full.svg" width="50"></td>
         <td><img src="/other/phippy-and-friends/zee_full.svg" width="50"></td>
         <td><img src="/other/phippy-and-friends/falkey_full.svg" width="50"></td>
-        <td><img src="/other/phippy-and-friends/GreatPyrenees_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/GreatPyrenees_full.svg" width="100"></td>
     </tr>
 </table>
 
