@@ -1291,6 +1291,7 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
     	<th colspan="19"></th>
     </tr>
     <tr>
+		<th></th>
         <th>Argi (Argo)</th>
         <th>Bitzy (Fluent Bit)</th>
         <th>Cappy (Cluster API)</th>
@@ -1313,47 +1314,47 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
     </tr>
     <tr>
         <th>PNG</th>
-        <td><img src="/other/phippy-and-friends/argi_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/bitzy_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/cappy_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/captain_kube_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/goldie_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/hazel_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/indigo_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/izzy_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/keddy_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/kuack_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/linky_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/obee_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/owlina_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/phippy_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/tai_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/tiago_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/zee_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/falkey_full.png" width="100"></td>
-        <td><img src="/other/phippy-and-friends/GreatPyrenees_full.png" width="100"></td>
+        <td><img src="/other/phippy-and-friends/argi_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/bitzy_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/cappy_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/captain_kube_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/goldie_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/hazel_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/indigo_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/izzy_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/keddy_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/kuack_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/linky_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/obee_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/owlina_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/phippy_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/tai_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/tiago_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/zee_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/falkey_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/GreatPyrenees_full.png" width="50"></td>
     </tr>
     <tr>
         <th>SVG</th>
-        <td><img src="/other/phippy-and-friends/argi_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/bitzy_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/cappy_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/captain_kube_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/goldie_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/hazel_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/indigo_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/izzy_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/keddy_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/kuack_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/linky_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/obee_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/owlina_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/phippy_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/tai_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/tiago_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/zee_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/falkey_full.svg" width="150"></td>
-        <td><img src="/other/phippy-and-friends/GreatPyrenees_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/argi_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/bitzy_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/cappy_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/captain_kube_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/goldie_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/hazel_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/indigo_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/izzy_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/keddy_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/kuack_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/linky_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/obee_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/owlina_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/phippy_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/tai_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/tiago_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/zee_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/falkey_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/GreatPyrenees_full.svg" width="50"></td>
     </tr>
 </table>
 
