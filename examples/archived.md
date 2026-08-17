@@ -1,7 +1,5 @@
 ## CNCF Archived Project Logos
 
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
-
 #### Brigade Logos
 
 <table>
@@ -285,6 +283,104 @@
         <td><img src="/archived/fonio/icon/white/fonio-icon-white.png" width="150"></td>
         <td><img src="/archived/fonio/stacked/white/fonio-stacked-white.svg" width="150"></td>
         <td><img src="/archived/fonio/icon/white/fonio-icon-white.svg" width="150"></td>
+    </tr>
+</table>
+
+#### Hexa Policy Orchestrator Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>dark</th>
+        <td><img src="/archived/hexa/horizontal/hexa-horizontal-dark.png" width="250"></td>
+        <td><img src="/archived/hexa/stacked/hexa-stacked-dark.png" width="150"></td>
+        <td><img src="/archived/hexa/icon/hexa-icon-dark.png" width="150"></td>
+        <td><img src="/archived/hexa/horizontal/hexa-horizontal-dark.svg" width="250"></td>
+        <td><img src="/archived/hexa/stacked/hexa-stacked-dark.svg" width="150"></td>
+        <td><img src="/archived/hexa/icon/hexa-icon-dark.svg" width="150"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/archived/hexa/horizontal/hexa-horizontal-color.png" width="250"></td>
+        <td><img src="/archived/hexa/stacked/hexa-stacked-color.png" width="150"></td>
+        <td><img src="/archived/hexa/icon/hexa-icon-color.png" width="150"></td>
+        <td><img src="/archived/hexa/horizontal/hexa-horizontal-color.svg" width="250"></td>
+        <td><img src="/archived/hexa/stacked/hexa-stacked-color.svg" width="150"></td>
+        <td><img src="/archived/hexa/icon/hexa-icon-color.svg" width="150"></td>
+    </tr>
+    <tr>
+        <th>light</th>
+        <td><img src="/archived/hexa/horizontal/hexa-horizontal-light.png" width="250"></td>
+        <td><img src="/archived/hexa/stacked/hexa-stacked-light.png" width="150"></td>
+        <td><img src="/archived/hexa/icon/hexa-icon-light.png" width="150"></td>
+        <td><img src="/archived/hexa/horizontal/hexa-horizontal-light.svg" width="250"></td>
+        <td><img src="/archived/hexa/stacked/hexa-stacked-light.svg" width="150"></td>
+        <td><img src="/archived/hexa/icon/hexa-icon-light.svg" width="150"></td>
+    </tr>
+</table>
+
+#### Keptn Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/archived/keptn/horizontal/color/keptn-horizontal-color.png" width="200"></td>
+        <td><img src="/archived/keptn/stacked/color/keptn-stacked-color.png" width="95"></td>
+        <td><img src="/archived/keptn/icon/color/keptn-icon-color.png" width="75"></td>
+        <td><img src="/archived/keptn/horizontal/color/keptn-horizontal-color.svg" width="200"></td>
+        <td><img src="/archived/keptn/stacked/color/keptn-stacked-color.svg" width="95"></td>
+        <td><img src="/archived/keptn/icon/color/keptn-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/archived/keptn/horizontal/black/keptn-horizontal-black.png" width="200"></td>
+        <td><img src="/archived/keptn/stacked/black/keptn-stacked-black.png" width="95"></td>
+        <td><img src="/archived/keptn/icon/black/keptn-icon-black.png" width="75"></td>
+        <td><img src="/archived/keptn/horizontal/black/keptn-horizontal-black.svg" width="200"></td>
+        <td><img src="/archived/keptn/stacked/black/keptn-stacked-black.svg" width="95"></td>
+        <td><img src="/archived/keptn/icon/black/keptn-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/archived/keptn/horizontal/white/keptn-horizontal-white.png" width="200"></td>
+        <td><img src="/archived/keptn/stacked/white/keptn-stacked-white.png" width="95"></td>
+        <td><img src="/archived/keptn/icon/white/keptn-icon-white.png" width="75"></td>
+        <td><img src="/archived/keptn/horizontal/white/keptn-horizontal-white.svg" width="200"></td>
+        <td><img src="/archived/keptn/stacked/white/keptn-stacked-white.svg" width="95"></td>
+        <td><img src="/archived/keptn/icon/white/keptn-icon-white.svg" width="75"></td>
     </tr>
 </table>
 
@@ -711,6 +807,47 @@
     </tr>
 </table>
 
+#### Pravega Logos
+
+<table>
+    <tr>
+        <th colspan="5"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/archived/pravega/horizontal/color/pravega-horizontal-color.png" width="200"></td>
+        <td><img src="/archived/pravega/icon/color/pravega-icon-color.png" width="75"></td>
+        <td><img src="/archived/pravega/horizontal/color/pravega-horizontal-color.svg" width="200"></td>
+        <td><img src="/archived/pravega/icon/color/pravega-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/archived/pravega/horizontal/black/pravega-horizontal-black.png" width="200"></td>
+        <td><img src="/archived/pravega/icon/black/pravega-icon-black.png" width="75"></td>
+        <td><img src="/archived/pravega/horizontal/black/pravega-horizontal-black.svg" width="200"></td>
+        <td><img src="/archived/pravega/icon/black/pravega-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/archived/pravega/horizontal/white/pravega-horizontal-white.png" width="200"></td>
+        <td><img src="/archived/pravega/icon/white/pravega-icon-white.png" width="75"></td>
+        <td><img src="/archived/pravega/horizontal/white/pravega-horizontal-white.svg" width="200"></td>
+        <td><img src="/archived/pravega/icon/white/pravega-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### rkt Logos
 
 <table>
@@ -845,6 +982,55 @@
 		<td><img src="/archived/servicemeshinterface/horizontal-stackedtext/white/servicemeshinterface-horizontal-stackedtext-white.svg" width="200"></td>
         <td><img src="/archived/servicemeshinterface/stacked/white/servicemeshinterface-stacked-white.svg" width="95"></td>
         <td><img src="/archived/servicemeshinterface/icon/white/servicemeshinterface-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### servicemeshperformance Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>dark</th>
+        <td><img src="/archived/servicemeshperformance/horizontal/smp-dark-text-side.png" width="200"></td>
+        <td><img src="/archived/servicemeshperformance/stacked/smp-dark-text.png" width="95"></td>
+        <td><img src="/archived/servicemeshperformance/icon/smp-dark.png" width="75"></td>
+        <td><img src="/archived/servicemeshperformance/horizontal/smp-dark-text-side.svg" width="200"></td>
+        <td><img src="/archived/servicemeshperformance/stacked/smp-dark-text.svg" width="95"></td>
+        <td><img src="/archived/servicemeshperformance/icon/smp-dark.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>light</th>
+        <td><img src="/archived/servicemeshperformance/horizontal/smp-light-text-side.png" width="200"></td>
+        <td><img src="/archived/servicemeshperformance/stacked/smp-light-text.png" width="95"></td>
+        <td><img src="/archived/servicemeshperformance/icon/smp-light.png" width="75"></td>
+        <td><img src="/archived/servicemeshperformance/horizontal/smp-light-text-side.svg" width="200"></td>
+        <td><img src="/archived/servicemeshperformance/stacked/smp-light-text.svg" width="95"></td>
+        <td><img src="/archived/servicemeshperformance/icon/smp-light.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/archived/servicemeshperformance/horizontal/smp-white-text-side.png" width="200"></td>
+        <td><img src="/archived/servicemeshperformance/stacked/smp-white-text.png" width="95"></td>
+        <td><img src="/archived/servicemeshperformance/icon/smp-white.png" width="75"></td>
+        <td><img src="/archived/servicemeshperformance/horizontal/smp-white-text-side.svg" width="200"></td>
+        <td><img src="/archived/servicemeshperformance/stacked/smp-white-text.svg" width="95"></td>
+        <td><img src="/archived/servicemeshperformance/icon/smp-white.svg" width="75"></td>
     </tr>
 </table>
 
@@ -992,6 +1178,113 @@
         <td><img src="/archived/teller/horizontal/white/teller-horizontal-white.svg" width="200"></td>
         <td><img src="/archived/teller/stacked/white/teller-stacked-white.svg" width="95"></td>
         <td><img src="/archived/teller/icon/white/teller-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### Vineyard Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/archived/vineyard/horizontal/color/vineyard-horizontal-color.png" width="200"></td>
+        <td><img src="/archived/vineyard/stacked/color/vineyard-stacked-color.png" width="200"></td>
+        <td><img src="/archived/vineyard/icon/color/vineyard-icon-color.png" width="75"></td>
+        <td><img src="/archived/vineyard/horizontal/color/vineyard-horizontal-color.svg" width="200"></td>
+        <td><img src="/archived/vineyard/stacked/color/vineyard-stacked-color.svg" width="200"></td>
+        <td><img src="/archived/vineyard/icon/color/vineyard-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/archived/vineyard/horizontal/black/vineyard-horizontal-black.png" width="200"></td>
+        <td><img src="/archived/vineyard/stacked/black/vineyard-stacked-black.png" width="200"></td>
+        <td><img src="/archived/vineyard/icon/black/vineyard-icon-black.png" width="75"></td>
+        <td><img src="/archived/vineyard/horizontal/black/vineyard-horizontal-black.svg" width="200"></td>
+        <td><img src="/archived/vineyard/stacked/black/vineyard-stacked-black.svg" width="200"></td>
+        <td><img src="/archived/vineyard/icon/black/vineyard-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/archived/vineyard/horizontal/white/vineyard-horizontal-white.png" width="200"></td>
+        <td><img src="/archived/vineyard/stacked/white/vineyard-stacked-white.png" width="200"></td>
+        <td><img src="/archived/vineyard/icon/white/vineyard-icon-white.png" width="75"></td>
+        <td><img src="/archived/vineyard/horizontal/white/vineyard-horizontal-white.svg" width="200"></td>
+        <td><img src="/archived/vineyard/stacked/white/vineyard-stacked-white.svg" width="200"></td>
+        <td><img src="/archived/vineyard/icon/white/vineyard-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### Xline Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/archived/xline/horizontal/color/xline-horizontal-color.png" width="200"></td>
+        <td><img src="/archived/xline/stacked/color/xline-stacked-color.png" width="95"></td>
+        <td><img src="/archived/xline/icon/color/xline-icon-color.png" width="75"></td>
+        <td><img src="/archived/xline/horizontal/color/xline-horizontal-color.svg" width="200"></td>
+        <td><img src="/archived/xline/stacked/color/xline-stacked-color.svg" width="95"></td>
+        <td><img src="/archived/xline/icon/color/xline-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/archived/xline/horizontal/black/xline-horizontal-black.png" width="200"></td>
+        <td><img src="/archived/xline/stacked/black/xline-stacked-black.png" width="95"></td>
+        <td><img src="/archived/xline/icon/black/xline-icon-black.png" width="75"></td>
+        <td><img src="/archived/xline/horizontal/black/xline-horizontal-black.svg" width="200"></td>
+        <td><img src="/archived/xline/stacked/black/xline-stacked-black.svg" width="95"></td>
+        <td><img src="/archived/xline/icon/black/xline-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/archived/xline/horizontal/white/xline-horizontal-white.png" width="200"></td>
+        <td><img src="/archived/xline/stacked/white/xline-stacked-white.png" width="95"></td>
+        <td><img src="/archived/xline/icon/white/xline-icon-white.png" width="75"></td>
+        <td><img src="/archived/xline/horizontal/white/xline-horizontal-white.svg" width="200"></td>
+        <td><img src="/archived/xline/stacked/white/xline-stacked-white.svg" width="95"></td>
+        <td><img src="/archived/xline/icon/white/xline-icon-white.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white-text</th>
+        <td><img src="/archived/xline/horizontal/white-text/xline-horizontal-white-text.png" width="200"></td>
+        <td><img src="/archived/xline/stacked/white-text/xline-stacked-white-text.png" width="95"></td>
+        <td><img src="/archived/xline/icon/white-text/xline-icon-white-text.png" width="75"></td>
+        <td><img src="/archived/xline/horizontal/white-text/xline-horizontal-white-text.svg" width="200"></td>
+        <td><img src="/archived/xline/stacked/white-text/xline-stacked-white-text.svg" width="95"></td>
+        <td><img src="/archived/xline/icon/white-text/xline-icon-white-text.svg" width="75"></td>
     </tr>
 </table>
 
@@ -1392,6 +1685,79 @@
     </tr>
 </table>
 
+
+#### Original Phippy & Friends Individual Logos
+
+<table>
+    <tr>
+    	<th colspan="13"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="6">PNG</th>
+        <th colspan="6">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>Phippy</th>
+        <th>Zee</th>
+        <th>Goldie</th>
+        <th>Captain Kube</th>
+        <th>Hazel</th>
+        <th>Linky</th>
+        <th>Phippy</th>
+        <th>Zee</th>
+        <th>Goldie</th>
+        <th>Captain Kube</th>
+        <th>Hazel</th>
+        <th>Linky</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/archived/phippy-and-friends/phippy/color/phippy-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/zee/color/zee-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/goldie/color/goldie-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/captainkube/color/captainkube-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/hazel/color/hazel-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/linky/color/linky-color.png" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/phippy/color/phippy-color.svg" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/zee/color/zee-color.svg" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/goldie/color/goldie-color.svg" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/captainkube/color/captainkube-color.svg" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/hazel/color/hazel-color.svg" width="75" /></td>
+        <td><img src="/archived/phippy-and-friends/linky/color/linky-color.svg" width="75" /></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/archived/phippy-and-friends/phippy/black/phippy-black.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/zee/black/zee-black.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/goldie/black/goldie-black.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/captainkube/black/captainkube-black.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/hazel/black/hazel-black.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/linky/black/linky-black.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/phippy/black/phippy-black.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/zee/black/zee-black.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/goldie/black/goldie-black.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/captainkube/black/captainkube-black.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/hazel/black/hazel-black.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/linky/black/linky-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/archived/phippy-and-friends/phippy/white/phippy-white.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/zee/white/zee-white.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/goldie/white/goldie-white.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/captainkube/white/captainkube-white.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/hazel/white/hazel-white.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/linky/white/linky-white.png" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/phippy/white/phippy-white.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/zee/white/zee-white.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/goldie/white/goldie-white.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/captainkube/white/captainkube-white.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/hazel/white/hazel-white.svg" width="75"></td>
+        <td><img src="/archived/phippy-and-friends/linky/white/linky-white.svg" width="75"></td>
+    </tr>
+</table>
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 

@@ -2,8 +2,6 @@
 
 Please note that CNCF prefers the horizontal form of our logo to the stacked version when feasible.
 
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
-
 #### CNCF Logos
 
 <table>
@@ -668,139 +666,145 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 
 ### KubeCon + CloudNativeCon Logos
 
-#### North America 2025 Logos
+#### North America 2026 Logos
 
 <table>
     <tr>
         <th></th>
         <th>PNG</th>
         <th>SVG</th>
-    </tr><tr></tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/other/kubecon-cloudnativecon/2025-na/color/kccnc-na-2025-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2025-na/color/kccnc-na-2025-color.svg" width="260"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/kubecon-cloudnativecon/2025-na/black/kccnc-na-2025-black.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2025-na/black/kccnc-na-2025-black.svg" width="260"></td>
-    </tr>
-    <tr>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/kubecon-cloudnativecon/2025-na/white/kccnc-na-2025-white.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2025-na/white/kccnc-na-2025-white.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-na/white/kccnc-na-2026-white.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-na/white/kccnc-na-2026-white.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/kubecon-cloudnativecon/2026-na/black/kccnc-na-2026-black.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-na/black/kccnc-na-2026-black.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/kubecon-cloudnativecon/2026-na/color/kccnc-na-2026-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-na/color/kccnc-na-2026-color.svg" width="260"></td>
     </tr>
 </table>
 
-#### Europe 2025 Logos
+#### Europe 2026 Logos
 
 <table>
     <tr>
         <th></th>
         <th>PNG</th>
         <th>SVG</th>
-    </tr><tr></tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/other/kubecon-cloudnativecon/2025-eu/color/kccnc-eu-2025-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2025-eu/color/kccnc-eu-2025-color.svg" width="260"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/kubecon-cloudnativecon/2025-eu/black/kccnc-eu-2025-black.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2025-eu/black/kccnc-eu-2025-black.svg" width="260"></td>
-    </tr>
-    <tr>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/kubecon-cloudnativecon/2025-eu/white/kccnc-eu-2025-white.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2025-eu/white/kccnc-eu-2025-white.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-eu/white/kccnc-eu-2026-white.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-eu/white/kccnc-eu-2026-white.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/kubecon-cloudnativecon/2026-eu/black/kccnc-eu-2026-black.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-eu/black/kccnc-eu-2026-black.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/kubecon-cloudnativecon/2026-eu/color/kccnc-eu-2026-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-eu/color/kccnc-eu-2026-color.svg" width="260"></td>
     </tr>
 </table>
 
-#### India 2025 Logos
+#### India 2026 Logos
 
 <table>
     <tr>
         <th></th>
         <th>PNG</th>
         <th>SVG</th>
-    </tr><tr></tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/other/kubecon-cloudnativecon/2025-india/color/kccnc-india-2025-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2025-india/color/kccnc-india-2025-color.svg" width="260"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/kubecon-cloudnativecon/2025-india/black/kccnc-india-2025-black.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2025-india/black/kccnc-india-2025-black.svg" width="260"></td>
-    </tr>
-    <tr>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/kubecon-cloudnativecon/2025-india/white/kccnc-india-2025-white.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2025-india/white/kccnc-india-2025-white.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-india/white/kccnc-india-2026-white.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-india/white/kccnc-india-2026-white.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/kubecon-cloudnativecon/2026-india/black/kccnc-india-2026-black.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-india/black/kccnc-india-2026-black.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/kubecon-cloudnativecon/2026-india/color/kccnc-india-2026-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-india/color/kccnc-india-2026-color.svg" width="260"></td>
     </tr>
 </table>
 
-#### Japan 2025 Logos
+#### Japan 2026 Logos
 
 <table>
     <tr>
         <th></th>
         <th>PNG</th>
         <th>SVG</th>
-    </tr><tr></tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/other/kubecon-cloudnativecon/2025-japan/color/kccnc-japan-2025-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2025-japan/color/kccnc-japan-2025-color.svg" width="260"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/other/kubecon-cloudnativecon/2025-japan/black/kccnc-japan-2025-black.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2025-japan/black/kccnc-japan-2025-black.svg" width="260"></td>
-    </tr>
-    <tr>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/kubecon-cloudnativecon/2025-japan/white/kccnc-japan-2025-white.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2025-japan/white/kccnc-japan-2025-white.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-japan/white/kccnc-japan-2026-white.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-japan/white/kccnc-japan-2026-white.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/kubecon-cloudnativecon/2026-japan/black/kccnc-japan-2026-black.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-japan/black/kccnc-japan-2026-black.svg" width="260"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/kubecon-cloudnativecon/2026-japan/color/kccnc-japan-2026-color.png" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-japan/color/kccnc-japan-2026-color.svg" width="260"></td>
     </tr>
 </table>
 
 
-#### China 2025 Logos
+#### China 2026 Logos
 
 <table>
     <tr>
+        <th colspan="5"></th>
+    </tr>
+    <tr>
         <th></th>
-        <th>PNG</th>
-        <th>SVG</th>
-    </tr><tr></tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/other/kubecon-cloudnativecon/2025-china/color/kccnc-china-2025-color.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2025-china/color/kccnc-china-2025-color.svg" width="260"></td>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
     </tr>
     <tr>
-        <th>black</th>
-        <td><img src="/other/kubecon-cloudnativecon/2025-china/black/kccnc-china-2025-black.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2025-china/black/kccnc-china-2025-black.svg" width="260"></td>
-    </tr>
-    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>horizontal</th>
+        <th>stacked</th>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/other/kubecon-cloudnativecon/2025-china/white/kccnc-china-2025-white.png" width="260"></td>
-        <td><img src="/other/kubecon-cloudnativecon/2025-china/white/kccnc-china-2025-white.svg" width="260"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-china/horizontal/white/kccnc-china-2026-horizontal-white.png" width="200"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-china/stacked/white/kccnc-china-2026-stacked-white.png" width="95"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-china/horizontal/white/kccnc-china-2026-horizontal-white.svg" width="200"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-china/stacked/white/kccnc-china-2026-stacked-white.svg" width="95"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/kubecon-cloudnativecon/2026-china/horizontal/black/kccnc-china-2026-horizontal-black.png" width="200"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-china/stacked/black/kccnc-china-2026-stacked-black.png" width="95"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-china/horizontal/black/kccnc-china-2026-horizontal-black.svg" width="200"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-china/stacked/black/kccnc-china-2026-stacked-black.svg" width="95"></td>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/other/kubecon-cloudnativecon/2026-china/horizontal/color/kccnc-china-2026-horizontal-color.png" width="200"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-china/stacked/color/kccnc-china-2026-stacked-color.png" width="95"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-china/horizontal/color/kccnc-china-2026-horizontal-color.svg" width="200"></td>
+        <td><img src="/other/kubecon-cloudnativecon/2026-china/stacked/color/kccnc-china-2026-stacked-color.svg" width="95"></td>
     </tr>
 </table>
 
@@ -916,7 +920,7 @@ Please note that CNCF prefers the horizontal form of our logo to the stacked ver
 
 #### Certified Kubernetes Logos
 
-The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are only available for use with [conformant](https://www.cncf.io/certification/software-conformance/) implementations and must comply with the [brand guidelines](/projects/kubernetes/certified-kubernetes/certified-kubernetes-brand-guide.pdf).
+The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are only available for use with [conformant](https://www.cncf.io/certification/software-conformance/) implementations and must comply with the [brand guidelines](/projects/kubernetes/certified-kubernetes/certified-kubernetes-brand-guide.pdf). Badges for previous versions are available [here](https://github.com/cncf/artwork/tree/main/projects/kubernetes/certified-kubernetes).
 
 <table>
     <tr>
@@ -936,23 +940,23 @@ The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are 
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.31/color/certified-kubernetes-1.31-color.png" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.36/color/certified-kubernetes-1.36-color.png" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.png" width="130"></td>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.31/color/certified-kubernetes-1.31-color.svg" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.36/color/certified-kubernetes-1.36-color.svg" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.svg" width="130"></td>
     </tr>
     <tr>
         <th>pantone</th>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.31/cmyk/certified-kubernetes-1.31-cmyk.png" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.36/cmyk/certified-kubernetes-1.36-cmyk.png" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/pantone/certified-kubernetes-pantone.png" width="130"></td>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.31/cmyk/certified-kubernetes-1.31-cmyk.svg" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.36/cmyk/certified-kubernetes-1.36-cmyk.svg" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/pantone/certified-kubernetes-pantone.svg" width="130"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.31/white/certified-kubernetes-1.31-white.png" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.36/white/certified-kubernetes-1.36-white.png" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/white/certified-kubernetes-white.png" width="130"></td>
-        <td><img src="/projects/kubernetes/certified-kubernetes/1.31/white/certified-kubernetes-1.31-white.svg" width="130"></td>
+        <td><img src="/projects/kubernetes/certified-kubernetes/1.36/white/certified-kubernetes-1.36-white.svg" width="130"></td>
         <td><img src="/projects/kubernetes/certified-kubernetes/versionless/white/certified-kubernetes-white.svg" width="130"></td>
     </tr>
 </table>
@@ -1243,57 +1247,111 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
 
 <table>
     <tr>
+        <th colspan="5"></th>
+    </tr>
+    <tr>
         <th></th>
-        <th>PNG</th>
-        <th>SVG</th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>square</th>
+        <th>horizontal</th>
+        <th>square</th>
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/other/phippy-and-friends/group/color/group-color.png" width="420"></td>
-        <td><img src="/other/phippy-and-friends/group/color/group-color.svg" width="420"></td>
+        <td><img src="/other/phippy-and-friends/group/color/group-color.png" width="300"></td>
+        <td><img src="/other/phippy-and-friends/group/square/color/group-square-color.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/group/color/group-color.svg" width="300"></td>
+        <td><img src="/other/phippy-and-friends/group/square/color/group-square-color.svg" width="150"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/other/phippy-and-friends/group/black/group-black.png" width="300"></td>
+        <td></td>
+        <td><img src="/other/phippy-and-friends/group/black/group-black.svg" width="300"></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/other/phippy-and-friends/group/white/group-white.png" width="300"></td>
+        <td></td>
+        <td><img src="/other/phippy-and-friends/group/white/group-white.svg" width="300"></td>
+        <td></td>
     </tr>
 </table>
 
-#### Phippy & Friends Individual Logos
+#### Updated Phippy & Friends Individual Logos
 
 <table>
     <tr>
-    	<th colspan="13"></th>
+    	<th colspan="19"></th>
     </tr>
     <tr>
         <th></th>
-        <th colspan="6">PNG</th>
-        <th colspan="6">SVG</th>
+        <th>Argi (Argo)</th>
+        <th>Bitzy (Fluent Bit)</th>
+        <th>Cappy (Cluster API)</th>
+        <th>Captain Kube (Kubernetes)</th>
+        <th>Goldie</th>
+        <th>Hazel (Helm)</th>
+        <th>Indigo (in-toto)</th>
+        <th>Izzy (Istio)</th>
+        <th>Keddy (KEDA)</th>
+        <th>Kuack (Knative)</th>
+        <th>Linky (Linkerd)</th>
+        <th>Obee (Cilium)</th>
+        <th>Owlina (OPA)</th>
+        <th>Phippy</th>
+        <th>Tai (TUF)</th>
+        <th>Tiago (TiKV)</th>
+        <th>Zee (etcd)</th>
+        <th>Falkey (Falco)</th>
     </tr>
     <tr>
-        <th></th>
-        <th>Phippy</th>
-        <th>Zee</th>
-        <th>Goldie</th>
-        <th>Captain Kube</th>
-        <th>Hazel</th>
-        <th>Linky</th>
-        <th>Phippy</th>
-        <th>Zee</th>
-        <th>Goldie</th>
-        <th>Captain Kube</th>
-        <th>Hazel</th>
-        <th>Linky</th>
+        <th>PNG</th>
+        <td><img src="/other/phippy-and-friends/argi_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/bitzy_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/cappy_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/captain_kube_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/goldie_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/hazel_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/indigo_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/izzy_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/keddy_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/kuack_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/linky_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/obee_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/owlina_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/phippy_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/tai_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/tiago_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/zee_full.png" width="150"></td>
+        <td><img src="/other/phippy-and-friends/falkey_full.png" width="150"></td>
     </tr>
     <tr>
-        <th>color</th>
-        <td><img src="/other/phippy-and-friends/phippy/color/phippy-color.png" width="75"></td>
-        <td><img src="/other/phippy-and-friends/zee/color/zee-color.png" width="75"></td>
-        <td><img src="/other/phippy-and-friends/goldie/color/goldie-color.png" width="75"></td>
-        <td><img src="/other/phippy-and-friends/captainkube/color/captainkube-color.png" width="75"></td>
-        <td><img src="/other/phippy-and-friends/hazel/color/hazel-color.png" width="75"></td>
-        <td><img src="/other/phippy-and-friends/linky/color/linky-color.png" width="75"></td>
-        <td><img src="/other/phippy-and-friends/phippy/color/phippy-color.svg" width="75"></td>
-        <td><img src="/other/phippy-and-friends/zee/color/zee-color.svg" width="75"></td>
-        <td><img src="/other/phippy-and-friends/goldie/color/goldie-color.svg" width="75"></td>
-        <td><img src="/other/phippy-and-friends/captainkube/color/captainkube-color.svg" width="75"></td>
-        <td><img src="/other/phippy-and-friends/hazel/color/hazel-color.svg" width="75"></td>
-        <td><img src="/other/phippy-and-friends/linky/color/linky-color.svg" width="75"></td>
+        <th>SVG</th>
+        <td><img src="/other/phippy-and-friends/argi_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/bitzy_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/cappy_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/captain_kube_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/goldie_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/hazel_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/indigo_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/izzy_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/keddy_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/kuack_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/linky_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/obee_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/owlina_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/phippy_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/tai_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/tiago_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/zee_full.svg" width="150"></td>
+        <td><img src="/other/phippy-and-friends/falkey_full.svg" width="150"></td>
     </tr>
 </table>
 
