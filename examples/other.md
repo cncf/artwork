@@ -1303,7 +1303,7 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <td><img src="/other/phippy-and-friends/argi_full.png" width="50"></td>
         <td><img src="/other/phippy-and-friends/bitzy_full.png" width="50"></td>
         <td><img src="/other/phippy-and-friends/cappy_full.png" width="50"></td>
-        <td><img src="/other/phippy-and-friends/captain_kube_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/captain_kube_full.png" width="100"></td>
         <td><img src="/other/phippy-and-friends/goldie_full.png" width="50"></td>
         <td><img src="/other/phippy-and-friends/hazel_full.png" width="50"></td>
         <td><img src="/other/phippy-and-friends/indigo_full.png" width="50"></td>
@@ -1318,14 +1318,14 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <td><img src="/other/phippy-and-friends/tiago_full.png" width="50"></td>
         <td><img src="/other/phippy-and-friends/zee_full.png" width="50"></td>
         <td><img src="/other/phippy-and-friends/falkey_full.png" width="50"></td>
-        <td><img src="/other/phippy-and-friends/ky_full.png" width="50"></td>
+        <td><img src="/other/phippy-and-friends/ky_full.png" width="100"></td>
     </tr>
     <tr>
         <th>SVG</th>
         <td><img src="/other/phippy-and-friends/argi_full.svg" width="50"></td>
         <td><img src="/other/phippy-and-friends/bitzy_full.svg" width="50"></td>
         <td><img src="/other/phippy-and-friends/cappy_full.svg" width="50"></td>
-        <td><img src="/other/phippy-and-friends/captain_kube_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/captain_kube_full.svg" width="100"></td>
         <td><img src="/other/phippy-and-friends/goldie_full.svg" width="50"></td>
         <td><img src="/other/phippy-and-friends/hazel_full.svg" width="50"></td>
         <td><img src="/other/phippy-and-friends/indigo_full.svg" width="50"></td>
@@ -1340,7 +1340,7 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <td><img src="/other/phippy-and-friends/tiago_full.svg" width="50"></td>
         <td><img src="/other/phippy-and-friends/zee_full.svg" width="50"></td>
         <td><img src="/other/phippy-and-friends/falkey_full.svg" width="50"></td>
-        <td><img src="/other/phippy-and-friends/ky_full.svg" width="50"></td>
+        <td><img src="/other/phippy-and-friends/ky_full.svg" width="100"></td>
     </tr>
 </table>
 
