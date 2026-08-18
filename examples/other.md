@@ -1318,7 +1318,7 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <td><img src="/other/phippy-and-friends/tiago_full.png" width="50"></td>
         <td><img src="/other/phippy-and-friends/zee_full.png" width="50"></td>
         <td><img src="/other/phippy-and-friends/falkey_full.png" width="50"></td>
-        <td><img src="/other/phippy-and-friends/ky_full.png" width="100"></td>
+        <td><img src="/other/phippy-and-friends/ky_full.png" width="50"></td>
     </tr>
     <tr>
         <th>SVG</th>
@@ -1340,7 +1340,7 @@ The [Certified CNF](https://github.com/cncf/artwork/tree/master/other/certified-
         <td><img src="/other/phippy-and-friends/tiago_full.svg" width="50"></td>
         <td><img src="/other/phippy-and-friends/zee_full.svg" width="50"></td>
         <td><img src="/other/phippy-and-friends/falkey_full.svg" width="50"></td>
-        <td><img src="/other/phippy-and-friends/ky_full.svg" width="100"></td>
+        <td><img src="/other/phippy-and-friends/ky_full.svg" width="50"></td>
     </tr>
 </table>
 
