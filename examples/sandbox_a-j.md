@@ -885,6 +885,55 @@
         </tr>
       </table>
 
+#### Cedar Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/cedar/horizontal/color/cedar-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/cedar/stacked/color/cedar-stacked-color.png" width="95"></td>
+        <td><img src="/projects/cedar/icon/color/cedar-icon-color.png" width="75"></td>
+        <td><img src="/projects/cedar/horizontal/color/cedar-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/cedar/stacked/color/cedar-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/cedar/icon/color/cedar-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/cedar/horizontal/black/cedar-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/cedar/stacked/black/cedar-stacked-black.png" width="95"></td>
+        <td><img src="/projects/cedar/icon/black/cedar-icon-black.png" width="75"></td>
+        <td><img src="/projects/cedar/horizontal/black/cedar-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/cedar/stacked/black/cedar-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/cedar/icon/black/cedar-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/cedar/horizontal/white/cedar-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/cedar/stacked/white/cedar-stacked-white.png" width="95"></td>
+        <td><img src="/projects/cedar/icon/white/cedar-icon-white.png" width="75"></td>
+        <td><img src="/projects/cedar/horizontal/white/cedar-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/cedar/stacked/white/cedar-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/cedar/icon/white/cedar-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### ChaosBlade Logos
 
 <table>
