@@ -1,5 +1,54 @@
 ## Cloud Native Sandbox Project Logos (S-Z)
 
+#### Schema Driven Configuration (SDC) Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/schema-driven-configuration/horizontal/color/schema-driven-configuration-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/schema-driven-configuration/stacked/color/schema-driven-configuration-stacked-color.png" width="95"></td>
+        <td><img src="/projects/schema-driven-configuration/icon/color/schema-driven-configuration-icon-color.png" width="75"></td>
+        <td><img src="/projects/schema-driven-configuration/horizontal/color/schema-driven-configuration-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/schema-driven-configuration/stacked/color/schema-driven-configuration-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/schema-driven-configuration/icon/color/schema-driven-configuration-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/schema-driven-configuration/horizontal/black/schema-driven-configuration-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/schema-driven-configuration/stacked/black/schema-driven-configuration-stacked-black.png" width="95"></td>
+        <td><img src="/projects/schema-driven-configuration/icon/black/schema-driven-configuration-icon-black.png" width="75"></td>
+        <td><img src="/projects/schema-driven-configuration/horizontal/black/schema-driven-configuration-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/schema-driven-configuration/stacked/black/schema-driven-configuration-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/schema-driven-configuration/icon/black/schema-driven-configuration-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/schema-driven-configuration/horizontal/white/schema-driven-configuration-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/schema-driven-configuration/stacked/white/schema-driven-configuration-stacked-white.png" width="95"></td>
+        <td><img src="/projects/schema-driven-configuration/icon/white/schema-driven-configuration-icon-white.png" width="75"></td>
+        <td><img src="/projects/schema-driven-configuration/horizontal/white/schema-driven-configuration-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/schema-driven-configuration/stacked/white/schema-driven-configuration-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/schema-driven-configuration/icon/white/schema-driven-configuration-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Schemahero Logos
 
 <table>
@@ -97,47 +146,6 @@
         <td><img src="/projects/score/icon/white/score-icon-white.svg" width="75"></td>
     </tr>
 </table>
-
-#### SDC (Schema Driven Configuration) logos
-
-<table>
-    <tr>
-        <th colspan="7"></th>
-    </tr>
-    <tr>
-        <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-        <th>horizontal</th>
-        <th>stacked</th>
-        <th>icon</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <td><img src="/projects/sdc/horizontal/color/sdc-horizontal-color.png" width="200"></td>
-        <td><img src="/projects/sdc/stacked/color/sdc-stacked-color.png" width="95"></td>
-        <td><img src="/projects/sdc/icon/color/sdc-icon-color.png" width="75"></td>
-        <td><img src="/projects/sdc/horizontal/color/sdc-horizontal-color.svg" width="200"></td>
-        <td><img src="/projects/sdc/stacked/color/sdc-stacked-color.svg" width="95"></td>
-        <td><img src="/projects/sdc/icon/color/sdc-icon-color.svg" width="75"></td>
-    </tr>
-    <tr>
-        <th>black</th>
-        <td><img src="/projects/sdc/horizontal/black/sdc-horizontal-black.png" width="200"></td>
-        <td><img src="/projects/sdc/stacked/black/sdc-stacked-black.png" width="95"></td>
-        <td><img src="/projects/sdc/icon/black/sdc-icon-black.png" width="75"></td>
-        <td><img src="/projects/sdc/horizontal/black/sdc-horizontal-black.svg" width="200"></td>
-        <td><img src="/projects/sdc/stacked/black/sdc-stacked-black.svg" width="95"></td>
-        <td><img src="/projects/sdc/icon/black/sdc-icon-black.svg" width="75"></td>
-    </tr>
-</table>
-
 
 #### Sermant Logos
 
