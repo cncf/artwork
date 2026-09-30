@@ -218,6 +218,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [Ratify](examples/sandbox_l-r.md#ratify-logos)
     * [Runme Notebooks](examples/sandbox_l-r.md#runme-notebooks-logos)
   * [Sandbox Projects S-Z](examples/sandbox_s-z.md)
+    * [Schema Driven Configuration (SDC)](examples/sandbox_s-z.md#schema-driven-configuration-sdc-logos)
     * [Schemahero](examples/sandbox_s-z.md#schemahero-logos)
     * [Score](examples/sandbox_s-z.md#score-logos)
     * [Sermant](examples/sandbox_s-z.md#sermant-logos)
