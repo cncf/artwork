@@ -221,6 +221,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [Schema Driven Configuration (SDC)](examples/sandbox_s-z.md#schema-driven-configuration-sdc-logos)
     * [Schemahero](examples/sandbox_s-z.md#schemahero-logos)
     * [Score](examples/sandbox_s-z.md#score-logos)
+    * [SDC (Schema Driven Configuration)](examples/sandbox_s-z.md#sdc-schema-driven-configuration-logos)
     * [Sermant](examples/sandbox_s-z.md#sermant-logos)
     * [Serverless Devs](examples/sandbox_s-z.md#serverless-devs-logos)
     * [Shipwright](examples/sandbox_s-z.md#shipwright-logos)
