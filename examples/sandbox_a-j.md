@@ -1856,6 +1856,56 @@
     </tr>
 </table>
 
+#### Hive Commons Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/hive-commons/horizontal/color/hive-commons-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/hive-commons/stacked/color/hive-commons-stacked-color.png" width="95"></td>
+        <td><img src="/projects/hive-commons/icon/color/hive-commons-icon-color.png" width="75"></td>
+        <td><img src="/projects/hive-commons/horizontal/color/hive-commons-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/hive-commons/stacked/color/hive-commons-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/hive-commons/icon/color/hive-commons-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/hive-commons/horizontal/black/hive-commons-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/hive-commons/stacked/black/hive-commons-stacked-black.png" width="95"></td>
+        <td><img src="/projects/hive-commons/icon/black/hive-commons-icon-black.png" width="75"></td>
+        <td><img src="/projects/hive-commons/horizontal/black/hive-commons-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/hive-commons/stacked/black/hive-commons-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/hive-commons/icon/black/hive-commons-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/hive-commons/horizontal/white/hive-commons-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/hive-commons/stacked/white/hive-commons-stacked-white.png" width="95"></td>
+        <td><img src="/projects/hive-commons/icon/white/hive-commons-icon-white.png" width="75"></td>
+        <td><img src="/projects/hive-commons/horizontal/white/hive-commons-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/hive-commons/stacked/white/hive-commons-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/hive-commons/icon/white/hive-commons-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+
 #### HolmesGPT Logos
 
 <table>
