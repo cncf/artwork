@@ -289,6 +289,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Cartografos Working Group](examples/other.md#cartografosWG-logos)
   * [Artificial Intelligence Working Group](examples/other.md#artificial-intelligence-working-group-logos)
   * [Cloud Native Community Groups](examples/other.md#cloud-native-community-groups)
+* [KubeRay Logos and Design Mockups](examples/kuberay.md)
 * [Archived Projects](examples/archived.md)
   * [Brigade](examples/archived.md#brigade-logos)
   * [Curiefense](examples/archived.md#curiefense-logos)
