@@ -23,5 +23,3 @@ The SVGs contain vector artwork and outlined lettering; they do not embed raster
 ## Preview
 
 ![KubeRay beaver horizontal color logo](horizontal/color/kuberay-horizontal-color.svg)
-
-The beaver white version is intended for dark backgrounds.
