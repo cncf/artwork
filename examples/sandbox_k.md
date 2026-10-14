@@ -1502,19 +1502,52 @@
 
 #### KubeRay Logos
 
-The supplied artwork includes two stacked logo presentations and three design mockups. All files are PNGs; SVGs and the full set of standard logo variants are not yet available.
-
-| Full-color stacked logo | Silhouette presentation |
-| --- | --- |
-| <img src="/projects/kuberay/stacked/color/kuberay-stacked-color.png" width="400" alt="KubeRay full-color stacked logo"> | <img src="/projects/kuberay/stacked/color/kuberay-stacked-silhouette.png" width="400" alt="KubeRay silhouette presentation"> |
-
-##### Design mockups
-
-| Business cards | Tote bag | Exhibition booth |
-| --- | --- | --- |
-| <img src="/projects/kuberay/mockups/kuberay-business-cards.png" width="250" alt="KubeRay business card mockup"> | <img src="/projects/kuberay/mockups/kuberay-tote-bag.png" width="250" alt="KubeRay tote bag mockup"> | <img src="/projects/kuberay/mockups/kuberay-booth.png" width="250" alt="KubeRay exhibition booth mockup"> |
-
-See [asset descriptions and source filenames](/projects/kuberay/README.md).
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/kuberay/horizontal/color/kuberay-horizontal-color.png" width="200" alt="KubeRay horizontal color logo"></td>
+        <td><img src="/projects/kuberay/stacked/color/kuberay-stacked-color.png" width="95" alt="KubeRay stacked color logo"></td>
+        <td><img src="/projects/kuberay/icon/color/kuberay-icon-color.png" width="75" alt="KubeRay icon color logo"></td>
+        <td><img src="/projects/kuberay/horizontal/color/kuberay-horizontal-color.svg" width="200" alt="KubeRay horizontal color logo"></td>
+        <td><img src="/projects/kuberay/stacked/color/kuberay-stacked-color.svg" width="95" alt="KubeRay stacked color logo"></td>
+        <td><img src="/projects/kuberay/icon/color/kuberay-icon-color.svg" width="75" alt="KubeRay icon color logo"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/kuberay/horizontal/black/kuberay-horizontal-black.png" width="200" alt="KubeRay horizontal black logo"></td>
+        <td><img src="/projects/kuberay/stacked/black/kuberay-stacked-black.png" width="95" alt="KubeRay stacked black logo"></td>
+        <td><img src="/projects/kuberay/icon/black/kuberay-icon-black.png" width="75" alt="KubeRay icon black logo"></td>
+        <td><img src="/projects/kuberay/horizontal/black/kuberay-horizontal-black.svg" width="200" alt="KubeRay horizontal black logo"></td>
+        <td><img src="/projects/kuberay/stacked/black/kuberay-stacked-black.svg" width="95" alt="KubeRay stacked black logo"></td>
+        <td><img src="/projects/kuberay/icon/black/kuberay-icon-black.svg" width="75" alt="KubeRay icon black logo"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/kuberay/horizontal/white/kuberay-horizontal-white.png" width="200" alt="KubeRay horizontal white logo"></td>
+        <td><img src="/projects/kuberay/stacked/white/kuberay-stacked-white.png" width="95" alt="KubeRay stacked white logo"></td>
+        <td><img src="/projects/kuberay/icon/white/kuberay-icon-white.png" width="75" alt="KubeRay icon white logo"></td>
+        <td><img src="/projects/kuberay/horizontal/white/kuberay-horizontal-white.svg" width="200" alt="KubeRay horizontal white logo"></td>
+        <td><img src="/projects/kuberay/stacked/white/kuberay-stacked-white.svg" width="95" alt="KubeRay stacked white logo"></td>
+        <td><img src="/projects/kuberay/icon/white/kuberay-icon-white.svg" width="75" alt="KubeRay icon white logo"></td>
+    </tr>
+</table>
 
 #### Kuberhealthy Logos
 
