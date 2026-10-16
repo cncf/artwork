@@ -1502,6 +1502,55 @@
     </tr>
 </table>
 
+#### Praxis Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/praxis/horizontal/color/praxis-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/praxis/stacked/color/praxis-stacked-color.png" width="95"></td>
+        <td><img src="/projects/praxis/icon/color/praxis-icon-color.png" width="75"></td>
+        <td><img src="/projects/praxis/horizontal/color/praxis-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/praxis/stacked/color/praxis-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/praxis/icon/color/praxis-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/praxis/horizontal/black/praxis-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/praxis/stacked/black/praxis-stacked-black.png" width="95"></td>
+        <td><img src="/projects/praxis/icon/black/praxis-icon-black.png" width="75"></td>
+        <td><img src="/projects/praxis/horizontal/black/praxis-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/praxis/stacked/black/praxis-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/praxis/icon/black/praxis-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/praxis/horizontal/white/praxis-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/praxis/stacked/white/praxis-stacked-white.png" width="95"></td>
+        <td><img src="/projects/praxis/icon/white/praxis-icon-white.png" width="75"></td>
+        <td><img src="/projects/praxis/horizontal/white/praxis-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/praxis/stacked/white/praxis-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/praxis/icon/white/praxis-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Radius Logos
 
 <table>
