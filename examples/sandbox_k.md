@@ -1500,6 +1500,55 @@
     </tr>
 </table>
 
+#### KubeRay Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>beaver color</th>
+        <td><img src="/projects/kuberay/horizontal/color/kuberay-horizontal-color.png" width="200" alt="KubeRay beaver horizontal color logo"></td>
+        <td><img src="/projects/kuberay/stacked/color/kuberay-stacked-color.png" width="95" alt="KubeRay beaver stacked color logo"></td>
+        <td><img src="/projects/kuberay/icon/color/kuberay-icon-color.png" width="75" alt="KubeRay beaver icon color logo"></td>
+        <td><img src="/projects/kuberay/horizontal/color/kuberay-horizontal-color.svg" width="200" alt="KubeRay beaver horizontal color logo"></td>
+        <td><img src="/projects/kuberay/stacked/color/kuberay-stacked-color.svg" width="95" alt="KubeRay beaver stacked color logo"></td>
+        <td><img src="/projects/kuberay/icon/color/kuberay-icon-color.svg" width="75" alt="KubeRay beaver icon color logo"></td>
+    </tr>
+    <tr>
+        <th>beaver black</th>
+        <td><img src="/projects/kuberay/horizontal/black/kuberay-horizontal-black.png" width="200" alt="KubeRay beaver horizontal black logo"></td>
+        <td><img src="/projects/kuberay/stacked/black/kuberay-stacked-black.png" width="95" alt="KubeRay beaver stacked black logo"></td>
+        <td><img src="/projects/kuberay/icon/black/kuberay-icon-black.png" width="75" alt="KubeRay beaver icon black logo"></td>
+        <td><img src="/projects/kuberay/horizontal/black/kuberay-horizontal-black.svg" width="200" alt="KubeRay beaver horizontal black logo"></td>
+        <td><img src="/projects/kuberay/stacked/black/kuberay-stacked-black.svg" width="95" alt="KubeRay beaver stacked black logo"></td>
+        <td><img src="/projects/kuberay/icon/black/kuberay-icon-black.svg" width="75" alt="KubeRay beaver icon black logo"></td>
+    </tr>
+    <tr>
+        <th>beaver white</th>
+        <td><img src="/projects/kuberay/horizontal/white/kuberay-horizontal-white.png" width="200" alt="KubeRay beaver horizontal white logo"></td>
+        <td><img src="/projects/kuberay/stacked/white/kuberay-stacked-white.png" width="95" alt="KubeRay beaver stacked white logo"></td>
+        <td><img src="/projects/kuberay/icon/white/kuberay-icon-white.png" width="75" alt="KubeRay beaver icon white logo"></td>
+        <td><img src="/projects/kuberay/horizontal/white/kuberay-horizontal-white.svg" width="200" alt="KubeRay beaver horizontal white logo"></td>
+        <td><img src="/projects/kuberay/stacked/white/kuberay-stacked-white.svg" width="95" alt="KubeRay beaver stacked white logo"></td>
+        <td><img src="/projects/kuberay/icon/white/kuberay-icon-white.svg" width="75" alt="KubeRay beaver icon white logo"></td>
+    </tr>
+</table>
+
 #### Kuberhealthy Logos
 
 <table>
