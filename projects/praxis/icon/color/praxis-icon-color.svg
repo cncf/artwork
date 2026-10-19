@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="449" height="501" viewBox="0 0 449 501"><title>Praxis — icon — color</title><desc>Inter Light (300), lowercase wordmark, tracking 0.04em; typography converted to outlines.</desc><defs>
+<linearGradient id="spectrum" x1="98" y1="285" x2="453" y2="170" gradientUnits="userSpaceOnUse"><stop stop-color="#5316F6" /><stop offset=".38" stop-color="#3E69F8" /><stop offset=".65" stop-color="#16A7ED" /><stop offset="1" stop-color="#08D8BA" /></linearGradient>
+<linearGradient id="teal" x1="339" y1="380" x2="407" y2="80" gradientUnits="userSpaceOnUse"><stop stop-color="#0CBFCA" /><stop offset="1" stop-color="#08D2B7" /></linearGradient><linearGradient id="center" x1="245" y1="230" x2="320" y2="235" gradientUnits="userSpaceOnUse"><stop stop-color="#3574F4" /><stop offset="1" stop-color="#0FC2E1" /></linearGradient>
+<linearGradient id="ribbon" x1="154" y1="280" x2="407" y2="250" gradientUnits="userSpaceOnUse"><stop stop-color="#5C2CF3" /><stop offset=".53" stop-color="#199FEB" /><stop offset="1" stop-color="#06D7BE" /></linearGradient>
+<mask id="channel"><rect width="556" height="600" fill="white" /><path d="M 145 247 C 207 285 242 230 289 207 C 332 184 376 186 408 235 L 408 269 C 383 212 338 207 299 225 C 251 246 217 312 153 273 Z" fill="black" /></mask>
+</defs><g id="symbol" transform="translate(-58 22)">
+<g fill="url(#spectrum)" mask="url(#channel)">
+<path d="M153.5 92 C153.5 73 169 58 188 58 C207 58 222 73 222 92 L222 369 C222 388 207 403 188 403 C169 403 153.5 388 153.5 369 Z" />
+<path fill="url(#center)" d="M245 54 C245 34 261 18 281 18 C301 18 317 34 317 54 L316 403 C316 423 300 439 280 439 C260 439 244 423 244 403 Z" />
+<path fill="url(#teal)" d="M339 92 C339 73 354 58 373 58 C392 58 407 73 407 92 L407 369 C407 388 392 403 373 403 C354 403 339 388 339 369 Z" />
+<path d="M98 152 Q98 143 106 149 C125 160 142 178 142 199 L142 242 Q142 250 134 245 C110 234 98 216 98 197 Z" />
+<path d="M423 226 Q423 217 431 222 C452 232 467 252 467 274 L467 313 Q467 322 459 316 C435 304 423 285 423 264 Z" />
+</g>
+<path fill="url(#ribbon)" opacity=".42" d="M154 264 C205 309 243 269 291 238 C307 228 322 219 339 217 L339 260 C321 263 308 273 289 284 C238 312 193 305 154 279 Z" />
+</g></svg>

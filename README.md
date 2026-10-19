@@ -215,6 +215,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [Podman Container Tools](examples/sandbox_l-r.md#podman-container-tools-logos)
     * [Podman Desktop](examples/sandbox_l-r.md#podman-desktop-logos)
     * [Porter](examples/sandbox_l-r.md#porter-logos)
+    * [Praxis](examples/sandbox_l-r.md#praxis-logos)
     * [Radius](examples/sandbox_l-r.md#radius-logos)
     * [Ratify](examples/sandbox_l-r.md#ratify-logos)
     * [Runme Notebooks](examples/sandbox_l-r.md#runme-notebooks-logos)
