@@ -1036,6 +1036,55 @@
     </tr>
 </table>
 
+#### Oxia Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/oxia/horizontal/color/oxia-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/oxia/stacked/color/oxia-stacked-color.png" width="95"></td>
+        <td><img src="/projects/oxia/icon/color/oxia-icon-color.png" width="75"></td>
+        <td><img src="/projects/oxia/horizontal/color/oxia-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/oxia/stacked/color/oxia-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/oxia/icon/color/oxia-icon-color.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/oxia/horizontal/black/oxia-horizontal-black.png" width="200"></td>
+        <td><img src="/projects/oxia/stacked/black/oxia-stacked-black.png" width="95"></td>
+        <td><img src="/projects/oxia/icon/black/oxia-icon-black.png" width="75"></td>
+        <td><img src="/projects/oxia/horizontal/black/oxia-horizontal-black.svg" width="200"></td>
+        <td><img src="/projects/oxia/stacked/black/oxia-stacked-black.svg" width="95"></td>
+        <td><img src="/projects/oxia/icon/black/oxia-icon-black.svg" width="75"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/oxia/horizontal/white/oxia-horizontal-white.png" width="200"></td>
+        <td><img src="/projects/oxia/stacked/white/oxia-stacked-white.png" width="95"></td>
+        <td><img src="/projects/oxia/icon/white/oxia-icon-white.png" width="75"></td>
+        <td><img src="/projects/oxia/horizontal/white/oxia-horizontal-white.svg" width="200"></td>
+        <td><img src="/projects/oxia/stacked/white/oxia-stacked-white.svg" width="95"></td>
+        <td><img src="/projects/oxia/icon/white/oxia-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
 #### Paralus Logos
 
 <table>
