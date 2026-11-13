@@ -190,6 +190,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [llm-d](examples/sandbox_l-r.md#llm-d-logos)
     * [Logging-Operator](examples/sandbox_i-o.md/#logging-operator-logos)
     * [LoxiLB](examples/sandbox_l-r.md#loxilb-logos)
+    * [MatrixHub](examples/sandbox_l-r.md#matrixhub-logos)
     * [MetalLB](examples/sandbox_l-r.md#metallb-logos)
     * [ModelPack](examples/sandbox_l-r.md#modelpack-logos)
     * [Network Service Mesh](examples/sandbox_l-r.md#network-service-mesh-logos)
