@@ -1,0 +1,125 @@
+name: Validate SVG artwork
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review]
+    paths:
+      - '**.svg'
+      - '**/*.svg'
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: Pull request number to check
+        required: true
+        type: number
+
+permissions:
+  contents: read
+  pull-requests: write
+
+concurrency:
+  group: validate-svg-${{ github.event.pull_request.number || inputs.pr_number }}
+  cancel-in-progress: true
+
+jobs:
+  validate-svg:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Validate SVGs and comment on the pull request
+        uses: actions/github-script@ed597411d8f924073f98dfc5c65a23a2325f34cd # v8
+        env:
+          PR_NUMBER: ${{ github.event.pull_request.number || inputs.pr_number }}
+        with:
+          script: |
+            const pull_number = Number(process.env.PR_NUMBER);
+            if (!Number.isSafeInteger(pull_number) || pull_number < 1) {
+              throw new Error('Please supply a valid PR number.');
+            }
+            const repo = context.repo;
+            const { data: pr } = await github.rest.pulls.get({ ...repo, pull_number });
+            if (pr.changed_files > 3000) {
+              throw new Error('This PR exceeds the GitHub file-list limit; please check it manually.');
+            }
+            const files = await github.paginate(github.rest.pulls.listFiles, {
+              ...repo, pull_number, per_page: 100,
+            });
+            const svgs = files.filter(file =>
+              file.status !== 'removed' && file.filename.endsWith('.svg')
+            );
+            const issues = [];
+            for (const file of svgs) {
+              let issue;
+              try {
+                const { data: blob } = await github.rest.git.getBlob({
+                  owner: pr.head.repo.owner.login,
+                  repo: pr.head.repo.name,
+                  file_sha: file.sha,
+                });
+                if (blob.size > 1572864) {
+                  issue = "Please reduce the file below AutoCrop's 1.5 MB limit.";
+                } else {
+                  const svg = Buffer.from(blob.content, 'base64').toString('utf8');
+                  const response = await fetch('https://autocrop.cncf.io/autocrop', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ svg }),
+                    signal: AbortSignal.timeout(45000),
+                  });
+                  if (!response.ok) {
+                    throw new Error(`AutoCrop returned HTTP ${response.status}`);
+                  }
+                  const result = await response.json();
+                  if (result.success !== true) {
+                    if (typeof result.error !== 'string' || !result.error.trim()) {
+                      throw new Error('Unexpected AutoCrop response');
+                    }
+                    if (/<text>/i.test(result.error)) {
+                      issue = 'Please convert the text to paths so no installed fonts are needed.';
+                    } else {
+                      issue = result.error.replace(/\s+/g, ' ').trim().slice(0, 220);
+                    }
+                  }
+                }
+              } catch (error) {
+                core.warning(`Could not validate ${file.filename}: ${error.message}`);
+                issue = 'Validation was unavailable. Please retry the check or test manually.';
+              }
+              if (issue) {
+                const filename = file.filename.split('/').pop()
+                  .replace(/[\[\]\\`<>]/g, '\\$&');
+                const encodedPath = file.filename.split('/').map(encodeURIComponent).join('/');
+                const url = `${context.serverUrl}/${pr.head.repo.full_name}/blob/${pr.head.sha}/${encodedPath}`;
+                const detail = issue.replace(/[\[\]\\`<>*_]/g, '\\$&').replace(/@/g, '@\u200b');
+                issues.push(`- [${filename}](${url}): ${detail}`);
+              }
+            }
+
+            const { data: current } = await github.rest.pulls.get({ ...repo, pull_number });
+            if (current.head.sha !== pr.head.sha) {
+              core.notice('The PR changed during validation; skipping the outdated result.');
+              return;
+            }
+            const marker = '<!-- autocrop-svg-validation -->';
+            const summary = issues.length
+              ? `Thanks for the artwork! Please check these SVGs:\n\n${issues.join('\n')}`
+              : svgs.length
+                ? `All ${svgs.length} changed SVG file(s) passed AutoCrop. Thanks!`
+                : 'No changed SVG files to check.';
+            const body = `${marker}\n${summary}\n\nTest your SVGs at [AutoCrop](https://autocrop.cncf.io/).`;
+            const comments = await github.paginate(github.rest.issues.listComments, {
+              ...repo, issue_number: pull_number, per_page: 100,
+            });
+            const existing = comments.find(comment =>
+              comment.user.type === 'Bot' &&
+              comment.user.login === 'github-actions[bot]' &&
+              comment.body.startsWith(marker)
+            );
+            if (existing) {
+              await github.rest.issues.updateComment({ ...repo, comment_id: existing.id, body });
+            } else {
+              await github.rest.issues.createComment({ ...repo, issue_number: pull_number, body });
+            }
+            if (issues.length) {
+              core.setFailed(`${issues.length} SVG file(s) need attention; see the PR comment.`);
+            }
