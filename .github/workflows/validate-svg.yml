@@ -3,9 +3,6 @@ name: Validate SVG artwork
 on:
   pull_request_target:
     types: [opened, synchronize, reopened, ready_for_review]
-    paths:
-      - '**.svg'
-      - '**/*.svg'
   workflow_dispatch:
     inputs:
       pr_number:
@@ -48,13 +45,21 @@ jobs:
               file.status !== 'removed' && file.filename.endsWith('.svg')
             );
             const issues = [];
-            for (const file of svgs) {
+            const deadline = Date.now() + 10 * 60 * 1000;
+            let unchecked = 0;
+            for (const [index, file] of svgs.entries()) {
+              if (Date.now() >= deadline) {
+                unchecked = svgs.length - index;
+                core.warning('Validation time budget reached; reporting partial results.');
+                break;
+              }
               let issue;
               try {
                 const { data: blob } = await github.rest.git.getBlob({
                   owner: pr.head.repo.owner.login,
                   repo: pr.head.repo.name,
                   file_sha: file.sha,
+                  request: { timeout: 45000 },
                 });
                 if (blob.size > 1572864) {
                   issue = "Please reduce the file below AutoCrop's 1.5 MB limit.";
@@ -83,7 +88,8 @@ jobs:
                 }
               } catch (error) {
                 core.warning(`Could not validate ${file.filename}: ${error.message}`);
-                issue = 'Validation was unavailable. Please retry the check or test manually.';
+                unchecked = svgs.length - index;
+                break;
               }
               if (issue) {
                 const filename = file.filename.split('/').pop()
@@ -101,12 +107,27 @@ jobs:
               return;
             }
             const marker = '<!-- autocrop-svg-validation -->';
+            const displayed = [];
+            let detailBytes = 0;
+            for (const issue of issues) {
+              const issueBytes = Buffer.byteLength(issue, 'utf8') + 1;
+              if (displayed.length >= 20 || detailBytes + issueBytes > 45000) break;
+              displayed.push(issue);
+              detailBytes += issueBytes;
+            }
+            const omitted = issues.length - displayed.length;
             const summary = issues.length
-              ? `Thanks for the artwork! Please check these SVGs:\n\n${issues.join('\n')}`
-              : svgs.length
+              ? `Thanks for the artwork! Please check these SVGs:\n\n${displayed.join('\n')}`
+              : unchecked
+                ? 'Thanks for the artwork! SVG validation is incomplete.'
+                : svgs.length
                 ? `All ${svgs.length} changed SVG file(s) passed AutoCrop. Thanks!`
                 : 'No changed SVG files to check.';
-            const body = `${marker}\n${summary}\n\nTest your SVGs at [AutoCrop](https://autocrop.cncf.io/).`;
+            const overflow = omitted ? `\n\n${omitted} more file(s) need attention (not shown).` : '';
+            const incomplete = unchecked
+              ? `\n\n${unchecked} SVG file(s) could not be checked. Please retry the check or test manually.`
+              : '';
+            const body = `${marker}\n${summary}${overflow}${incomplete}\n\nTest your SVGs at [AutoCrop](https://autocrop.cncf.io/).`;
             const comments = await github.paginate(github.rest.issues.listComments, {
               ...repo, issue_number: pull_number, per_page: 100,
             });
@@ -117,9 +138,9 @@ jobs:
             );
             if (existing) {
               await github.rest.issues.updateComment({ ...repo, comment_id: existing.id, body });
-            } else {
+            } else if (svgs.length) {
               await github.rest.issues.createComment({ ...repo, issue_number: pull_number, body });
             }
-            if (issues.length) {
-              core.setFailed(`${issues.length} SVG file(s) need attention; see the PR comment.`);
+            if (issues.length || unchecked) {
+              core.setFailed(`${issues.length} SVG file(s) need attention; ${unchecked} unchecked. See the PR comment.`);
             }
