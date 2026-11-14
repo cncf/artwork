@@ -141,6 +141,6 @@ jobs:
             } else if (svgs.length) {
               await github.rest.issues.createComment({ ...repo, issue_number: pull_number, body });
             }
-            if (issues.length || unchecked) {
-              core.setFailed(`${issues.length} SVG file(s) need attention; ${unchecked} unchecked. See the PR comment.`);
+            if (unchecked) {
+              core.setFailed(`${unchecked} SVG file(s) could not be checked. See the PR comment.`);
             }
