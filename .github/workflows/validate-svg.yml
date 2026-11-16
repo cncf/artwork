@@ -141,6 +141,43 @@ jobs:
             } else if (svgs.length) {
               await github.rest.issues.createComment({ ...repo, issue_number: pull_number, body });
             }
+            const holdLabel = 'hold';
+            const passedLabel = 'SVG autocrop passed';
+            const labels = new Set(current.labels.map(label => label.name));
+            const addLabel = async name => {
+              if (labels.has(name)) return;
+              await github.rest.issues.addLabels({ ...repo, issue_number: pull_number, labels: [name] });
+            };
+            const removeLabel = async name => {
+              if (!labels.has(name)) return;
+              try {
+                await github.rest.issues.removeLabel({ ...repo, issue_number: pull_number, name });
+              } catch (error) {
+                if (error.status !== 404) throw error;
+              }
+            };
+            const holdAddedByBot = async () => {
+              const events = await github.paginate(github.rest.issues.listEvents, {
+                ...repo, issue_number: pull_number, per_page: 100,
+              });
+              const last = events.filter(event =>
+                event.event === 'labeled' && event.label?.name === holdLabel
+              ).pop();
+              return last?.actor?.login === 'github-actions[bot]';
+            };
+            if (issues.length) {
+              await removeLabel(passedLabel);
+              await addLabel(holdLabel);
+            } else {
+              if (!unchecked && labels.has(holdLabel) && await holdAddedByBot()) {
+                await removeLabel(holdLabel);
+              }
+              if (!unchecked && svgs.length) {
+                await addLabel(passedLabel);
+              } else {
+                await removeLabel(passedLabel);
+              }
+            }
             if (unchecked) {
               core.setFailed(`${unchecked} SVG file(s) could not be checked. See the PR comment.`);
             }
