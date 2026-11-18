@@ -1041,6 +1041,55 @@
     </tr>
 </table>
 
+#### VM API Logos
+
+<table>
+    <tr>
+        <th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <td><img src="/projects/vm-api/horizontal/color/vm-api-horizontal-color.png" width="200" alt="VM API horizontal color logo"></td>
+        <td><img src="/projects/vm-api/stacked/color/vm-api-stacked-color.png" width="95" alt="VM API stacked color logo"></td>
+        <td><img src="/projects/vm-api/icon/color/vm-api-icon-color.png" width="75" alt="VM API icon color logo"></td>
+        <td><img src="/projects/vm-api/horizontal/color/vm-api-horizontal-color.svg" width="200" alt="VM API horizontal color logo"></td>
+        <td><img src="/projects/vm-api/stacked/color/vm-api-stacked-color.svg" width="95" alt="VM API stacked color logo"></td>
+        <td><img src="/projects/vm-api/icon/color/vm-api-icon-color.svg" width="75" alt="VM API icon color logo"></td>
+    </tr>
+    <tr>
+        <th>black</th>
+        <td><img src="/projects/vm-api/horizontal/black/vm-api-horizontal-black.png" width="200" alt="VM API horizontal black logo"></td>
+        <td><img src="/projects/vm-api/stacked/black/vm-api-stacked-black.png" width="95" alt="VM API stacked black logo"></td>
+        <td><img src="/projects/vm-api/icon/black/vm-api-icon-black.png" width="75" alt="VM API icon black logo"></td>
+        <td><img src="/projects/vm-api/horizontal/black/vm-api-horizontal-black.svg" width="200" alt="VM API horizontal black logo"></td>
+        <td><img src="/projects/vm-api/stacked/black/vm-api-stacked-black.svg" width="95" alt="VM API stacked black logo"></td>
+        <td><img src="/projects/vm-api/icon/black/vm-api-icon-black.svg" width="75" alt="VM API icon black logo"></td>
+    </tr>
+    <tr>
+        <th>white</th>
+        <td><img src="/projects/vm-api/horizontal/white/vm-api-horizontal-white.png" width="200" alt="VM API horizontal white logo"></td>
+        <td><img src="/projects/vm-api/stacked/white/vm-api-stacked-white.png" width="95" alt="VM API stacked white logo"></td>
+        <td><img src="/projects/vm-api/icon/white/vm-api-icon-white.png" width="75" alt="VM API icon white logo"></td>
+        <td><img src="/projects/vm-api/horizontal/white/vm-api-horizontal-white.svg" width="200" alt="VM API horizontal white logo"></td>
+        <td><img src="/projects/vm-api/stacked/white/vm-api-stacked-white.svg" width="95" alt="VM API stacked white logo"></td>
+        <td><img src="/projects/vm-api/icon/white/vm-api-icon-white.svg" width="75" alt="VM API icon white logo"></td>
+    </tr>
+</table>
+
 #### VS Code Kubernetes Tools Logos
 
 <table>
