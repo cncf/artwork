@@ -135,6 +135,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [Easegress](examples/sandbox_a-j.md#easegress-logos)
     * [Eraser](examples/sandbox_a-j.md#eraser-logos)
     * [external-secrets](examples/sandbox_a-j.md#external-secrets-operator-logos)
+    * [gVisor](examples/sandbox_a-j.md#gvisor-logos)
     * [Headlamp](examples/sandbox_a-j.md#headlamp-logos)
     * [Higress](examples/sandbox_a-j.md#higress-logos)
     * [Hive Commons](examples/sandbox_a-j.md#hive-commons-logos)
