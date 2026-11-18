@@ -242,6 +242,7 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
     * [urunc](examples/sandbox_s-z.md#urunc-logos)
     * [Velero](examples/sandbox_s-z.md#velero-logos)
     * [Virtual Kubelet](examples/sandbox_s-z.md#virtual-kubelet-logos)
+    * [VM API](examples/sandbox_s-z.md#vm-api-logos)
     * [VS Code Kubernetes Tools](examples/sandbox_s-z.md#vs-code-kubernetes-tools-logos)
     * [WasmEdgeRuntime](examples/sandbox_s-z.md#wasedgeruntime-logos)
     * [werf](examples/sandbox_s-z.md#werf-logos)
