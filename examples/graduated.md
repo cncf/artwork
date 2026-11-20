@@ -1445,12 +1445,12 @@ displayed on the light grey of tables._
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="/projects/kubeflow/horizontal/color/kubeflow-horizontal.png" width="200"></td>
-        <td><img src="/projects/kubeflow/stacked/color/kubeflow-stacked.png" width="95"></td>
-        <td><img src="/projects/kubeflow/icon/color/kubeflow-icon.png" width="75"></td>
-        <td><img src="/projects/kubeflow/horizontal/color/kubeflow-horizontal.svg" width="200"></td>
-        <td><img src="/projects/kubeflow/stacked/color/kubeflow-stacked.svg" width="95"></td>
-        <td><img src="/projects/kubeflow/icon/color/kubeflow-icon.svg" width="75"></td>
+        <td><img src="/projects/kubeflow/horizontal/color/kubeflow-horizontal-color.png" width="200"></td>
+        <td><img src="/projects/kubeflow/stacked/color/kubeflow-stacked-color.png" width="95"></td>
+        <td><img src="/projects/kubeflow/icon/color/kubeflow-icon-color.png" width="75"></td>
+        <td><img src="/projects/kubeflow/horizontal/color/kubeflow-horizontal-color.svg" width="200"></td>
+        <td><img src="/projects/kubeflow/stacked/color/kubeflow-stacked-color.svg" width="95"></td>
+        <td><img src="/projects/kubeflow/icon/color/kubeflow-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
